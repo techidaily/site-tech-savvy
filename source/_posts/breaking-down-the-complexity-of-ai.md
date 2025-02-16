@@ -1,7 +1,7 @@
 ---
 title: Breaking Down the Complexity of AI
-date: 2024-08-25T17:31:11.782Z
-updated: 2024-08-26T17:31:11.782Z
+date: 2025-02-11T17:52:08.373Z
+updated: 2025-02-16T02:23:35.215Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 ---
 
 ## Breaking Down the Complexity of AI
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 
  So, let's break down artificial intelligence into its most simple terms. How does AI work, and how is it being used?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Simplest Explanation of AI
 
  Artificial intelligence is like teaching computers to learn just like humans, therefore simulating how humans think. AI does this by looking at lots of data or examples and then using that to make decisions or predictions.
@@ -47,16 +48,21 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 
  But even with all this, computers still can't fully think or understand like humans. Modern AI systems don't have common sense, emotions, or consciousness.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## AI in More Detail
 
 ![chatgpt read aloud feature smartphone screen with chatgpt logo blur](https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  Artificial intelligence (AI) is a branch of computer science aiming to build machines capable of mimicking human intelligence. It involves creating algorithms that allow computers to learn from and make decisions or predictions based on data rather than following only explicitly programmed instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Machine Learning (ML)
 
@@ -65,8 +71,9 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
  Deep learning, a further subset of machine learning, uses artificial neural networks to make decisions and predictions. It is designed to mimic how a human brain learns and makes decisions.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Natural Language Processing (NLP)
 
  Natural language processing (NLP) is another important aspect of AI, dealing with the interaction between computers and humans using natural language.
@@ -100,6 +107,10 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
 ![chatgpt dalle logo creation on smartphone screen](https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc239157d241009df908a14c3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Gavin Phillips/MakeUseOf
 
  Even if you're not big into tech, you've probably heard the name "ChatGPT." [ChatGPT (short for Chat Generative Pre-transformer)](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) is a generative AI chatbot. But this isn't like the chatbots you may have used in the past. ChatGPT uses artificial intelligence to process natural human language, find data, and provide responses.
@@ -108,18 +119,12 @@ Gavin Phillips/MakeUseOf
 
  HuggingChat, Claude, and Gemini (formerly Bard) are other examples of AI chatbots. These services all differ in certain ways. Some are free, some are paid, some specialize in certain areas, while others are better with general tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### 2\. Data Analysis
 
  Data analysis is a key part of our world, whether in research, healthcare, business, or otherwise. Computers have been analyzing data for many years, but using artificial intelligence can take things to the next level.
 
  AI systems can more effectively detect trends, patterns, and inconsistencies than a typical computer (or human, for that matter). For example, an AI system could more distinctly highlight less obvious user habits or preferences for social media platforms, allowing it to show more personalized advertisements.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### 3\. Production and Design
 
  When designing products, many elements must be considered. The cost of materials, how they're sourced, and how efficiently the product will perform are just a few factors that companies need to keep in mind, and this is where AI can help.
@@ -131,8 +136,9 @@ Gavin Phillips/MakeUseOf
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [AI-generated art](https://www.makeuseof.com/ways-ai-generated-art-changing-future-of-art/) took the world by storm in 2022, with products like DALL-E, Stable Diffusion, and Midjourney becoming extremely popular. These AI text-to-image tools [take a text-based prompt and generate an art piece](https://www.makeuseof.com/ai-text-to-art-generators/) based on the request.
 
  For example, if you type "purple sunset on the moon" into DALL-E, you'll get more than one result. Some art generators also let you pick a style for your generated image, such as vintage, hyperrealistic, or anime. DALL-E has evolved a lot since its initial release and is now on its third version, DALL-E 3\. You can [use DALL-E on ChatGPT Plus](https://www.makeuseof.com/how-to-use-dall-e-chatgpt-4-ai-images/) to generate AI images in your chats.
@@ -143,9 +149,6 @@ Microsoft Image Creator/MakeUseOf
 
 [Some artists have rejected AI art generators](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/), as they are trained on pre-existing online art to learn how to create their prompted pieces. Artists claim this is a breach of copyright and contributes to the theft of original art, an issue that already spans the web.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Future of AI
 
  AI is already being used to develop new medicines, highlight more sustainable business practices, and even make our day-to-day lives easier by performing mundane tasks like cooking or cleaning.
@@ -170,8 +173,6 @@ Microsoft Image Creator/MakeUseOf
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +180,23 @@ Microsoft Image Creator/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-innovative-image-caption-manipulation/"><u>[New] 2024 Approved Innovative Image Caption Manipulation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-share-live-feeds-skip-the-retweet-tactics/"><u>[New] 2024 Approved Share Live Feeds Skip the Retweet Tactics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-media-upload-instruction-manual-for-2024/"><u>[Updated] Twitter Media Upload Instruction Manual for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-maze-of-cloud-data-tariffs/"><u>2024 Approved Navigating the Maze of Cloud Data Tariffs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/activating-the-virtual-on-screen-keyboard-for-windows-operating-systems-a-step-by-step-tutorial/"><u>Activating the Virtual On-Screen Keyboard for Windows Operating Systems: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brother-printer-wifi-setup-and-driver-download/"><u>Brother Printer Wifi Setup & Driver Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-solutions-stop-unreal-engine-from-crashing-on-your-computer/"><u>Effective Solutions: Stop Unreal Engine Ⅳ From Crashing on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-block-incoming-calls-tips-for-both-iphone-and-android-users/"><u>Effortlessly Block Incoming Calls: Tips for Both iPhone and Android Users!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fix-windows-10-realtek-high-definition-audio-driver-issue/"><u>Fix Windows 10 Realtek High Definition Audio Driver Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-the-msvcr100dll-error-how-to-resolve-missing-on-your-pc/"><u>Fixing the MSVCR100.dll Error: How to Resolve 'Missing' On Your PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-v30-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on V30</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-typographic-animations-compiled/"><u>Optimal Typographic Animations Compiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808175815-remove-a-virus-from-android-cell-phone-without-factory-reset/"><u>Remove a Virus From Android Cell Phone – Without Factory Reset</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-no-8-visionary-photomontage-creator-app-for-2024/"><u>The No. 8 Visionary Photomontage Creator App for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-best-mesh-router-on-the-market-a-comprehensive-review-of-netgear-orbi/"><u>Unveiling the Best Mesh Router on the Market: A Comprehensive Review of Netgear Orbi</u></a></li>
+</ul></div>
 

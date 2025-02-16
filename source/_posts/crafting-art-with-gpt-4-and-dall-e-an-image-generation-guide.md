@@ -1,7 +1,7 @@
 ---
 title: "Crafting Art with GPT-4 & DALL-E: An Image Generation Guide"
-date: 2024-08-21T15:39:22.142Z
-updated: 2024-08-22T15:39:22.142Z
+date: 2025-02-10T19:41:03.370Z
+updated: 2025-02-15T19:04:57.179Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 ---
 
 ## Crafting Art with GPT-4 & DALL-E: An Image Generation Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
  You no longer have to leave ChatGPT to generate AI images. OpenAI has integrated its flagship AI image generation tool, DALL-E, into ChatGPT’s chats. Thanks to this, you only have to prompt ChatGPT to generate an image, similar to how you would prompt it to generate text.
 
  While prompting may be easy enough, we’ll show you how to know what GPTs in ChatGPT support DALL-E’s image generation. We’ll also tell you how to prompt ChatGPT to generate images when and how you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sign Up for ChatGPT Plus to Access DALL-E
 
@@ -59,26 +67,14 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 2. Check the top-left corner of the chat to ensure that it says **ChatGPT 4**. If not, click the dropdown and select it.  
 ![Selecting GPT mode in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-01-09-am.png)
 3. Go down to the chat box and enter a prompt that starts with “**Generate an image of**…” or something similar.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT generating image of a tifer and rabbit having tea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-06-12-am.png)
 4. Feel free to use follow-up prompts to improve the image to get it exactly how you want.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ChatGPT generating an image in a different style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-08-39-am.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  You can download the image by clicking it and hitting the download button in the window's top-right corner.
 
  If you don’t want to use ChatGPT 4, you can use a dedicated DALL-E chat. Click **Explore** or **Explore GPTs** on the left-side menu. Look for **DALL-E** in the **By ChatGPT** section and click it. You can now follow the same instructions outlined above, or you can follow [this link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) to open a DALL-E chat.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use DALL-E in the ChatGPT App
 
  For those who don’t know, ChatGPT has an app available on Android and iOS. Once downloaded and logged in, ChatGPT subscribers can access DALL-E just like they can on the web.
@@ -86,16 +82,22 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 ![ChatGPT menu in the mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0104.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Choosing what GPT mode to use in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0105.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ChatGPT generating an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0106.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT reworking an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0107.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -121,8 +123,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +130,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-direct-recording-tool-for-chrome-os-for-2024/"><u>[New] Direct Recording Tool for Chrome OS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-key-to-capturing-and-preserving-your-favorite-streamed-shows/"><u>[New] The Ultimate Key to Capturing and Preserving Your Favorite Streamed Shows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capture-and-save-the-essentials-of-pc-display-recordings/"><u>[Updated] Capture & Save The Essentials of PC Display Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/"><u>[Updated] Finding a Different Way to Naming Your Channel with Filmora for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-win-10s-best-recording-software-10-picks/"><u>[Updated] In 2024, Win 10'S Best Recording Software - 10 Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-advanced-chatbot-intelligence-on-your-android-device-now/"><u>Experience Advanced Chatbot Intelligence on Your Android Device Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-establish-a-secure-rdc-session-on-your-windows-10-machine/"><u>How to Establish a Secure RDC Session on Your Windows 10 Machine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-modify-your-windows-10s-lock-screen-auto-lock-settings/"><u>How to Modify Your Windows 10'S Lock Screen Auto-Lock Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/insiders-selection-prime-vr-device-picks/"><u>Insider's Selection Prime VR Device Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-screen-shots-a-guide-for-windows-11-users/"><u>Mastering the Art of Screen Shots: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-windows-settings-a-comprehensive-tutorial-for-control-panel-windows-1078/"><u>Navigating Windows Settings: A Comprehensive Tutorial for Control Panel (Windows 10/7/8)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-up-remote-desktop-connection-rdc-in-windows-10/"><u>Set up Remote Desktop Connection (RDC) in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-clearing-your-browsers-tracks-with-microsoft-edge/"><u>Step-by-Step Guide: Clearing Your Browser's Tracks with Microsoft Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-disabling-onedrive-and-file-explorer-favorites-on-windows-11/"><u>Step-by-Step Guide: Disabling OneDrive and File Explorer Favorites on Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-real-deal-on-applecareplus-does-it-add-worth/"><u>The Real Deal on AppleCare+ – Does It Add Worth?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-19-cutting-edge-graphic-design-programs-and-applications/"><u>Ultimate List of 19 Cutting-Edge Graphic Design Programs and Applications</u></a></li>
+</ul></div>
 

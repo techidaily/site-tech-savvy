@@ -1,7 +1,7 @@
 ---
 title: Is OpenAI's Dominance Over GPT Fading?
-date: 2025-01-31T23:27:46.833Z
-updated: 2025-02-02T20:16:24.426Z
+date: 2025-02-15T00:46:05.774Z
+updated: 2025-02-15T18:13:36.779Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before we can get a clear picture of how much OpenAI is losing control of ChatGPT, we must first understand [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) .
 
  In a nutshell, ChatGPT is trained using a massive collection of data sourced from different corners of the internet. ChatGPT's training data includes encyclopedias, scientific papers, internet forums, news websites, and knowledge repositories like Wikipedia. Basically, it feeds on the massive amount of data available on the World Wide Web.
@@ -47,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
  There's no foolproof way to ensure that ChatGPT learns only from positive information while discarding the bad ones. Technically, it's impractical to do so at a large scale, especially for an AI like ChatGPT that needs to train on so much data. Furthermore, some information can be used for both good and evil purposes, and ChatGPT would have no way of knowing its intent unless it's put into a greater context.
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is ChatGPT Too Powerful for Its Own Good?
 
@@ -68,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
 ![How to cheat in an exams by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-cheat-in-an-exams.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
 
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
@@ -76,13 +72,13 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
 ![hide a dead body by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-a-dead-body-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 It even wrote a classic Nigerian Prince email scam when asked.
 
@@ -92,12 +88,16 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does the Future Hold for ChatGPT?
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent [ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
@@ -107,7 +107,7 @@ It even wrote a classic Nigerian Prince email scam when asked.
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can OpenAI Put ChatGPT Under Control?
@@ -131,20 +131,24 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-leading-green-filmmaking-software/"><u>[New] Leading Green Filmmaking Software</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-revealed-the-best-10-in-4k-no-hassle-for-2024/"><u>[New] Revealed The Best 10 in 4K, No Hassle for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-soundtrack-streamlining-top-websites-for-skype-ringtones/"><u>[Updated] Soundtrack Streamlining Top Websites for Skype Ringtones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>2024 Approved The Realm of Melodies Where to Get Hearing Heroes' Ringtones</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-gpt-text-length-limits/"><u>Bypassing GPT Text Length Limits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/colorizing-your-folders-in-macos-a-step-by-step-guide/"><u>Colorizing Your Folders in macOS – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-threat-prompt-injection-attacks-defined/"><u>Dissecting AI Threat - Prompt Injection Attacks Defined</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-nvidia-geforce-game-ready-driver-for-windows-1110/"><u>Download Nvidia GeForce Game Ready Driver for Windows 11/10</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-conversational-support-merging-gpt-with-whatsapp/"><u>Mastering Conversational Support: Merging GPT with WhatsApp</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-school-without-edgenuity-videos/"><u>Mastering School Without Edgenuity Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfecting-dialogues-advanced-strategies-for-chatgpt/"><u>Perfecting Dialogues: Advanced Strategies for ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-to-next-gen-search-perplexity-ai-unveiled/"><u>Upgrade to Next-Gen Search: Perplexity AI Unveiled</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-dissecting-the-livestream-battlefield-twitch-vs-youtube/"><u>[New] 2024 Approved Dissecting the Livestream Battlefield Twitch vs YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-navigating-free-art-online-a-guide-and-top-sites/"><u>[New] Navigating Free Art Online A Guide & Top Sites</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-phased-opening-visuals-for-2024/"><u>[New] Phased Opening Visuals for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-in-depth-review-the-complete-guide-to-streamlabs-obs/"><u>[Updated] 2024 Approved In-Depth Review The Complete Guide to Streamlabs OBS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-music-arrangement-tips/"><u>[Updated] 2024 Approved YouTube Music Arrangement Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-leading-chrome-voice-modifiers-select-top-5-extensions/"><u>[Updated] Leading Chrome Voice Modifiers Select Top 5 Extensions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-odins-fury-new-wrath-unleashed-for-2024/"><u>[Updated] Odin's Fury New Wrath Unleashed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-mastery-a-critical-look-at-magix/"><u>2024 Approved Photographic Mastery A Critical Look at MAGIX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artistic-defense-the-collective-suit-against-meta-and-openais-ai/"><u>Artistic Defense: The Collective Suit Against Meta & OpenAI's AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/car-enhancement-strategies-with-chatbot-expertise/"><u>Car Enhancement Strategies with Chatbot Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/co-pilot-and-you-enhancing-your-experience-with-chatgpts-new-features/"><u>Co-Pilot & You: Enhancing Your Experience with ChatGPT’s New Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-character-depth-essential-chatgpt-prompts-for-writers/"><u>Dive Into Character Depth: Essential ChatGPT Prompts for Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-meets-gearshifts-mercedes-voice-in-cars-revolution/"><u>GPT Meets Gearshifts: Mercedes' VOICE in Cars Revolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/handling-scams-at-phony-chatgpt-platforms/"><u>Handling Scams at Phony ChatGPT Platforms</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-ais-impact-on-prompt-design-and-employment-sustainability/"><u>Insight Into AI's Impact on Prompt Design & Employment Sustainability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-the-world-of-books-with-these-5-artificous-intelligence-tools/"><u>Navigate the World of Books with These 5 Artificous Intelligence Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/screencast-strategies-unleashed-powerful-ideas-inside/"><u>Screencast Strategies Unleashed Powerful Ideas Inside</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-workings-of-predictive-ai-technologies/"><u>Unraveling the Workings of Predictive AI Technologies</u></a></li>
 </ul></div>
 

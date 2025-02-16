@@ -1,7 +1,7 @@
 ---
 title: Heartstrings Hooked by High-Tech Hearts
-date: 2025-01-28T23:42:36.409Z
-updated: 2025-02-02T20:31:35.043Z
+date: 2025-02-14T23:35:15.824Z
+updated: 2025-02-15T23:37:20.821Z
 tags:
   - chatgpt
   - open-ai
@@ -42,15 +42,15 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 
 ![Various Messaging Apps on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/messaging-apps-on-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bots are spreading like wildfire online. [Imperva](https://www.imperva.com/resources/resource-library/reports/2023-imperva-bad-bot-report/) reports that bad bots made up 30 percent of automated web traffic in 2022\. You’ll find one within seconds of swiping through Tinder matches.
 
  One of the reasons for this sudden spike in bots is the proliferation of generative AI tools. They churn out bots in bulk. Just input the right prompt, and your tool will present a complete, efficient code snippet for bot generation.
 
  Know when you’re talking to a bot. Although AI uses a natural, conversational tone, its dialogue still sounds monotonous and awkward. After all, chatbots merely follow patterns. It might produce similar responses to different questions, statements, and requests.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Creating Multiple Identities From Stolen Images
 
@@ -63,6 +63,10 @@ Close
 [AI art generators](https://www.makeuseof.com/ai-text-to-art-generators/) manipulate images. Take the below demonstration as an example. We fed Playground AI a candid photograph of a famous singer—the platform produced three variations within seconds.
 
 ![Generating Three Images from One Image of a Girl](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ai-generated-image-of-girls-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Yes, they have flaws. But note that we used a free tool running an outdated text-to-image model. Scammers produce more realistic output with sophisticated iterations. They can quickly render hundreds of customized, manipulated photos from just a few samples.
 
@@ -77,7 +81,7 @@ Close
 ![Asking ChatGPT to Write Hobbies for a Dating Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-suggesting-good-hobbies.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And here’s ChatGPT writing an entire biography for your dating profile.
@@ -85,7 +89,7 @@ Close
 ![Asking ChatGPT to Create a Dating Profile for a Female](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-creating-dating-profile-bio.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Since this process consumes so much time, it also requires a bigger payoff. So, scammers tend to ask for more. Once they earn your trust, they’ll ask for help with various “problems,” like hospital bills, loan payments, or tuition fees. Some will even claim to visit you if you shoulder their ticket.
@@ -104,10 +108,6 @@ Close
 
  Don’t cave in if you get targeted. Call 1-800-CALL-FBI, send an FBI tip, or visit your local FBI field office should you find yourself in this situation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Integrating AI Models With Brute-Force Hacking Systems
 
  While open-source language models support some AI advancements, they’re also prone to exploitation. Criminals will take advantage of anything. You can’t expect them to ignore the algorithm behind highly sophisticated language models like [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) and [OpenAssistant](https://huggingface.co/OpenAssistant).
@@ -116,10 +116,6 @@ Close
 
  You have no control over what scammers do. To protect your accounts, make sure you [create a truly secure password](https://www.makeuseof.com/what-makes-a-password-truly-secure/) comprising special characters, alphanumeric combinations, and 14+ characters.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Imitating Real People With Voice Cloning
 
  AI voice generators started as a cool toy. Users would turn sample tracks of their favorite artists into covers or even new songs. Take Heart on My Sleeve as an example. TikTok user [Ghostwriter977](https://www.tiktok.com/@ghostwriter977) made a super-realistic song imitating Drake and The Weeknd, although neither artist sang it.
@@ -127,6 +123,10 @@ Close
  Despite the jokes and memes around it, [speech synthesis is very dangerous](https://www.makeuseof.com/ai-voice-generators-security-threat/). It enables criminals to execute sophisticated attacks. For instance, romance scammers exploit voice cloning tools to call targets and leave deceptive recordings. Victims who are unfamiliar with speech synthesis won’t notice anything unusual.
 
  Protect yourself from AI voice clone scams by studying how synthesized outputs sound. Explore these generators. They merely create near-identical clones—you’ll still spot some imperfections and inconsistencies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protect Yourself Against AI Dating Scammers
 
@@ -153,16 +153,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-your-content-youtube-video-length-reduction-guide/"><u>[Updated] Tailoring Your Content YouTube Video Length Reduction Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/actualisez-en-douce-vers-windows-11-activer-votre-tpm-v20/"><u>Actualisez en Douce Vers Windows 11 : Activer Votre TPM V2.0</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/customizing-your-gmail-alert-sounds-tips-and-tricks/"><u>Customizing Your Gmail Alert Sounds: Tips and Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-advice-unlocking-advanced-tweaks-by-disabling-driver-security-in-windows-11/"><u>Expert Advice: Unlocking Advanced Tweaks by Disabling Driver Security in Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/facilitating-virtual-governance-facebooks-advanced-administrator-aids/"><u>Facilitating Virtual Governance: Facebook’s Advanced Administrator Aids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/find-out-what-motherboard-you-have-easily/"><u>Find Out What Motherboard You Have Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-newest-amd-graphics-driver-packs-compatible-with-windows-11-systems/"><u>Get the Newest AMD Graphics Driver Packs Compatible with Windows 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-activating-and-deactivating-the-sleep-feature-in-windows-11-systems/"><u>Guide: Activating and Deactivating the Sleep Feature in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-a-missing-network-adapter-driver-issue-on-your-windows-11-pc-step-by-step-guide/"><u>How to Fix a 'Missing Network Adapter Driver' Issue on Your Windows 11 PC: Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/reset-dein-pc-mit-windows-10-zur-originalkonfiguration-eine-detaillierte-anleitung/"><u>Reset Dein PC Mit Windows 10 Zur Originalkonfiguration: Eine Detaillierte Anleitung</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-seamless-fileshift-android-media-to-iphone-for-2024/"><u>[Updated] Seamless Fileshift Android Media to iPhone for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-platinum-32xwindows-11-dvd/"><u>官方 WinX DVD Ripper Platinum 32X加速技术，无上限Windows 11 DVD数字内容提取</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/windows-1011uefi-ssd/"><u>最適化された手順：Windows 10/11をUEFI SSDにクローンするコツ</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862716225-ace-gamers-deal-the-ultimate-combo-of-power-and-savings-msi-bravo-laptop-with-rtx-4060-under-1k/"><u>Ace Gamers’ Deal: The Ultimate Combo of Power and Savings - MSI Bravo Laptop with RTX 4060 Under $1K</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-a-harmonic-narrative-adding-youtube-music-to-vids-for-2024/"><u>Crafting a Harmonic Narrative Adding YouTube Music to Vids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/homepod-vs-homepod-mini-comprehensive-sound-quality-analysis-revealed-by-zdnet/"><u>HomePod vs HomePod Mini: Comprehensive Sound Quality Analysis Revealed by ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Nokia C12 Phone Without Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-format-transformation-techniques-for-changing-videoaudio-types/"><u>Mastering Format Transformation: Techniques for Changing Video/Audio Types</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4xbox-360/"><u>MP4再生秘技※Xbox 360版 - トラブル解決のコツを学んでみて!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4-ts-how-to/"><u>MP4への高品質変換: TSファイルから最良級で保存 - How To</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pcvtr/"><u>PC上VTR解像度調整テクニック：上げ下げ方法ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-sound-outputs-in-windows-11/"><u>Step-by-Step Guide: Capturing Sound Outputs in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-breaking-down-massive-video-content-into-bite-sized-pieces/"><u>Step-by-Step Tutorial on Breaking Down Massive Video Content Into Bite-Sized Pieces</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-dvd-to-mp4-transformation-ensuring-flawless-streaming-across-all-gadgets/"><u>Step-by-Step Tutorial: DVD to MP4 Transformation Ensuring Flawless Streaming Across All Gadgets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-blueprint-for-virtual-business-growth-for-2024/"><u>The Blueprint for Virtual Business Growth for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-iphone-x-ease-mending-face-id-problems-for-2024/"><u>Unlocking iPhone X Ease Mending Face ID Problems for 2024</u></a></li>
 </ul></div>
 

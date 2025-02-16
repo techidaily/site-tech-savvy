@@ -1,7 +1,7 @@
 ---
 title: "Seamless Synergy: Integrating Auto-GPT Into Ubuntu"
-date: 2025-01-27T16:28:39.217Z
-updated: 2025-02-02T20:58:38.326Z
+date: 2025-02-10T18:57:41.002Z
+updated: 2025-02-15T17:26:56.423Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prerequisites to Install Auto-GPT
 
@@ -91,6 +95,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `sudo mv .env.template .env`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Install Auto-GPT Dependencies on Ubuntu
 
  Auto-GPT uses a lot of Python libraries. You will need to install all the packages using pip and the **requirements.txt** text file that comes with the AutoGPT source code.
@@ -102,7 +110,7 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Install Auto-GPT requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-install-requirements.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, try running Auto-GPT using:
@@ -112,10 +120,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT on Ubuntu
 
@@ -133,10 +137,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Auto-GPT manual mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-manual.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the name, goals, and role have been provided, your AI assistant will immediately activate and start looping through its thinking and execution process.
 
  Throughout the process, you can view your AI assistant's thoughts, reasoning, plan, criticism, and next action. Its next action will only be executed once you've given your approval.
@@ -151,10 +151,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Providing human feedback to Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
@@ -162,7 +158,7 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Limitations of Auto-GPT
@@ -172,6 +168,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  A big part of this problem was the AI’s inability to handle website ads, cookies, log-in pages, and pop-ups. It was likely caused by the fact that Auto-GPT is still in its early development phase.
 
  So for now, you should only use Auto-GPT as a way to play and experiment with AI assistants.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Auto-GPT Will Keep Getting Better and Better
 
@@ -198,20 +198,18 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-crafting-the-perfect-strategy-exclusive-youtube-to-gmail-connection/"><u>[New] 2024 Approved Crafting the Perfect Strategy Exclusive YouTube to Gmail Connection</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-sustaining-youtube-cc-status-to-boost-engagement/"><u>[Updated] In 2024, Sustaining YouTube CC Status to Boost Engagement</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-transforming-movies-into-virtual-reality-realms/"><u>[Updated] Transforming Movies Into Virtual Reality Realms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/10-new-age-conversational-apps-outshining-gpt/"><u>10 New Age Conversational Apps Outshining GPT</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-youtube-presentations-with-captions/"><u>2024 Approved Streamline Your YouTube Presentations with Captions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assisted-podcast-production-an-insiders-tale/"><u>AI-Assisted Podcast Production: An Insider's Tale</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/blizzard-outage-system-unavailable/"><u>Blizzard Outage: System Unavailable</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guarding-against-imitations-of-chatgpt-apps/"><u>Guarding Against Imitations of ChatGPT Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fact-check-health-information-from-chatgpt-and-ai-sources/"><u>How to Fact-Check Health Information From ChatGPT and AI Sources</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-13-pro-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 13 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-game-changing-million-token-context-of-gemini-15/"><u>The Game-Changing Million Token Context of Gemini 1.5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-ai-driven-counseling-bots-for-emotional-wellness/"><u>Top 5 AI-Driven Counseling Bots for Emotional Wellness</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-7-estrategias-para-cambiar-archivos-de-video-avi-a-mkv-sin-costo-guia-completa-y-gratuita/"><u>Top 7 Estrategias Para Cambiar Archivos De Video Avi a Mkv Sin Costo: Guía Completa Y Gratuita</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-gif-in-3gp-rapidamente-e-gratis-lefficiente-metodo-online-di-movavi/"><u>Trasforma I Tuoi GIF in 3GP Rapidamente E Gratis: L'Efficiente Metodo Online Di Movavi</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unveiling-the-mystery-of-youtubes-monetization-rates/"><u>Unveiling the Mystery of YouTube's Monetization Rates</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-transform-your-digital-works-into-blockchain-treasures-with-these-tools/"><u>[New] Transform Your Digital Works Into Blockchain Treasures with These Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-to-tween-creating-free-animated-videos/"><u>[Updated] In 2024, Twitter to Tween Creating FREE Animated Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key-for-2024/"><u>[Updated] Unveiling Virtual Background Magic A Streamer's Guide to Chroma Key for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/defrost-stuck-menus-top-fixes-to-try-today/"><u>Defrost Stuck Menus: Top Fixes to Try Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embark-on-an-api-adventure-with-openais-innovations/"><u>Embark on an API Adventure with OpenAI's Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fourfold-responsibility-of-governments-to-monitor-ai-progress/"><u>Fourfold Responsibility of Governments to Monitor AI Progress</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-subpar-to-spectaculous-elevating-proposals-with-gpt-3/"><u>From Subpar to Spectaculous: Elevating Proposals with GPT-3</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-12-mini-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 12 mini? Learn All 4 Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/practical-guide-to-gpt-4-in-modern-chatgpt-dialogues/"><u>Practical Guide to GPT-4 in Modern ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-academic-excellence-gpt-vs-student-writing-skills/"><u>Redefining Academic Excellence: GPT Vs. Student Writing Skills?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-your-airpods-charging-woes-top-9-methods/"><u>Solve Your AirPods Charging Woes: Top 9 Methods</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-generating-the-nut-button-meme/"><u>Updated 2024 Approved Generating the Nut Button Meme</u></a></li>
 </ul></div>
 

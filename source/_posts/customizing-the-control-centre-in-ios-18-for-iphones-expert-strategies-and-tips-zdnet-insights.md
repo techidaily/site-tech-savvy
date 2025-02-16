@@ -1,7 +1,7 @@
 ---
 title: "Customizing the Control Centre in iOS 18 for iPhones: Expert Strategies and Tips | ZDNet Insights"
-date: 2025-02-01T00:09:08.931Z
-updated: 2025-02-02T20:24:19.168Z
+date: 2025-02-12T22:46:01.306Z
+updated: 2025-02-15T23:33:28.413Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,19 +146,15 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-quick-launch-diving-into-live-conversations-on-instagram/"><u>[Updated] In 2024, Quick Launch Diving Into Live Conversations on Instagram</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-9-powerful-applications-for-saving-youtube-content-on-android/"><u>2024 Approved 9 Powerful Applications for Saving YouTube Content on Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-cgps-accuracy-in-health-guidance/"><u>Assessing CGP's Accuracy in Health Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-data-analysis-in-excel-through-chatgpt-methods/"><u>Augmenting Data Analysis in Excel Through ChatGPT Methods</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-voice-to-text-apps-of-2024/"><u>Best Voice-to-Text Apps of 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-disk-space-on-win11-safely-keep-files-intact-max-156-chars/"><u>Enhancing Disk Space on Win11 Safely (Keep Files Intact, Max 156 Chars)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-printer-efficiency-via-chatgpt-expertise/"><u>Enhancing Printer Efficiency via ChatGPT Expertise</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fixing-your-dvd-remote-control-issues-a-step-by-step-guide/"><u>Fixing Your DVD Remote Control Issues - A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/immerse-in-classic-games-on-idevices-with-our-top-4-emulator-apps/"><u>Immerse in Classic Games on iDevices with Our Top 4 Emulator Apps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-chat-with-these-9-chatgptplus-advantages/"><u>Revolutionize Your Chat with These 9 ChatGPT+ Advantages</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/troubleshoot-your-android-phones-camera-with-11-effective-solutions/"><u>Troubleshoot Your Android Phone's Camera with 11 Effective Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-openais-bug-bounty-program-and-how-can-you-participate/"><u>What Is OpenAI’s Bug Bounty Program, and How Can You Participate?</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-note-12-pro-4g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi Note 12 Pro 4G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-laugh-line-by-line-building-a-meme-friendly-video-portfolio-for-2024/"><u>[New] Laugh Line by Line Building a Meme-Friendly Video Portfolio for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-youcamease-step-by-steprecording-for-2024/"><u>[New] YouCamEase Step-by-StepRecording for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-scrutinizing-the-core-functions-of-recordcast/"><u>2024 Approved Scrutinizing the Core Functions of RecordCast</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertidor-rapido-y-sencillo-de-musica-flac-a-mp3-en-linea-metodos-faciles-con-movavi/"><u>Convertidor Rápido Y Sencillo De Música FLAC a MP3 en Línea: Métodos Fáciles Con Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-creative-pebble-audio-players-up-and-running-with-these-proven-repair-techniques/"><u>Get Your Creative Pebble Audio Players Up and Running with These Proven Repair Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/itunes-mp32024/"><u>ITunes MP3添付障害への回答術：2024年版ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-youtube-content-downloads-top-6-reliable-strategies-revealed/"><u>Mastering YouTube Content Downloads: Top 6 Reliable Strategies Revealed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-sharing-power-strategies-for-uploading-oversized-videos-to-discord-without-spending-a-dime/"><u>Maximize Your Sharing Power: Strategies for Uploading Oversized Videos to Discord without Spending a Dime</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4adobe-media-encoderand/"><u>MP4動画作りのスキルアップ：Adobe Media Encoderを使った変換&圧縮技術</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-transformation-of-m4a-tracks-into-high-quality-aac-format/"><u>Seamless Transformation of M4A Tracks Into High-Quality AAC Format</u></a></li>
 </ul></div>
 

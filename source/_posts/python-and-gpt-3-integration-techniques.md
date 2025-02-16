@@ -1,7 +1,7 @@
 ---
 title: Python & GPT-3 Integration Techniques
-date: 2025-01-31T22:22:05.670Z
-updated: 2025-02-02T17:55:28.461Z
+date: 2025-02-14T03:05:47.220Z
+updated: 2025-02-15T16:09:32.161Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is GPT-3?
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
  If you're wondering what GPT-3 is capable of, then you can explore some of the [creative uses for GPT-3 in OpenAI Playground](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Generating the API Key
 
  To use GPT-3 with Python you need to generate an API key. To view your API key, follow these steps:
@@ -52,20 +56,16 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 3. Click on **Create new secret key** to generate your API key.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create Secret API Screen of OpenAI website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/create-secret-api-screen-of-openai-website.jpg)
 4. Copy your API key and keep it in a secure location as you won't be able to view it again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  OpenAI's GPT-3 API charges you based on the number of tokens (words) you use to interact with it. Luckily, OpenAI provides $18 of credit for free for the first three months, so you can explore it and experiment according to your needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Building a Python Program to Use the GPT-3 API
@@ -112,15 +112,15 @@ main()`
 
  Put it all together and use Artificial Intelligence to answer your questions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Output of Your GPT-3-Enabled Python Program
 
  When you run the program, it will ask you to enter a question. On entering the prompt, "Write a poem in 5 lines about how Iron Man is the greatest superhero of all time," the program produced the following impressive output:
 
 ![Output of using GPT3 with Python](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/output-of-using-gpt3-with-python.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## GPT-3 Has Many Interesting Applications
 
@@ -147,22 +147,17 @@ main()`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-youtube-strategy-for-simultaneous-synchronization/"><u>[New] The Ultimate Youtube Strategy for Simultaneous Synchronization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-how-to-make-minecraft-run-faster/"><u>[SOLVED] How to Make Minecraft Run Faster</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-securing-a-seamless-srt-upload-experience-on-social-networks/"><u>[Updated] In 2024, Securing a Seamless SRT Upload Experience on Social Networks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gentle-volume-easing-methods-for-mixers/"><u>2024 Approved Gentle Volume Easing Methods for Mixers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-record-a-voice-over-for-a-video/"><u>2024 Approved How To Record A Voice Over For A Video</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/erfolgreiche-methoden-grossere-avi-filme-zu-0-euro-in-mp4-umwandeln/"><u>Erfolgreiche Methoden: Größere AVI-Filme Zu 0 Euro in MP4 Umwandeln</u></a></li>
-<li><a href="https://some-skills.techidaily.com/essential-tips-for-prolonging-your-electric-vehicles-battery-duration/"><u>Essential Tips for Prolonging Your Electric Vehicle's Battery Duration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-dilemma-a-step-by-step-guide-on-resetting-your-ipads-locked-screen-password/"><u>Solving the Dilemma: A Step-by-Step Guide on Resetting Your iPad's Locked Screen Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stop-windows-update-installing-drivers-in-windows-11-solved/"><u>Stop Windows Update Installing Drivers in Windows 11 [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-hacks-adding-wireless-bluetooth-functionality-to-your-personal-computer/"><u>Tech Hacks: Adding Wireless Bluetooth Functionality to Your Personal Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-definitive-overview-of-superfetch-all-the-essentials-you-should-know/"><u>The Definitive Overview of SuperFetch: All the Essentials You Should Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-top-10-most-popular-torrent-sites-for-gaming-downloads/"><u>The Top 10 Most Popular Torrent Sites for Gaming Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-walkthrough-to-offline-minecraft-gaming-on-windows-11-systems/"><u>The Ultimate Walkthrough to Offline Minecraft Gaming on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tracing-the-origins-of-ai-when-did-this-technology-make-its-debut/"><u>Tracing the Origins of AI: When Did This Technology Make Its Debut?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trouble-using-chatgpt-uncover-its-current-status-with-these-cufficient-methods/"><u>Trouble Using ChatGPT? Uncover Its Current Status With These Cufficient Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-resolving-undetected-external-storage-devices-in-windows-10/"><u>Troubleshooting Guide: Resolving Undetected External Storage Devices in Windows 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477213617-unseen-alerts-on-your-apple-device-find-relief-with-these-aturinseven-fixes/"><u>Unseen Alerts on Your Apple Device? Find Relief With These Aturinseven Fixes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-az-capture-extraordinaire-thorough-app-reviews/"><u>[New] AZ Capture Extraordinaire Thorough App Reviews</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-10-solutions-to-chromes-missing-video-while-using-facebook/"><u>[Updated] 10 Solutions to Chrome's Missing Video While Using Facebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-your-companion-in-choosing-high-grade-hdr-cameras/"><u>[Updated] In 2024, Your Companion in Choosing High-Grade HDR Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027589878-windows/"><u>「Windowsマシンにおすすめのビデオ記録方法とそのステップバイステップガイド」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027371273-9/"><u>人気動画カッターを見つける:使いやすくて便利な9つのピックアップリスト!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027269240-clipchamp/"><u>Clipchampにおけるビデオ音削除テクニック</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/re-10-premier-historical-youtube-networks/"><u>Explore 10 Premier Historical Youtube Networks</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guia-paso-a-paso-para-realizar-una-copia-de-seguridad-completa-del-disco-c-en-windows-10/"><u>Guía Paso a Paso Para Realizar Una Copia De Seguridad Completa Del Disco C en Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-htc-by-drfone-android/"><u>How to Show Wi-Fi Password on HTC</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/karaoki-updates-unveiled-beta-v09amo-improved-scrolling-new-features-for-djing-enthusiasts/"><u>Karaoki Updates Unveiled - Beta v0.9.amo Improved Scrolling, New Features for DJing Enthusiasts!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-lenovo-thinkphone-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Lenovo ThinkPhone – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wonderfox-prohd-unbeatable-offers-for-labtechs-notes-readers/"><u>WonderFox ProHD - Unbeatable Offers for LabTech's Notes Readers!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sifting Through Scam Rumors About TruthCoin
-date: 2025-01-28T20:36:15.406Z
-updated: 2025-02-02T17:25:48.525Z
+date: 2025-02-15T03:10:31.132Z
+updated: 2025-02-15T16:00:17.991Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is TruthGPT Coin? Why Are There Two TruthGPT Coins?
 
  There are two projects using the name "TruthGPT Coin." One uses the Binance Smart Chain, while the other is an Ethereum ERC-20 token, but both appear to use the $TRUTH ticker. It's not clear if there is a specific link between the projects, as the general approach of each differs in quality.
@@ -43,13 +39,13 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 ![truthgpt elon musk fake account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-elon-musk-fake-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![truthgpt example account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-example-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -58,10 +54,14 @@ Close
 
 ![second truthgpt coin website home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/second-truthgpt-coin-website-home-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, the second TruthGPT Coin has linked itself to [Elon Musk's TruthGPT AI project](https://www.makeuseof.com/what-is-truthgpt/) to gain a semblance of legitimacy, though it notes that TruthGPT Coin is a community effort and isn't affiliated with Musk. It doesn't feature any Musk imagery but talks about him throughout the site and claims to use artificial intelligence to "seek out and evaluate information in order to arrive at the most accurate and reliable understanding of the world."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is TruthGPT Coin a Scam?
@@ -79,7 +79,7 @@ Close
  The TruthGPT Coin entry on [CoinMarketCap](https://coinmarketcap.com/currencies/truthgpt/) also suggests something fishy is going on. It currently displays a banner informing would-be users that, "According to [Gopluslabs](https://gopluslabs.io/token-security/1/0xaf75d880b3128981d1fed3292fc02e3fb37acd53), the smart contract of the following asset can be modified by the contract creator (for example: disable selling, change fees, mint new tokens, or transfer tokens). Please exercise caution before taking any action and DYOR."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Watch Out for Scam Tokens Involving ChatGPT, AI, and Elon Musk
@@ -109,18 +109,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-review-the-t5-eye-unleashing-potential/"><u>[Updated] Review The T5 Eye, Unleashing Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/11-best-free-ais-enhancing-email-structure-and-content/"><u>11 Best Free AIs Enhancing Email Structure and Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-ways-to-use-chatgpt-as-a-data-analyst/"><u>6 Ways to Use ChatGPT as a Data Analyst</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-strategies-to-enhance-the-quality-of-your-chatgpt-conversations/"><u>7 Strategies to Enhance the Quality of Your ChatGPT Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-practical-ways-you-can-put-auto-gpt-to-use/"><u>8 Practical Ways You Can Put Auto-GPT to Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-era-of-conversational-ai-usechatgpts-co-pilot-extension/"><u>A New Era of Conversational AI: UseChatGPT's Co-Pilot Extension</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-era-of-cybercrimes-the-quintupled-impact-of-ai/"><u>A New Era of Cybercrimes: The Quintupled Impact of AI</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/best-legal-sites-for-free-mp3-downloads-top-10-picks/"><u>Best Legal Sites for Free MP3 Downloads: Top 10 Picks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/cross-play-exclusivity-guide-in-apex-legends-games/"><u>Cross-Play Exclusivity Guide in Apex Legends Games</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-nokia-g310-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Nokia G310</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-infinix-hot-30i-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Infinix Hot 30i Quickly? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-qr-scanner-issues-discover-these-5-quick-fixes/"><u>IPhone QR Scanner Issues? Discover These 5 Quick Fixes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-persistent-valheim-pc-stability-issues-tips-and-tricks/"><u>Resolving Persistent Valheim PC Stability Issues – Tips & Tricks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-a-guide-to-using-snapchats-influencer-showcase/"><u>[New] In 2024, A Guide to Using Snapchat's Influencer Showcase</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-process-to-enhance-obs-with-effective-lut-filters-for-2024/"><u>[New] Step-by-Step Process to Enhance OBS with Effective LUT Filters for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamline-your-online-presence-yt-descriptive-insights-for-2024/"><u>[New] Streamline Your Online Presence YT Descriptive Insights for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-no-budget-no-problem-heres-your-list-of-free-intra-experts/"><u>[Updated] 2024 Approved No Budget? No Problem! Here's Your List of Free Intra Experts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-tech-gadgets-for-effortless-virtual-meetings-capture/"><u>[Updated] 2024 Approved Top Tech Gadgets for Effortless Virtual Meetings Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-upgrade-your-online-presence-with-premium-webcam-tech/"><u>[Updated] Upgrade Your Online Presence with Premium Webcam Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/asrocks-mini-pc-revolution-elevate-your-workstation-using-a-full-sized-gpu-only-available-to-chinese-consumers-for-1200/"><u>ASRock's Mini PC Revolution: Elevate Your Workstation Using a Full-Sized GPU - Only Available to Chinese Consumers for ¥1200</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-trustworthiness-of-chatgpt/"><u>Assessing the Trustworthiness of ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-creme-de-la-creme-of-computers-in-2er-2024-a-head-to-head-comparison-between-apple-and-others-on-zdnet/"><u>Exploring the Crème De La Crème of Computers in 2Er 2024: A Head-to-Head Comparison Between Apple and Others on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-transforming-the-handy-culture/"><u>GPT-4: Transforming The Handy Culture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-self-editing-shortcomings/"><u>GPT's Self-Editing Shortcomings</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-razr-40-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola Razr 40 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-quoras-path-to-chatbots-and-lms/"><u>Navigating Quora's Path to Chatbots and LMs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-risks-that-lurk-when-we-trust-too-much-in-artificinas-intelligence/"><u>The Risks That Lurk When We Trust Too Much in Artificinas Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-iphone-your-portal-to-chatgpt-wonderland/"><u>Your iPhone, Your Portal to ChatGPT Wonderland</u></a></li>
 </ul></div>
 

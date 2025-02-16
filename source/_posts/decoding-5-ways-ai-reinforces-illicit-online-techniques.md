@@ -1,7 +1,7 @@
 ---
 title: Decoding 5 Ways AI Reinforces Illicit Online Techniques
-date: 2024-08-21T15:39:58.493Z
-updated: 2024-08-22T15:39:58.493Z
+date: 2025-02-10T17:31:46.744Z
+updated: 2025-02-15T21:51:30.087Z
 tags:
   - chatgpt
   - open-ai
@@ -46,8 +46,9 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  These figures show how dangerous AI password cracking can be. With the ability to crack most regular passwords in less than 24 hours, there's no knowing what a cybercriminal could do using such a tool.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Conducting Social Engineering
 
  The cybercrime tactic [known as social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) claims hordes of victims every week, and is a major problem in every part of the world. This method uses manipulation to corner victims into complying with the attacker's demands, often without even realizing that they're being targeted
@@ -57,8 +58,9 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  In this sense, AI could also help in making malicious communications look more professional and official by ironing out spelling and grammar mistakes. Such errors are often said to be possible signs of malicious activity, so it may help cybercriminals if they can write their social engineering content more cleanly and effectively.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Finding Software Vulnerabilities
 
  To hack software programs, cybercriminals often need to find and exploit a security vulnerability. These vulnerabilities often arise as a result of bugs in the software's code. If a bug goes unpatched, or an individual doesn't regularly update their software programs (which often irons out security flaws), vulnerabilities can pose a major risk.
@@ -68,14 +70,16 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  However, this AI application could also be helpful for cybersecurity vendors, as it could [aid in finding vulnerabilities](https://www.makeuseof.com/top-vulnerability-scanning-tools/) before they are exploited. Being able to patch a flaw quickly can cut off malicious actors' ability to exploit it, mitigating attacks overall.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Analyzing Stolen Data
 ![Data on Laptop Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/data-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Data is as valuable as gold. Today, [sensitive data is sold on dark web marketplaces](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) on a constant basis, with some malicious actors willing to pay a very high price if the information is useful enough.
 
  But for this data to become available on these marketplaces, it first needs to be stolen. Data can certainly be stolen in small amounts, especially when the attacker is targeting lone victims. But larger hacks can result in the theft of huge databases. At this point, the cybercriminal needs to determine what information in this database is valuable.
@@ -83,8 +87,9 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  Using AI, the process of highlighting valuable information could be streamlined, cutting down the time it takes for a malicious actor to determine what is worth selling, or, on the other hand, directly exploiting by their own hand. Artificial intelligence, at its core, is all about learning, so it could one day become easy to use an AI-powered tool to pick up on valuable sensitive data.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI Is Promising but Also Poses Many Threats
 
  As is the case with most kinds of technology, artificial intelligence has been, and will continue to be, exploited by cybercriminals. With AI already having some illicit capabilities, there's really no knowing how cybercriminals will be able to advance their attacks using this technology in the near future. Cybersecurity firms may also work increasingly with AI to fight such threats, but time will tell how this one plays out.
@@ -97,8 +102,6 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +109,22 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-master-recorder-a-comprehensive-review-of-screen-recording/"><u>[New] In 2024, Master Recorder A Comprehensive Review of Screen Recording</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-next-level-entertainment-the-rise-of-vr-applications/"><u>[New] Next-Level Entertainment The Rise of VR Applications</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-depth-evaluation-of-the-newest-slomo-video-software-for-2024/"><u>[Updated] In-Depth Evaluation of the Newest SloMo Video Software for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-igtv-potential-strategies-for-successful-content/"><u>2024 Approved Unlocking IGTV Potential Strategies for Successful Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-windows-activate-derailed-handbrake/"><u>Conquer Windows: Activate Derailed HandBrake</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-c67-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme C67 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-browsing-interactions-the-7-chrome-ai-boosters/"><u>Enhance Your Browsing Interactions: The 7 Chrome AI Boosters</u></a></li>
+<li><a href="https://fox-info.techidaily.com/iconic-visual-alteration-suite-imagefusion-xtreme/"><u>Iconic Visual Alteration Suite ImageFusion Xtreme</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-the-best-and-worst-of-chatgpt-for-writers/"><u>Leveraging AI: The Best and Worst of ChatGPT for Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-ai-write-like-you-tailoring-techniques-for-text/"><u>Making AI Write Like You: Tailoring Techniques for Text</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revised-google-news-feed-for-informed-users/"><u>Revised Google News Feed for Informed Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shield-up-dont-surrenderflee-googles-bard-app/"><u>Shield Up, Don't Surrender—Flee Google's Bard App!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-educators-blueprint-embracing-ai-in-classrooms/"><u>The Educator's Blueprint: Embracing AI in Classrooms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-price-alert-secure-the-hp-victus-15-for-530-on-anti-prime-day-with-an-additional-best-buy-offer-featured-insights-gaming-laptop-guide/"><u>Unbeatable Price Alert: Secure the HP Victus 15 for $530 on Anti-Prime Day with an Additional Best Buy Offer, Featured Insights Gaming Laptop Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-functionalities-of-gpt-extensions/"><u>Unveiling the Functionalities of GPT Extensions</u></a></li>
+</ul></div>
 

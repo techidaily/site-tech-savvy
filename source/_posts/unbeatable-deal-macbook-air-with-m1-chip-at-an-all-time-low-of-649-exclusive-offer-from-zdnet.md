@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: MacBook Air with M1 Chip at an All-Time Low of $649 – Exclusive Offer From ZDNet!"
-date: 2025-02-01T20:25:00.972Z
-updated: 2025-02-02T20:26:14.783Z
+date: 2025-02-12T00:35:05.266Z
+updated: 2025-02-16T03:25:26.153Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,21 +81,19 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-innovate-content-dissemination-youtube-to-facebook-methods/"><u>[New] In 2024, Innovate Content Dissemination YouTube-to-Facebook Methods</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-slumber-screen-shows-story-insights-reviewed/"><u>[New] In 2024, Slumber Screen Shows Story Insights Reviewed</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-techniques-for-seamless-youtube-subtitling-and-captions/"><u>[New] In 2024, Step-by-Step Techniques for Seamless YouTube Subtitling & Captions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-optimal-5-displays-for-immersive-ps5-gaming-for-2024/"><u>[New] Optimal 5 Displays for Immersive PS5 Gaming for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-from-ground-to-greatness-photos-on-a-stretch/"><u>[Updated] From Ground to Greatness Photos on a Stretch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assistants-crafting-your-itinerary-for-free-with-top-7-travel-aids/"><u>AI Assistants: Crafting Your Itinerary for FREE with Top 7 Travel Aids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpts-innovative-edge-comparing-it-to-conversational-ai-chatgpt/"><u>Auto-GPT's Innovative Edge - Comparing It To Conversational AI, ChatGPT</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-your-frustration-with-these-fixes-for-microsoft-flight-simulator-2020-pc-crashes/"><u>Banish Your Frustration with These Fixes for Microsoft Flight Simulator 2020 PC Crashes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/designing-revolutionary-conversations-via-gpt-crafted-chatgpts/"><u>Designing Revolutionary Conversations via GPT-Crafted ChatGPTs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-guide-for-digital-video-photo-effects-application/"><u>In 2024, Comprehensive Guide for Digital Video Photo Effects Application</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovations-in-dialogue-the-top-4-differences-between-claude-and-chatgpt/"><u>Innovations in Dialogue: The Top 4 Differences Between Claude and ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-cover-letter-success-with-ai-powered-by-gpt-3/"><u>Optimize Cover Letter Success with AI Powered by GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-you-use-etiquette-with-chatgpt-and-virtual-assistants/"><u>Should You Use Etiquette With ChatGPT and Virtual Assistants?</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-eradicating-xc0f1103f-problem-with-geforce/"><u>Steps for Eradicating XC0F1103F Problem with GeForce</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-transcendent-communication-unpacking-googles-palm-2-model/"><u>The Dawn of Transcendent Communication: Unpacking Google’s PaLM 2 Model</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-power-of-siri-why-and-how-to-get-disappeared-suggestions-back-on-iphone/"><u>Unlock the Power of Siri: Why and How to Get Disappeared Suggestions Back on iPhone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-essential-voice-manual-for-tiktok-creators/"><u>[Updated] 2024 Approved The Essential Voice Manual for TikTok Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhance-visibility-in-igtv-6-insider-tips-for-video-size-mastery/"><u>[Updated] In 2024, Enhance Visibility in IGTV 6 Insider Tips for Video Size Mastery</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/flash5/"><u>「如何輕鬆回復Flash存儲器的消失文件：5項新指南」</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-14-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 14 without the Previous Owner?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-do-home-theater-receivers-differ-from-standard-stereo-ones-a-comprehensive-guide/"><u>How Do Home Theater Receivers Differ From Standard Stereo Ones? A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-stellar-instagram-content-for-maximum-influence/"><u>In 2024, Crafting Stellar Instagram Content for Maximum Influence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-your-creativity-10-steps-for-new-photoshop-users/"><u>In 2024, Unleash Your Creativity 10 Steps for New Photoshop Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-vp9-transcoder-tools-simplified-video-conversion-downloads/"><u>Leading VP9 Transcoder Tools - Simplified Video Conversion Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-music-downloads-easily-change-soundcloud-songs-to-mp4-format-for-optimal-playback/"><u>Mastering Music Downloads: Easily Change SoundCloud Songs to MP4 Format for Optimal Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3windows-media-player-2024/"><u>MP3ファイルがうまく再生されない場合、Windows Media Player 2024で何をすべきか？解決策とヒント</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserving-video-fidelity-during-mov-file-format-change-to-m4v/"><u>Preserving Video Fidelity During MOV File Format Change to M4V</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-consequences-of-content-control-by-artificinaset-algorithms/"><u>The Consequences of Content Control by Artificinaset Algorithms</u></a></li>
+<li><a href="https://games-able.techidaily.com/workstations-for-work-consoles-for-games-a-look/"><u>Workstations for Work, Consoles for Games: A Look</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iuocquodvoodkoodvoocpuocqeodgplusodgeobruodlplusodroocpowlleeuuplusiomommsjrmnidpq5jnllvos6rjgqzjgqtjg4ki/"><u>オーバーウォッチのプレイ動画記録:最高画質ガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Authenticity and Authorship: Why Writers Don't Rely on AIs"
-date: 2025-01-29T19:28:39.383Z
-updated: 2025-02-02T17:52:24.457Z
+date: 2025-02-10T16:13:59.322Z
+updated: 2025-02-15T22:06:27.947Z
 tags:
   - chatgpt
   - open-ai
@@ -48,16 +48,16 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
@@ -72,20 +72,20 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  AI avoids inaccuracies by generating generic responses. Take the above piece as an example. When we asked an AI writing tool to talk about dog care, it focused on super-common tips, which readers have likely seen multiple times. The below photo also shows that its insights came from an unreliable source.
 
 ![Copy.ai Lists Down Article Sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-sources.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Generic pieces rarely gain traffic. To attract readers and score higher SERP rankings, write original articles that are exclusive to your site. Stop rewriting stuff that everyone already knows.
 
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. AI Generates the Same Results for Similar Questions
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.
@@ -151,22 +151,20 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-charting-the-course-to-youtube-success-top-5-strategies-inside/"><u>[New] In 2024, Charting the Course to YouTube Success – Top 5 Strategies Inside</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-guide-to-delivering-engaging-ppt-in-google-meet-mobiledesktop/"><u>[Updated] 2024 Approved Guide to Delivering Engaging PPT in Google Meet (Mobile/Desktop)</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitters-new-rule-include-aspect-ratio-in-video-posts/"><u>[Updated] 2024 Approved Twitter's New Rule Include Aspect Ratio in Video Posts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapping-sharing-how-to-send-images-with-a-single-touch/"><u>[Updated] In 2024, Snapping, Sharing How To Send Images With a Single Touch</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-outdoor-gadgets-for-making-road-trip-videos/"><u>2024 Approved Outdoor Gadgets for Making Road-Trip Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-spreadsheet-solutions-via-chatgpt-and-excel/"><u>AI-Powered Spreadsheet Solutions via ChatGPT & Excel</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dvdmp4-movavi/"><u>DVD至MP4格式轉換完全指南 | Movavi節省時間的工具列表</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-ai-comparing-forefronts-prowess-with-chatgpt/"><u>Evaluating AI: Comparing Forefront's Prowess with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-auto-gpts-uniqueness-standing-out-from-chatgpts-tech/"><u>Exploring Auto-GPT’s Uniqueness - Standing Out From ChatGPT's Tech</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-failure-to-detect-wd-my-passport-ultra-drive/"><u>How to Resolve Windows Failure to Detect WD My Passport Ultra Drive</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-face-forward-influential-beauty-guides/"><u>In 2024, The Face Forward Influential Beauty Guides</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-plugins-made-simple/"><u>Integrating ChatGPT Plugins Made Simple</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keeping-security-intact-dont-use-chatbots-for-windows-unlocks/"><u>Keeping Security Intact: Don't Use Chatbots for Windows Unlocks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/lead-the-conversation-five-vocal-commands-to-master-chatgpt/"><u>Lead the Conversation: Five Vocal Commands to Master ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-edge-insights-discover-6-uses-for-ais-code-maestro/"><u>Leading-Edge Insights - Discover 6 Uses for AI's Code Maestro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shielding-from-swindles-real-vs-fake-gpts/"><u>Shielding From Swindles: Real vs Fake GPTs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-iphones-high-dynamic-range-step-by-step-guide-for-2024/"><u>[New] IPhone's High Dynamic Range Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/icro-movie-maker-for-2024/"><u>[New] Micro Movie Maker for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-video-recording-methods-for-multiple-systems/"><u>[Updated] Pro Video Recording Methods for Multiple Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-instructions-tinkering-7-web-based-tools/"><u>Boost Your Instructions Tinkering: 7 Web-Based Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-apples-latest-giants-iphone-15-vs-pro-max-which-reigns-supreme/"><u>Comparing Apple's Latest Giants: IPhone 15 Vs. Pro Max - Which Reigns Supreme?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-future-how-forefront-ai-stacks-up-against-chatgpt/"><u>Decoding the Future: How Forefront AI Stacks Up Against ChatGPT</u></a></li>
+<li><a href="https://win-net.techidaily.com/ghostfenster-in-windows-11-einfach-beheben-funf-methoden-zur-losung/"><u>Ghostfenster in Windows 11 Einfach Beheben - Fünf Methoden Zur Lösung</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-a2-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi A2?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ideal-matches-mac-and-pc-video-decoders-freepaid/"><u>Ideal Matches Mac & PC Video Decoders (FREE/PAID)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-a-step-by-step-guide-to-memetic-marvels-essential-strategies-for-gif-makers/"><u>In 2024, A Step-by-Step Guide to Memetic Marvels Essential Strategies for GIF Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-customer-help-tools-combining-chatgpt-and-whatsapp/"><u>Integrating Customer Help Tools: Combining ChatGPT & WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-vouches-for-continued-brilliance-of-gpt/"><u>OpenAI Vouches for Continued Brilliance of GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precise-remedies-for-chatgpt-plugin-communication-fails/"><u>Precise Remedies for ChatGPT-Plugin Communication Fails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-seventh-wave-ais-role-in-workforce-change/"><u>The Seventh Wave: AI's Role in Workforce Change</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-12-innovative-substitutes-for-a-traditional-loom-a-comprehensive-guide/"><u>Top 12 Innovative Substitutes for a Traditional Loom: A Comprehensive Guide</u></a></li>
 </ul></div>
 

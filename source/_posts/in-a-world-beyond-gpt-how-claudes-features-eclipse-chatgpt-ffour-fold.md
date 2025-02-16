@@ -1,7 +1,7 @@
 ---
 title: "In a World Beyond GPT: How Claude's Features Eclipse ChatGPT’ FFour-Fold"
-date: 2025-01-31T19:42:32.962Z
-updated: 2025-02-02T22:25:22.211Z
+date: 2025-02-10T19:07:17.717Z
+updated: 2025-02-15T21:18:21.769Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Significantly Larger Context Window
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 ![reading a document on Claude](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reading-a-document-on-claude.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of [ChatGPT's major drawbacks](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is that it cannot handle prompts with more than a couple of thousand words at a time. If your prompt is longer than [ChatGPT's token limit](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/), you'll likely receive a notification that your prompt is too long and should be edited before submitting.
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
  This is a humongous difference. You might not notice or appreciate the difference if you use ChatGPT for simple tasks requiring simple prompts, but it's a dealbreaker if you use ChatGPT for more complex tasks such as transcription and summarization, where you'll need to work with a large volume of text. You'll also appreciate this difference if you use ChatGPT for coding tasks that involve large swaths of code.
 
  With Claude AI, you can load an entire book into the AI chatbot and start querying it. With ChatGPT, the limited context window means you have to break up your code or texts into smaller chunks and make do with smaller responses.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Stricter Safety Measures
 
@@ -62,12 +58,16 @@ Image Credit: [Anthropic](https://www.anthropic.com/product)
 
  Claude AI uses this system to ensure its output is less likely to be harmful, discriminatory, or toxic. It is also significantly harder to jailbreak Claude AI, unlike the relative ease at which people bypass the safety rules in ChatGPT. Although some people may see this as a downside, stricter safety measures ensure that AI tools like Claude AI are safe enough for children, at least theoretically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Better Coding Experience
 
 ![Using Claude AI as a programming aid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-claude-ai-as-a-programming-aid.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Although it's too early to say with certainty whether Claude AI is as good as ChatGPT as a programming aid, it undoubtedly offers an overall better coding experience. Because of a limited context window, ChatGPT cannot handle the large inputs and outputs you'd need to write large, complex code.
@@ -76,13 +76,13 @@ Image Credit: [Anthropic](https://www.anthropic.com/product)
 
  ChatGPT would have difficulty digesting a large block of code or just completely refuse to work on it, especially without ChatGPT plugins. Claude AI's 100k token limit significantly improves the chatbot's usefulness as a programming tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. A More Recent Knowledge Base
 
 ![Claude AI Knowledge base cut-off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/claude-ai-knowledge-base-cut-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of ChatGPT's biggest limitations is its September 2021 knowledge cut-off date. Basically, this means ChatGPT lacks knowledge of events that happened after September 2021\. As you'd probably agree, a lot has happened since then, but ChatGPT won't consider that when providing a response to your prompt.
 
@@ -113,17 +113,16 @@ Image Credit: [Anthropic](https://www.anthropic.com/product)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-15-best-ideas-to-post-on-snapchat/"><u>[New] 2024 Approved 15 Best Ideas To Post On Snapchat</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-proven-techniques-and-choices-for-trimming-premium-tamil-melodies/"><u>[New] Proven Techniques and Choices for Trimming Premium Tamil Melodies</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-8-imei-checker-by-drfone-ios/"><u>Best Free iPhone 8 IMEI Checker</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-supremacy-can-claude-outperform-chatgpt/"><u>Conversational Supremacy: Can Claude Outperform ChatGPT?</u></a></li>
-<li><a href="https://games-able.techidaily.com/eluding-vigilant-tracking-in-games/"><u>Eluding Vigilant Tracking in Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-proof-education-why-teachers-must-embrace-artificinas-8-critical-points/"><u>Future-Proof Education: Why Teachers Must Embrace Artificinas (8 Critical Points)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-12-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 12 to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone SE</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-ai-search-on-bing-simple-setup-guide/"><u>Navigate AI Search on Bing: Simple Setup Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prime-collection-20-essential-chatgpt-conversation-starters-from-github/"><u>Prime Collection: 20 Essential ChatGPT Conversation Starters From GitHub</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-insights-from-experts-on-the-fitbit-charge-6-a-thorough-review/"><u>Top Insights From Experts on the Fitbit Charge 6: A Thorough Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/virtual-assistant-ventures-and-diy-pc-repair/"><u>Virtual Assistant Ventures & DIY PC Repair</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-essential-guide-to-cost-free-cam-screen-recording-apps/"><u>[New] 2024 Approved The Essential Guide to Cost-Free Cam Screen Recording Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-whatsapp-web-for-laptops-setting-up-remote-video-calls-step-by-step/"><u>[Updated] In 2024, WhatsApp Web for Laptops Setting Up Remote Video Calls Step by Step</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-the-cord-ending-chatgpts-recording-habits/"><u>Cutting the Cord: Ending ChatGPT's Recording Habits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-for-young-minds-ensuring-a-secure-and-supportive-environment-in-5-steps/"><u>GPT for Young Minds: Ensuring a Secure and Supportive Environment in 5 Steps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-2023s-leading-cameras-for-samsung-gear-360-successors/"><u>In 2024, 2023'S Leading Cameras for Samsung Gear 360 Successors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-hidden-gem-best-free-text-to-speech-macapps/"><u>In 2024, Unveiling the Hidden Gem Best Free Text to Speech macApps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpts-standard-add-ons/"><u>Navigating ChatGPT's Standard Add-Ons</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/setting-up-an-online-presence-for-reviews-of-commercial-goods/"><u>Setting Up an Online Presence for Reviews of Commercial Goods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-chatgpt-for-global-language-diversity/"><u>Tailoring ChatGPT for Global Language Diversity</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-tech-tecnos-new-color-changing-features/"><u>Transforming Tech: Tecno's New Color-Changing Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-access-how-to-register-for-services-sans-phone/"><u>Unlocking Access: How to Register for Services Sans Phone</u></a></li>
 </ul></div>
 

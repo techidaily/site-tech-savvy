@@ -1,7 +1,7 @@
 ---
 title: Rapid Italian Crackdown on ChatGPT Usage Explored
-date: 2024-08-21T15:38:40.318Z
-updated: 2024-08-22T15:38:40.318Z
+date: 2025-02-13T02:25:21.053Z
+updated: 2025-02-16T00:13:08.059Z
 tags:
   - chatgpt
   - open-ai
@@ -23,13 +23,25 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
  This means that if you're in Italy, you'll now be unable to use the AI chatbot. Here's why.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Did Italy Ban ChatGPT?
 
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On March 30th, 2023, the Italian Data Protection Authority, Garante per la Protezione dei Dati Personali (GPDP), [officially announced](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9870847) a ChatGPT ban, effective immediately, that would last until ChatGPT complied with the EU's GDPR.
 
  The Italian data regulator declared that [OpenAI's ChatGPT posed several problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) and infringed the EU's privacy law. The GDPD's privacy concerns can be broken down into five key areas:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Breach of Privacy Laws
 
@@ -39,36 +51,22 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
  The Italian regulator ensures data controllers follow the general obligations outlined in the EU's privacy law, and OpenAI falls short.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Unjustified Collection of Personal Data
 
  Asides from the breach of its privacy laws, the GDPD claims that there is no legal justification for OpenAI's massive collection and processing of personal data to train ChatGPT's algorithms. According to the Italian regulator, ChatGPT's information doesn't always match factual circumstances, so OpenAI can use falsified personal data.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. A Lack of Easily-Accessible and Transparent Information
 
  In addition, the Italian regulator pointed out that OpenAI doesn't inform users whose data it collects. This is another clear violation of the EU's privacy laws.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### 4\. Lack of Age Verification Systems
 
  The GDPD announced that ChatGPT exposes inappropriate information to users under 13 because it lacks appropriate age detection mechanisms. This underage exposure violates the EU's GDPR, which states that individuals must clearly consent to the processing of their personal data. As underage individuals, they are not to consent on their behalf.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Risk of Data Breaches
 
  While citing a data breach reported on March 20th, 2023, the Italian regulator raised concerns about the chatbot's risk of data breaches. [Europol's announcement](https://www.europol.europa.eu/publications-events/publications/chatgpt-impact-of-large-language-models-law-enforcement) of the potential of criminals using ChatGPT to commit fraud and cybercrime likely fostered these concerns.
@@ -76,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
  Data breaches also infringe on the country's privacy laws—all data processors must implement appropriate security measures.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Italy's ChatGPT Ban Could Be a Template for Other EU Countries
 
  The EU's GDPR is said to be the strictest privacy law in the world, and Italy's ban emphasizes the importance of data compliance in Europe. The Irish data authority has been reported to be studying the GDPD's actions with intentions to "coordinate" with the EU concerning the ban. Likewise, the UK's data regulator is said to have declared support for AI with the condition that it complies with data protection laws.
@@ -90,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
  This means that if you're in Italy, you'll now be unable to use the AI chatbot. Here's why.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,4 +102,21 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-crafting-flawless-subtitles-with-precision-and-tips/"><u>[New] Crafting Flawless Subtitles with Precision and Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-dungeon-dominance-top-ten-rogue-classics/"><u>[New] Dungeon Dominance Top Ten Rogue Classics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716068980898-updated-2024-approved-navigating-through-top-ps2-games-on-android-devices-a-compre-written-in-english/"><u>[Updated] 2024 Approved Navigating Through Top PS2 Games on Android Devices - A Compre Written in English.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210133191-9781644112816-alchemical-tantric-astrology/"><u>Alchemical Tantric Astrology | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-chatgpts-built-in-enhancements/"><u>Decoding ChatGPT's Built-In Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-chatgpt-ais-potent-generative-capabilities/"><u>Demystifying ChatGPT: AI's Potent Generative Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exciting-enhancements-await-discover-the-upcoming-beneficial-perks-for-select-apple-airpod-models-in-autumn-insights-from-zdnet/"><u>Exciting Enhancements Await: Discover the Upcoming Beneficial Perks for Select Apple AirPod Models in Autumn - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-landscape-of-interactive-content-development/"><u>Exploring the Landscape of Interactive Content Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/humor-by-chatgpt-is-giggle-fuel-for-ai-driven-hilarity-possible/"><u>Humor by ChatGPT: Is Giggle Fuel for AI-Driven Hilarity Possible?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-blueprint-for-buzzing-outro/"><u>In 2024, Blueprint for Buzzing Outro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974440340-speedy-setup-find-and-download-the-perfect-wireless-card-drivers-now/"><u>Speedy Setup: Find and Download the Perfect Wireless Card Drivers Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-computer-woes-into-wins-with-ai-help/"><u>Transforming Computer Woes Into Wins with AI Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-tasks-with-chatgpt-for-professional-success/"><u>Transforming Tasks with ChatGPT for Professional Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-360-degree-shoot-selecting-your-perfect-model/"><u>Ultimate 360-Degree Shoot Selecting Your Perfect Model</u></a></li>
+</ul></div>
 

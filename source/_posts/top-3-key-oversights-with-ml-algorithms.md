@@ -1,7 +1,7 @@
 ---
 title: Top 3 Key Oversights with ML Algorithms
-date: 2025-01-27T17:28:02.496Z
-updated: 2025-02-02T18:27:06.860Z
+date: 2025-02-09T03:19:41.879Z
+updated: 2025-02-15T20:47:30.025Z
 tags:
   - chatgpt
   - open-ai
@@ -32,19 +32,11 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
 ![ChatGPT screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-chatgpt-works.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While you don't need to be a machine learning or AI expert to use generative AI tools like ChatGPT, Jasper, Copysmith, etc., having a basic understanding of how they work is vital. This helps you appreciate their limitations and find ways to get better results.
 
  Although these AI text generators have some differences, most use the same underlying engine, so understanding how one works can also give you a pretty accurate view of how the others work. So, [how does ChatGPT work?](https://www.makeuseof.com/how-does-chatgpt-work/)
 
  ChatGPT is a large language model trained on massive amounts of data from the internet and other sources. This AI chatbot relies on this training to generate human-sounding responses to your queries. It is worth noting that some of these AI text generators, including ChatGPT, have a training cutoff date, which means they lack knowledge of events after this date.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Not Editing Responses From AI Text Generators
 
@@ -55,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
  In addition, these tools may have been fed with biased information and could also generate biased responses. So, you should always ensure you review and edit the generated content before using it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Over-Relying on Generative AI Tools for Your Writing Tasks
 
 ![A woman using a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ai-tools-writing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although these AI writing tools can help you write entire articles for online publishers or write your school essays from scratch, developing an over-reliance on them is a huge mistake. There are [several reasons why content writers should not rely on AI chatbots](https://www.makeuseof.com/why-content-writers-cant-rely-ai-chatbots/) for their daily writing tasks.
 
@@ -76,12 +72,16 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
  All in all, learning how to write effective prompts is a key skill to master when using generative AI tools. You can continuously practice by interacting with the AI and adjusting your prompts as you go—you never know, you may just [start a career in prompt engineering](https://www.makeuseof.com/career-in-prompt-engineering/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Trusting Generative AI Tools With Sensitive Information
 
 ![A top secret report](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/top-secret-information.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similar to other Tech Giants, OpenAI has faced criticism over its data collection practices that put user privacy and security at risk. However, this goes beyond the account information you give when signing up (name, transaction history, payment card information, etc.), as it also includes data from your conversations with the chatbot.
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
  Lastly, you also want to keep an eye on the Terms of Use of any AI content generator you use to ensure you're not violating them, as this could result in your account being suspended or banned.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Not Familiarizing Yourself With AI-Powered Tools
@@ -135,19 +135,18 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-framework-for-selecting-winning-podcast-names/"><u>[New] In 2024, The Ultimate Framework for Selecting Winning Podcast Names</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-how-to-use-your-laptop-as-a-monitor/"><u>[Solved] How to Use Your Laptop As A Monitor</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boosting-your-youtube-earnings-strategies-for-monetizing-short-videos/"><u>[Updated] 2024 Approved Boosting Your YouTube Earnings Strategies for Monetizing Short Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-optimizing-audio-quality-during-video-calls-on-win11/"><u>[Updated] Optimizing Audio Quality During Video Calls on Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/10-best-wedding-countdown-clock-apps-for-android-and-ios/"><u>10 Best Wedding Countdown Clock Apps for Android & iOS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/best-practices-for-secondary-footage-management-for-2024/"><u>Best Practices for Secondary Footage Management for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-motorola-moto-g23-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Motorola Moto G23 Phone Pattern Lock</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-note-12-pro-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi Note 12 Pro 5G Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-painless-way-to-find-out-your-nvidia-driver-version/"><u>Quick and Painless Way to Find Out Your Nvidia Driver Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-guide-to-mp3-download-from-soundcloud-a-hassle-free-approach/"><u>Quick Guide to MP3 Download From SoundCloud – A Hassle-Free Approach!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revive-lost-data-on-windows-solution-1-step-by-step-guide-recovering-deleted-items-using-windows-10s-built-in-backup-feature/"><u>Revive Lost Data on Windows # Solution 1: Step-by-Step Guide: Recovering Deleted Items Using Windows 10'S Built-In Backup Feature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-get-your-windows-10s-one-year-special-patch-without-hiccups/"><u>Simple Steps: Get Your Windows 10'S One Year Special Patch Without Hiccups</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-regain-access-to-your-yahoo-account-without-hassle/"><u>Simple Steps: Regain Access to Your Yahoo Account Without Hassle</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-alternative-to-cyberlink-a-comparative-study-of-recording-software/"><u>[New] Alternative to Cyberlink A Comparative Study of Recording Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ps5-visual-mastery-premium-21-hdmi-monitors-for-gamers/"><u>[New] In 2024, PS5 Visual Mastery Premium 2.1 HDMI Monitors for Gamers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/3-ingenious-strategies-to-harvest-twitter-gifs-for-2024/"><u>3 Ingenious Strategies to Harvest Twitter GIFs for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/easy-steps-for-modifying-system-energy-preferences-control-panel-instructions-from-yl-computing/"><u>Easy Steps for Modifying System Energy Preferences: Control Panel Instructions From YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-defy-2-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Defy 2?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-complex-projects-using-github-desktop-in-win-11/"><u>Navigating Complex Projects Using GitHub Desktop in Win 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-master-gratuitous-timer-software/"><u>Step-by-Step Guide to Master Gratuitous Timer Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-for-troubleshooting-frequent-usb-disconnections/"><u>Step-by-Step Tips for Troubleshooting Frequent USB Disconnections</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-zoom-performance-issues-whats-happening/"><u>Understanding Zoom Performance Issues: What's Happening?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029934677-windows-11/"><u>Windows 11による簡単なビデオ編集テクニックのガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029912225-youtubepc/"><u>YouTube横ビデオをPC上で縦に再編成する最適な方法 - プロフェッショナルの動画変形術</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029526361-youtube/"><u>ビデオに水紋を追加するためのシンプル・チュートリアル: YouTube編集ツール使用</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030562025-teams/"><u>プライベートでのTeamsミーティング録音 - イヤフォンを活用したスニークショット技術</u></a></li>
 </ul></div>
 

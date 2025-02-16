@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest and Greatest: Unveiling iOS 18'S Best New Additions - Spotlight"
-date: 2025-01-29T23:34:27.958Z
-updated: 2025-02-02T16:33:18.676Z
+date: 2025-02-14T19:45:00.163Z
+updated: 2025-02-16T00:56:05.165Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,24 +146,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-journey-into-the-enigma-discovering-hidden-emoji-messages/"><u>[Updated] Journey Into the Enigma Discovering Hidden Emoji Messages</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-becoming-an-expert-in-video-capturing-streamlabs-obs-guide/"><u>2024 Approved Becoming an Expert in Video Capturing Streamlabs OBS Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-plots-and-dialogues-for-radios/"><u>2024 Approved Pinnacle Plots & Dialogues for Radios</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/backup-plans-for-elusive-chatgpt-exchanges/"><u>Backup Plans for Elusive ChatGPT Exchanges</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/big-news-for-creators-filmora-x-now-runs-on-arm-devices/"><u>Big News for Creators Filmora X Now Runs on ARM Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-open-gpt-a-step-by-step-window-guide/"><u>Embracing Open GPT: A Step-by-Step Window Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-to-rectify-askew-gridlines-on-your-samsung-tv-display/"><u>Expert Tips to Rectify Askew Gridlines on Your Samsung TV Display</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-palm-2-next-gen-big-data-language-processing-by-google/"><u>Exploring PaLM 2: Next-Gen Big Data Language Processing by Google</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/launching-gpt-on-windows/"><u>Launching GPT on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-employment-landscape-via-chatgpt/"><u>Mastering the Employment Landscape via ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-dxgierrordevice-in-win-11-and-11/"><u>Overcoming DXGI_ERROR_DEVICE in Win 11 & 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-dilemma-of-non-functional-macbook-pro-keys-a-guide/"><u>Solving the Dilemma of Non-Functional MacBook Pro Keys – A Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-installing-new-surface-book-2-device-drivers-without-hassle/"><u>Step-by-Step Tutorial: Installing New Surface Book 2 Device Drivers Without Hassle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-words-into-adventures-with-chatgpt-rpgs/"><u>Transforming Words Into Adventures with ChatGPT RPGs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trustful-talkers-integrating-chatgpt-safely/"><u>Trustful Talkers: Integrating ChatGPT Safely</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-discover-the-best-free-animation-software-for-windows-and-mac/"><u>Updated 2024 Approved Discover the Best Free Animation Software for Windows and Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wiping-past-conversations-a-guide-to-a-neat-chatgpt-history/"><u>Wiping Past Conversations: A Guide to a Neat ChatGPT History</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/your-signature-starts-here-free-modifiable-logos-to-define-brands-for-2024/"><u>Your Signature Starts Here Free, Modifiable Logos to Define Brands for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-15-youtube-template-download-sites/"><u>[New] 2024 Approved Top 15 YouTube Template Download Sites</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-prime-hash-monitoring-apps-for-social-media-giants-fb-tweetinsta/"><u>[New] Prime Hash Monitoring Apps for Social Media Giants (FB, Tweet/Insta)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-discover-the-quintet-of-premium-4k-panels-for-colors-for-2024/"><u>[Updated] Discover the Quintet of Premium 4K Panels for Colors for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-becoming-a-greenscreen-specialist-in-kinemasters-vfx-realm/"><u>[Updated] In 2024, Becoming a Greenscreen Specialist in KineMaster's VFX Realm</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-8-best-vr-controllers-to-check-out/"><u>[Updated] In 2024, Top 8 Best VR Controllers to Check Out</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ace-your-connectivity-with-our-picks-for-best-signal-amplifiers-of-2amide-2024/"><u>Ace Your Connectivity with Our Picks for Best Signal Amplifiers of 2Amide 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-mastery-showdown-same-prompt-different-bots/"><u>AI's Mastery Showdown: Same Prompt, Different Bots</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazing-alexa-experience-in-a-small-package-exploring-the-echo-dot-3rd-gen-review/"><u>Amazing Alexa Experience in a Small Package: Exploring the Echo Dot (3Rd Gen) Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-generative-ais-functioning-and-corporate-implementations/"><u>Behind the Scenes: Generative AI's Functioning & Corporate Implementations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-constraints-the-impermissible-questions-list/"><u>ChatGPT's Constraints: The Impermissible Questions List</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-motorola-g54-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Motorola G54 5G Phone?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-filmmakers-guide-to-capturing-exceptional-vo-recordings/"><u>In 2024, The Filmmaker's Guide to Capturing Exceptional VO Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-frame-tools-and-websites-image-editors-for-2024/"><u>Innovative Frame Tools and Websites Image Editors for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-language-learning-a-chatgpt-plus-approach/"><u>Interactive Language Learning: A ChatGPT Plus Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-scholarly-essays/"><u>Leveraging ChatGPT for Scholarly Essays</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-kitchen-tasks-with-chatgpt-7-essentials/"><u>Mastering Kitchen Tasks with ChatGPT - 7 Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nostalgia-in-your-palm-handhenas-and-hardware-hacks/"><u>Nostalgia in Your Palm: Handhenas and Hardware Hacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-dependability-of-zerogpt-tools-including-others/"><u>Probing the Dependability of ZeroGPT Tools, Including Others</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/syntax-spectacle-chatgpt-versus-googles-game/"><u>Syntax Spectacle: ChatGPT Versus Google's Game</u></a></li>
 </ul></div>
 

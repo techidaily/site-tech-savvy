@@ -1,7 +1,7 @@
 ---
 title: The Perils of Leaking Info to ChatGPT
-date: 2025-01-07T18:36:43.893Z
-updated: 2025-01-12T18:04:36.173Z
+date: 2025-02-11T01:46:37.055Z
+updated: 2025-02-16T01:10:20.664Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Leaked Confidential Information Via ChatGPT
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Data Leaks Happen?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
@@ -89,21 +89,24 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-insiders-guide-to-instagram-photo-integrity/"><u>[Updated] 2024 Approved The Insider’s Guide to Instagram Photo Integrity</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-z-flip-5-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy Z Flip 5 PC | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-innovations-countering-rising-security-concerns/"><u>AI Innovations: Countering Rising Security Concerns</u></a></li>
-<li><a href="https://discover-help.techidaily.com/complete-guide-restore-accidentally-erased-footage-from-your-gopro-camera/"><u>Complete Guide: Restore Accidentally Erased Footage From Your GoPro Camera</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-thermopro-tp67s-value-proposition-low-cost-vs-inconsistent-results/"><u>Evaluating the ThermoPro TP67's Value Proposition: Low-Cost Vs. Inconsistent Results</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-advice-curtailing-chatgpts-conversation-logging/"><u>Expert Advice: Curtailing ChatGPT's Conversation Logging</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/expert-level-techniques-in-video-spinning-and-joining-on-android-for-2024/"><u>Expert-Level Techniques in Video Spinning and Joining on Android for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-solo-efficacy-of-auto-gpt/"><u>Exploring the Solo Efficacy of Auto-GPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-cinematography-insights-the-leading-5-secrets/"><u>In 2024, Cinematography Insights The Leading 5 Secrets</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ators-amalgamating-photography-plus-music-into-videography-for-2024/"><u>Innovators Amalgamating Photography + Music Into Videography for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/pc-plays-dead-refusing-to-rise-on-win1110/"><u>PC Plays Dead: Refusing to Rise on Win11/10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stop-openais-data-harvesters-on-your-site/"><u>Stop OpenAI's Data Harvesters on Your Site</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rise-of-the-new-champion-why-claude-outdoes-gpt-part-14/"><u>The Rise of the New Champion: Why Claude Outdoes GPT, Part 1/4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-campfire-games-chatgpt-for-unforgettable-rpg-experiences/"><u>Transforming Campfire Games: ChatGPT for Unforgettable RPG Experiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-the-future-of-conversational-ai/"><u>Unleashing Potential: The Future of Conversational AI</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chromebook-zoom-excellence-must-know-strategies/"><u>[New] Chromebook Zoom Excellence Must-Know Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-perfect-photos-applying-radial-blur-in-ps/"><u>[New] In 2024, Perfect Photos Applying Radial Blur in PS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tiktok-audio-integrity-overcoming-silent-intervals-in-videos/"><u>[New] TikTok Audio Integrity Overcoming Silent Intervals in Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-youtube-studio-ultimate-video-edits-techniques/"><u>[Updated] 2024 Approved Mastering YouTube Studio Ultimate Video Edits Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wmam4atop4/"><u>「WMAファイルをM4Aに自由に変えるためのベストツールTOP4」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-step-by-step-guide-effortless-setup-of-the-kingdom-add-on-in-your-kodi-media-center/"><u>1. Step-by-Step Guide: Effortless Setup of the Kingdom Add-On in Your Kodi Media Center</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-channel-milestone-hurdle-cross-the-10k-view-threshold-fast/"><u>2024 Approved Channel Milestone Hurdle – Cross the 10K View Threshold Fast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whatsapp/"><u>対話録画機能付きWhatsAppビデオチャット完全マスター手ブック</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/it-right-youtube-video-retrospectives-with-tips/"><u>Flip It Right YouTube Video Retrospectives (With Tips!)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-access-government-recorded-content-for-free-online-for-2024/"><u>How to Access Government-Recorded Content for Free Online for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oppo-find-x7-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Oppo Find X7 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-made-simple-discover-the-power-of-manycam-as-your-go-to-virtual-camera-solution/"><u>Live Streaming Made Simple: Discover the Power of ManyCam as Your Go-To Virtual Camera Solution</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/turning-loss-into-gain-lessons-learned-from-defeat/"><u>Turning Loss Into Gain: Lessons Learned From Defeat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-premier-video-format-changer-from-dvd-to-avi-on-windows-11/"><u>Ultimate Guide: Premier Video Format Changer From DVD to AVI on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-top-methods-for-dvd-to-audio-conversion-using-premium-software/"><u>Ultimate Guide: Top Methods for DVD-to-Audio Conversion Using Premium Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tips-on-swiftly-transforming-videos-for-smartphones/"><u>Ultimate Tips on Swiftly Transforming Videos for Smartphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-matroska-video-files-mkv-step-by-step-playback-instructions/"><u>Unlocking the Secrets of Matroska Video Files (MKV): Step-by-Step Playback Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wav-and-m4a/"><u>WAV & M4A ファイル形式の違い：変換手段で覚え直しましょう</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windowstop12/"><u>Windowsパソコンに最適!ベストマイク録音ソフトウェアTOP12ピック</u></a></li>
 </ul></div>
 

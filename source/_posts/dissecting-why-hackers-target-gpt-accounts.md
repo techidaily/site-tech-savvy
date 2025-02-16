@@ -1,7 +1,7 @@
 ---
 title: Dissecting Why Hackers Target GPT Accounts
-date: 2025-01-26T23:14:52.715Z
-updated: 2025-02-02T17:01:18.807Z
+date: 2025-02-08T16:07:57.158Z
+updated: 2025-02-16T00:21:26.696Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Are ChatGPT Accounts Being Hacked?
 
  An [investigation report](https://www.group-ib.com/media-center/press-releases/stealers-chatgpt-credentials/) by cybersecurity research firm, Group-IB has revealed that over 100,000 ChatGPT accounts have been compromised at the time of writing, and are being pawned off in covert black markets. The accounts which were stolen in a non-selective hacking campaign are typically compromised by threat actors using info stealer malware, some of which has been sitting in their victim’s computers even before the launch of ChatGPT.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
  So why are hackers going after ChatGPT accounts, and why are people willing to pay for these stolen accounts?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Stealing Sensitive Information
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At first, losing your ChatGPT account doesn’t seem like something you should be worried about. But it is. Sure, if you lose a free account, you can create another within a few minutes. But what about the data it contains?
@@ -59,20 +55,20 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
  Aware of such threats, companies like Google and Samsung—as well as Microsoft, a major backer of OpenAI—have all either warned or explicitly banned their staff from sharing company data with the AI chatbot. The fact that these companies are issuing such warnings means that mistakes might already be happening.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reselling ChatGPT Accounts
 
  While most of the world can access the ChatGPT website, some countries are officially banned from the platform. At the time of writing, China, with more than a billion potential users, is on this list. While residents from banned countries can use a VPN and other measures to bypass this restriction, buying cheap, stolen premium accounts is also appealing. This naturally creates a market for stolen [ChatGPT Plus accounts](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), some of which are auctioned off to more than one user. With a readily available market, hackers are naturally incentivized to steal ChatGPT accounts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Protect Your ChatGPT Account
 
  Since ChatGPT accounts have become a prime target for hackers, how can you protect your ChatGPT account? Here are two ways to stay safe.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Set Up Two-Factor Authentication (2FA) on Your Account
 
@@ -92,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 1. Tap your account name in the bottom left corner of your ChatGPT interface.
 2. Go to **Clear Conversations > Confirm clear conversations** to delete all your saved conversations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protect Your ChatGPT Accounts From Hackers
 
@@ -116,16 +116,19 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-analyzing-why-youtube-features-specific-comments/"><u>[New] 2024 Approved Analyzing Why YouTube Features Specific Comments</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-elevate-landscape-imaging-with-your-iphone-device/"><u>[New] How to Elevate Landscape Imaging with Your iPhone Device</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-youtubes-payment-mechanisms-for-content-makers/"><u>2024 Approved Exploring YouTube's Payment Mechanisms for Content Makers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-find-x7-ultra-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-steps-to-uplift-gpts-integrated-plugin-platform/"><u>Essential Steps to Uplift GPT's Integrated Plugin Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-insights-ai-versus-astrological-fortune-telling/"><u>Future Insights: AI versus Astrological Fortune Telling</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-mastering-the-craft-selecting-the-top-5-web-based-title-makers/"><u>In 2024, Mastering the Craft Selecting the Top 5 Web-Based Title Makers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-pitaka-magez-automotive-mobile-dock-revolutionizing-your-iphones-travel-experience/"><u>In-Depth Analysis of Pitaka MagEZ Automotive Mobile Dock - Revolutionizing Your iPhone's Travel Experience.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-text-with-mega-sized-ai-models/"><u>Mastering Text with Mega-Sized AI Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolving-riddles-with-ai-math-style/"><u>Resolving Riddles with AI, Math Style</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/turning-text-to-audio-with-ais-help/"><u>Turning Text to Audio with AI's Help</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-key-strategies-in-livestreaming-major-sporting-contests-for-2024/"><u>[New] Key Strategies in Livestreaming Major Sporting Contests for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis/"><u>[New] The Ultimate Showdown GoPro Max 360 VS Hero 11 Analysis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-conducting-a-cross-platform-playlist-symphony-for-2024/"><u>[Updated] Conducting a Cross-Platform Playlist Symphony for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-photoshop-techniques-for-dynamic-realistic-text/"><u>[Updated] Photoshop Techniques for Dynamic, Realistic Text</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-turbo-momentum-boosted-by-the-helping-hand-of-copilot/"><u>Free Turbo Momentum Boosted by the Helping Hand of Copilot</u></a></li>
+<li><a href="https://win-latest.techidaily.com/freeware-losungen-fur-einzigartige-windows-7-datensicherungen-erklart/"><u>Freeware-Lösungen Für Einzigartige Windows 7 Datensicherungen Erklärt</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/quality-youtube-images-download-without-any-cost-for-2024/"><u>High-Quality YouTube Images Download Without Any Cost for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pivoting-to-perfection-fixing-plugin-link-errors-with-chatgpt/"><u>Pivoting to Perfection: Fixing Plugin Link Errors with ChatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstallers-method-for-erasing-profiles-on-your-windows-11-device-a-detailed-walkthrough/"><u>Revo Uninstaller's Method for Erasing Profiles on Your Windows 11 Device: A Detailed Walkthrough</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/search-giants-face-off-google-bard-vs-bing-chat/"><u>Search Giants Face Off: Google Bard Vs. Bing Chat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-contrast-of-ais-capability-and-impact-on-emotional-health/"><u>The Contrast of AI's Capability and Impact on Emotional Health</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-ai-customized-chatbot-via-gpt-techniques/"><u>Transformative AI: Customized ChatBot via GPT Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-zoom-video-error-discover-these-5-powerful-strategies/"><u>Ultimate Fixes for Zoom Video Error: Discover These 5 Powerful Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-does-chatgpt-mean-a-journey-through-generative-ai/"><u>What Does ChatGPT Mean? A Journey Through Generative AI</u></a></li>
 </ul></div>
 

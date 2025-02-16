@@ -1,7 +1,7 @@
 ---
 title: "Challenges for AI Advocates: The 8 Major Issues of ChatGPT"
-date: 2025-01-11T16:33:12.240Z
-updated: 2025-01-13T00:57:56.987Z
+date: 2025-02-14T19:06:25.649Z
+updated: 2025-02-15T21:36:41.326Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
  ChatGPT is a large language model designed to produce natural human language. Much like conversing with someone, you can talk to ChatGPT, and it will remember things you have said in the past while also being capable of correcting itself when challenged.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
 ![Three open padlocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/security-lock-privacy-breach.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The watchdog organization suspected that European privacy regulations were being breached. After investigating the issue, it requested that OpenAI meet several demands to reinstate the chatbot.
 
  OpenAI eventually resolved the issue with regulators by making several significant changes. For a start, an age restriction was added, limiting the use of the app to people 18+ or 13+ with guardian permission. It also made its Privacy Policy more visible and provided an [opt-out Google form](https://docs.google.com/forms/d/e/1FAIpQLScrnC-%5FA7JFs4LbIuzevQ%5F78hVERlNqqCPCt3d8XqnKOfdRdQ/viewform) for users to exclude their data from its training or [delete ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) entirely.
@@ -59,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  You might not think that you would share your personal details so easily, but we're all susceptible to a slip of the tongue, and a good example of this is how a [Samsung employee shared company information with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Concerns Over ChatGPT Training and Privacy Issues
@@ -79,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 ## 3\. ChatGPT Generates Wrong Answers
 
 ![A sheep in front of a blackboard with a wrong math equation displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wrong-math-answer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It fails at basic math, can't seem to answer simple logic questions, and will even go as far as to argue completely incorrect facts. As people across social media will attest, ChatGPT can get it wrong multiple times.
 
@@ -109,12 +121,16 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  By contrast, a similar AI chatbot called Sparrow—owned by Google's parent company, Alphabet—was released in September 2022\. However, it was purposely kept behind closed doors because of similar safety concerns. Around the same time, Facebook released an AI language model called Galactica, intended to help with academic research. However, it was rapidly recalled after many people criticized it for outputting wrong and biased results related to scientific research.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. ChatGPT Might Take Jobs From Humans
 
 ![litlte girl holding hands with robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/litlte-girl-holding-hands-with-robot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The dust has yet to settle after the rapid development and deployment of ChatGPT, but that hasn't stopped the underlying technology from being stitched into several commercial apps. Among the [apps that have integrated GPT-4](https://www.makeuseof.com/apps-integrate-use-gpt4/) are Duolingo and Khan Academy.
 
@@ -126,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
  Technological advancements have always resulted in jobs being lost, but the speed of AI advancements means multiple industries are facing rapid change. A huge cross-section of human jobs are seeing AI filtering into the workplace. Some jobs may find menial tasks being completed with the help of AI tools, while other positions may cease to exist in the future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT Is Challenging Education
 
  You can ask ChatGPT to proofread your writing or point out how to improve a paragraph. Or you can remove yourself from the equation entirely and ask ChatGPT to do all the writing for you.
@@ -137,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  Teachers have experimented with feeding English assignments to ChatGPT and have received answers that are better than what many of their students could do. From writing cover letters to describing major themes in a famous work of literature, ChatGPT can do it all without hesitation.
 
 ![ChatGPT explains the themes in the novel Neuromancer by William Gobson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-books-themes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That begs the question: if ChatGPT can write for us, will students need to learn this skill in the future? It might seem like an existential question, but since students have started using ChatGPT to help write their essays, educators will soon have to face reality.
 
@@ -164,10 +172,6 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
  The spread of fake information is a serious concern, too. The scale at which ChatGPT can produce text, coupled with the ability to make even incorrect information sound convincingly right, makes everything on the internet questionable. It's a critical combination that amplifies [the dangers of deepfake technology](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. OpenAI Holds All the Power
 
  With great power comes great responsibility, and OpenAI holds a fair share of it. It's one of the first AI companies to truly shake up the world with not one but multiple generative AI models, including Dall-E 2, GPT-3, and GPT-4\.
@@ -177,10 +181,6 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  On the contrary, the popularity of ChatGPT has spurred a race between big tech companies competing to launch the next big AI model; among them are Microsoft's Bing AI and [Google's Bard](https://www.makeuseof.com/google-bard-benefits/). Fearing that rapid development will lead to serious safety problems, a letter was penned by tech leaders worldwide asking for development to be delayed.
 
 ![ChatGPT explains whether AI code should be made open source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-open-source.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While OpenAI considers safety a high priority, there is a lot that we don't know about how the models themselves work, for better or worse. At the end of the day, the only choice we have is to unquestioningly trust that OpenAI will research, develop, and use ChatGPT responsibly.
 
@@ -217,24 +217,20 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-av1-versus-vp9-the-ultimate-codec-showdown/"><u>[New] 2024 Approved AV1 Versus VP9 The Ultimate Codec Showdown</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-capture-every-moment-on-mac-free-in-2024/"><u>[New] Capture Every Moment on Mac, FREE, In 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-practices-selecting-among-top-9-free-logo-designers/"><u>[New] In 2024, Best Practices Selecting Among Top 9 Free Logo Designers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-prime-strategies-for-constructing-mcc-homes/"><u>[New] Prime Strategies for Constructing MCC Homes</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-free-yourself-from-video-edges-on-youtube/"><u>[Updated] In 2024, Free Yourself From Video Edges on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-the-next-level-for-bing/"><u>Artificial Intelligence: The Next Level for Bing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-special-role-in-enterprise-settings/"><u>ChatGPT's Special Role in Enterprise Settings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/directive-design-mastery-top-7-online-learning-resources/"><u>Directive Design Mastery: Top 7 Online Learning Resources</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-your-podcast-potential-advanced-techniques-for-idevice-audio-recording/"><u>In 2024, Unlock Your Podcast Potential Advanced Techniques for iDevice Audio Recording</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/infographic-roundup-yts-shocking-reality-of-17-for-2024/"><u>Infographic Roundup YT's Shocking Reality of '17 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/key-points-deciding-on-chatgpts-effectiveness-in-mental-health/"><u>Key Points: Deciding on ChatGPT's Effectiveness in Mental Health</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-y470-usb-win7-compatibility/"><u>Lenovo Y470 USB-Win7 Compatibility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/llama-2-simplified-making-complex-tasks-manageable/"><u>Llama 2 Simplified: Making Complex Tasks Manageable</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimized-ai-dialogues-chatgpt-for-mac-enthusiasts/"><u>Optimized AI Dialogues: ChatGPT for Mac Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shaping-future-intelligence-the-birth-of-gpt-4/"><u>Shaping Future Intelligence: The Birth of GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-effective-chatgpt-utilization-in-freelance-writing/"><u>Strategies for Effective ChatGPT Utilization in Freelance Writing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-potential-of-siri-solutions-for-when-suggestions-fail-to-appear/"><u>Unlock the Potential of Siri: Solutions for When Suggestions Fail to Appear</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/vollstandige-anleitung-fur-die-sicherung-und-das-zurucksetzen-deines-iphone-5-auflage-einfuhrung-in-die-klimaforschung-die-zukunft-des-eises-implikationen-d269/"><u>Vollständige Anleitung Für Die Sicherung Und Das Zurücksetzen Deines iPhone 5. Auflage - Einführung in Die Klimaforschung'', ''Die Zukunft Des Eises – Implikationen Der Globalen Erwärmung'' Und ''Biodiversität Im Wandel: Anpassungen an Den Klimawandel''.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-claude-3-surpasses-chatgpt-an-exploration-into-four-aspects/"><u>Why Claude 3 Surpasses ChatGPT: An Exploration Into Four Aspects</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-your-guide-to-flawless-images-on-android-our-selection-of-top-editors/"><u>[New] 2024 Approved Your Guide to Flawless Images on Android Our Selection of Top Editors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-superior-ai-for-dynamic-imagery-creation/"><u>[Updated] 2024 Approved Superior AI for Dynamic Imagery Creation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quickcapturewin-instant-screenshots-for-pcs-for-2024/"><u>[Updated] QuickCaptureWin Instant Screenshots for PCs for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-silent-scribes-selection-top-choices-in-offline-recognition-tech/"><u>[Updated] Silent Scribes' Selection Top Choices in Offline Recognition Tech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-total-360-giroptic-vr-capture-examination-for-2024/"><u>[Updated] Total 360 Giroptic VR Capture Examination for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-your-digital-world-how-to-establish-a-youtube-channel/"><u>[Updated] Unveiling Your Digital World How to Establish a YouTube Channel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44ki44od44ox44kw44os44o844oj44od44oq44k344o844gu6kmz57sw44ks55plusl44kk44gf44ge44cn/"><u>「アップグレードポリシーの詳細を知りたい」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-best-zero-cost-video-compressors-available-online-compare-and-save-space/"><u>5 Best Zero-Cost Video Compressors Available Online – Compare and Save Space!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-high-quality-video-editing-swiftly-convert-swf-files-using-factory-pro-free-demo-plus-safe-checkout/"><u>Access High-Quality Video Editing: Swiftly Convert SWF Files Using Factory Pro (Free Demo + Safe Checkout)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auditory-analyzer-assessing-and-enhancing-the-real-sound-fidelity-in-your-recorded-materials/"><u>Auditory Analyzer: Assessing and Enhancing the Real Sound Fidelity in Your Recorded Materials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-tools-to-capture-crystal-clear-audio-in-wav-format-a-guide-for-all-your-electronics/"><u>Best Tools to Capture Crystal Clear Audio in WAV Format: A Guide for All Your Electronics</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-ace-2-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Ace 2 Pro Device</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-use-face-id-to-pay-for-itunes-and-app-store-purchases-on-iphone-6s-by-drfone-ios-unlock-ios-unlock/"><u>The way to Use Face ID to Pay for iTunes & App Store Purchases on iPhone 6s</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44km44kp44o844kv44oe44oz44gu5yan55sf44gr5zwp6agm44gm44gc44kl77yf5yuv55s744go6zplusz5qw944ks44k544og44o844k644gr6ig044gr44kl5pya5paw44og44kv44ol44od44kv/"><u>ウォークマンの再生に問題がある？動画と音楽をスムーズに聴ける最新テクニック</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44or44k944kz44oz44gn5yuv55s744gu5qplusu546h6kit5a6a44o75asj5pu044ks44kk44oj/"><u>パソコンで動画の比率設定・変更ガイド</u></a></li>
 </ul></div>
 

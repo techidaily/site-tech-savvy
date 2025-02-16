@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Artificial Mind
-date: 2024-12-29T21:35:23.343Z
-updated: 2025-01-06T06:24:46.109Z
+date: 2025-02-09T19:31:32.015Z
+updated: 2025-02-15T20:13:52.601Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
  So, let's break down artificial intelligence into its most simple terms. How does AI work, and how is it being used?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Simplest Explanation of AI
@@ -57,13 +57,13 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
  But even with all this, computers still can't fully think or understand like humans. Modern AI systems don't have common sense, emotions, or consciousness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI in More Detail
 
 ![chatgpt read aloud feature smartphone screen with chatgpt logo blur](https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
@@ -104,16 +104,12 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  AI has potential and applications that stretch far beyond the tech realm alone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Chatbots
 
 ![chatgpt dalle logo creation on smartphone screen](https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc239157d241009df908a14c3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Gavin Phillips/MakeUseOf
@@ -125,7 +121,7 @@ Gavin Phillips/MakeUseOf
  HuggingChat, Claude, and Gemini (formerly Bard) are other examples of AI chatbots. These services all differ in certain ways. Some are free, some are paid, some specialize in certain areas, while others are better with general tasks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Data Analysis
@@ -149,6 +145,10 @@ Gavin Phillips/MakeUseOf
  For example, if you type "purple sunset on the moon" into DALL-E, you'll get more than one result. Some art generators also let you pick a style for your generated image, such as vintage, hyperrealistic, or anime. DALL-E has evolved a lot since its initial release and is now on its third version, DALL-E 3\. You can [use DALL-E on ChatGPT Plus](https://www.makeuseof.com/how-to-use-dall-e-chatgpt-4-ai-images/) to generate AI images in your chats.
 
 ![microsoft image creator purple sunset on moon example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-image-creator-purple-sunset-on-moon-example.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Microsoft Image Creator/MakeUseOf
 
@@ -187,24 +187,14 @@ Microsoft Image Creator/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-guide-to-youtube-success-with-tubebuddy/"><u>[New] 2024 Approved The Ultimate Guide to YouTube Success with TubeBuddy</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-chuckle-clips-for-iphone/"><u>[New] In 2024, Chuckle Clips for iPhone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-enter-the-future-of-lettering-our-guide-to-the-best-9-websites-for-3d-graffiti-typefaces/"><u>[Updated] In 2024, Enter the Future of Lettering Our Guide to the Best 9 Websites for 3D Graffiti Typefaces</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unseen-chronicles-5-expertly-crafted-viewer-tools/"><u>2024 Approved Unseen Chronicles 5 Expertly Crafted Viewer Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alpaca-anthem-clashes-with-bards-gpts-woolly-counterpart/"><u>Alpaca Anthem Clashes with Bards, GPT's Woolly Counterpart</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-languages-confidently-with-mondlys-ar-technology/"><u>Conquer Languages Confidently With Mondly's AR Technology</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-depth-analysis-yakuza-like-a-dragon-review-why-its-a-game-changer-in-rpg-genre/"><u>In Depth Analysis: Yakuza: Like a Dragon Review - Why It's a Game Changer in RPG Genre</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-your-needs-met-by-going-local-with-llms/"><u>Is Your Needs Met by Going Local with LLMs?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-poetic-genres-gpt-3-as-your-guide/"><u>Navigating Poetic Genres: GPT-3 as Your Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-through-the-world-of-ai-assistants-and-bots/"><u>Navigating Through the World of AI Assistants and Bots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nomads-essential-tech-must-haves-on-sale-save-up-to-20-off-chargers-watch-bands-and-cases-shop-now-with-zdnet/"><u>Nomad's Essential Tech Must-Haves on Sale! Save up to 20% Off Chargers, Watch Bands & Cases | Shop Now with ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/recognizing-fake-chatgpt-services-a-users-guide/"><u>Recognizing Fake ChatGPT Services: A User’s Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-for-quick-and-effective-4k-xavc-to-prores-format-change/"><u>Step-by-Step Guide for Quick and Effective 4K XAVC to ProRes Format Change</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-hidden-features-unveiling-the-genius-of-apple-vision-pro-insights/"><u>Top 10 Hidden Features: Unveiling the Genius of Apple Vision Pro - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlink-from-chatgpt-a-quick-guide/"><u>Unlink From ChatGPT: A Quick Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-11-proplus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme 11 Pro+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/yosemite-video-editing-essentials-tips-and-tricks-for-2024/"><u>Yosemite Video Editing Essentials Tips and Tricks for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-exclusive-selection-best-savings-on-apple-watches-for-july-2n-2024-find-your-perfect-fit/"><u>ZDNet's Exclusive Selection: Best Savings on Apple Watches for July 2N, 2024 – Find Your Perfect Fit!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-effortless-pubg-vocal-modifications/"><u>[New] 2024 Approved Effortless PUBG Vocal Modifications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-footage-iphones-shortening-methods/"><u>[New] Streamline Your Footage IPhone's Shortening Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-user-dialogues-pivotal-for-the-progress-of-chatgpts-knowledge/"><u>Are User Dialogues Pivotal for the Progress of ChatGPT's Knowledge?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dts-surround-sound-problem-solved-fixes-for-device-recognition-issues/"><u>DTS Surround Sound Problem Solved: Fixes for Device Recognition Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-concept-to-characters-integrating-chatgpt-into-game-development/"><u>From Concept to Characters: Integrating ChatGPT Into Game Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-gpt-35-writes-journey-to-gpt-4s-innovations/"><u>From GPT-3.5' Writes: Journey to GPT-4's Innovations</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-minds-of-machines-palm-2-and-gpt-4-analysis/"><u>Inside the Minds of Machines: PaLM 2 and GPT-4 Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ideal-companion-for-telecommuters-unveiled-in-our-latest-laptop-review-on-zdnet/"><u>The Ideal Companion for Telecommuters Unveiled in Our Latest Laptop Review on ZDNet</u></a></li>
 </ul></div>
 

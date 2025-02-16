@@ -1,7 +1,7 @@
 ---
 title: "Unleashing AI Potential: 5 Free Graphic Makers"
-date: 2024-08-25T17:31:22.201Z
-updated: 2024-08-26T17:31:22.201Z
+date: 2025-02-08T18:56:23.503Z
+updated: 2025-02-15T22:51:39.848Z
 tags:
   - chatgpt
   - open-ai
@@ -56,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 ![stable-diffusion-web-ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/stable-diffusion-web-ui.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I'll spare you the overly technical details of how the model works (for which you can check out their [official Github repository](https://github.com/runwayml/stable-diffusion)), but the model is easy to install even for complete beginners and works well as long as you have a dedicated GPU with at least 4GB of memory. You can also access [Stable Diffusion](https://stablediffusionweb.com/) online, and we've got you covered if you want to [run Stable Diffusion on a Mac](https://www.makeuseof.com/how-to-use-stable-diffusion-mac/).
 
  There are several checkpoints (consider them versions) available to use for Stable Diffusion. While we tested out version 1.5, [version 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1) is also in active development and is more precise.
@@ -82,6 +83,10 @@ Yadullah Abidi/MakeUseOf/DreamShaper
 
  You don't need a behemoth PC to run the model, either. My GTX 1650Ti with 4GB VRAM ran the model perfectly. Generation time was a bit longer, but it didn't seem to affect the actual output. That said, you might require GPUs with more VRAM to run DreamShaper XL, which is based on the Stable Diffusion XL model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 InvokeAI
 
  Invoke AI is another AI-based image generation model based on Stable Diffusion, with an XL version based on Stable Diffusion XL. It also has its own web and command line user interface, meaning you won't have to jump hoops with things like the Stable Diffusion web UI.
@@ -89,8 +94,9 @@ Yadullah Abidi/MakeUseOf/DreamShaper
 ![invokeai-user-interface-with-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invokeai-user-interface-with-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The model focuses on letting users create visuals based on their intellectual property with customized workflows. InvokeAI is one of the best open-source AI image generation models for training custom models and working with intellectual property.
 
  Its [official Github repository](https://github.com/invoke-ai/InvokeAI?tab=readme-ov-file) lists two installation methods: installing via InvokeAI's installer or using PyPI if you're comfortable with a terminal and Python and need more control over the packages installed with the model.
@@ -99,9 +105,6 @@ Yadullah Abidi/MakeUseOf/DreamShaper
 
 ![invoke-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invoke-ai-generated-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 Yadullah Abidi/MakeUseOf/InvokeAI  
 
  While the documentation doesn't recommend Nvidia's GTX 10 Series and 16 Series GPUs for their lack of video memory, the provided installer did run just fine. While your mileage may vary, if you're on a lower-end GPU, expect to wait longer to see your prompts being turned into images. Finally, if you're on Windows, you can only use an Nvidia GPU, as there's no support for AMD GPUs currently.
@@ -109,8 +112,9 @@ Yadullah Abidi/MakeUseOf/InvokeAI
  For the image generation part, the model tends to lean more toward artistic styles than photorealism. Of course, you can train the model on your dataset and have it generate images closer to what you want, even if that involves photorealistic images, especially if you're working in product design, architecture, or retail spaces. However, one important thing to keep in mind is that InvokeAI is primarily an image generation engine, meaning you'll likely have to use your own models for the best results (easily found via the model manager provided in the web interface) as the default model is quite similar to Stable Diffusion itself.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 Openjourney
 
  Openjourney is a free, open-source AI image generation model based yet again on Stable Diffusion. If you're wondering why the model is called Openjourney, it's because it was trained on Midjourney images and can mimic its style in the images it generates.
@@ -119,10 +123,6 @@ Yadullah Abidi/MakeUseOf/InvokeAI
 
 ![openjourney-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-stablediffusion-comparison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  However, if you want to run it locally and for free, you can [download the model file from HuggingFace](https://huggingface.co/prompthero/openjourney) and run it using the Stable Diffusion web UI. Openjourney is also the second most downloaded AI image generation model on HuggingFace, right behind Stable Diffusion.
 
  Openjourney doesn't list any specific hardware requirements for running the model locally on its website, but you can expect similar hardware requirements to Stable Diffusion. This means a dedicated GPU with 4GB VRAM, 16GB RAM, and around 12 to 15GB of free space on your computer to save the model and its dependencies.
@@ -141,16 +141,14 @@ Yadullah Abidi/MakeUseOf/OpenJourney
 
  There are dozens of free and open-source AI text-to-image generators available on the internet that specialize in specific kinds of images. So, we've sifted through the pile and found the best open-source AI text-to-image generators you can try right now.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1 Craiyon
 
 ![craiyon-home-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Craiyon is one of the most easily accessible open-source AI image generators. It's based on DALL-E Mini, and while you can clone the [Github repository](https://github.com/borisdayma/dalle-mini) and install the model locally on your computer, Craiyon seems to have dropped this approach in favor of its website.
 
  The official Github repository hasn't been updated since June 2022, but the latest model is still available for free on the [official Craiyon site](https://www.craiyon.com/). There are no Android or iOS apps either.
@@ -159,9 +157,6 @@ Yadullah Abidi/MakeUseOf/OpenJourney
 
 ![craiyon-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-generated-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Additionally, "Expert Mode" lets you include negative words, which tells the model to avoid specific items. There's also a prompt prediction feature, which uses ChatGPT to help users write the best, most detailed prompts possible. Lastly, the AI-powered remove background features can help you save time and effort cropping backgrounds out of images.
 
  And that's about everything Craiyon does. It's not the most sophisticated AI image generation model, but it does well as a basic model if you don't want something detailed or realistic.
@@ -184,9 +179,6 @@ Yadullah Abidi/MakeUseOf/DreamShaper
 
  Running the model is also rather easy. We tested it with the [AUTOMATIC1111 Stable Diffusion web user interface](https://github.com/AUTOMATIC1111/stable-diffusion-webui), and all controls and parameters work well. It's also quite NSFW-proof courtesy of the LAION-5B database that the model trained on (although it's not perfect, mind you). While generation time itself will vary based on your hardware, you can expect your images to be detailed and realistic even with basic prompts.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## 3 DreamShaper
 
  DreamShaper is an image generation model based on Stable Diffusion. It was intended as an open-source alternative to MidJourney and focuses on photorealism in the generated images, although it can handle anime and painting styles just as well with a few tweaks.
@@ -195,9 +187,6 @@ Yadullah Abidi/MakeUseOf/DreamShaper
 
 ![dreamshaper-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/dreamshaper-stablediffusion-comparison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can probably guess by now, images generated by DreamShaper tend to look more realistic compared to Stable Diffusion. Even if you run the same prompt on both models, the DreamShaper model will likely be more realistic, detailed, and better-lit.
 
  This is especially true for portraits or characters, something I found Stable Diffusion lacking compared to the same prompt. If your images become too realistic, here are [four ways to identify an AI-generated image](https://www.makeuseof.com/how-to-identify-ai-generated-image/).
@@ -210,9 +199,6 @@ Yadullah Abidi/MakeUseOf/DreamShaper
 
 ![invokeai-user-interface-with-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invokeai-user-interface-with-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The model focuses on letting users create visuals based on their intellectual property with customized workflows. InvokeAI is one of the best open-source AI image generation models for training custom models and working with intellectual property.
 
  Its [official Github repository](https://github.com/invoke-ai/InvokeAI?tab=readme-ov-file) lists two installation methods: installing via InvokeAI's installer or using PyPI if you're comfortable with a terminal and Python and need more control over the packages installed with the model.
@@ -222,8 +208,9 @@ Yadullah Abidi/MakeUseOf/DreamShaper
 ![invoke-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invoke-ai-generated-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Yadullah Abidi/MakeUseOf/InvokeAI  
 
  While the documentation doesn't recommend Nvidia's GTX 10 Series and 16 Series GPUs for their lack of video memory, the provided installer did run just fine. While your mileage may vary, if you're on a lower-end GPU, expect to wait longer to see your prompts being turned into images. Finally, if you're on Windows, you can only use an Nvidia GPU, as there's no support for AMD GPUs currently.
@@ -244,9 +231,6 @@ Yadullah Abidi/MakeUseOf/InvokeAI
 
 ![openjourney-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-ai-generated-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Yadullah Abidi/MakeUseOf/OpenJourney
 
  Images generated by Openjourney tend to be balanced between photorealism and art unless otherwise specified. If you're looking for an all-around model and prefer the Midjourney look and feel without paying for the subscription, Openjourney is one of the best options.
@@ -271,9 +255,6 @@ Yadullah Abidi/MakeUseOf/OpenJourney
 
 ![craiyon-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-generated-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Additionally, "Expert Mode" lets you include negative words, which tells the model to avoid specific items. There's also a prompt prediction feature, which uses ChatGPT to help users write the best, most detailed prompts possible. Lastly, the AI-powered remove background features can help you save time and effort cropping backgrounds out of images.
 
  And that's about everything Craiyon does. It's not the most sophisticated AI image generation model, but it does well as a basic model if you don't want something detailed or realistic.
@@ -292,9 +273,6 @@ Yadullah Abidi/MakeUseOf/OpenJourney
 
 ![dreamshaper-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/dreamshaper-ai-generated-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Yadullah Abidi/MakeUseOf/DreamShaper
 
  Running the model is also rather easy. We tested it with the [AUTOMATIC1111 Stable Diffusion web user interface](https://github.com/AUTOMATIC1111/stable-diffusion-webui), and all controls and parameters work well. It's also quite NSFW-proof courtesy of the LAION-5B database that the model trained on (although it's not perfect, mind you). While generation time itself will vary based on your hardware, you can expect your images to be detailed and realistic even with basic prompts.
@@ -314,17 +292,15 @@ Yadullah Abidi/MakeUseOf/DreamShaper
  You don't need a behemoth PC to run the model, either. My GTX 1650Ti with 4GB VRAM ran the model perfectly. Generation time was a bit longer, but it didn't seem to affect the actual output. That said, you might require GPUs with more VRAM to run DreamShaper XL, which is based on the Stable Diffusion XL model.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 InvokeAI
 
  Invoke AI is another AI-based image generation model based on Stable Diffusion, with an XL version based on Stable Diffusion XL. It also has its own web and command line user interface, meaning you won't have to jump hoops with things like the Stable Diffusion web UI.
 
 ![invokeai-user-interface-with-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invokeai-user-interface-with-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  The model focuses on letting users create visuals based on their intellectual property with customized workflows. InvokeAI is one of the best open-source AI image generation models for training custom models and working with intellectual property.
 
  Its [official Github repository](https://github.com/invoke-ai/InvokeAI?tab=readme-ov-file) lists two installation methods: installing via InvokeAI's installer or using PyPI if you're comfortable with a terminal and Python and need more control over the packages installed with the model.
@@ -347,9 +323,6 @@ Yadullah Abidi/MakeUseOf/InvokeAI
 
 ![openjourney-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-stablediffusion-comparison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  However, if you want to run it locally and for free, you can [download the model file from HuggingFace](https://huggingface.co/prompthero/openjourney) and run it using the Stable Diffusion web UI. Openjourney is also the second most downloaded AI image generation model on HuggingFace, right behind Stable Diffusion.
 
  Openjourney doesn't list any specific hardware requirements for running the model locally on its website, but you can expect similar hardware requirements to Stable Diffusion. This means a dedicated GPU with 4GB VRAM, 16GB RAM, and around 12 to 15GB of free space on your computer to save the model and its dependencies.
@@ -368,12 +341,13 @@ Yadullah Abidi/MakeUseOf/OpenJourney
 
  There are dozens of free and open-source AI text-to-image generators available on the internet that specialize in specific kinds of images. So, we've sifted through the pile and found the best open-source AI text-to-image generators you can try right now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1 Craiyon
 
 ![craiyon-home-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Craiyon is one of the most easily accessible open-source AI image generators. It's based on DALL-E Mini, and while you can clone the [Github repository](https://github.com/borisdayma/dalle-mini) and install the model locally on your computer, Craiyon seems to have dropped this approach in favor of its website.
 
@@ -384,8 +358,9 @@ Yadullah Abidi/MakeUseOf/OpenJourney
 ![craiyon-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-generated-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Additionally, "Expert Mode" lets you include negative words, which tells the model to avoid specific items. There's also a prompt prediction feature, which uses ChatGPT to help users write the best, most detailed prompts possible. Lastly, the AI-powered remove background features can help you save time and effort cropping backgrounds out of images.
 
  And that's about everything Craiyon does. It's not the most sophisticated AI image generation model, but it does well as a basic model if you don't want something detailed or realistic.
@@ -398,9 +373,6 @@ Yadullah Abidi/MakeUseOf/OpenJourney
 
 ![stable-diffusion-web-ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/stable-diffusion-web-ui.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I'll spare you the overly technical details of how the model works (for which you can check out their [official Github repository](https://github.com/runwayml/stable-diffusion)), but the model is easy to install even for complete beginners and works well as long as you have a dedicated GPU with at least 4GB of memory. You can also access [Stable Diffusion](https://stablediffusionweb.com/) online, and we've got you covered if you want to [run Stable Diffusion on a Mac](https://www.makeuseof.com/how-to-use-stable-diffusion-mac/).
 
  There are several checkpoints (consider them versions) available to use for Stable Diffusion. While we tested out version 1.5, [version 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1) is also in active development and is more precise.
@@ -431,9 +403,6 @@ Yadullah Abidi/MakeUseOf/DreamShaper
 
 ![invokeai-user-interface-with-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invokeai-user-interface-with-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  The model focuses on letting users create visuals based on their intellectual property with customized workflows. InvokeAI is one of the best open-source AI image generation models for training custom models and working with intellectual property.
 
  Its [official Github repository](https://github.com/invoke-ai/InvokeAI?tab=readme-ov-file) lists two installation methods: installing via InvokeAI's installer or using PyPI if you're comfortable with a terminal and Python and need more control over the packages installed with the model.
@@ -448,9 +417,6 @@ Yadullah Abidi/MakeUseOf/InvokeAI
 
  For the image generation part, the model tends to lean more toward artistic styles than photorealism. Of course, you can train the model on your dataset and have it generate images closer to what you want, even if that involves photorealistic images, especially if you're working in product design, architecture, or retail spaces. However, one important thing to keep in mind is that InvokeAI is primarily an image generation engine, meaning you'll likely have to use your own models for the best results (easily found via the model manager provided in the web interface) as the default model is quite similar to Stable Diffusion itself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Openjourney
 
  Openjourney is a free, open-source AI image generation model based yet again on Stable Diffusion. If you're wondering why the model is called Openjourney, it's because it was trained on Midjourney images and can mimic its style in the images it generates.
@@ -459,14 +425,15 @@ Yadullah Abidi/MakeUseOf/InvokeAI
 
 ![openjourney-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-stablediffusion-comparison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  However, if you want to run it locally and for free, you can [download the model file from HuggingFace](https://huggingface.co/prompthero/openjourney) and run it using the Stable Diffusion web UI. Openjourney is also the second most downloaded AI image generation model on HuggingFace, right behind Stable Diffusion.
 
  Openjourney doesn't list any specific hardware requirements for running the model locally on its website, but you can expect similar hardware requirements to Stable Diffusion. This means a dedicated GPU with 4GB VRAM, 16GB RAM, and around 12 to 15GB of free space on your computer to save the model and its dependencies.
 
 ![openjourney-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-ai-generated-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Yadullah Abidi/MakeUseOf/OpenJourney
 
@@ -478,8 +445,6 @@ Yadullah Abidi/MakeUseOf/OpenJourney
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -487,4 +452,21 @@ Yadullah Abidi/MakeUseOf/OpenJourney
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-stepwise-journey-to-excellence-in-voice-memos-for-2024/"><u>[New] Stepwise Journey to Excellence in Voice Memos for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-lighting-options-for-immersive-games/"><u>Essential Lighting Options for Immersive Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-overcome-iphone-synchronization-issues-with-itunes-error-code-54-after-upgrading-to-windows-10/"><u>How to Overcome iPhone Synchronization Issues with iTunes Error Code '-54' After Upgrading to Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-crafting-the-perfect-youtube-channel-url-a-quick-guide/"><u>In 2024, Crafting the Perfect YouTube Channel Url A Quick Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infuse-motion-blur-into-image-sequence/"><u>In 2024, Infuse Motion Blur Into Image Sequence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolved-how-to-fix-the-snipping-tool-malfunction-in-windows-10-and-11/"><u>Resolved: How to Fix the Snipping Tool Malfunction in Windows 10 and 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-lag-issues-effective-strategies-to-eliminate-frame-rate-drops-in-apex-legends-on-your-computer/"><u>Resolving Lag Issues: Effective Strategies to Eliminate Frame Rate Drops in Apex Legends on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-up-your-iphone-hotspot-as-a-wi-fi-hotspot/"><u>Set Up Your iPhone Hotspot as a Wi-Fi Hotspot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solution-uncover-the-reasons-behind-your-sluggish-hp-notebook/"><u>Solution: Uncover the Reasons Behind Your Sluggish HP Notebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solved-navigating-windows-11s-boot-configuration-for-beginners/"><u>Solved: Navigating Windows 11'S Boot Configuration for Beginners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-the-problem-what-to-do-when-you-see-missing-cddvd-drive-device-driver-message/"><u>Solving the Problem: What To Do When You See 'Missing CD/DVD Drive Device Driver' Message</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/universal-access-how-to-enable-icloud-photo-sharing-across-apple-windows-and-android/"><u>Universal Access: How to Enable iCloud Photo Sharing Across Apple, Windows & Android</u></a></li>
+</ul></div>
 

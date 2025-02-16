@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Generative AI Search: Industry Adopters Explained"
-date: 2024-08-21T15:41:12.931Z
-updated: 2024-08-22T15:41:12.931Z
+date: 2025-02-12T02:02:30.051Z
+updated: 2025-02-15T21:00:27.164Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 
  We're talking, of course, about AI chats and searching. But what exactly is generative AI search, and which companies are using it?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Generative AI Search?
 
 ![OpenAI logo up-close on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-ai-web-apps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First off, we need to explain what generative AI search is. You're probably familiar with the concept of generative AI—it's a type of artificial intelligence that can generate content for you, from images to text, to music, and everything in between. It started catching on in late 2021 to early 2022, but it's matured to the point it can do some really amazing—and occasionally creepy—things.
 
@@ -39,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 
 ![openai chatgpt logo on code background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/openai-chatgpt-logo-on-code-background-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are a few ways in which generative AI search is vastly different from regular search.
 
  Right now, if you pull up Google and enter a search term, it'll return a number of search results of different things it found through the internet matching your search. Search engines in their current state are, essentially, directories of websites. They do the best job possible at indexing billions of websites and looking through each and every one of them to give you the exact one you're looking for.
@@ -50,15 +62,17 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
  It has a few challenges ahead, and it might not replace regular search engines entirely as they will still have their purpose, but it might become a nice compliment that will make them way more useful whenever the technology is mature and released.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Companies Are Using Generative AI Search?
 
 ![microsoft building with logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-building.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Right now, the generative AI search battle is being fought between Google and Microsoft.
 
  Microsoft announced the release of "[the new Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) ," a new version of the company's search engine that will provide you not only with the regular Bing search experience but also with a complimentary, ChatGPT-like window where you can ask "real questions" and get "complete answers." You can ask it for help with your daily life, or just simple questions that you might or might not find using regular Bing.
@@ -67,18 +81,12 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 
  Google, on the other hand, is also coming up with new AI features of its own. Google launched its [ChatGPT-like chatbot called Bard](http://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) , but eventually, the company wants to bring AI features into its main products as well. This includes the company's regular search experience, where AI-generated answers will complement, not replace, regular search results.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## When Will I Be Able to Use Generative AI Search?
 
  Right now, you're able to play around with ChatGPT. It's been doing some amazing things, and [you can ask it to come up with answers to your questions](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) now. It has a few limitations—it is, of course, a product in testing, its data range is limited to the end of 2021 (at the time of writing), and it might occasionally say inaccurate or false things. But it's a fun product to play around with.
 
  As for actual AI-powered search engines, you can now join the waitlist for "the new Bing" at Microsoft's website. As for Google, there's no waitlist, but the company might eventually open up its work on AI sometime over the next few months.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Generative AI Search is Great
 
  Generative AI search still needs work to become truly useful, but it is already a promising prospect. We can't wait to hear more about it as work continues on AI products.
@@ -89,8 +97,6 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +104,24 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-12-tycoon-masterpieces-for-unparalleled-gaming-bliss/"><u>[New] Top 12 Tycoon Masterpieces for Unparalleled Gaming Bliss</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>[Updated] 2024 Approved 12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-quick-file-formatting-magic-turning-srt-into-txt-in-minutes/"><u>[Updated] 2024 Approved Quick File Formatting Magic Turning SRT Into TXT in Minutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2-enhance-user-experience-and-data-insights-the-cookiebot-difference/"><u>2. Enhance User Experience and Data Insights: The Cookiebot Difference</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbeyy-and-fronteo/"><u>ABBEYY & FRONTEO連携による法令理解向上戦略</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-achieves-soc-2-compliance-bolsters-trust-in-transactional-processes/"><u>ABBYY Achieves SOC #2 Compliance, Bolsters Trust in Transactional Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-privacy-and-data-handling-guidelines/"><u>ABBYY Privacy & Data Handling Guidelines</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/abilitazione-dellavvio-sicuro-non-attivata-su-windows-11-risolto/"><u>Abilitazione Dell'Avvio Sicuro Non Attivata Su Windows 11 [Risolto]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/act-fast-overcoming-paperwork-hurdles-in-the-insurance-industry/"><u>Act Fast! Overcoming Paperwork Hurdles in the Insurance Industry</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehve-guide-to-removing-dirt-and-grime-from-a-mechanical-keyboard/"><u>Comprehve Guide to Removing Dirt & Grime From a Mechanical Keyboard</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/fullscreen-imprint-of-site-for-2024/"><u>Fullscreen Imprint of Site for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/los-mejores-utilidades-gratuitas-de-descarga-de-contenido-de-dvd-en-windows-peliculaaviwmv-eleccion-del-ano-2020/"><u>Los Mejores Utilidades Gratuitas De Descarga De Contenido De DVD en Windows ([Película/AVI/WMV]) - Elección Del Año 2020</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-dokumentenmanagement-in-der-finanzbranche-innovative-einsatzmoglichkeiten/"><u>Smart-Dokumentenmanagement in Der Finanzbranche: Innovative Einsatzmöglichkeiten</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-legal-terms-for-abbyy-online-platform-use-and-compliance/"><u>Understanding the Legal Terms for ABBYY Online Platform Use and Compliance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-new-era-of-abbyy-brand-what-lies-behind-it-discover-at-abbyy-reimagine/"><u>Unveiling the New Era of ABBYY Brand: What Lies Behind It? - Discover at ABBYY Reimagine!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/video-mp4-rotabile-di-alta-qualita-scelta-tra-ruotamenti-a-90-180-e-270-gradi-senza-perdite-visive/"><u>Video MP4 Rotabile Di Alta Qualità - Scelta Tra Ruotamenti a 90, 180 E 270 Gradi Senza Perdite Visive</u></a></li>
+<li><a href="https://article-tips.techidaily.com/your-signature-starts-here-free-modifiable-logos-to-define-brands/"><u>Your Signature Starts Here Free, Modifiable Logos to Define Brands</u></a></li>
+</ul></div>
 

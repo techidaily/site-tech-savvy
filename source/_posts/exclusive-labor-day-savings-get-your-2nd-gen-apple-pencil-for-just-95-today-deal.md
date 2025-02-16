@@ -1,7 +1,7 @@
 ---
 title: Exclusive Labor Day Savings! Get Your 2Nd Gen Apple Pencil for Just $95 Today Deal
-date: 2025-02-01T17:46:51.844Z
-updated: 2025-02-02T19:05:08.648Z
+date: 2025-02-08T19:39:52.108Z
+updated: 2025-02-15T20:14:12.445Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,17 +71,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-strategically-use-tags-for-youtube-success/"><u>[New] 2024 Approved How to Strategically Use Tags for YouTube Success</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-conversations-on-messenger-a-comprehensive-how-to/"><u>[New] Capturing Conversations on Messenger A Comprehensive How-To</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-circumnavigating-youtubes-block-list-for-2024/"><u>[Updated] Circumnavigating YouTube's Block List for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-computing-exposed-the-authoritative-look-at-toms-hardware-reviews/"><u>Advanced Computing Exposed: The Authoritative Look at Tom's Hardware Reviews</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-fixing-google-meet-microphone-failures-on-windows-operating-systems-111n/"><u>Diagnose & Repair: Fixing Google Meet Microphone Failures on Windows Operating Systems (11/1N)</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/easy-guide-moving-your-iphone-apps-wirelessly-from-one-device-to-another/"><u>Easy Guide: Moving Your iPhone Apps Wirelessly From One Device to Another</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-ai-setup-gpt-on-pc/"><u>Embracing AI: Setup GPT on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-there-a-cap-on-word-or-character-count-in-gpt-responses/"><u>Is There a Cap on Word or Character Count in GPT Responses?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/jokesters-of-java-ai-and-its-quest-for-chuckles/"><u>Jokesters of Java: AI and Its Quest for Chuckles</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oneplus-nord-n30-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing OnePlus Nord N30 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-eliminate-windows-wireless-speaker-crackle-on-win11-and-win7/"><u>Step-by-Step Guide: Eliminate Window's Wireless Speaker Crackle on Win11 & Win7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sync-your-speech-with-chatgpts-ai-response-system/"><u>Sync Your Speech with ChatGPT's AI Response System</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-sleight-of-the-brain-navigating-top-room-riddles/"><u>[New] In 2024, Sleight of the Brain Navigating Top Room Riddles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-acknowledgments-galore-cost-effective-templates-here/"><u>[Updated] Acknowledgments Galore Cost-Effective Templates Here</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-spot-and-discard-phony-instagram-acquaintances/"><u>[Updated] In 2024, How To Spot and Discard Phony Instagram Acquaintances</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-10-roguelike-or-roguelite-games-for-2024/"><u>[Updated] Top 10 Roguelike or Roguelite Games for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-enhanced-the-future-of-artificial-intelligence-powered-searches/"><u>Bing Enhanced: The Future of Artificial Intelligence-Powered Searches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-vpn-settings-optimize-chatgpt-interaction/"><u>Can VPN Settings Optimize ChatGPT Interaction?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparison-chart-gpt-4-and-gpt-35-divergences/"><u>Comparison Chart: GPT-4 & GPT-3.5 Divergences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-impact-of-vector-databases-on-ai-systems/"><u>Decoding the Impact of Vector Databases on AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogues-and-dynamics-ai-driven-techniques-for-engaging-video-game-scripts/"><u>Dialogues and Dynamics: AI-Driven Techniques for Engaging Video Game Scripts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/five-ways-ai-streamlines-crypto-trading-strategies/"><u>Five Ways AI Streamlines Crypto Trading Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-radeon-rx-ebox-driver-for-windows-111087-safe-and-easy-downloads/"><u>Get the Latest AMD Radeon RX Ebox Driver for Windows 11/10/8/7 - Safe and Easy Downloads</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-confidential-matters-from-the-prying-eyes-of-ai/"><u>Keep Confidential Matters From the Prying Eyes of AI</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-ultimate-guide-converting-4k-videos-to-mp4-for-easy-download/"><u>New In 2024, Ultimate Guide Converting 4K Videos to MP4 for Easy Download</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/worth-it-or-a-luxury-expense-for-advanced-ai-outputs/"><u>Worth It or a Luxury Expense for Advanced AI Outputs?</u></a></li>
 </ul></div>
 

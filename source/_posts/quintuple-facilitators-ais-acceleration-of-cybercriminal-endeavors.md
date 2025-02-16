@@ -1,7 +1,7 @@
 ---
 title: "Quintuple Facilitators: AI's Acceleration of Cybercriminal Endeavors"
-date: 2024-08-25T17:31:37.985Z
-updated: 2024-08-26T17:31:37.985Z
+date: 2025-02-08T22:26:06.646Z
+updated: 2025-02-15T22:17:34.950Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Writing Malware
 
  Artificial intelligence is an advanced type of technology, so some may not find it surprising that it can be used to write malware. Malware is a term for malicious programs used (a portmanteau of the words "malicious" and "software") in hacking, and can come in many forms. But to use malware, it must first be written.
@@ -35,6 +39,10 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  ChatGPT (or at least its latest version) can only write basic, and sometimes buggy, malware programs, rather than sophisticated code that poses severe threats. However, this isn't to say that AI cannot be used to write malware. Given that a current AI chatbot can create basic malicious programs, it may not be long before we see more heinous malware originate from AI systems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Cracking Passwords
 
  Passwords often stand as the one line of data protecting our accounts and devices. So, unsurprisingly, many cybercriminals try to crack passwords in order to gain access to our private data.
@@ -46,8 +54,9 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  These figures show how dangerous AI password cracking can be. With the ability to crack most regular passwords in less than 24 hours, there's no knowing what a cybercriminal could do using such a tool.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Conducting Social Engineering
 
  The cybercrime tactic [known as social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) claims hordes of victims every week, and is a major problem in every part of the world. This method uses manipulation to corner victims into complying with the attacker's demands, often without even realizing that they're being targeted
@@ -57,8 +66,9 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  In this sense, AI could also help in making malicious communications look more professional and official by ironing out spelling and grammar mistakes. Such errors are often said to be possible signs of malicious activity, so it may help cybercriminals if they can write their social engineering content more cleanly and effectively.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Finding Software Vulnerabilities
 
  To hack software programs, cybercriminals often need to find and exploit a security vulnerability. These vulnerabilities often arise as a result of bugs in the software's code. If a bug goes unpatched, or an individual doesn't regularly update their software programs (which often irons out security flaws), vulnerabilities can pose a major risk.
@@ -67,24 +77,19 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  However, this AI application could also be helpful for cybersecurity vendors, as it could [aid in finding vulnerabilities](https://www.makeuseof.com/top-vulnerability-scanning-tools/) before they are exploited. Being able to patch a flaw quickly can cut off malicious actors' ability to exploit it, mitigating attacks overall.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Analyzing Stolen Data
 ![Data on Laptop Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/data-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Data is as valuable as gold. Today, [sensitive data is sold on dark web marketplaces](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) on a constant basis, with some malicious actors willing to pay a very high price if the information is useful enough.
 
  But for this data to become available on these marketplaces, it first needs to be stolen. Data can certainly be stolen in small amounts, especially when the attacker is targeting lone victims. But larger hacks can result in the theft of huge databases. At this point, the cybercriminal needs to determine what information in this database is valuable.
 
  Using AI, the process of highlighting valuable information could be streamlined, cutting down the time it takes for a malicious actor to determine what is worth selling, or, on the other hand, directly exploiting by their own hand. Artificial intelligence, at its core, is all about learning, so it could one day become easy to use an AI-powered tool to pick up on valuable sensitive data.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Is Promising but Also Poses Many Threats
 
  As is the case with most kinds of technology, artificial intelligence has been, and will continue to be, exploited by cybercriminals. With AI already having some illicit capabilities, there's really no knowing how cybercriminals will be able to advance their attacks using this technology in the near future. Cybersecurity firms may also work increasingly with AI to fight such threats, but time will tell how this one plays out.
@@ -97,8 +102,6 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +109,21 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-innovative-igtv-editor-apps-for-creative-vertical-content-for-2024/"><u>[New] Innovative IGTV Editor Apps for Creative Vertical Content for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-evolution-of-color-formats-from-rgb-to-srgb/"><u>2024 Approved The Evolution of Color Formats From Rgb to Srgb</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-steps-to-uninstall-chrome-add-ons-successfully/"><u>Complete Guide: Steps to Uninstall Chrome Add-Ons Successfully</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-using-utorrent-for-easy-and-safe-film-acquisition/"><u>Comprehensive Guide to Using uTorrent for Easy and Safe Film Acquisition</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/comprehensive-tutorial-on-how-to-install-latest-graphics-card-drivers-by-yl-software/"><u>Comprehensive Tutorial on How to Install Latest Graphics Card Drivers by YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/create-a-zip-file-easily-for-windows-7-and-windows-11/"><u>Create a ZIP File Easily for Windows 7 & Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diagnosing-and-fixing-high-cpu-load-caused-by-security-software-in-windows-11-and-10-environments/"><u>Diagnosing and Fixing High CPU Load Caused by Security Software in Windows 11 & 10 Environments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-steps-to-determine-your-nvidia-graphics-cards-current-driver/"><u>Effortless Steps to Determine Your NVIDIA Graphics Card's Current Driver</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-10-4g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark 10 4G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-naming-gems-top-strategies-for-exceptional-podcast-titles/"><u>In 2024, Naming Gems Top Strategies for Exceptional Podcast Titles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-aesthetics-final-cut-pro-x-for-editing-tall-screen-content-for-2024/"><u>Instagram Aesthetics Final Cut Pro X for Editing Tall-Screen Content for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/iphone-7-perfect-screen-recording-setup-for-2024/"><u>IPhone 7 Perfect Screen Recording Setup for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-reign-supreme-with-these-11-video-seo-techniques-on-youtube-for-2024/"><u>Ranking Reign Supreme with These 11 Video SEO Techniques on YouTube for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-seo-agencies-in-milan-italy-optimized-ranking-with-powersuite-tools/"><u>Top SEO Agencies in Milan, Italy - Optimized Ranking with PowerSuite Tools</u></a></li>
+</ul></div>
 

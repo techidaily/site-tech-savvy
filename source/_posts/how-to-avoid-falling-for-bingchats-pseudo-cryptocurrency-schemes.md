@@ -1,7 +1,7 @@
 ---
 title: How to Avoid Falling for BingChat's Pseudo-Cryptocurrency Schemes
-date: 2025-01-28T17:30:05.307Z
-updated: 2025-02-02T21:42:17.965Z
+date: 2025-02-13T00:03:42.560Z
+updated: 2025-02-15T20:52:08.942Z
 tags:
   - chatgpt
   - open-ai
@@ -27,16 +27,12 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Bing's AI Browser?
 
 ![digital graphic of rotating bing logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-blue-logo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Nowadays, your typical search engine will take inputted text and scour the internet for the most relevant results. This is by no means a shoddy model but could be improved upon using artificial intelligence.
 
@@ -45,7 +41,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  With Microsoft integrating AI into its Bing search tool, users can expect an improved search experience, more complete answers, and an interactive AI-powered chat to help them create content. So, how are these new technologies being capitalized on by malicious actors?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are BingChatGPT Scam Tokens?
@@ -53,7 +49,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 ![red digital scam alert graphic with binary code in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scam-alert-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The crypto industry is no stranger to scam tokens. Thousands of people have fallen victim to fake assets launched by malicious actors, with some losing huge amounts of money to such scams. So, it's really no surprise that cybercriminals are looking to use Bing and ChatGPT's well-established names to lure in unknowing victims.
@@ -73,7 +69,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  Then, the scammers who launched the coin will sell all their holdings at a higher price. These scammers hold back a large proportion of the overall supply to make big profits by dumping it after the price rise. The huge sell-off causes a massive price crash, leaving all other investors out of pocket.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Steer Clear of Scam Crypto Tokens
@@ -85,6 +81,10 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  You should also steer clear of brand-new tokens that have experienced huge price hikes in a short period. Additionally, you could check how much of the total token supply is in circulation. If a very high proportion is being held back, this may indicate that the developers are looking to sell off a large volume at some point.
 
  Finally, beware of tokens with names linked to any trend or meme. [Memecoins like Dogecoin and Shiba Inu](https://www.makeuseof.com/what-are-crypto-meme-coins/) have become popular, but most meme cryptos are used in scams.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Scam Tokens Pose a Huge Risk to Investors
 
@@ -107,24 +107,18 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-maximizing-auditory-experience-on-windows-10/"><u>[New] Maximizing Auditory Experience on Windows 10</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-dismantling-the-shadowy-video-barrier-on-youtube-for-2024/"><u>[Updated] Dismantling the Shadowy Video Barrier on YouTube for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-mobile-overlay-tools-top-10-innovative-photo-enhancers/"><u>[Updated] Free Mobile Overlay Tools - Top 10 Innovative Photo Enhancers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/apple-iphone-12-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 12 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-setting-up-and-using-remote-desktop-feature-in-windows-11/"><u>Complete Tutorial: Setting Up and Using Remote Desktop Feature in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/connecting-your-bluetooth-or-rf-wireless-mouse-on-windows-and-macos-systems/"><u>Connecting Your Bluetooth or RF Wireless Mouse on Windows & macOS Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cpu-overheating-alerts-and-remedies-essential-tips-for-protecting-your-pc/"><u>CPU Overheating Alerts & Remedies: Essential Tips for Protecting Your PC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-superiority-of-netgear-orbi-a-detailed-review-for-unmatched-wireless-performance/"><u>Discover the Superiority of Netgear Orbi - A Detailed Review for Unmatched Wireless Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortlessly-stop-intrusive-ads-a-step-by-step-guide-to-browsing-without-interruptions-on-firefox/"><u>Effortlessly Stop Intrusive Ads: A Step-by-Step Guide to Browsing Without Interruptions on Firefox</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-gaming-with-lag-free-video-streaming-on-sonys-console/"><u>Enhance Gaming with Lag-Free Video Streaming on Sony's Console</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ensuring-file-security-on-windows-10-master-the-7-essential-steps-for-transferring-and-backing-up-files-on-another-drive/"><u>Ensuring File Security on Windows 10: Master the 7 Essential Steps for Transferring and Backing Up Files on Another Drive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-advice-step-by-step-kodi-setup-on-xbox-one-latest-2024-version/"><u>Expert Advice: Step by Step Kodi Setup on Xbox One (Latest 2024 Version)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-for-enhancing-file-transfer-speeds-no-hassle/"><u>Expert Tips for Enhancing File Transfer Speeds - No Hassle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-for-instant-driver-updates-on-windows-11/"><u>Expert Tips for Instant Driver Updates on Windows 11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-understanding-and-utilizing-adobes-storage-plus-insights-into-alternate-vaulting-services/"><u>In 2024, Understanding and Utilizing Adobe's Storage, Plus Insights Into Alternate Vaulting Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instrucuions-connect-a-new-usb-receiver-with-your-logitech-mouse/"><u>Step-by-Step Instrucuions: Connect a New USB Receiver with Your Logitech Mouse</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-great-android-camera-apps-for-amazing-shots/"><u>The Ultimate List of Great Android Camera Apps for Amazing Shots</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-pick-childrens-films-streaming-on-disneyplus-in-july-2024/"><u>Top Pick Children's Films Streaming on Disney+ in July 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-non-functional-voice-chat-on-modern-warfare/"><u>Troubleshooting Guide: Resolving Non-Functional Voice Chat on Modern Warfare</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-mechanics-of-producing-engaging-mukbang-content-for-2024/"><u>[New] The Mechanics of Producing Engaging Mukbang Content for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-online-deals-on-webcam-protection-kits/"><u>[Updated] In 2024, Best Online Deals on Webcam Protection Kits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cdsd/"><u>「コンピューターでCDからSDメモリカードへの音声移行手段」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-skip-the-struggle-tips-on-avoiding-online-edgenuity-lessons/"><u>2024 Approved Skip the Struggle Tips on Avoiding Online Edgenuity Lessons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/canva/"><u>動画分割手順を教える! Canvaで簡易操作法と代用方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5yuv55s744gu44gw44kp44gk44gn44gm5q2i44gplus44kl5pa55rov77ya56k65a6f44gr44k544og44o844k65yyw44gz44kl44gf44kb44gu44os44oz44oi44go44ov44k2/"><u>動画のざわつきが止まる方法：確実にスムーズ化するためのヒントとワザ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ac-3-vs-aac/"><u>AC-3 Vs. AAC：主要な違いとファイル間変換手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cdawav/"><u>CDA音声ファイルからWAV形式への簡単な変換手順 -初学者向けチュートリアル</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comment-deplacer-des-applications-installees-dun-pc-vers-un-autre-avec-windows-11/"><u>Comment Déplacer Des Applications Installées D'un PC Vers Un Autre Avec Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-the-disappearing-act-fix-your-windows-11-touchpad-cursor-issues/"><u>Eliminate the Disappearing Act: Fix Your Windows 11 Touchpad Cursor Issues</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-p40plus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel P40+ phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-reno-11-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo Reno 11 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-how-to-forcibly-close-windows-10/"><u>Troubleshooting Success: How to Forcibly Close Windows 10</u></a></li>
 </ul></div>
 

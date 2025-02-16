@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Hazards of GPT Phone Apps
-date: 2025-02-01T20:56:40.205Z
-updated: 2025-02-02T18:07:15.519Z
+date: 2025-02-10T19:26:27.001Z
+updated: 2025-02-15T21:07:59.337Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fake ChatGPT Apps Are Flooding App Stores
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
 ![ChatGPT illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/chatgpt-illustration-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both the Apple App Store and the Google Play Store have recently seen a significant surge in [AI chatbot apps](https://www.makeuseof.com/ai-chatbot-therapist-mobile-apps-pocket/), most of which only appeared shortly after the launch of ChatGPT in the last quarter of 2022\. Normally, this wouldn't be a problem. Who doesn't love an AI chatbot?
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
  Although we tried a lot of these apps, there are still hundreds on both app stores we couldn't test. So, if you stumble on one that truly adds extra value, carefully weigh the cost of using your ChatGPT credentials on such apps. The [dark web is flooded with stolen ChatGPT accounts](https://www.makeuseof.com/why-hackers-target-chatgpt-accounts/), and using fraudulent apps is among the methods hackers are using to harvest ChatGPT accounts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are There Legit ChatGPT Apps From Third-Party Developers?
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
 ![a hand holding a Samsung phone with the Google Play store on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hand-holding-phone-showing-google-play-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While OpenAI doesn't have an official ChatGPT app, it would still be technically possible for third-party developers to create apps using the same technology that runs ChatGPT.
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
  There are many legitimate mobile apps that use [OpenAI's GPT-3](https://www.makeuseof.com/what-is-gpt-3-and-is-it-really-the-future-of-creative-work/) and GPT-4 APIs which makes it possible to answer questions and perform tasks akin to what ChatGPT would do. However, these apps differ from ChatGPT and are not as powerful or nearly as efficient as ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Beware of Fake ChatGPT Apps
@@ -97,17 +97,20 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-5-samsung-gear-360-camera-alternatives-2023-update/"><u>[Updated] 2024 Approved Top 5 Samsung Gear 360 Camera Alternatives -2023 Update</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-visualizer-vs-studio-monitors/"><u>[Updated] 2024 Approved Visualizer Vs Studio Monitors</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-slowdowns-in-gpsvc-windows-errors/"><u>Bypassing Slowdowns in GPSVC Windows Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-comedy-craft-does-ai-bring-laughter-to-life/"><u>ChatGPT's Comedy Craft: Does AI Bring Laughter to Life?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-guide-camstudio-recording-tool-for-2024/"><u>Comprehensive Guide CamStudio Recording Tool for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cyber-survival-skills-predictive-trends-for-protection/"><u>Cyber Survival Skills: Predictive Trends for Protection</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/halo-infinite-blackout-blues-heres-how-to-fix-it-once-and-for-all/"><u>Halo Infinite Blackout Blues? Here's How to Fix It Once and For All</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-art-gpt-powered-image-creation/"><u>Mastering AI Art: GPT-Powered Image Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-disk-readwrite-errors-in-win11/"><u>Overcoming Disk Read/Write Errors in Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-forbidden-queries-for-ai-engagement/"><u>The Forbidden Queries for AI Engagement</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-your-pc-steps-to-fix-a-non-booting-computer-expert-advice-from-yl-computing/"><u>Troubleshooting Your PC: Steps to Fix a Non-Booting Computer - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmatched-efficiency-choosing-the-top-5-expert-ai-prompt-creators/"><u>Unmatched Efficiency: Choosing the Top 5 Expert AI Prompt Creators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-elevate-your-imagery-a-compreenasional-on-lightroom-hdr/"><u>[Updated] 2024 Approved Elevate Your Imagery A Compreenasional on Lightroom HDR</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-into-the-world-of-modified-snapchat-speeches-two-simple-steps/"><u>[Updated] Step Into the World of Modified Snapchat Speeches Two Simple Steps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-complete-tiktok-siri-interaction-manual-for-2024/"><u>[Updated] The Complete TikTok Siri Interaction Manual for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/youtubepcand/"><u>【有料なし】YouTube動画にぼかしを加えるためのPCソリューション&テクニック</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-top-rated-avi-format-converter-apps-for-seamless-video-transformation/"><u>5 Top-Rated AVI Format Converter Apps for Seamless Video Transformation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-and-mac/"><u>最高の無料アプリ：Windows & Macで簡単にラジオ番組を録音！</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-navigation-understanding-the-site-structure-and-sitemap/"><u>Comprehensive Navigation: Understanding the Site Structure and Sitemap</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-social-media-etiquette-follow-vs-unfollow-on-facebook/"><u>Deciphering Social Media Etiquette: Follow Vs. Unfollow on Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-error-31-steps-for-fixing-network-connectivity-issues/"><u>Decoding Windows Error 31: Steps for Fixing Network Connectivity Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-techniques-for-converting-mov-files-into-avi-format/"><u>Efficient Techniques for Converting MOV Files Into AVI Format</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c32-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia C32 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-tarkov-error-code-103003/"><u>How to Fix Tarkov Error Code 103003</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mobile-audio-enhancers-for-swift-soundplay/"><u>Mobile Audio Enhancers for Swift Soundplay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-tech-phoenix-apples-historic-powerbook-of-94-revived-equipped-with-an-ipad-display-and-2015-macbook-pro-core-internals-for-the-ultimate-vintage-modern-h17/"><u>The Tech Phoenix: Apple's Historic PowerBook of '94 Revived, Equipped with an iPad Display & 2015 MacBook Pro Core Internals for the Ultimate Vintage-Modern Hybrid Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-10rmrm/"><u>Windows 10でのRM(.rm)ファイル再生手順</u></a></li>
 </ul></div>
 

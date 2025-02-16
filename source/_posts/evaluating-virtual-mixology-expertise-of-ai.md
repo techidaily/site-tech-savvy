@@ -1,7 +1,7 @@
 ---
 title: Evaluating Virtual Mixology Expertise of AI
-date: 2025-01-03T21:59:53.415Z
-updated: 2025-01-06T00:17:56.391Z
+date: 2025-02-11T17:20:16.205Z
+updated: 2025-02-15T19:54:51.989Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Cocktails and Why ChatGPT?
 
  Anyone can pour themselves a glass of beer or wine. But cocktails are generally more difficult to get right. Hence the need for either experience in making cocktails, formal lessons teaching you the craft, or a book packed full of recipes and techniques.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
  However, there is another option in the form of [ChatGPT](https://chat.openai.com/). On paper, ChatGPT should offer all the expertise offered up by Google Search as well as the ability to adapt to your needs in creative ways. After all, you can [use ChatGPT as a cooking assistant](https://www.makeuseof.com/use-chatgpt-cooking-assistant/), to help you [land a dream job](https://www.makeuseof.com/chatgpt-help-land-dream-job/), and more besides.
 
  As long as your prompts are sound, the AI chatbot should deliver. So, let's test that theory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing ChatGPT's Abilities as a Bartender
 
@@ -46,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
 
  You can choose any cocktail you want, but I chose the Old-Fashioned, my favorite cocktail in the world. The problem here is that ChatGPT just gave me the core, world-renowned recipe for an Old-Fashioned. So, while it was a very nice cocktail, if you already know how to make a cocktail (or know [how to search online for recipes](https://www.makeuseof.com/recipe-search-engines-based-on-time-budget-ingredients/)), this prompt is a bit of a letdown.
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 ![ultimate-old-fashioned-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/ultimate-old-fashioned-cocktail.jpg)
 
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Prompt 3: "Please Tweak a Classic Cocktail to Make It Even Better."
 
@@ -71,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
  Adding a few drops of bitters to the Pina Colada really worked, adding a bitter taste to counter the sweet creaminess of a standard mix. While it still looks the same, there is a bitterness in the background.
 
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
 
@@ -89,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So, Is ChatGPT Good at Making Cocktails?
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
  In a word, yes. But as with everything related to ChatGPT and [generative AI as a whole](https://www.makeuseof.com/what-is-generative-ai/), the key is providing the correct prompts and parameters. If you just want a classic cocktail recipe to follow, you can just type that into Google Search. However, ChatGPT comes into its own when you ask it to adapt cocktails or suggest small tweaks to improve the standard recipes.
 
  Every single one of its combinations worked in broad terms. There wasn't a single blend of ingredients that it suggested that led me to throw the cocktail down the sink. And that is a great start. As someone who has experimented with combining flavors, I can tell you that it's very easy to get cocktails wrong.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Three Big Takeaways From This Experiment
 
@@ -149,15 +149,15 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-cutting-ties-with-instagram-users-for-2024/"><u>[Updated] Cutting Ties with Instagram Users for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-untapped-potential-in-your-conversation-engine/"><u>Discover the Untapped Potential in Your Conversation Engine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortlessly-power-and-cool-your-apple-gadgets-with-our-3-in-1-magsafe-charging-station-explore-on-zdnet/"><u>Effortlessly Power and Cool Your Apple Gadgets with Our 3-in-1 MagSafe Charging Station - Explore on ZDNet</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/erfolgreich-verlorene-microsoft-outlook-e-mails-wiederherstellen-einfach-und-effektiv-datenretten/"><u>Erfolgreich Verlorene Microsoft Outlook E-Mails Wiederherstellen – Einfach Und Effektiv Datenretten!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-live-links-debate-is-software-superior-to-gear/"><u>In 2024, Live Links Debate Is Software Superior to Gear?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-rapid-access-to-prime-window-images/"><u>In 2024, Rapid Access to Prime Window Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/privacy-protocols-in-ai-dialogues/"><u>Privacy Protocols in AI Dialogues</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-the-functional-marvel-that-is-lamicalls-superbly-designed-tablet-stand-why-you-need-it-now/"><u>Review: The Functional Marvel That Is Lamicall's Superbly Designed Tablet Stand - Why You Need It Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-models-thoroughly-evaluated-by-tech-experts-zdnet/"><u>Top Rated iPad Models - Thoroughly Evaluated by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/44og44os44ot5p2x5lqs44gu55wq57we5yuv55s744oa44km44oz44ot44o844oj5lplusd5a2y44ks44kk44oj/"><u>テレビ東京の番組動画ダウンロード保存ガイド</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-expert-tips-for-post-upload-video-improvement/"><u>[Updated] 2024 Approved Expert Tips for Post-Upload Video Improvement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-for-top-tier-hdr-cameras/"><u>[Updated] Ultimate Selection for Top-Tier HDR Cameras</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-responsiveness-the-rise-of-a-new-profession/"><u>AI's Responsiveness: The Rise of a New Profession</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bespoke-chatbot-through-gpt-development-journey/"><u>Bespoke Chatbot Through GPT Development Journey</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brand-integration-with-youtube-content-creators-for-2024/"><u>Brand Integration with YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-a-new-era-of-free-accessibility-yet-plus-maintains-6-valued-features/"><u>GPT-4: A New Era of Free Accessibility, Yet Plus Maintains 6 Valued Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peering-beyond-pretend-patterns-in-machine-learning-outputs/"><u>Peering Beyond Pretend Patterns in Machine Learning Outputs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-non-functional-voice-chat-on-modern-warfare/"><u>Troubleshooting Guide: Resolving Non-Functional Voice Chat on Modern Warfare</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unlocking-browsing-excellence-5-proven-techniques-for-the-meta-quest-browser/"><u>Unlocking Browsing Excellence: 5 Proven Techniques for the Meta Quest Browser</u></a></li>
 </ul></div>
 

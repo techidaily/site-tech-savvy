@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Sharing and Editing on Apple Pages Using iCloud: A Comprehensive Guide"
-date: 2025-02-01T18:54:27.590Z
-updated: 2025-02-02T22:39:28.486Z
+date: 2025-02-10T01:11:44.237Z
+updated: 2025-02-15T18:58:52.651Z
 tags:
   - apple
 categories:
@@ -27,6 +27,10 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -37,10 +41,6 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Open System Preferences by clicking the Apple button in the top left corner of your desktop, and click System Preferences. In the resulting window, click Apple ID > iCloud Drive > Options (**Figure 1**).
@@ -50,7 +50,7 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -62,10 +62,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -74,10 +78,6 @@ The first thing you must do is open the Pages document that will be shared with 
 **Figure 3**: Apple Pages open and the Collaborate button is ready to use.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
 
@@ -88,7 +88,7 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
@@ -149,19 +149,19 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-top-10-ingenious-ae-techniques-for-headline-hype/"><u>[New] In 2024, Top 10 Ingenious AE Techniques for Headline Hype</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-effortless-imovie-music-enhancement-using-youtube-songs/"><u>[Updated] 2024 Approved Effortless iMovie Music Enhancement Using YouTube Songs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-online-broadcasting-basics-a-streamers-guide-to-capture/"><u>[Updated] 2024 Approved Online Broadcasting Basics A Streamer’s Guide to Capture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-quick-methods-for-saving-vimeo-footage/"><u>[Updated] Quick Methods for Saving Vimeo Footage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-economically-sound-artificial-intelligence-options/"><u>6 Economically Sound Artificial Intelligence Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-critical-thoughts-on-ai-as-therapy-substitutes/"><u>7 Critical Thoughts on AI as Therapy Substitutes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-innovative-neural-network-alternatives-eclipsing-chatgpts-mobile-version/"><u>8 Innovative Neural Network Alternatives Eclipsing ChatGPT's Mobile Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-tale-of-two-botms-mistral-and-chatgpt-showdown/"><u>A Tale of Two Botms: Mistral and ChatGPT Showdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721424669426-app-alert-chatgpt-now-on-ios/"><u>App Alert: ChatGPT Now on iOS!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138573593-9781450292634-authentic-love/"><u>Authentic Love | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721411498941-bringing-advanced-search-to-your-fingers-bings-ai-for-smartphones/"><u>Bringing Advanced Search to Your Fingers: Bing’s AI for Smartphones</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/executive-chair-showdown-why-the-x-chair-x4-dominates-office-seating-reviews/"><u>Executive Chair Showdown: Why the X-Chair X4 Dominates Office Seating Reviews</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-504-gateway-timeout-issue-a-step-by-step-guide/"><u>Solving the 504 Gateway Timeout Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-leads-in-translation-accuracy-a-detailed-look-at-chatgpt-and-google-translate/"><u>Which Leads in Translation Accuracy? A Detailed Look at ChatGPT and Google Translate</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-masterclass-review-of-androids-adobe-lightroom-for-2024/"><u>[New] Masterclass Review of Android's Adobe Lightroom for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-best-color-grading-plugins-top-15-luts-for-action-cams-for-2024/"><u>[Updated] Best Color Grading Plugins Top 15 LUTs For Action Cams for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-snapchat-marketing-playbook-boosting-sales/"><u>2024 Approved The SnapChat Marketing Playbook Boosting Sales</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-future-of-professional-development/"><u>AI & the Future of Professional Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-mechanisms-behind-ai-bot-censorship/"><u>Deciphering the Mechanisms Behind AI Bot Censorship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-dodging-chatgpt-written-errors/"><u>Expert Advice: Dodging ChatGPT' Written Errors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-tecno-phantom-v-flip-easily-by-drfone-android/"><u>In 2024, How To Unlock a Tecno Phantom V Flip Easily?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mobile-image-mastery-with-top-10-stickers-for-appleandroid-users/"><u>In 2024, Mobile Image Mastery with Top 10 Stickers for Apple/Android Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-transform-your-social-feed-to-full-screen/"><u>In 2024, Transform Your Social Feed to Full Screen</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/introducing-the-newly-improved-stellar-data-recovery-program-user-friendly-design-aims-to-empower-consumers/"><u>Introducing the Newly Improved Stellar Data Recovery Program – User-Friendly Design Aims to Empower Consumers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-excel-potential-via-three-chatgpt-techniques/"><u>Maximizing Excel Potential via Three ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-communication-gateway-gpt-plus-vpn/"><u>Secure Communication Gateway: GPT + VPN?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-game-changing-reasons-mastery-of-chatgpt-in-your-career/"><u>The Game-Changing Reasons: Mastery of ChatGPT in Your Career</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-redmi-a2plus-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi Redmi A2+ Phones</u></a></li>
 </ul></div>
 

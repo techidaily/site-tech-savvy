@@ -1,7 +1,7 @@
 ---
 title: "Crafting the Perfect Drink: AI or Human?"
-date: 2025-01-10T20:52:57.696Z
-updated: 2025-01-12T18:26:13.238Z
+date: 2025-02-12T18:37:19.837Z
+updated: 2025-02-15T21:41:06.080Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Cocktails and Why ChatGPT?
 
  Anyone can pour themselves a glass of beer or wine. But cocktails are generally more difficult to get right. Hence the need for either experience in making cocktails, formal lessons teaching you the craft, or a book packed full of recipes and techniques.
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
  I started out with a simple request before moving on to more difficult requests. And the results were interesting, to say the least. I have paraphrased the prompts used as there was often a back-and-forth needed to get ChatGPT to deliver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Prompt 1: "What Can I Add to an Aperol Spritz Instead of Soda?"
 
  The simple answer ChatGPT and I arrived at was lemonade. But before reaching that conclusion, ChatGPT offered up a multitude of different options to add to an Aperol Spritz. Many of which I wouldn't have ever thought of. And crucially, I doubt your local bartender would have either. These included more prosecco, another type of sparkling wine, tonic water, ginger ale, and grapefruit juice.
@@ -51,7 +51,11 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
@@ -93,11 +97,7 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
@@ -149,22 +149,24 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2023s-approach-tweeting-from-tiktok/"><u>[New] 2023'S Approach Tweeting From TikTok</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-defeating-dissidence-a-guide-for-content-makers/"><u>[New] In 2024, Defeating Dissidence A Guide for Content Makers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-future-of-movie-watchlist-management/"><u>ChatGPT: The Future of Movie Watchlist Management</u></a></li>
-<li><a href="https://article-helps.techidaily.com/crafting-cinematic-content-with-precision-ratios/"><u>Crafting Cinematic Content with Precision Ratios</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/discover-revolutionary-iphone-apps-for-virtual-reality-gaming/"><u>Discover Revolutionary IPhone Apps for Virtual Reality Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-top-tech-comparing-oled-amoled-and-ips-displays/"><u>Exploring Top Tech: Comparing OLED, AMOLED and IPS Displays</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-oppo-a18-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo A18 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-wellness-experiences-top-7-smart-plugins/"><u>Innovate Wellness Experiences: Top 7 Smart Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-chatgpt-my-bots-for-gameplay-visuals-plus-more/"><u>Leverage ChatGPT My Bots for Gameplay, Visuals, Plus More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-support-chatgpt-in-whatsapp-communications/"><u>Leveraging AI for Support: ChatGPT in WhatsApp Communications</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-steam-issues-a-deep-dive-into-fixing-error-code-80/"><u>Mastering Steam Issues: A Deep Dive Into Fixing Error Code 80</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-truth-in-ai-medical-advice-fact-checking-techniques/"><u>Mastering Truth in AI Medical Advice: Fact-Checking Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-artisans-guide-to-podcast-scriptwriting-including-free-samples/"><u>The Artisan's Guide to Podcast Scriptwriting (Including Free Samples)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-why-relying-solely-on-chatgpt-is-misguided-for-writers/"><u>The Hidden Dangers: Why Relying Solely on ChatGPT Is Misguided for Writers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-medicine-through-conversational-ai/"><u>Transforming Medicine Through Conversational AI</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-39-inch-lg-ultragear-gaming-monitor-with-wqhd-curved-display-now-999-on-amazon/"><u>Unbeatable Deal: 39-Inch LG Ultragear Gaming Monitor with WQHD Curved Display, Now $999 on Amazon!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-language-processing-vs-learning-techniques/"><u>Unpacking Language Processing vs Learning Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-hardware-hurdles-whats-necessary-for-big-sur/"><u>[New] 2024 Approved Hardware Hurdles What's Necessary for Big Sur?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-through-the-essentials-of-snap-camera-on-ms-teams-for-2024/"><u>[New] Navigating Through the Essentials of Snap Camera on MS Teams for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-method-for-incorporating-linktree-in-tiktok-profiles/"><u>[New] Optimal Method for Incorporating Linktree in TikTok Profiles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertly-edited-photos-and-films-best-gopro-editing-apps/"><u>[Updated] Expertly Edited Photos and Films Best GoPro Editing Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-most-advanced-and-efficient-asus-routers-comparison-guide/"><u>2024'S Most Advanced and Efficient Asus Routers Comparison Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bring-the-big-screen-into-your-living-room-a-guide-to-streaming-3d-movies-on-fandango/"><u>Bring the Big Screen Into Your Living Room: A Guide to Streaming 3D Movies on Fandango</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-download-and-install-realteks-rtl8188cu-wireless-network-adapter-drivers-on-windows-710/"><u>Easy Setup: Download & Install Realtek's RTL8188CU Wireless Network Adapter Drivers on Windows 7/10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-guide-transforming-avi-files-into-xvid-compatible-format/"><u>Effortless Guide: Transforming AVI Files Into XVID-Compatible Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-change-your-videos-soundtrack-from-mp4-to-mp3-on-a-windows-machine/"><u>Effortlessly Change Your Video's Soundtrack From MP4 to MP3 on a Windows Machine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/festive-fun-the-ultimate-list-of-kids-christmas-flicks/"><u>Festive Fun: The Ultimate List of Kids' Christmas Flicks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-the-time-lag-in-handbrake-video-conversion-tips-and-tricks-for-perfect-audio-alignment/"><u>Fixing the Time Lag in HandBrake Video Conversion: Tips & Tricks for Perfect Audio Alignment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conference-call-ultimate-guide-to-recording-calls-without-fuss/"><u>Free Conference Call: Ultimate Guide to Recording Calls Without Fuss</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-download-guide-installing-the-hevc-codec-on-windows-10/"><u>Free Download Guide: Installing the HEVC Codec on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-a-limited-time-key-for-the-ultimate-softpedia-wonderfox-dvd-ripper-software/"><u>Get a Limited-Time Key for the Ultimate SOFTPEDIA WonderFox DVD Ripper Software!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-legally-secure-your-favorite-afreecatv-shows-for-personal-use-top-tools-revealed/"><u>How To Legally Secure Your Favorite AfreecaTV Shows for Personal Use - Top Tools Revealed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/html5/"><u>HTML5ビデオファイルのダウンロードと保存手順ガイド</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-xiaomi-by-drfone-android/"><u>In 2024, How to Bypass FRP on Xiaomi?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-7-audiotrack-issues-service-not-operational-tips/"><u>Resolving Windows 7 Audiotrack Issues - Service Not Operational Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/path-to-uninterrupted-mobile-experience-with-these-7-apps-for-2024/"><u>Your Path to Uninterrupted Mobile Experience with These 7 Apps for 2024</u></a></li>
 </ul></div>
 

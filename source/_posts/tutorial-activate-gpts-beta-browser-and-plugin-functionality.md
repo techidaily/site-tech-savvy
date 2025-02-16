@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Activate GPT's Beta Browser & Plugin Functionality"
-date: 2025-01-30T22:48:47.336Z
-updated: 2025-02-02T16:49:04.528Z
+date: 2025-02-10T21:10:47.255Z
+updated: 2025-02-15T20:15:48.877Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
  Late on May 12, 2023, an [OpenAI blog post revealed](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) that ChatGPT's Plugin feature would become available to ChatGPT Plus users.
@@ -33,10 +37,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
  Up until this point, users could only [gain access to ChatGPT Plugins by signing up](https://www.makeuseof.com/how-sign-up-chatgpt-plugins/) and waiting for access.
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are ChatGPT Plugins?
 
@@ -62,11 +62,11 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
-![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
@@ -83,7 +83,7 @@ Close
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable ChatGPT Plugins and Web Browsing
@@ -93,7 +93,7 @@ Close
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to your **Settings** in the bottom left-hand corner of the ChatGPT screen
@@ -106,7 +106,7 @@ Close
  From here, you can select either Web Browsing to enable web-connected search or select **Plugin Store** to begin installing and enabling Plugins.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Finally Connected to the Internet
@@ -134,18 +134,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-elevate-your-earnings-on-social-media-youtube-mastery-on-the-networking-powerhouse/"><u>[New] 2024 Approved Elevate Your Earnings on Social Media YouTube Mastery on the Networking Powerhouse</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-cartooncanvas-comprehensive-review-and-guidebook-24/"><u>[New] CartoonCanvas Comprehensive Review & Guidebook '24</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-mastering-facebooks-potential-in-health-marketing/"><u>[New] Mastering Facebook's Potential in Health Marketing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-editor-showdown-filmora-vs-democracy-creator/"><u>[Updated] 2024 Approved The Ultimate Editor Showdown Filmora Vs. Democracy Creator</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-key-tips-to-capture-youtube-streams-effectively-for-2024/"><u>[Updated] Key Tips to Capture YouTube Streams Effectively for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-articulation-arcade-who-takes-the-victory-spotlight/"><u>AI Articulation Arcade: Who Takes the Victory Spotlight?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-illustrate-effortlessly-prime-ios-design-software/"><u>In 2024, Illustrate Effortlessly Prime iOS Design Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-generative-ais-textual-landscape-for-business-use/"><u>Navigating Generative AI's Textual Landscape for Business Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-privacy-waters-with-gpt-technology/"><u>Navigating Privacy Waters with GPT Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-transformers-bert-vs-gpt-comparison/"><u>Understanding Transformers: BERT vs GPT Comparison</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-potential-with-ai-chatgpt-for-lifestyle-transformation/"><u>Unlock Potential with AI: ChatGPT for Lifestyle Transformation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-determines-the-length-of-texts-from-chatgpt-ai/"><u>What Determines the Length of Texts From ChatGPT AI?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-fresh-talents-guide-to-2024s-entry-level-cams/"><u>[Updated] Fresh Talent's Guide to 2024’S Entry-Level Cams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-cv-written-skills-the-chatgpt-method/"><u>Enhancing Your CV' Written Skills: The ChatGPT Method</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-fearful-to-flourishing-embracing-the-ai-economic-shift/"><u>From Fearful to Flourishing: Embracing the AI Economic Shift</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-simplified-core-ideas-exposed/"><u>Generative AI Simplified: Core Ideas Exposed</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/guide-complet-pour-recuperer-votre-video-supprimee-de-la-camera/"><u>Guide Complet Pour Récuperer Votre Vidéo Supprimée De La Caméra</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-a05-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy A05 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-audio-prime-9-mic-recording-solutions/"><u>Mastering Audio Prime 9 Mic Recording Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mfc42ddll-error-expert-tips-to-find-and-repair-the-missing-file/"><u>mfc42d.dll Error: Expert Tips to Find and Repair the Missing File</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-team-communication-through-artificial-assistance/"><u>Revolutionizing Team Communication Through Artificial Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-claude-pros-unique-offerings-compared-to-gptplus/"><u>Understanding Claude Pro's Unique Offerings Compared to GPT+</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleash-epic-fun-with-these-top-8-google-play-pass-gems/"><u>Unleash Epic Fun with These Top 8 Google Play Pass Gems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-world-discovery-selecting-the-finest-7-free-ai-itinerary-tools/"><u>Unlock World Discovery: Selecting the Finest 7 FREE AI Itinerary Tools</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/unlocking-the-secrets-of-high-efficiency-video-coding-hevch265-enable-smooth-x265-media-playback-on-windows-10-systems/"><u>Unlocking the Secrets of High-Efficiency Video Coding (HEVC/H.265): Enable Smooth X265 Media Playback on Windows 10 Systems</u></a></li>
 </ul></div>
 

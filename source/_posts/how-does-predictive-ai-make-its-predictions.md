@@ -1,7 +1,7 @@
 ---
 title: How Does Predictive AI Make Its Predictions?
-date: 2025-01-12T00:06:21.246Z
-updated: 2025-01-12T21:21:29.037Z
+date: 2025-02-12T18:47:40.757Z
+updated: 2025-02-15T19:12:01.967Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 * [How Is Predictive AI Different From Generative AI?](https://review-au.sjv.io/wqnrq3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
  You've probably heard of generative AI, but how much do you know about predictive AI? They sound similar, but have some key differences, along with a heap of ways you're probably already using it!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Predictive AI, and How Does It Work?
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
  Below are some of the best examples of predictive AI in action.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Predictive Text
@@ -95,7 +95,7 @@ Close
  This technology can also predict stock market movements and cryptocurrency price changes. If you plan on trading with AI, it's worth checking out these [AI-based crypto tools](https://www.makeuseof.com/top-ai-based-crypto-tools/) as a starting point.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Weather Forecasts
@@ -104,15 +104,15 @@ Close
 
  Predictive AI can measure more weather data in shorter periods. Being able to better predict the weather in the short term is nice on a personal level, as it means you'll know exactly what to wear outside. But if we zoom out and look at the bigger picture, predictive AI could also be a valuable tool for helping to innovate in climate change initiatives and predict major storms.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Business Decisions
 
  Companies use predictive AI to make better decisions and projections for the coming year. Since predictive AI is very good at measuring consumer behaviors, businesses can accurately determine the success of their current products and offerings over 6-12 months. To fill gaps in the market, they can also use the information they gather to launch and test new products.
 
  With predictive AI, businesses can also decide what to include in advertising campaigns. Moreover, they can determine where they should allocate their budgets more effectively. We've written a round-up of [essential AI tools for business owners to know about](https://www.makeuseof.com/ai-tools-for-business-owners/) if you're interested in learning more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Is Predictive AI Different From Generative AI?
 
@@ -139,17 +139,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-media-top-ranking-camera-apps-for-iphonesandroid-devices/"><u>[New] In 2024, Exploring Media Top-Ranking Camera Apps for iPhones/Android Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-street-saga-best-gaming-matches-to-gta-v/"><u>[New] In 2024, Street Saga Best Gaming Matches to GTA V</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-shoot-straight-best-tripods-for-smartphones-today/"><u>2024 Approved Shoot Straight Best Tripods for Smartphones Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-assisting-podcasts-phones-security-simplified/"><u>ChatGPT Assisting Podcasts: Phones, Security, Simplified</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elite-6-behemoths-vast-scale-data-model-summit/"><u>Elite 6 Behemoths: Vast-Scale Data Model Summit</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/globalizations-tale-in-the-story-of-eng/"><u>Globalization's Tale in the Story of ENG</u></a></li>
-<li><a href="https://win-news.techidaily.com/guida-passo-passo-per-il-cloning-di-un-disco-gpt-in-sistemi-operativi-windows/"><u>Guida Passo-Passo per Il Cloning Di Un Disco GPT in Sistemi Operativi Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/health-ambitions-unveiled-chatgpt-strategy-guide/"><u>Health Ambitions Unveiled: ChatGPT Strategy Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-realme-11-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Realme 11 Pro</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210932883-9781855844377-karmic-relationships-volume-3/"><u>Karmic Relationships: Volume 3 | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-talk-with-nvidias-rtx-ai-chat-bot/"><u>Mastering Talk with Nvidia's RTX AI Chat Bot</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-the-simple-nature-of-storytelling-for-2024/"><u>[New] Unveiling the Simple Nature of Storytelling for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-free-srt-tools-the-most-reliable-high-quality-apps-listed/"><u>[Updated] In 2024, Free SRT Tools The Most Reliable, High-Quality Apps Listed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveiling-the-secrets-of-medical-ad-success-on-fb/"><u>[Updated] Unveiling the Secrets of Medical Ad Success on FB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-in-windows-11-using-the-built-in-snip-and-sketch-app/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen in Windows 11 Using the Built-In Snip & Sketch App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-mastering-video-editing-integrating-clips-with-vegas-pro/"><u>Complete Tutorial: Mastering Video Editing - Integrating Clips with Vegas Pro</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deciding-between-roku-and-fire-tv-stick-expert-insights-for-your-perfect-purchase/"><u>Deciding Between Roku and Fire TV Stick: Expert Insights for Your Perfect Purchase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dvd-20248/"><u>DVDコピー保護解除で未来が明るくなる! 2024年対応のフリーソフト上位8選をご紹介します</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-and-complete-guide-to-screen-record-videos-across-multiple-electronics/"><u>Easy and Complete Guide to Screen Record Videos Across Multiple Electronics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-transforming-images-into-audio-files-with-simple-steps/"><u>Effortless Conversion: Transforming Images Into Audio Files with Simple Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-downloads-master-the-art-of-acquiring-cricket-videos-instantly/"><u>Effortless Downloads: Master the Art of Acquiring Cricket Videos Instantly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-guide-how-to-stream-video-in-flv-format-with-vlc-media-player/"><u>Effortless Guide: How to Stream Video in FLV Format with VLC Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ethical-strategies-for-recording-online-meetings-on-zoom-discover-5-techniques/"><u>Ethical Strategies for Recording Online Meetings on Zoom – Discover 5 Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-solving-connectivity-issues-in-the-kotion-g2000-series-mics/"><u>Expert Advice: Solving Connectivity Issues in the Kotion G2000 Series Mics</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y100a-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y100A Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-time-for-an-upgrade-a-detailed-look-at-the-features-between-apples-latest-and-earlier-smartwatch-models/"><u>Is It Time for an Upgrade?: A Detailed Look at the Features Between Apple's Latest and Earlier Smartwatch Models</u></a></li>
 </ul></div>
 

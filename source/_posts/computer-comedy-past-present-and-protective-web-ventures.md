@@ -1,7 +1,7 @@
 ---
 title: "Computer Comedy: Past, Present, and Protective Web Ventures"
-date: 2025-01-11T20:27:38.174Z
-updated: 2025-01-12T20:26:31.060Z
+date: 2025-02-13T03:06:41.559Z
+updated: 2025-02-15T19:17:05.301Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -111,22 +111,22 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-vital-6-social-media-channels-for-commercial-success/"><u>[New] 2024 Approved Vital 6 Social Media Channels for Commercial Success</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-an-overview-of-basic-and-simplified-hdr-photography-for-2024/"><u>[New] An Overview of Basic and Simplified HDR Photography for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-post-a-video-from-youtube-on-instagram-for-2024/"><u>[Updated] How to Post a Video From YouTube on Instagram for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-journey-into-aether-an-in-depth-analysis-and-guide-to-joining-forces-with-it/"><u>A Journey Into Aether – An In-Depth Analysis and Guide to Joining Forces with It</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assisted-nutrition-delicious-healthy-creations/"><u>AI-Assisted Nutrition: Delicious, Healthy Creations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alert-fake-gpt-programs-pose-threats-to-online-safety/"><u>Alert: Fake GPT Programs Pose Threats to Online Safety!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chromatic-excellence-program/"><u>Chromatic Excellence Program</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-create-ai-images/"><u>How to Use ChatGPT to Create AI Images</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-discover-the-elite-ranked-10-tv-streaming-platforms/"><u>In 2024, Discover the Elite Ranked 10 TV Streaming Platforms</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-motorola-moto-g13-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Motorola Moto G13 Location | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-openai-behind-in-controlling-gpt/"><u>Is OpenAI Behind in Controlling GPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/narrative-enrichment-integrating-chatgpt-and-creative-ai-tools-in-dungeons-and-dragons/"><u>Narrative Enrichment: Integrating ChatGPT & Creative AI Tools in Dungeons & Dragons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-top-8-chrome-extensions-powered-by-ai/"><u>The Ultimate Guide to Top 8 Chrome Extensions Powered by AI</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transforming-businesses-with-apple-vision-pro-5-leading-organizations-showcase-success-stories-powered-by-zdnet-analysis/"><u>Transforming Businesses with Apple Vision Pro: 5 Leading Organizations Showcase Success Stories | Powered by ZDNET Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-microsoft-word-through-ai-chatgpt-explained/"><u>Transforming Microsoft Word Through AI: ChatGPT Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vital-upgrades-to-transform-chatgpt-plugins-store-dynamics/"><u>Vital Upgrades to Transform ChatGPT Plugins Store Dynamics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windows-11-compatibility-fixes-for-iphone-sensor-detection-problems-on-iphone-11-devices/"><u>Windows 11 Compatibility Fixes for iPhone Sensor Detection Problems on iPhone 11 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027985262-pciphoneandroid/"><u>「動画幅の設定変更：PC、iPhone、Androidマニュアル」</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhancing-instagram-video-performance-desktop/"><u>2024 Approved Enhancing Instagram Video Performance (Desktop)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027810880-windows-10/"><u>画面収め技術：Windows 10のビデオファイル容量変更法</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-revel-in-pubgs-simplified-voice-transformation-methods/"><u>In 2024, Revel in PUBG's Simplified Voice Transformation Methods</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-a14-4g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy A14 4G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-fast-time-cinematography/"><u>Mastering Fast-Time Cinematography</u></a></li>
+<li><a href="https://facebook.techidaily.com/moving-from-twitter-to-tweeters/"><u>Moving From Twitter to Tweeters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-effortless-ripping-of-dvds-using-top-online-ripping-tools/"><u>Ultimate Guide: Effortless Ripping of DVDs Using Top Online Ripping Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-speedy-dvd-extraction-techniques-without-compromising-quality/"><u>Ultimate Guide: Speedy DVD Extraction Techniques Without Compromising Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-the-11-leading-text-overlay-tools-for-video-editing-across-platforms/"><u>Ultimate Guide: The 11 Leading Text-Overlay Tools for Video Editing Across Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-changing-your-mp4-files-to-wmv-with-videolans-vlc-player/"><u>Ultimate Tutorial: Changing Your MP4 Files to WMV with VideoLAN's VLC Player</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-new-era-of-ai-with-gpt-4/"><u>Understanding the New Era of AI with GPT-4</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlock-the-potential-of-your-fb-cover-image-with-these-top-11-websites-for-2024/"><u>Unlock the Potential of Your FB Cover Image with These Top 11 Websites for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-eac-3-the-ultimate-guide-to-its-key-aspects/"><u>Unlocking the Secrets of EAC-3: The Ultimate Guide to Its Key Aspects</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/video-game-mode-activated-turn-any-video-playable-on-your-console-ps4-psp-ps-vita-xbox-and-more/"><u>Video Game Mode Activated: Turn Any Video Playable on Your Console - PS4, PSP, PS Vita, Xbox & More!</u></a></li>
 </ul></div>
 

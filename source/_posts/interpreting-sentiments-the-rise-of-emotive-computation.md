@@ -1,7 +1,7 @@
 ---
 title: "Interpreting Sentiments: The Rise of Emotive Computation"
-date: 2024-08-21T15:40:01.802Z
-updated: 2024-08-22T15:40:01.802Z
+date: 2025-02-14T01:51:45.287Z
+updated: 2025-02-15T18:18:14.596Z
 tags:
   - chatgpt
   - open-ai
@@ -40,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
  Similar to how AI chatbots rely on [huge databases called large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLMs) to generate responses, emotional AI also relies on a massive dataset. The main difference is the form of the data.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 1: Gathering the Data
 
  Emotional AI "models" gather data from a range of sources. Like LLMs, text makes up a part of the model. But emotional AI models also use other forms of data too, these include:
@@ -52,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
  The collected data can then be used to determine human emotional states. It is worth noting that not all emotional AI models will use the same type of data. For example, a call center will have little use for visual and physiological data. Whereas in healthcare, the inclusion of physiological data is incredibly useful.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Emotional Recognition
 
  How data is used to understand emotional states varies depending on its type:
@@ -67,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
  The specifics of how emotional AI works vary depending on the purpose of the application. However, most emotional AI models will rely on at least one of the listed techniques.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Generating a Response
 
  The final step is for the AI model to respond appropriately to its determined emotional state. How this response manifests itself depends on the purpose of the AI. It could be in the form of warning a call center operative that their next caller is upset, or it could be personalizing the content of an app.
@@ -76,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
  The full spectrum of uses for this technology will be massive, and organizations are already putting it to various uses.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are the Applications of Emotional AI?
 
  AI, in general, is somewhat of a technological multi-tool, and emotional AI is no different. As the technology develops, the spread of uses will widen considerably, as witnessed by the variety of tasks it is already performing:
@@ -91,8 +91,9 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
  This all sounds well and good, but as with all things AI, it is never that straightforward. The ethical and privacy concerns surrounding generative AI are just as applicable, but now we have human emotions thrown into the mix.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Ethical and Privacy Concerns of Emotional AI
 
  For every benefit that AI brings us—and there are many—there seems to be a corresponding ethical or privacy concern. This innovative technology is operating at the edge of technological know-how. It is also operating at the edge of societal know-how.
@@ -106,9 +107,9 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
  These concerns are genuine, and a concerted effort to address them is the key to unlocking the full benefits of emotional AI.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Don't Know Whether to Laugh or Cry
 
  This is a promising technology with huge potential benefits. However, it does carry some "emotional baggage" along in its slipstream. The upside is the huge range of potential applications where this could make a huge difference. Everything from healthcare to more immersive gaming experiences can benefit from emotional AI.
@@ -119,14 +120,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  If there is an Achilles heel to these tools, it's the inability to factor human emotions into replies. However, with advances in the field of "emotional AI," it's possible that we are about to witness another huge leap forward in AI technology.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +133,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-connected-healing-telemedicine-evolved/"><u>[New] Connected Healing Telemedicine Evolved</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-master-guide-implementing-chapters-in-vimeo-for-2024/"><u>[New] Master Guide Implementing Chapters in Vimeo for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-professional-webcam-setup-on-macbook-for-2024/"><u>[New] Professional Webcam Setup on MacBook for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-inside-influence-a-peek-at-top-25-social-media-icons-on-insta/"><u>[Updated] 2024 Approved Inside Influence A Peek at Top 25 Social Media Icons on Insta</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-your-partner-in-pushing-boundaries-of-content/"><u>AI: Your Partner in Pushing Boundaries of Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-thinkpads-and-macbooks-the-prime-choice-for-efficiency-at-300-less-expert-review-on-the-hidden-gem-for-productivity-laptops/"><u>Beyond ThinkPads and Macbooks: The Prime Choice for Efficiency at $300 Less | Expert Review on the Hidden Gem for Productivity Laptops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-access-to-ai-chatbots-via-quoras-poe/"><u>Effortless Access to AI Chatbots via Quora's POE</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-dream-to-display-turning-ideas-into-ai-images/"><u>From Dream to Display: Turning Ideas Into AI Images</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-cutting-edge-techniques-for-music-in-canva-videos/"><u>In 2024, Cutting-Edge Techniques for Music in Canva Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/premier-hashtag-analysis-apps-on-popular-platforms-like-fb-twt-and-ig-for-2024/"><u>Premier Hashtag Analysis Apps on Popular Platforms Like FB, Twt & IG for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reclaiming-lost-chatgpt-sessions/"><u>Reclaiming Lost ChatGPT Sessions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-vehicle-upgrades-via-ai-collaboration/"><u>Seamless Vehicle Upgrades via AI Collaboration</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/setup-page-software-deployment-options-and-preferences/"><u>Setup Page – Software Deployment Options & Preferences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-customized-gpt-solutions-by-openai/"><u>Step Into the Future: Customized GPT Solutions by OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-advantages-of-enterprise-ready-gpt-systems/"><u>Strategic Advantages of Enterprise-Ready GPT Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-how-to-delete-images-from-your-facebook-experience/"><u>The Complete Walkthrough: How to Delete Images From Your Facebook Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-age-analyst-gpt-3s-impact-on-data-management/"><u>The New Age Analyst: GPT-3's Impact on Data Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-claude-3s-functionality/"><u>Understanding Claude 3'S Functionality</u></a></li>
+</ul></div>
 

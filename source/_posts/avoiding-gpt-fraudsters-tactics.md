@@ -1,7 +1,7 @@
 ---
 title: Avoiding GPT Fraudsters' Tactics
-date: 2025-01-06T17:37:14.906Z
-updated: 2025-01-12T22:15:44.718Z
+date: 2025-02-15T01:55:15.890Z
+updated: 2025-02-15T18:59:19.460Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. ChatGPT Email Scams
 
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Browser extensions are a popular and convenient tool used by millions, but malicious, phony versions of this software are also used to install malware and steal data. The case is no different for ChatGPT.
 
  While there are ChatGPT-focused extensions out there (such as Merlin and Enhanced ChatGPT), not every extension that you see on your browser's app store is safe. For example, a ChatGPT extension named "Chat GPT for Google" began spreading from device to device in March 2023\. But while spreading, the [phony ChatGPT extension was stealing thousands of users' Facebook information](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/).
@@ -54,12 +54,16 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Fake ChatGPT Apps
 
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Like browser extensions, cybercriminals can also use ChatGPT's name to spread malicious apps. Malicious apps are nothing new and have been used for years to deploy malware, steal data, and monitor device activity. Now, ChatGPT's well-known name is being used to push malicious apps.
@@ -68,13 +72,13 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Malware Created by ChatGPT
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There's been a lot of talk about AI and cybercrime in recent years, as many are concerned this technology may make it easier for malicious actors to scam and attack victims.
 
@@ -83,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. ChatGPT Phishing Sites
@@ -97,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  Alternatively, you may receive an email from a user claiming to be a ChatGPT staff member, stating that your ChatGPT account requires some form of verification. This email will likely include a link to a webpage where you can log into your account and complete the verification, or so the sender claims.
 
  In reality, the link you click on leads to a malicious webpage that can steal any data you enter, including your login credentials. Now, another person can access your ChatGPT account and view your prompt history, account details, and other sensitive data. It's important to know [how to spot phishing scams](https://www.makeuseof.com/top-signs-phishing-scams/) in order to avoid this kind of cybercrime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Scams Are Worryingly Common
 
@@ -123,24 +123,17 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-earning-potential-for-videos-amassing-1-million-views/"><u>[New] 2024 Approved Earning Potential for Videos Amassing 1 Million Views</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-stop-the-void-in-live-gaming-recordings-5-ways-to-avoid-black-screens-with-obs-for-2024/"><u>[New] Stop the Void in Live Gaming Recordings 5 Ways to Avoid Black Screens with OBS for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-taking-your-virtual-meetings-to-new-heights-with-zoom-filters/"><u>[Updated] 2024 Approved Taking Your Virtual Meetings to New Heights with Zoom Filters</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-record-to-win-optimizing-your-twitch-broadcasting-skills/"><u>2024 Approved Record to Win Optimizing Your Twitch Broadcasting Skills</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728506381005-windows-11-10-8-7/"><u>最佳 Windows 11 / 10 / 8 / 7 快速硬盘清空解决方案 - 高效分区工具</u></a></li>
-<li><a href="https://win11.techidaily.com/averting-interruptions-with-solid-connections-in-windows/"><u>Averting Interruptions with Solid Connections in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-obstacles-a-guide-to-fixing-chatgpt-errors/"><u>Bypassing Obstacles: A Guide to Fixing ChatGPT Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-compelling-narratives-ais-role-in-game-storytelling/"><u>Crafting Compelling Narratives: AI's Role in Game Storytelling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emojis-speak-market-trends/"><u>Emojis Speak Market Trends</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-chatgpt-for-proofreading-tasks/"><u>Evaluating ChatGPT for Proofreading Tasks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-underground-world-of-ai-tools/"><u>Exploring the Underground World of AI Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y17s-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y17s Phones with/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-zero-5g-2023-turbo-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Zero 5G 2023 Turbo to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/post-prime-day-extravaganza-continues-with-8tb-samsung-t5-ssd-offers-enjoy-a-steep-36-discount-now-on-amazon-insights-from-zdnet/"><u>Post-Prime Day Extravaganza Continues with 8TB Samsung T5 SSD Offers: Enjoy a Steep 36% Discount Now on Amazon | Insights From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pulling-apart-what-sets-nlp-from-ml/"><u>Pulling Apart: What Sets NLP From ML?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-intelligence-openais-latest-breakthrough/"><u>Redefining Intelligence: OpenAI's Latest Breakthrough</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-airdrop-issues-quickly-discover-the-top-16-remedies/"><u>Solve AirDrop Issues Quickly: Discover the Top 16 Remedies!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spotting-semblances-real-versus-fabricated-data-by-machine-learning/"><u>Spotting Semblances: Real versus Fabricated Data by Machine Learning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vacation-ready-mobile-connectivity-hacks/"><u>Vacation-Ready Mobile Connectivity Hacks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebook-cover-video-widthheight-recommendation/"><u>[Updated] 2024 Approved Facebook Cover Video Width/Height Recommendation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-m4a-sound-levels-a-guide-to-enhancing-mp4-file-loudness/"><u>Boosting M4A Sound Levels - A Guide to Enhancing MP4 File Loudness</u></a></li>
+<li><a href="https://fox-links.techidaily.com/breaking-ground-in-video-marketing-setting-up-a-review-chain/"><u>Breaking Ground in Video Marketing Setting Up a Review Chain</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/crafting-artistry-your-ultimate-companion-for-boomerangs-for-2024/"><u>Crafting Artistry Your Ultimate Companion for Boomerangs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-best-10-trustworthy-platforms-to-enjoy-anime-without-risks/"><u>Discover the Best 10 Trustworthy Platforms to Enjoy Anime Without Risks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/downloading-high-quality-audiovideo-songs-online-without-costs-secure-and-easy-methods-explained/"><u>Downloading High-Quality Audio/Video Songs Online Without Costs – Secure & Easy Methods Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-for-creating-a-portable-music-library-how-to-save-tracks-to-a-flash-drive/"><u>Easy Steps for Creating a Portable Music Library - How to Save Tracks to a Flash Drive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-transferring-your-dvds-for-immediate-watching-on-an-ipad/"><u>Easy Steps: Transferring Your DVDs for Immediate Watching on an iPad</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/explore-tailored-content-with-a-cookiebot-powered-platform/"><u>Explore Tailored Content with a Cookiebot-Powered Platform</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 6 with IMEI Code?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-yuva-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Yuva 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-s-top-rated-ipad-video-editors-a-comprehensive-guide/"><u>Updated S Top-Rated iPad Video Editors A Comprehensive Guide</u></a></li>
 </ul></div>
 

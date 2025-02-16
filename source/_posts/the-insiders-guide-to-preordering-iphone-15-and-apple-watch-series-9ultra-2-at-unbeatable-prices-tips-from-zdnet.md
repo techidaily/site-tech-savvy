@@ -1,7 +1,7 @@
 ---
 title: The Insider's Guide to Preordering iPhone 15 and Apple Watch Series 9/Ultra 2 at Unbeatable Prices – Tips From ZDNET
-date: 2025-01-28T23:19:26.683Z
-updated: 2025-02-02T22:37:33.670Z
+date: 2025-02-12T23:22:10.140Z
+updated: 2025-02-15T18:04:10.727Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ The Apple Watch Series 10 starts at $399 for GPS and $499 for cellular. It comes
 This [Best Buy deal](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series-10-gps-42mm-aluminum-case-with-black-sport-band-s-m-jet-black%2F6572678.p%3FskuId%3D6572678&publisher_slug=itechdaily19598&exclusive=1) only applies to the aluminum Apple Watch Series 10\. (You can also find [deals on the new iPhone 16](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,24 +71,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-google-meet-recording-on-iphonesandroids-for-2024/"><u>[New] Mastering Google Meet Recording on iPhones/Androids for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-recording-setup-gamers-guide-to-flawless-footage-for-2024/"><u>[Updated] Advanced Recording Setup Gamers' Guide to Flawless Footage for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-your-ultimate-guide-to-top-9-platforms-for-2024/"><u>[Updated] Your Ultimate Guide to Top 9 Platforms for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategizing-the-open-door-to-market-success/"><u>2024 Approved Strategizing the Open Door to Market Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engage-with-intelligence-key-new-features-of-chatgpt-unveiled/"><u>Engage with Intelligence: Key New Features of ChatGPT Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-video-storytelling-with-chatgpt-driven-script-writing/"><u>Enhance Video Storytelling with ChatGPT-Driven Script Writing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exiting-the-chatgpt-realm-top-alternatives/"><u>Exiting the ChatGPT Realm: Top Alternatives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-handling-the-cant-find-dciman32dll-problem/"><u>Expert Advice on Handling the 'Can't Find' dciman32.dll Problem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ai-weak-points-demystifying-the-mechanism-behind-prompt-injection-attacks/"><u>Exploring AI Weak Points: Demystifying the Mechanism Behind Prompt Injection Attacks</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c22-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-obs-and-streamlabs-battle-who-will-triumph-in-live-broadcasts/"><u>In 2024, OBS and Streamlabs Battle Who Will Triumph in Live Broadcasts?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/masterful-techniques-7-proven-ai-tools/"><u>Masterful Techniques: 7 Proven AI Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-your-macs-efficiency-introducing-microsoft-copilot/"><u>Maximize Your Mac's Efficiency: Introducing Microsoft Copilot</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-poco-x5-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Poco X5 Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-speeches-with-these-7-ai-innovators/"><u>Streamlining Speeches with These 7 AI Innovators</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sync-and-share-your-icloud-pictures-anywhere-ios-windows-or-android-tutorials/"><u>Sync and Share Your iCloud Pictures Anywhere: IOS, Windows, or Android Tutorials</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-developers-journey-with-ai/"><u>The Developer’s Journey With AI</u></a></li>
-<li><a href="https://windows11.techidaily.com/ultimate-7-list-cost-free-windows-media-centers/"><u>Ultimate 7 List: Cost-Free Windows Media Centers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ais-involvement-in-cyber-threats/"><u>Understanding AI's Involvement in Cyber Threats</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-compact-movie-story-proposal/"><u>[Updated] 2024 Approved Compact Movie Story Proposal</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-effective-ways-for-home-based-podcasting-for-2024/"><u>[Updated] Effective Ways for Home-Based Podcasting for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastery-in-gameye-advanced-recording-tips/"><u>[Updated] In 2024, Mastery in GamEye Advanced Recording Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-pioneering-3d-design-avoiding-common-pitfalls-in-illustrator-for-2024/"><u>[Updated] Pioneering 3D Design Avoiding Common Pitfalls in Illustrator for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alleviating-isolation-with-ai-conversations/"><u>Alleviating Isolation with AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-auto-gpt-how-it-measures-against-chatgpt/"><u>Decoding Auto-GPT - How It Measures Against ChatGPT</u></a></li>
+<li><a href="https://fox-info.techidaily.com/exclusive-12-video-hourly-livestream-service/"><u>Exclusive 12 Video Hourly Livestream Service</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y02t-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y02T Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-on-why-companies-are-wary-of-conversational-ai-tools/"><u>Insights on Why Companies Are Wary of Conversational AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intellectual-intrigue-comparing-ais-cognitive-capacities/"><u>Intellectual Intrigue: Comparing AI's Cognitive Capacities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-digital-fabrication-chatgpts-role-in-the-spotlight/"><u>Mastering Digital Fabrication: ChatGPT's Role in the Spotlight</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smooth-transition-tips-for-inshot-editors/"><u>Smooth Transition Tips for Inshot Editors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-inside-track-on-googles-new-streamer-price-predictions-scheduled-debut-and-key-features-uncovered/"><u>The Inside Track on Google's New Streamer: Price Predictions, Scheduled Debut & Key Features Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-advanced-ai-gpt-4-no-price-tag-needed/"><u>Unlocking Advanced AI: GPT-4, No Price Tag Needed</u></a></li>
 </ul></div>
 

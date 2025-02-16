@@ -1,7 +1,7 @@
 ---
 title: "Inside Google's Breakthrough: Introduction to PaLM 2 Model"
-date: 2024-08-21T15:38:50.337Z
-updated: 2024-08-22T15:38:50.337Z
+date: 2025-02-10T16:36:49.160Z
+updated: 2025-02-15T16:28:49.687Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ While OpenAI is leading the way for generative AI development, many have accused
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is PaLM 2?
 
  At Google I/O 2023, held on May 10, Google CEO Sunda Pichai revealed Google's latest plaything: [PaLM 2](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/).
@@ -35,6 +39,10 @@ While OpenAI is leading the way for generative AI development, many have accused
 
  With Gecko able to process around 20 tokens per second—tokens are the values assigned to real words for use by generative AI models—it looks likely to be a game-changer for mobile deployable AI tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PaLM 2 Training Data
 
  Google wasn't exactly forthcoming with PaLM 2's training data, understandable given it was just released. But Google's [PaLM 2 Report](https://ai.google/static/documents/palm2techreport.pdf) \[PDF\] did say that it wanted PaLM 2 to have a deeper understanding of mathematics, logic, and science, and that a large part of its training corpus focused on these topics.
@@ -48,8 +56,9 @@ While OpenAI is leading the way for generative AI development, many have accused
  But it's not just spoken languages. Linking to Google's demand for PaLM 2 to deliver better scientific and mathematical reasoning, the LLM has also been trained in more than 20 programming languages, which makes it a phenomenal asset for programmers.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PaLM 2 Is Already Powering Google Services—But Still Requires Fine Tuning
 
  It won't be long until we can get our hands on PaLM 2 and see what it can do. With any luck, the launch of any PaLM 2 applications and services will be better than Bard.
@@ -63,8 +72,9 @@ While OpenAI is leading the way for generative AI development, many have accused
  No matter how much researchers attempt to cleanse LLM training data, it's inevitable some will slip through. The next phase is to continue training PaLM 2 to reduce those toxic responses.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## It's a Boom Period for Large Language Models
 
  OpenAI wasn't the first to launch a large language model, but its GPT-3, GPT-3.5, and GPT-4 models undoubtedly lit the blue touchpaper on generative AI.
@@ -73,14 +83,11 @@ While OpenAI is leading the way for generative AI development, many have accused
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,4 +96,21 @@ While OpenAI is leading the way for generative AI development, many have accused
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-real-time-broadcast-periscope-essentials/"><u>[New] Mastering Real-Time Broadcast Periscope Essentials</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-streamline-your-media-with-top-8-convertors-1-8/"><u>[Updated] In 2024, Streamline Your Media with Top 8 Convertors #1-8</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-perfect-timing-for-on-screen-dialogue-in-your-youtube-productions/"><u>[Updated] Perfect Timing for On-Screen Dialogue in Your YouTube Productions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y55s-5g-2023-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y55s 5G (2023) Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypass-expense-with-gpt-4-essential-methods-uncovered/"><u>Bypass Expense with GPT-4: Essential Methods Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/code-crafting-conundrum-github-copilot-versus-gpt-3/"><u>Code Crafting Conundrum: GitHub Copilot Versus GPT-3?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-universally-accessible-6-reasons-to-persist-with-platinum-plan/"><u>GPT-4 Universally Accessible; 6 Reasons to Persist with Platinum Plan</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-beginners-blueprint-for-viral-video-seo/"><u>In 2024, Beginner's Blueprint for Viral Video SEO</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y100-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y100 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-advice-by-toms-hardware-expert-system-guidance/"><u>Pioneering PC Advice by Tom's Hardware - Expert System Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scriptwriting-simplified-chatgpts-creative-methodologies/"><u>Scriptwriting Simplified: ChatGPT's Creative Methodologies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ming-star-status-buttons-and-growth-accolades/"><u>Streaming Star Status - Buttons & Growth Accolades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-chatgpts-potential-with-plugins/"><u>Unlocking ChatGPT's Potential with Plugins</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-expert-picks-for-leading-antivirus-protection/"><u>ZDNet's Expert Picks for Leading Antivirus Protection</u></a></li>
+</ul></div>
 

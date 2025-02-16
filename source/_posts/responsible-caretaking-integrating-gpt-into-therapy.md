@@ -1,7 +1,7 @@
 ---
 title: "Responsible Caretaking: Integrating GPT Into Therapy"
-date: 2025-01-26T23:21:19.798Z
-updated: 2025-02-02T19:30:01.062Z
+date: 2025-02-10T23:34:32.798Z
+updated: 2025-02-15T19:18:59.022Z
 tags:
   - chatgpt
   - open-ai
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  No, it doesn't have a framed degree hanging on its wall or years of expensive training from an Ivy League university. However, it can mimic therapeutic techniques based on your prompts. And even though it's not a real person, [ChatGPT can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), if you know how to use it correctly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Art of Prompting for Mental Health Information
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  Or if you prefer a Buddhist lens, you could try "How would a Buddhist advise me to handle burnout?" For a more modern psychology approach, you could use a prompt like, "Give me cognitive behavioral strategies for managing anxiety."
 
 ![Screenshot of ChatGPT giving advice for managing stress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-08-12-am.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, to mimic a trauma-informed counseling session, you might describe your situation followed by a question such as, "How can I approach managing stress with a trauma-informed perspective?"
 
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![Screenshot of ChatGPT giving Stoic advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-06-50-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By providing this additional context, you're helping ChatGPT generate more specific, tailored advice. Or, let's say you're struggling with a personal relationship. You could ask, "I had an argument with my friend because of a misunderstanding, and it's causing me a lot of distress. What would a therapist suggest I do to resolve this situation?"
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![Stoic advice provided by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-04-47-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting Healthy Boundaries With Your AI
@@ -89,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  Also, make sure to balance your use of AI with friends and family and if necessary, other mental health resources. ChatGPT is a supplement, not a substitute. Keep up with your real-world people and never replace them with a chatbot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Know When to Seek Human Help
@@ -101,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  Crisis hotlines, emergency services, and licensed therapists are all far better equipped to provide the help you need in such situations.
 
  Furthermore, if you're dealing with complex issues or deep-seated traumas, a trained human therapist will be able to provide a level of understanding, empathy, and care that ChatGPT can't. It's okay to need human help. It's okay to seek it, and it's okay to accept it. No algorithm can replace the nuanced understanding, the shared experiences, and the simple, comforting presence of another human being.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Using ChatGPT as a Mental Health Coach
 
@@ -131,16 +131,21 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-exceptional.techidaily.com/1-top-2-easy-steps-to-restore-your-damaged-windows-10-disk-partition/"><u>1. Top 2 Easy Steps to Restore Your Damaged Windows 10 Disk Partition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-how-to-create-time-travel-teleportation-effects/"><u>2024 Approved How to Create Time Travel Teleportation Effects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-why-ais-helper-chatgpt-matters-for-healthcare/"><u>Discovering Why AI's Helper, ChatGPT, Matters for Healthcare</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/elettronico-macx-dvd-ripper-pro-per-windows-scopri-il-download-rapido-online/"><u>Elettronico MacX DVD Ripper Pro per Windows: Scopri Il Download Rapido Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/joke-makers-haven-get-it-today/"><u>Joke Makers' Haven - Get It Today</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/rebuilding-esxi-hosts-without-using-vcenter-two-effective-strategies/"><u>Rebuilding ESXi Hosts Without Using vCenter: Two Effective Strategies</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/straightforward-methods-to-save-insta-story-videos-for-2024/"><u>Straightforward Methods to Save Insta Story Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailored-training-strategies-with-ai-innovation/"><u>Tailored Training Strategies with AI Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-unhelpful-gpt-3-extensions-reconsidered/"><u>Top 6 Unhelpful GPT-3 Extensions Reconsidered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-mental-health-through-gpt-meditation-guidance/"><u>Transforming Mental Health Through GPT-Meditation Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-uncovered-no-win-chatgpt-app-as-virus-exists/"><u>Truth Uncovered: No Win ChatGPT App as Virus Exists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-pcs-hidden-treasures-with-new-windows-10-games/"><u>[New] Unleash Your PC’s Hidden Treasures with New Windows 10 Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-clearer-iphone-hd-images-post-production-with-4-key-premiere-pro-fixes/"><u>[Updated] 2024 Approved Clearer iPhone HD Images Post-Production with 4 Key Premiere Pro Fixes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-up-to-date-strategies-for-youtube-earnings/"><u>2024 Approved Up-to-Date Strategies for YouTube Earnings</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210549589-9781913618278-ancient-egypt/"><u>Ancient Egypt | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/badminton-teams-disconnect-from-screens/"><u>Badminton Teams Disconnect From Screens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-titles-pitting-googles-translation-against-ai/"><u>Dialogue Titles: Pitting Google's Translation Against AI</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/elite-selection-6-unmatched-tools-for-pristine-signature-edits-for-2024/"><u>Elite Selection - 6 Unmatched Tools for Pristine Signature Edits for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-continuous-crashing-issues-with-call-of-duty-warzone-20/"><u>How to Resolve Continuous Crashing Issues with Call of Duty Warzone 2.0</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introduction-to-administering-windows-component-tool/"><u>Introduction to Administering Windows' Component Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-enhanced-player-experiences-in-games/"><u>Leveraging AI for Enhanced Player Experiences in Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/non-disclosive-keeping-ai-dialogues-undetectable/"><u>Non-Disclosive Keeping: AI Dialogues Undetectable</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pre-interview-edge-utilizing-chatgpts-artificial-intelligence/"><u>Pre-Interview Edge: Utilizing ChatGPT's Artificial Intelligence</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-usb-drive-management-with-instant-adb-installation/"><u>Simplify USB Drive Management with Instant ADB Installation!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-dialogues-against-gpt-retention/"><u>Strategies for Securing Dialogues Against GPT' Retention</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-ai-how-vector-databases-contribute-to-progress/"><u>Transforming AI: How Vector Databases Contribute to Progress</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-its-role-rewards-and-risks-unveiled/"><u>Understanding AI: Its Role, Rewards & Risks Unveiled</u></a></li>
 </ul></div>
 

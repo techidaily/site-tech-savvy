@@ -1,7 +1,7 @@
 ---
 title: "Futuristic Commute: Mercedes-Benz Melds ChatGPT & Voice Control"
-date: 2024-08-21T15:42:35.780Z
-updated: 2024-08-22T15:42:35.780Z
+date: 2025-02-11T16:36:59.498Z
+updated: 2025-02-15T23:01:50.960Z
 tags:
   - chatgpt
   - open-ai
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
  What can you expect? And will other automakers follow suit? Let’s find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Voice Control Is Now Available on Mercedes-Benz
 
 ![Mercedes me app showing ChatGPT feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/23c0224_004.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1b56-458a-9324-20b25cc176cb)
 
@@ -39,6 +47,10 @@ Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1
 
  Beyond that, you can use [ChatGPT plug-ins](https://www.makeuseof.com/best-chatgpt-plugins/) to order food, find the best ticket prices, write emails, or [send a messages on Slack](https://www.makeuseof.com/what-is-slack/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other Automakers Could Follow Suit
 
  Mercedes-Benz is not the only automaker to consider integrating ChatGPT into its cars. According to [Reuters](https://www.reuters.com/business/autos-transportation/gm-explores-using-chatgpt-vehicles-2023-03-10/), General Motors is also looking at introducing a virtual assistant powered by ChatGPT. This could be part of its strategy after [ditching Android Auto and Apple CarPlay](https://www.makeuseof.com/gm-to-drop-android-auto-apple-carplay/).
@@ -46,8 +58,9 @@ Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1
  It's worth noting that even without ChatGPT voice assistant integrated into your car’s infotainment system, you can still talk to ChatGPT driving if you’re connected to Apple CarPlay and Siri. This would be a good way to mimic Mercedes' native integration of the chatbot if you own a vehicle from another brand.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Could Redefine Virtual Assistants in Vehicles
 
  ChatGPT has a lot of potential if it's integrated into vehicles, considering that it’s way more intelligent than Google Assistant, Siri, or Alexa as a virtual assistant. Mercedes-Benz introducing ChatGPT to its vehicles is a sign of things to come in the automotive industry that could redefine how we interact with virtual assistants in our cars.
@@ -58,14 +71,11 @@ Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1
 
  What can you expect? And will other automakers follow suit? Let’s find out.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -74,4 +84,20 @@ Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-adjust-your-android-images-right-here/"><u>[New] 2024 Approved Adjust Your Android Images Right Here</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-boost-views-with-your-own-youtube-thumbnail-design/"><u>[New] Boost Views with Your Own YouTube Thumbnail Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excellent-instructions-making-leverage-these-7-digital-platforms/"><u>Excellent Instructions Making: Leverage These 7 Digital Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-msi-bluetooth-driver-compatible-with-windows-11-and-10/"><u>Free Download: Ultimate MSI Bluetooth Driver Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-overcoming-hurdles-in-family-members-content-access-sharing/"><u>Guide to Overcoming Hurdles in Family Members’ Content Access Sharing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-techniques-in-capturing-live-sports-on-camera/"><u>In 2024, Essential Techniques in Capturing Live Sports on Camera</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-htc-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from HTC Devices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-bangla-in-just-10-mins-a-day/"><u>Master Bangla in Just 10 Mins a Day</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-browser-based-ai-with-agentgpt/"><u>Mastering Browser-Based AI with AgentGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shield-your-site-deter-robotic-scrappers/"><u>Shield Your Site: Deter Robotic Scrappers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silicon-wit-from-laptops-to-vpns-connectivitys-quirky-tale/"><u>Silicon Wit: From Laptops to VPNs, Connectivity's Quirky Tale</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-rumors-confirmed-the-insider-look-at-teslas-upcoming-bot-price-and-release-info/"><u>Tech Rumors Confirmed? The Insider Look at Tesla's Upcoming Bot - Price & Release Info</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-turing-test-simplified-and-its-quest-for-a-successor/"><u>The Turing Test Simplified & Its Quest for a Successor?</u></a></li>
+</ul></div>
 

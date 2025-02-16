@@ -1,7 +1,7 @@
 ---
 title: The Hidden Applications Where GPT Shines
-date: 2024-08-25T17:31:29.176Z
-updated: 2024-08-26T17:31:29.176Z
+date: 2025-02-11T00:29:51.916Z
+updated: 2025-02-16T03:02:08.672Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 
  People in multiple industries have been using ChatGPT to improve their workflows and seek inspiration. If you're interested in finding out how the software is being used, you're in the right place; that's precisely what we'll discuss today.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Scripting YouTube Videos
 
 ![person holding smartphone displaying youtube logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/speeds.jpg)
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 
 ![An idea symbol (lightbulb) linked to post it notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/lightbulb-with-post-its.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Even if you're required to come up with creative ideas each day, you're not always going to be able to think of new topics. You'll go through periods where you can't seem to think of anything—and if your job relies on you using your brain, this can get frustrating.
 
  You'll find creative inspiration in plenty of places online, such as by reading the latest news in your niche and checking out your favorite creators on social media. However, you can also use AI to generate new ideas that can lead you in the right direction.
@@ -44,20 +52,22 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
  Many creators are using ChatGPT to brainstorm topic ideas. If you ask the tool to develop a list of topics, you'll probably find at least one or two that you think are worth exploring further. You can then do your own research and bring the content together in whatever form of media you'd prefer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Social Media Bios
 
 ![Man holding phone with Instagram on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/man-holding-phone-with-instagram-on-it.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Despite the problems that social media can cause, [having a presence on platforms like Twitter](https://www.makeuseof.com/how-to-make-twitter-profile-stand-out/) and Instagram can work in your favor. For example, you can demonstrate your expertise on a topic that you're passionate about—and potentially attract employment opportunities. Moreover, you can use social media to connect with an audience of like-minded people.
 
  Considering that social media bios typically aren't a lot of characters, it's easy to think of these as an afterthought. However, considering that you're fighting for attention with millions of other users, having something that instantly gives people an insight into who you are is crucial.
 
  Creating a good social media bio can require a lot of thought, and you can use ChatGPT to help you create a draft. Once you've got a rough framework, you have more room to adjust everything to fit your personality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Learning a New Language
 
@@ -69,16 +79,10 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 
  Some users have asked ChatGPT for the most common words in their target language, and you can also ask the service how to translate certain words and phrases. On top of that, you might want to think about asking ChatGPT for a list of resources that you can add to your ecosystem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Market Research
 
 ![Two Work Areas at Home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/two-work-areas-at-home.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Whether you're an employee or a business owner, knowing what your customers want is crucial. Many companies make the mistake of spending a lot of time and energy creating products first, only to discover that nobody wants what they've made. However, market research can be challenging and time-consuming in equal measure.
 
  You'll find plenty of articles online about how ChatGPT can play a key role in the future of market research. And while the tool is still in its infancy, you can use it for several purposes. For example, you can ask what the pain points of your target audience would typically be.
@@ -86,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
  You can also use ChatGPT to look at what the people you want to sell to are currently interested in. While you should also use other forms of research—such as surveys—to get a clearer overall picture, ChatGPT can provide a good base level of information.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Finding the Answers to Questions
 
  For most of the 21st century, we've become accustomed to [using search engines like Google, Bing, and DuckDuckGo](https://www.makeuseof.com/google-vs-bing-vs-duckduckgo-ultimate-search-engine/) to find the answers to our questions. Whether ChatGPT replaces those websites is another question for another day, but some users have turned to the tool for simple search results.
@@ -96,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 
  If you need additional information, you can always turn to a search engine later.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Software Development
 
 ![photo of a woman typing on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/woman-working-on-computer.jpg)
@@ -119,14 +121,11 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 
  People in multiple industries have been using ChatGPT to improve their workflows and seek inspiration. If you're interested in finding out how the software is being used, you're in the right place; that's precisely what we'll discuss today.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +134,26 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-visibility-popularize-your-youtube-short-videos-for-2024/"><u>[New] Enhancing Visibility Popularize Your YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aximizing-youtube-exposure-with-ongoing-creative-commons-compliance/"><u>[New] Maximizing YouTube Exposure with Ongoing Creative Commons Compliance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehveive-tutorial-displaying-source-codes-in-your-word-docs/"><u>A Comprehveive Tutorial: Displaying Source Codes in Your Word Docs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/analyzing-the-pros-and-cons-of-criacrs-bluetooth-fm-transmitter-cp24-stylish-size-with-notable-flaws/"><u>Analyzing the Pros & Cons of Criacr's Bluetooth FM Transmitter CP24 - Stylish Size with Notable Flaws</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-13-mini-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 13 mini with iTunes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/graphics-processing/"><u>Graphics Processing</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-the-mysterious-windows-subsystem-for-linux-error-4294967295/"><u>Handling the Mysterious Windows Subsystem for Linux Error 4294967295</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-activate-the-hidden-admin-account-on-windows-11-7-and-8-a-comprehensive-guide/"><u>How to Activate the Hidden Admin Account on Windows 11, 7 and 8: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-construct-a-windows-11-bootable-restore-usb-a-step-by-step-guide/"><u>How to Construct a Windows 11 Bootable Restore USB: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-torrents-step-by-step/"><u>How to Download Torrents Step by Step</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-improve-gaming-performance-on-windows-11/"><u>How to Improve Gaming Performance on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-fonts-for-windows-11-easily-solved/"><u>How to Install Fonts for Windows 11 Easily [Solved]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-open-task-manager-in-windows-10-solved/"><u>How to Open Task Manager in Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-overcome-the-windows-10-cannot-be-installed-error-code-80240020-detailed-solution-inside/"><u>How to Overcome the 'Windows 10 Cannot Be Installed' Error (Code 80240020) – Detailed Solution Inside</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-spot-the-red-flags-of-phishing-emails-your-ultimate-guide-for-preventing-cyber-fraud/"><u>How to Spot the Red Flags of Phishing Emails - Your Ultimate Guide for Preventing Cyber Fraud</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-nokia-c12-plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Nokia C12 Plus Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-y100-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo Y100 by Name | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/proper-steps-for-incorporating-previous-sessions-in-live-views-for-2024/"><u>Proper Steps for Incorporating Previous Sessions in Live Views for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-to-samsung-galaxy-a35-and-get-a-complimentary-pair-of-galaxy-buds-fe-exclusive-tips-and-tricks/"><u>Upgrade to Samsung Galaxy A35 and Get a Complimentary Pair of Galaxy Buds FE | Exclusive Tips & Tricks</u></a></li>
+</ul></div>
 

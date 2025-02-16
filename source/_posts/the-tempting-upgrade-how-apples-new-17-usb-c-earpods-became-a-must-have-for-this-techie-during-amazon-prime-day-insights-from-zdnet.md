@@ -1,7 +1,7 @@
 ---
 title: "The Tempting Upgrade: How Apple's New $17 USB-C EarPods Became a Must-Have for This Techie During Amazon Prime Day - Insights From ZDNet"
-date: 2025-01-28T22:43:30.617Z
-updated: 2025-02-02T21:45:44.607Z
+date: 2025-02-08T21:41:41.658Z
+updated: 2025-02-16T01:24:50.911Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6e09774b-02af-40f2-b15d-688a67e89fc7%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,24 +71,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-secrets-to-smoothly-resolving-youtube-short-issues/"><u>[New] 2024 Approved Secrets to Smoothly Resolving YouTube Short Issues</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-roadmap-to-engaging-youtube-trailers-through-filmora/"><u>[New] The Roadmap to Engaging YouTube Trailers Through Filmora</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[New] The Ultimate Guide to Podcast Outros & Examples</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-7-audio-capturers-2023-edition-for-2024/"><u>[New] Top 7 Audio Capturers 2023 Edition for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outubes-updated-strategy-for-content-creators-for-2024/"><u>[New] YouTube's Updated Strategy for Content Creators for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-elevating-video-previews-a-compreayer-approach-for-youtube/"><u>[Updated] In 2024, Elevating Video Previews A Compreayer Approach for YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-optimize-accessibility-top-free-speech-conversion-tools-for-macos/"><u>[Updated] Optimize Accessibility Top Free Speech Conversion Tools for MacOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/18-ai-enabled-email-writing-tools-for-business-communication/"><u>18 AI-Enabled Email Writing Tools for Business Communication</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-discourse-on-flaws-the-top-8-concerns-in-gpt-dialogue/"><u>A Discourse on Flaws: The Top 8 Concerns in GPT Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-guide-to-productivity-via-chatgpt-interactions/"><u>A Guide to Productivity via ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-advancement-5-dynamic-ways-to-use-chatgpt-in-school/"><u>Academic Advancement: 5 Dynamic Ways to Use ChatGPT in School</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721411412896-emoji-less-tweets-on-twitter-linuss-revelations-explored-trojan-explained-and-chatgpt-concerns-addressed/"><u>Emoji-Less Tweets on Twitter, Linus’s Revelations Explored, Trojan Explained, & ChatGPT Concerns Addressed.</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-novice-to-native-speaker-mondlys-triumph/"><u>From Novice to Native Speaker - Mondly's Triumph</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-se-2020-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone SE (2020) Lock Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433423007-not-a-substitute-for-professional-medical-guidance-ai/"><u>Not a Substitute for Professional Medical Guidance, AI!</u></a></li>
-<li><a href="https://discover-best.techidaily.com/top-hevc-h265-video-encoders-lightning-fast-performance-with-cuda-and-nvenc-integration/"><u>Top HEVC H.265 Video Encoders - Lightning-Fast Performance with CUDA & NVENC Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721434343266-twitter-strips-emojis-linuss-secrets-exposed-trojan-threats-unveiled-and-chatbot-pitfalls/"><u>Twitter Strips Emojis, Linus's Secrets Exposed, Trojan Threats Unveiled, & ChatBot Pitfalls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721431154450-twitters-smileless-tweets-linuss-discoveries-unveiled-trojan-explanation-and-gpt-limitations-showcased/"><u>Twitters Smileless Tweets, Linus’s Discoveries Unveiled, Trojan Explanation, & GPT Limitations Showcased</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721434632646-unleash-bings-ai-now-available-for-both-ios-and-android/"><u>Unleash Bing's AI: Now Available for Both iOS & Android.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/androidios-accessibility-with-chatgpt/"><u>Android/iOS Accessibility with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-pc-interaction-with-nvidias-ai-assistant/"><u>Enhancing PC Interaction with Nvidia’s AI Assistant</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-15-essential-skills-for-recording-digital-music/"><u>Explore 15 Essential Skills for Recording Digital Music</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-dynamics-of-shared-links-in-chatgpt/"><u>Exploring the Dynamics of Shared Links in ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-laptop-wont-charge-when-plugged-in-windows-10-solutions/"><u>How to Fix: Laptop Won't Charge When Plugged In (Windows 10 Solutions)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nokia-c02-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nokia C02 Phones? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-14-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 14 without password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-speedy-way-effortlessly-add-a-vimeo-video-to-your-slides/"><u>In 2024, The Speedy Way Effortlessly Add a Vimeo Video to Your Slides</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-resume-writing-leverage-ai-inspire-employers/"><u>Smart Résumé Writing: Leverage AI, Inspire Employers</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-gt-5-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme GT 5 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tracing-sentimental-codes-in-artificayer-emotion-interaction/"><u>Tracing Sentimental Codes in Artificayer-Emotion Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-verse-potential-with-intelligent-ai-assistance/"><u>Unlocking Verse Potential with Intelligent AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gptbotinasmuch-as-it-challenges-copyright-norms/"><u>Unveiling GPTBot'inasmuch As It Challenges Copyright Norms</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/vegas-promp4movavi/"><u>VEGAS Proを使ってMP4/MOV/AVIフォーマットの動画が正しく表示されるようにする方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-services-revolutionized-by-chatgpt-technology/"><u>Web Services Revolutionized by ChatGPT Technology</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-a2plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi A2+ Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

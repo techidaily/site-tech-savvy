@@ -1,7 +1,7 @@
 ---
 title: Integrating GPT Into Therapeutic Communication Practices
-date: 2025-01-29T18:03:04.253Z
-updated: 2025-02-02T21:26:24.854Z
+date: 2025-02-11T02:03:17.771Z
+updated: 2025-02-15T19:43:00.953Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT and Cognitive Behavioral Therapy
 
  What makes ChatGPT suitable for the purpose of engaging in CBT? Well, ChatGPT has been trained on a wealth of data, including findings from psychological research, making it capable of grasping context and engaging in meaningful rhetoric.
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
  At the same time, if something feels off or not quite clicking, you can adjust your questions or simply tell ChatGPT in no uncertain terms that it needs to try a different approach or line of reasoning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Writing Effective Prompts for CBT Practice
@@ -70,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
 ![ChatGPT being trained as CBT therapist-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-chatgpt-being-trained-as-cbt-therapist-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can tweak the above in a way that works best for you.
 
  After you've prepared ChatGPT to act like a therapist, you can begin to engage. But you'll want to be specific. Instead of "I'm feeling bad," try "I recently started a new job, and I'm worried that I'm in over my head. I've started to think non-stop about whether I'll be successful even when I'm not at work. Reflecting on my situation, can you summarize a CBT approach to overcoming my anxiety?"
@@ -87,11 +87,11 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 ![ChatGPT response with actions that can be taken today](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-chatgpt-response-with-actions-that-can-be-taken-today.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Precautions and Limitations of Using ChatGPT for CBT
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 * Consider reaching out to a real professional for deep or complex issues since ChatGPT might lack clinical judgment and intuition.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using ChatGPT as a CBT Professional to Improve Mental Well-Being
@@ -131,21 +131,22 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unlocking-high-quality-audio-interpretation-via-google/"><u>[New] 2024 Approved Unlocking High-Quality Audio Interpretation via Google</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-beginners-guide-to-youtube-shorts-nuances/"><u>[Updated] In 2024, A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-crafting-a-compelling-narrative-a-key-to-more-viewers-and-subscribers/"><u>[Updated] In 2024, Crafting a Compelling Narrative A Key to More Viewers and Subscribers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-costless-comparables-to-openais-sora-model/"><u>6 Costless Comparables to OpenAI's Sora Model</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-better-alternatives-to-openais-chatgpt-mobile-app/"><u>7 Better Alternatives to OpenAI's ChatGPT Mobile App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-excellence-through-ai-technology/"><u>Academic Excellence Through AI Technology</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722604526925-decision-time-choosing-your-champion-apple-tv-4k-or-roku-ultra-unveiled/"><u>Decision Time: Choosing Your Champion – Apple TV 4K or Roku Ultra Unveiled!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433766016-dont-trust-unverified-ai-services-spot-the-fakes/"><u>Don't Trust Unverified AI Services - Spot the Fakes!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/effortless-access-top-5-chrome-addons-for-quickly-download-facebook-vids/"><u>Effortless Access Top 5 Chrome Addons for Quickly Download Facebook Vids</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/forward-thinking-desktopmobile-chat-apps-for-2024/"><u>Forward-Thinking Desktop/Mobile Chat Apps for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-subscribers-on-a-shoestring-grow-your-channel-fast/"><u>In 2024, Subscribers on a Shoestring Grow Your Channel Fast</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/key-distinctions-between-mac-and-pc-systems-unveiling-the-truth/"><u>Key Distinctions Between Mac & PC Systems: Unveiling the Truth</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721430132677-navigate-the-digital-world-easier-bings-new-ai-search-feature-for-phones/"><u>Navigate the Digital World Easier: Bing’s New AI Search Feature for Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721430445638-redefine-your-browsing-experience-bings-smart-ai-search/"><u>Redefine Your Browsing Experience: Bing's Smart AI Search</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/social-media-success-strategies-for-effective-facebook-reel-creation/"><u>Social Media Success Strategies for Effective Facebook Reel Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433461562-transform-your-mobile-experience-with-bings-smart-search-technology/"><u>Transform Your Mobile Experience with Bing's Smart Search Technology.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-expert-advice-on-quick-and-clean-ppt-captures/"><u>[New] 2024 Approved Expert Advice on Quick and Clean PPT Captures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimal-record-solution-chromebook-edition/"><u>[New] Optimal Record Solution Chromebook Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-ultimate-7-private-film-access-tools/"><u>[Updated] 2024 Approved Ultimate 7 Private Film Access Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715859645148-2024-approved-obs-full-screen-no-more-problem/"><u>2024 Approved Obs Full-Screen No More Problem!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-upside-down-up-in-popularity-the-instagram-way/"><u>2024 Approved Upside Down, Up in Popularity The Instagram Way</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-accounts-a-cybercriminals-playground/"><u>ChatGPT Accounts: A Cybercriminal's Playground?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/conquering-empires-in-imperator-rome-a-comprehensive-gameplay-review/"><u>Conquering Empires in Imperator: Rome – A Comprehensive Gameplay Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-sign-up-strategies-chatgpt-and-whatsapp-no-sim-required/"><u>Digital Sign-Up Strategies: ChatGPT & WhatsApp No SIM Required</u></a></li>
+<li><a href="https://article-posts.techidaily.com/discovering-prime-sources-and-techniques-for-cutting-tamil-ringtones-for-2024/"><u>Discovering Prime Sources & Techniques for Cutting Tamil Ringtones for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expressive-eloquence-top-tutors-for-articulation-skills/"><u>Expressive Eloquence: Top Tutors for Articulation Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-auto-gpt-setup-from-scratch/"><u>Guide: Auto-GPT Setup From Scratch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interpreting-chatgpts-inbuilt-extensions/"><u>Interpreting ChatGPT's Inbuilt Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/legal-standoff-artists-challenge-tech-giants-over-ais-reach/"><u>Legal Standoff: Artists Challenge Tech Giants Over AI's Reach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-use-of-gpt-tokens-in-interactive-dialogue/"><u>Optimal Use of GPT Tokens in Interactive Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smooth-out-research-hurdles-perplexity-ais-way/"><u>Smooth Out Research Hurdles: Perplexity AI's Way</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-for-traveling-tech-users/"><u>Ultimate Guide for Traveling Tech Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-xr-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone XR With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
 

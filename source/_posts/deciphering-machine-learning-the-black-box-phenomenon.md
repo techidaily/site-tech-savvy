@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Machine Learning: The Black Box Phenomenon"
-date: 2024-08-21T15:40:30.394Z
-updated: 2024-08-22T15:40:30.394Z
+date: 2025-02-08T17:34:55.999Z
+updated: 2025-02-15T20:05:22.838Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f2cca3b4364396f9937c3705e4296e2973a5931d8
 
  AI black boxes are a concept that refers to autonomous decision-making in AI systems. Let's take a detailed look at AI Black boxes, how they work, and the concerns that surround them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are AI Black Boxes?
 
  An AI black box is an independent system that can make decisions without explaining how these decisions were reached. That's a simple definition of an AI black box.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/f2cca3b4364396f9937c3705e4296e2973a5931d8
  However, this definition encapsulates the essence of artificial intelligence itself. AI systems are designed to learn, analyze data, and make decisions based on patterns and correlations they learn. However, the definition also encapsulates the concerns surrounding AI.
 
  We will set the concerns aside for the moment as we look at how AI black boxes work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How AI Black Boxes Work
 
@@ -48,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/f2cca3b4364396f9937c3705e4296e2973a5931d8
  Once the training phase is completed, the black boxes can be deployed to make independent decisions based on the learned algorithms and patterns. However, the lack of transparency about how decisions are reached is one of the primary concerns surrounding AI black boxes.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Challenges and Risks of AI Black Boxes
 
  Disruptive technologies rarely come without baggage. AI is the most disruptive technology we have faced this century, and it certainly comes with plenty of baggage. For AI to fulfill its promises, these challenges need to be addressed. Some of the major concerns and risks include:
@@ -63,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/f2cca3b4364396f9937c3705e4296e2973a5931d8
  These are known challenges, and efforts are underway to develop more accountable and transparent AI systems that can "show their workings."
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does the Future Hold for AI Black Boxes?
 
  Let's start by saying that AI, in some shape or form, is with us for the long term. Pandora's box has been opened, and it isn't going to close again. However, this is still a technology in its infancy, and it isn't surprising that there are challenges and issues with it.
@@ -80,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/f2cca3b4364396f9937c3705e4296e2973a5931d8
  This is still a raw technology, one which is straining ethical and legal boundaries. Addressing the concerns around AI black boxes is critical to its future and development.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI Black Boxes: An Ethical Dilemma
 
  AI black boxes hold huge promise and opportunity, but there are definite challenges to overcome. There is no doubt that AI is here to stay. The technology's rapid uptake has made it an integral part of our lives. But the lack of transparency and accountability are genuine and pressing concerns.
@@ -94,14 +105,11 @@ thumbnail: https://thmb.techidaily.com/f2cca3b4364396f9937c3705e4296e2973a5931d8
 
  AI black boxes are a concept that refers to autonomous decision-making in AI systems. Let's take a detailed look at AI Black boxes, how they work, and the concerns that surround them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +118,21 @@ thumbnail: https://thmb.techidaily.com/f2cca3b4364396f9937c3705e4296e2973a5931d8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-affordable-skycabinet-mass-data-hoarding-on-a-budget/"><u>2024 Approved Affordable SkyCabinet Mass Data Hoarding on a Budget</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-the-nuances-of-video-sound-design/"><u>2024 Approved Mastering the Nuances of Video Sound Design</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-magic-the-best-grid-tools-ranked/"><u>2024 Approved Photographic Magic - The Best Grid Tools Ranked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superiorly-crafted-radio-scripts/"><u>2024 Approved Superiorly Crafted Radio Scripts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ais-pioneering-role-in-generating-podcast-names-for-2024/"><u>AI's Pioneering Role in Generating Podcast Names for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-irreversible-chatgpt-data-loss/"><u>Avoiding Irreversible ChatGPT Data Loss</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/giggle-engineering-with-chatgpt-is-ai-the-new-joker/"><u>Giggle Engineering with ChatGPT: Is AI the New Joker?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-network-ai-versus-closed-system-deployment/"><u>Global Network AI versus Closed System Deployment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-images-via-look-up-table-techniques-in-adobes-image-editor/"><u>In 2024, Transforming Images via Look-Up Table Techniques in Adobe's Image Editor</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/mac-voice-recording-tutorial-a-step-by-step-guide/"><u>Mac Voice Recording Tutorial: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/prepare-for-airplane-mode-installation-of-win11/"><u>Prepare for Airplane Mode: Installation of Win11</u></a></li>
+<li><a href="https://discover-best.techidaily.com/spotlighting-abbyys-cutting-edge-solutions-breakthroughs-in-customer-engagement-and-partner-synergy/"><u>Spotlighting ABBYY's Cutting-Edge Solutions: Breakthroughs in Customer Engagement & Partner Synergy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/three-digital-dreamers-one-creative-quest/"><u>Three Digital Dreamers, One Creative Quest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-metas-verified-gateway-to-gpt-4-world/"><u>Unveiling Meta's Verified Gateway to GPT-4 World</u></a></li>
+</ul></div>
 

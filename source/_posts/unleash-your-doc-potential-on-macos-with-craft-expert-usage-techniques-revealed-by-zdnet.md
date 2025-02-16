@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed by ZDNET"
-date: 2025-01-27T18:30:59.799Z
-updated: 2025-02-02T20:00:46.997Z
+date: 2025-02-11T16:01:37.899Z
+updated: 2025-02-16T02:02:39.698Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ One such feature is called Hot Corners, which isn't a new feature. In fact, Hot 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are Hot Corners?
@@ -46,7 +46,7 @@ Although this list might not make your top 5 most used features in macOS, Hot Co
 Let's get these Hot Corners configured, so you can start enjoying a better workflow on your macOS desktop. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Configuring your Hot Corners
@@ -54,7 +54,7 @@ Let's get these Hot Corners configured, so you can start enjoying a better workf
 The location of the Hot Corners configuration isn't exactly intuitive. To configure your Hot Corners, follow these steps. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. Access Mission Control Configuration
@@ -66,7 +66,7 @@ The macOS System Preferences window.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. Open Hot Corners Configuration
@@ -78,7 +78,7 @@ The Hot Corners configuration is found within the Mission Control window.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. Configure Your Hot Corners
@@ -129,14 +129,20 @@ Hot Corners are a great way to help make your macOS desktop workflow a bit more 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-photography-with-advanced-software/"><u>[Updated] Pioneering Photography with Advanced Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-new-virtual-frontier-the-meta-quest-3-story/"><u>A New Virtual Frontier: The Meta Quest 3 Story</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-guide-troubleshooting-and-repairing-your-malfunctioning-xbox-one-controller/"><u>Complete Guide: Troubleshooting and Repairing Your Malfunctioning Xbox One Controller</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-6-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 6 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-manage-browser-cookie-settings-in-windows-10-a-guide-for-chrome-firefox-opera-and-edge-users/"><u>How to Manage Browser Cookie Settings in Windows 10: A Guide for Chrome, Firefox, Opera, and Edge Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-image-resizing-techniques-for-windows-and-mac-users/"><u>Mastering Image Resizing Techniques for Windows and Mac Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-miracast-technology-in-windows-1011-setup-instructions-and-troubleshooting-hacks-for-smooth-streaming/"><u>Mastering Miracast Technology in Windows 10/11: Setup Instructions & Troubleshooting Hacks for Smooth Streaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-youtube-audio-removal-2-proven-strategies/"><u>Mastering the Art of YouTube Audio Removal - 2 Proven Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/subscriptionshutdowns-seeking-new-access-era/"><u>SubscriptionShutdowns: Seeking New Access Era</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-video-enhancements-changing-numbers-on-tiktok/"><u>[New] Unlock Video Enhancements Changing Numbers on TikTok</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-record-audio-from-youtube/"><u>[Updated] How to Record Audio From YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco Is Unlocked</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y78t Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-y27-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo Y27 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-steam-file-sync-in-windows-environment/"><u>Mastering Steam File Sync in Windows Environment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-common-problems-with-windows-speech-recognition-a-step-by-step-guide/"><u>Resolving Common Problems with Windows Speech Recognition: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-the-failed-to-open-disc-error-in-makemmerge-a-step-by-step-guide/"><u>Resolving the 'Failed to Open Disc' Error in MakeMMerge: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sockshare-movies-made-easy-discover-our-5-key-tricks-for-seamless-downloads/"><u>SockShare Movies Made Easy – Discover Our 5 Key Tricks for Seamless Downloads!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-the-issue-of-missing-audio-in-streamlabs-pc-broadcasts/"><u>Solving the Issue of Missing Audio in Streamlabs PC Broadcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-vlc-players-hdr-display-problems-a-comprehensive-guide/"><u>Solving VLC Player's HDR Display Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-mp2-audio-to-mp3-quick-and-effectively/"><u>Step-by-Step Guide: Converting MP2 Audio to MP3 Quick and Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-voice-access-solutions-for-common-issues/"><u>Win11 Voice Access: Solutions for Common Issues</u></a></li>
 </ul></div>
 

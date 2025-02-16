@@ -1,7 +1,7 @@
 ---
 title: Who Will Triumph? Google's Bard Vs. Microsoft's Bing Chat
-date: 2024-08-21T15:41:08.464Z
-updated: 2024-08-22T15:41:08.464Z
+date: 2025-02-15T00:17:43.391Z
+updated: 2025-02-16T01:20:24.581Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
@@ -45,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Bing Chat vs. Google Bard: Response Accuracy
 
  Before we look at this, it is important to note that both tools make clear that the accuracy of the information generated cannot be guaranteed. As such, we are not going to check every detail. Rather, we will look at how easy it is to fact-check the response of each tool.
@@ -61,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 ![Screenshot Bard CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Ease of Use
 
@@ -77,21 +82,15 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  As both platforms are going through rapid development, the user experience will continue to improve.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## What Are the Differences Between the Language Models?
 
  The last major difference regards the "engines" that power both platforms. These Large Language Models (LLMs) are the underpinning technology. We don't need to go into great detail, but LLMs are important when choosing a platform.
@@ -102,16 +101,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
  But don't rule Bard out. We liked the more fact-driven approach that Google Bard took; the inclusion of ppm levels of CO2 was closer to the spirit of the original question than the Bing response. This is what we would expect to see, given its underlying architecture.
@@ -124,6 +121,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Era of the Chatbot Is Upon Us
 
  Regardless of the flaws we found and our quibbles with the chatbots, these are amazing technological feats that will play an ever-increasing part in our lives. The rapid development of technology will continue to push the boundaries of what these tools can achieve and how we use them.
@@ -132,14 +133,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +146,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enhancing-engagement-with-best-practices-for-fb-cover-vids/"><u>[New] In 2024, Enhancing Engagement with Best Practices for FB Cover Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-reanimated-warfare-gameplay-excellence-in-the-undead-genre/"><u>[New] In 2024, Reanimated Warfare Gameplay Excellence in the Undead Genre</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-tailoring-a-triad-of-topical-youtube-tracks/"><u>[Updated] 2024 Approved Tailoring a Triad of Topical YouTube Tracks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-pull-the-crowd-tactics-for-viral-instagram-videos/"><u>[Updated] In 2024, Pull the Crowd Tactics for Viral Instagram Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-of-both-worlds-2023s-device-agnostic-editors/"><u>[Updated] The Best of Both Worlds 2023’S Device-Agnostic Editors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveil-the-true-image-learn-background-removal-on-photopea/"><u>[Updated] Unveil the True Image Learn Background Removal on Photopea</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-invoice-handling-streamlined-with-abbyy-solutions-at-adactus-housing-group/"><u>Efficient Invoice Handling Streamlined with ABBYY Solutions at Adactus Housing Group</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-site-with-cookiebots-advanced-data-tracking-solutions/"><u>Elevate Your Site with Cookiebot's Advanced Data Tracking Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-online-visibility-using-advanced-cookiebot-solutions/"><u>Enhance Online Visibility Using Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-site-analytics-with-cookiebot-technology-power-up-your-digital-presence/"><u>Enhance Site Analytics with Cookiebot Technology - Power Up Your Digital Presence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-user-experience-through-advanced-cookiebot-solutions/"><u>Enhanced User Experience Through Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-bespoke-web-interactions-the-power-of-advanced-cookiebot-solutions/"><u>Experience Bespoke Web Interactions: The Power of Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-session-on-harnessing-process-intelligence-with-trinet-and-abbyy/"><u>Expert Session on Harnessing Process Intelligence with TriNet & ABBYY</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-user-engagement/"><u>Harnessing the Power of Cookiebot for Enhanced User Engagement</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-cutting-edge-editing-tiktok-edition-unveiled/"><u>In 2024, Cutting-Edge Editing TikTok Edition Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-scanning-convert-pdfs-and-jpg-images-to-text-with-ocr-technology-finereader/"><u>IPhone Scanning: Convert PDFs & JPG Images to Text with OCR Technology - FineReader</u></a></li>
+<li><a href="https://win-latest.techidaily.com/secure-your-lenovo-data-with-onekey-recovery-compatible-with-windows-10-systems/"><u>Secure Your Lenovo Data with OneKey Recovery - Compatible with Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-unknown-speaker-configurations-in-windows-11-a-step-by-step-guide/"><u>Solving Unknown Speaker Configurations in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-xiaomi-redmi-a2-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Xiaomi Redmi A2</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Strategies Using GPT-Assist
-date: 2025-01-30T20:56:04.035Z
-updated: 2025-02-02T22:14:34.491Z
+date: 2025-02-11T21:50:51.531Z
+updated: 2025-02-16T00:51:37.546Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
  ChatGPT can indeed help you create a healthy meal plan. In fact, it can help you create anything you’d like, even an unhealthy meal plan. But before you use ChatGPT to help you build your meal plan, there are several factors of your meal plan you need to figure out first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Meal Plan Preferences
@@ -56,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 
 ![ChatGPT AI chatbot online tool TDEE BMR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tdee-bmr.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve decided on those particulars of your healthy meal plan, you can use ChatGPT to help with your basal metabolic rate (BMR) and total daily energy expenditure (TDEE)—if you don't already know. TDEE is an estimate of your total calories burned daily.
 
  BMR is the energy your body uses while at rest. Knowing these numbers is important to your particular goals. All you have to do is type "**How do I calculate my TDEE and BMR?**" into ChatGPT, and it automatically generates the needed equations and formulas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use ChatGPT to Create a Healthy Meal Plan
 
@@ -74,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 
 ![chatgpt AI chatbot online tool meal plan example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-meal-plan-example.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here are some examples of prompts you can type into ChatGPT to help you build a healthy meal plan. A healthy meal plan is different for everyone, so always add as many or as few details as you want.
 
 * Five-day vegan meal plan for weight loss that serves two adults with three meals per day, has a 30-minute cook time, costs $10 per meal, and contains 1800 calories per day.
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 * One-week meal plan with three meals, one snack, and no dietary restrictions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Problems With ChatGPT Meal Plans
@@ -107,10 +103,14 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -155,22 +155,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-watchful-eye-discovering-twitters-hd-features/"><u>[Updated] 2024 Approved Watchful Eye Discovering Twitter’s HD Features</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-for-the-curious-young-and-novice-pilot-the-10-best-drones/"><u>[Updated] For the Curious Young and Novice Pilot - The 10 Best Drones</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-optimizing-your-project-b-roll-utilization-tips/"><u>[Updated] Optimizing Your Project B-Roll Utilization Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-x100-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo X100 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-premium-ai-prompts-worth-the-money/"><u>Are Premium AI Prompts Worth the Money?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoid-iphone-and-ipad-issues-with-ios-18-essential-tips-pre-installation/"><u>Avoid iPhone & iPad Issues with iOS 18: Essential Tips Pre-Installation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/deadly-dominance-the-quintessential-zombie-gameplay-for-2024/"><u>Deadly Dominance The Quintessential Zombie Gameplay for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-appeal-of-automated-digital-companions/"><u>Decoding the Appeal of Automated Digital Companions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-gpts-top-pairings-with-files-and-text/"><u>Discover GPT's Top Pairings with Files and Text</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-algorithms-mistrals-encounter-with-chatgpt/"><u>Engaging with Algorithms: Mistral's Encounter With ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-turning-off-the-live-tile-newsfeed-on-your-windows-11-desktop/"><u>Guide: Turning Off the Live Tile Newsfeed on Your Windows 11 Desktop</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-lg-launching-a-new-xr-device-find-out-if-its-the-anticipated-meta-quest-3-pro-or-an-exclusive-creation/"><u>Is LG Launching a New XR Device? Find Out If It’s the Anticipated Meta Quest #3 Pro or an Exclusive Creation!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/responsible-caretaking-integrating-gpt-into-therapy/"><u>Responsible Caretaking: Integrating GPT Into Therapy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/text-and-title-effect-types-in-after-effects/"><u>Text and Title Effect Types in After Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-unmatched-excellence-of-oneplus-12-why-it-remains-my-go-to-device-at-the-6-month-mark/"><u>The Unmatched Excellence of OnePlus 12: Why It Remains My Go-To Device at the 6-Month Mark</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/time-management-mastery-integrating-chatgpt-into-your-routine/"><u>Time Management Mastery: Integrating ChatGPT Into Your Routine</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-navigate-with-ease-mastering-ifunnys-meme-app/"><u>[New] Navigate with Ease Mastering iFunny's Meme App</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-top-notch-wrist-rest-reviews-for-enhanced-typing-comfort/"><u>2024'S Top-Notch Wrist Rest Reviews for Enhanced Typing Comfort</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-the-silence-crafting-powerful-film-dialogues/"><u>Breaking the Silence Crafting Powerful Film Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-chatgpt-capabilities/"><u>Demystifying ChatGPT Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-magic-of-unique-ai-design-microsofts-copilot-insights/"><u>Discover the Magic of Unique AI Design: Microsoft's Copilot Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-life-with-chatgpts-health-innovations/"><u>Enhancing Your Life with ChatGPT’s Health Innovations</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/guided-process-importing-snapchats-into-local-gallery/"><u>Guided Process Importing Snapchats Into Local Gallery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-where-to-hunt-for-excellent-instagram-ringtones-and-perfect-alarm-crafts/"><u>In 2024, Where to Hunt for Excellent Instagram Ringtones and Perfect Alarm Crafts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/playtime-registration-and-logout-tutorials-for-2024/"><u>Playtime Registration & Logout Tutorials for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/text-improvement-with-chatgpt/"><u>Text Improvement with ChatGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School"
-date: 2025-01-28T19:21:41.981Z
-updated: 2025-02-02T19:03:36.686Z
+date: 2025-02-09T18:56:55.540Z
+updated: 2025-02-16T02:15:39.393Z
 tags:
   - chatgpt
   - open-ai
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 ![ChatGPT crash course plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-crash-course-plan.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The resulting study plan is crude yet efficient. But there's room for modifications. You can use follow-up prompts to refine the results better. For instance, you can ask ChatGPT to:
@@ -58,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 ![Arithmetic series problem - long method](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/arithmetic-series-problem-long-method.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, you can also ask ChatGPT for a shortcut to solving the problem. For example, when we asked ChatGPT to provide a shortcut, the AI chatbot generated the following results:
 
 ![shortcut for solving arithemetic series](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/shortcut-for-solving-arithemetic-series.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When asking ChatGPT for shortcuts to solve a problem, always ask it to clarify whether the shortcut applies to all cases of a problem.
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
  You can go even further in some STEM problems by asking ChatGPT to provide a shortcut to solving a problem through visual representation. This could be particularly useful for visual learners who process and retain information better when presented visually rather than through text. For example, here's ChatGPT's response when we prompted it to solve the same problem using a visual representation:
 
 ![arithmetic series Visual representation shortcut by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/visual-reprentation-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have a preferred way that makes it easy for you to learn, ChatGPT can help present complex problems in that way to make it easier for you to understand.
 
@@ -104,13 +104,13 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 ![Essay for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/essay-for-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We put together a short story in a haphazard manner, as shown in the screenshot above, and asked ChatGPT to clean it up. Here's the result:
 
 ![complete story by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/complete-story-by-chatgp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Rather than outright asking ChatGPT to write an essay, you can write yours and use the following prompts to improve your work:
 
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 * Suggests some improvements that would make the text suitable for a \[target audience\].
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use ChatGPT Cautiously In Education
@@ -144,24 +144,21 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-make-thumbnails/"><u>[Updated] How to Make Thumbnails</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-streamline-animated-subscribe-buttons-in-filmora-for-youtube-success-for-2024/"><u>[Updated] Streamline Animated Subscribe Buttons in Filmora for YouTube Success for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-focused-frame-capture-leading-cams-for-slow-movement-recording/"><u>2024 Approved Focused Frame Capture Leading Cams for Slow Movement Recording</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-avenues-for-state-intervention-in-ai-technologies/"><u>4 Avenues for State Intervention in AI Technologies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-face-off-determining-which-is-superior-gpt-plus-or-perplexity/"><u>AI Face-Off: Determining Which Is Superior, GPT Plus Or Perplexity?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/authenticity-alert-separating-real-from-fake-bincrypt-tokens/"><u>Authenticity Alert: Separating Real From Fake BinCrypt Tokens</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-the-confusion-five-windows-cures-to-unsupported-boots/"><u>Clearing Up the Confusion: Five Windows Cures to Unsupported Boots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-digital-defenses-foreseeing-7-security-trajectories/"><u>Decoding Digital Defenses: Foreseeing 7 Security Trajectories</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-setup-get-the-pioneer-dj-ddj-sx2-controller-firmware-now/"><u>Effortless Setup: Get the Pioneer DJ DDJ-SX2 Controller Firmware Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elite-gamers-revealed-free-pc-gaming-secrets/"><u>Elite Gamers Revealed: Free PC Gaming Secrets</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-techniques-boosting-gameplay-experience-on-a-mac/"><u>Essential Techniques: Boosting Gameplay Experience on a Mac</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/liberate-your-conversations-with-windows-freegpt/"><u>Liberate Your Conversations with Windows FreeGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-away-from-gpt-on-smartphones/"><u>Navigating Away From GPT on Smartphones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pivotal-video-moments-secrets-to-stellar-text-enhancements/"><u>Pivotal Video Moments Secrets to Stellar Text Enhancements</u></a></li>
-<li><a href="https://techtrends.techidaily.com/six-must-have-study-tools-innovative-apps-to-aid-student-achievement-and-assist-caregivers/"><u>Six Must-Have Study Tools: Innovative Apps to Aid Student Achievement and Assist Caregivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/social-media-smarts-picking-between-snapchats-ai-and-gpt/"><u>Social Media Smarts: Picking Between Snapchat’s AI and GPT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/timed-tales-modifying-video-playback-speed/"><u>Timed Tales Modifying Video Playback Speed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ai-the-basics-of-transfer-learning/"><u>Understanding AI: The Basics of Transfer Learning</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-the-latest-tiktok-screen-art/"><u>[New] Guide to the Latest TikTok Screen Art</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-securing-stipends-by-scrutinizing-subscriptions-on-streaming-services/"><u>[Updated] Securing Stipends by Scrutinizing Subscriptions on Streaming Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-in-depth-evaluation-affordable-quality-and-rich-functions-in-the-keychron-c3-pro-wired-mechanical-keyboard/"><u>1. In-Depth Evaluation: Affordable Quality and Rich Functions in the Keychron C3 Pro Wired Mechanical Keyboard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerate-your-task-mastering-fast-application-launches-in-windows-11-with-easy-keyboard-commands/"><u>Accelerate Your Task: Mastering Fast Application Launches in Windows 11 with Easy Keyboard Commands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-10-entertaining-linux-terminal-commands-for-endless-hours-of-fun/"><u>Discover 10 Entertaining Linux Terminal Commands for Endless Hours of Fun</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-advanced-dell-xps-portables-say-goodbye-to-traditional-trackpads-with-integrated-haptic-solutions-and-adaptive-illuminated-keys/"><u>Discover the Advanced Dell XPS Portables - Say Goodbye to Traditional Trackpads with Integrated Haptic Solutions and Adaptive Illuminated Keys</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuite-et-optimisee-pour-haute-definition-top-player-video-h265-hevc-compatible-uhd-sur-windows-11-and-mac-annee-2020/"><u>Gratuite Et Optimisée Pour Haute Définition - Top Player Video H.265 HEVC Compatible UHD Sur Windows 11 & Mac, Année 2020</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-asus-rog-phone-7-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Asus ROG Phone 7 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-magic-5-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor Magic 5 Pro?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/introduction-to-av1-encoding-techniques/"><u>Introduction to AV1 Encoding Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/jumpstart-your-pc-with-windows-11-pro-upgrade/"><u>Jumpstart Your PC with Windows 11 Pro Upgrade</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-essential-windows-applications-must-have-tools-for-your-pc/"><u>Top 7 Essential Windows Applications: Must-Have Tools for Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-no-cost-aims3d-and-inkscape-professional-design-tools-to-replace-adobe-suite-on-windows/"><u>Top Rated No-Cost AIMS3D and Inkscape: Professional Design Tools to Replace Adobe Suite on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-users-ultimate-tutorial-for-easy-python-installation/"><u>Windows Users' Ultimate Tutorial for Easy Python Installation</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/worth-the-investment-comparing-dvds-blu-rays-and-digital-downloads/"><u>Worth the Investment? Comparing DVDs, Blu-Rays and Digital Downloads</u></a></li>
 </ul></div>
 
