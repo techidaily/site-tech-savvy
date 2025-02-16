@@ -1,7 +1,7 @@
 ---
 title: "Beyond Babbage and Turing: Next-Gen Intelligence Metrics"
-date: 2025-01-06T20:23:54.030Z
-updated: 2025-01-12T21:44:13.541Z
+date: 2025-01-29T19:46:44.454Z
+updated: 2025-02-02T18:53:17.499Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the Turing Test Outdated?
 
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
 
@@ -46,6 +46,10 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
  However, the current AI models like ChatGPT-4 and Google Bard haven't yet advanced to a point they can consistently pass the Turing test. In fact, if you're familiar with AI, you can [spot AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The 5 Best Turing Test Alternatives
 
  It's possible that [future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
@@ -53,10 +57,6 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 ## 1\. The Marcus Test
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the [New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
@@ -71,7 +71,7 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can [identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The Lovelace 2.0 Test
@@ -81,10 +81,6 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the [thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014\.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However, [artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
 
@@ -96,6 +92,10 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes [AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
@@ -105,7 +105,7 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance, [ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/), describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
@@ -133,21 +133,19 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-cutting-edge-tools-for-seamless-vimeo-video-download-for-2024/"><u>[New] Cutting-Edge Tools for Seamless Vimeo Video Download for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-complete-guide-to-macbook-webcam-recording/"><u>[New] In 2024, The Complete Guide to MacBook Webcam Recording</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-layering-and-shifting-photo-letters/"><u>[New] Layering & Shifting Photo Letters</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-uploading-and-embedding-srt-text-in-social-media-videos/"><u>[New] Uploading and Embedding SRT Text in Social Media Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-step-into-the-future-of-streaming-with-top-audio-techniques/"><u>[Updated] 2024 Approved Step Into the Future of Streaming with Top Audio Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quick-guide-retrieving-lost-reddit-content-deletion/"><u>[Updated] Quick Guide Retrieving Lost Reddit Content (Deletion)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-expands-asian-footprint-with-new-office-launch-in-hong-kong/"><u>ABBYY Expands Asian Footprint with New Office Launch in Hong Kong</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claim-the-future-how-claude-redefines-data-insights-and-solutions/"><u>Claim the Future: How Claude Redefines Data Insights and Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/contrasting-iphone-15-pro-max-and-samsung-s2e-ultra-a-detailed-breakdown-of-their-unique-features/"><u>Contrasting iPhone 15 Pro Max and Samsung S2e Ultra - A Detailed Breakdown of Their Unique Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/internal-laptop-speakers-not-working-heres-how-you-can-make-them-sound-again/"><u>Internal Laptop Speakers Not Working? Here's How You Can Make Them Sound Again!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsoft-redefines-search-ai-in-bing/"><u>Microsoft Redefines Search: AI in Bing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-site-advanced-analytics-and-personalization-using-the-cookiebot-engine/"><u>Revolutionize Your Site: Advanced Analytics & Personalization Using the Cookiebot Engine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/surfez-sur-la-vague-de-changement-limpact-accelerateur-des-crises-sur-les-relations-bancaires/"><u>Surfez Sur La Vague De Changement - L'Impact Accélérateur Des Crises Sur Les Relations Bancaires</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-gpt-models-from-one-to-four/"><u>Unpacking GPT Models From One to Four</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/world-leaders-in-tech-discussing-tomorrows-intelligence-systems/"><u>World Leaders in Tech Discussing Tomorrow's Intelligence Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimize-your-workflow-streamlined-processes-for-skype-calls-recording-for-2024/"><u>[New] Optimize Your Workflow Streamlined Processes for Skype Calls Recording for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-6-digital-backdrop-eradicators-boosting-image-clarity/"><u>[New] Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-vdy-hd-snapshot-reviews-complete-evaluation/"><u>[Updated] VDY HD Snapshot Reviews Complete Evaluation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-conquering-vr-lexicon-for-beginners/"><u>2024 Approved Conquering VR Lexicon for Beginners</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quickening-realities-with-hyperlapse-methods/"><u>2024 Approved Quickening Realities with Hyperlapse Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-pc-gaming-performance-turn-off-mouse-acceleration-on-windows-11/"><u>Boosting PC Gaming Performance: Turn Off Mouse Acceleration on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-easy-screen-clip-methods-for-acer-laptop-owners/"><u>Complete Tutorial: Easy Screen Clip Methods for Acer Laptop Owners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/desktop-icon-shakefix-a-step-by-step-guide-to-halting-the-wiggle/"><u>Desktop Icon Shakefix: A Step-by-Step Guide to Halting the Wiggle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dual-screen-magic-easily-connecting-a-second-monitor-on-pcs-running-windows-7810/"><u>Dual Screen Magic: Easily Connecting a Second Monitor on PCs Running Windows 7/8/10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-minimum-specifications-overwatch-game-system-needs/"><u>Explore Minimum Specifications: Overwatch Game System Needs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixed-antimalware-service-executable-high-cpu-on-windows-1110/"><u>Fixed: ‘Antimalware Service Executable’ High CPU on Windows 11/10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/utionize-your-branding-50-free-youtube-banners-inside-for-2024/"><u>Revolutionize Your Branding - 50 Free YouTube Banners Inside for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-all-new-samsung-galaxy-watch3-review-a-fusion-of-vintage-charm-and-current-innovations/"><u>The All-New Samsung Galaxy Watch3 Review: A Fusion of Vintage Charm and Current Innovations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Is Google's New PaLM 2 Large Language Model?
-date: 2024-08-25T17:32:53.429Z
-updated: 2024-08-26T17:32:53.429Z
+date: 2025-01-29T19:11:09.068Z
+updated: 2025-02-02T22:33:40.011Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ While OpenAI is leading the way for generative AI development, many have accused
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is PaLM 2?
 
  At Google I/O 2023, held on May 10, Google CEO Sunda Pichai revealed Google's latest plaything: [PaLM 2](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/).
@@ -35,6 +39,10 @@ While OpenAI is leading the way for generative AI development, many have accused
 
  With Gecko able to process around 20 tokens per second—tokens are the values assigned to real words for use by generative AI models—it looks likely to be a game-changer for mobile deployable AI tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PaLM 2 Training Data
 
  Google wasn't exactly forthcoming with PaLM 2's training data, understandable given it was just released. But Google's [PaLM 2 Report](https://ai.google/static/documents/palm2techreport.pdf) \[PDF\] did say that it wanted PaLM 2 to have a deeper understanding of mathematics, logic, and science, and that a large part of its training corpus focused on these topics.
@@ -48,8 +56,9 @@ While OpenAI is leading the way for generative AI development, many have accused
  But it's not just spoken languages. Linking to Google's demand for PaLM 2 to deliver better scientific and mathematical reasoning, the LLM has also been trained in more than 20 programming languages, which makes it a phenomenal asset for programmers.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PaLM 2 Is Already Powering Google Services—But Still Requires Fine Tuning
 
  It won't be long until we can get our hands on PaLM 2 and see what it can do. With any luck, the launch of any PaLM 2 applications and services will be better than Bard.
@@ -63,8 +72,9 @@ While OpenAI is leading the way for generative AI development, many have accused
  No matter how much researchers attempt to cleanse LLM training data, it's inevitable some will slip through. The next phase is to continue training PaLM 2 to reduce those toxic responses.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## It's a Boom Period for Large Language Models
 
  OpenAI wasn't the first to launch a large language model, but its GPT-3, GPT-3.5, and GPT-4 models undoubtedly lit the blue touchpaper on generative AI.
@@ -73,14 +83,11 @@ While OpenAI is leading the way for generative AI development, many have accused
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,4 +96,20 @@ While OpenAI is leading the way for generative AI development, many have accused
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-deadly-dominance-the-quintessential-zombie-gameplay/"><u>[New] 2024 Approved Deadly Dominance The Quintessential Zombie Gameplay</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/erfect-360-videography-streaming-tips-for-youtube-for-2024/"><u>[New] Perfect 360 Videography Streaming Tips for YouTube for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-rhythm-in-reels-the-essentials-of-iphone-video-making/"><u>[Updated] Rhythm in Reels The Essentials of iPhone Video Making</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-avi-and-mp4-files-which-is-superior/"><u>Comparing AVI and MP4 Files: Which Is Superior?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/head-to-head-comparison-google-pixel-watch-against-the-apple-series-8-making-the-right-pick-for-you/"><u>Head-to-Head Comparison: Google Pixel Watch Against the Apple Series 8 – Making the Right Pick for You!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-conversations-leveraging-create-a-gpt-techniques/"><u>Personalizing Conversations: Leveraging Create a GPT Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/procase-macbook-pro-13-case-review/"><u>ProCase MacBook Pro 13 Case Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/risks-galore-why-not-to-trust-ai-in-medicine/"><u>Risks Galore: Why Not to Trust AI in Medicine</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/by-step-techniques-for-seamless-youtube-subtitling-and-captions/"><u>Step-by-Step Techniques for Seamless YouTube Subtitling & Captions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-guide-to-interpreting-led-light-patterns-on-playstation-4-controllers/"><u>The Guide to Interpreting LED Light Patterns on PlayStation 4 Controllers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-full-potential-of-your-iphone-using-secret-siri-shortcuts-discover-how/"><u>Unleash the Full Potential of Your iPhone Using Secret Siri Shortcuts - Discover How</u></a></li>
+</ul></div>
 

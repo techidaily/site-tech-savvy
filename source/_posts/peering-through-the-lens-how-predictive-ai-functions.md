@@ -1,7 +1,7 @@
 ---
 title: "Peering Through the Lens: How Predictive AI Functions"
-date: 2024-08-25T17:35:07.086Z
-updated: 2024-08-26T17:35:07.086Z
+date: 2025-01-28T23:42:29.973Z
+updated: 2025-02-02T16:09:01.132Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 
 ## Peering Through the Lens: How Predictive AI Functions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Predictive AI, and How Does It Work?](https://proteahair.pxf.io/znernm)
 * [Examples of Predictive AI](https://martinic.evyy.net/m5azrm)
 * [How Is Predictive AI Different From Generative AI?](https://review-au.sjv.io/wqnrq3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 
  You've probably heard of generative AI, but how much do you know about predictive AI? They sound similar, but have some key differences, along with a heap of ways you're probably already using it!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## What Is Predictive AI, and How Does It Work?
 
  Predictive AI uses information from things that have already happened to make predictions and projections for what might happen in the future. To be used successfully, it requires access to high-quality data and subject matter expertise from humans to correctly identify trends.
@@ -48,9 +49,6 @@ No advertising on the website.
 
  Once predictive AI models have gathered the information they need, users can make decisions and conduct further research if necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Examples of Predictive AI
 
  Predictive AI is already used in multiple industries, and you may even have experienced this technology in action yourself. For example, companies use predictive AI to detect potential data breaches, and smartphone providers can help you type more accurately.
@@ -69,23 +67,25 @@ Close
 
 ![facebook unusual login email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/facebook-unusual-login.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Cybersecurity is one of the most important areas in which predictive AI is prominent, and [predictive analytics can help solve cybercrime in many ways](https://www.makeuseof.com/predictive-analytics-combat-cybercrime/). One example where you may have experienced predictive AI in security is when signing into an account or trying to use your bank card in an unfamiliar location.
 
  You'll often receive an email or text message warning you of an unusual sign-in and prompting you to take action if needed. Requesting to change your password can also prompt such notifications. To ensure that you don't fall victim to security breaches, it's worth learning about [takeover fraud and how to prevent these threats](https://www.makeuseof.com/what-is-account-takeover-fraud/).
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. App and Content Suggestions
 
 ![Spotify's niche mixes are playlists made for you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/spotify-niche-mixes-desktop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your smartphones and apps are becoming much better at offering recommendations, largely because of predictive AI. For example, if you use Google Drive, you may see a "You often open around this time" message on your main documents. You'll also see "Based on past activity" or "You've opened frequently."
 
  If you use your smartphone, you'll often see that recommendations for opening apps and other actions change depending on your habits at each time of the day. Apps also use your consumption behaviors to deliver better recommendations; for example, [Spotify uses AI](https://www.makeuseof.com/how-spotify-uses-ai/) to recommend (and create) playlists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Economic Projections
 
@@ -93,9 +93,6 @@ Close
 
  This technology can also predict stock market movements and cryptocurrency price changes. If you plan on trading with AI, it's worth checking out these [AI-based crypto tools](https://www.makeuseof.com/top-ai-based-crypto-tools/) as a starting point.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### 5\. Weather Forecasts
 
  Predicting the weather has always been difficult, but meteorologists will likely be able to lean on AI for more assistance in the future. Although the tool is relatively new in this space, Google AI Research Program Manager Abdoulaye Diack suggests that GraphCast can predict the weather up to 10 days in advance better than standard forecasting methods.
@@ -103,8 +100,9 @@ Close
  Predictive AI can measure more weather data in shorter periods. Being able to better predict the weather in the short term is nice on a personal level, as it means you'll know exactly what to wear outside. But if we zoom out and look at the bigger picture, predictive AI could also be a valuable tool for helping to innovate in climate change initiatives and predict major storms.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Business Decisions
 
  Companies use predictive AI to make better decisions and projections for the coming year. Since predictive AI is very good at measuring consumer behaviors, businesses can accurately determine the success of their current products and offerings over 6-12 months. To fill gaps in the market, they can also use the information they gather to launch and test new products.
@@ -127,8 +125,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +132,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-revolutionize-your-feed-with-these-10-insta-tools/"><u>[New] Revolutionize Your Feed with These 10 Insta-Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-innovation-the-surprising-usability-of-aliexpresss-77-3d-printer-revealed-by-reviewer/"><u>Affordable Innovation: The Surprising Usability of AliExpress's $77 3D Printer Revealed by Reviewer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginners-guide-to-ai-learning-together-in-these-9-clusters/"><u>Beginner's Guide to AI: Learning Together in These 9 Clusters</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-20-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 20 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-of-ais-eager-listener-protect-your-secrets/"><u>Beware of AI's Eager Listener: Protect Your Secrets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-scholarly-investigations-the-top-4-benefits-of-leveraging-artifice-intelligence/"><u>Boosting Scholarly Investigations: The Top 4 Benefits of Leveraging Artifice Intelligence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-game-changing-self-cleaning-function-of-the-dual-action-robot-vacuum-and-mop-tech-insights/"><u>Discover the Game-Changing Self-Cleaning Function of the Dual Action Robot Vacuum and Mop | Tech Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-items-for-the-perfect-summer-everyday-carry-list/"><u>Essential Items for the Perfect Summer Everyday Carry List</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/excellent-image-quality-with-canon-elph-190/"><u>Excellent Image Quality with Canon ELPH 190</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-apples-upcoming-airpods-pro-version-key-features-and-enhancements-comparison-techradar/"><u>Explore Apple's Upcoming AirPods Pro Version: Key Features and Enhancements Comparison | TechRadar</u></a></li>
+<li><a href="https://fox-links.techidaily.com/iphone-photography-wonders-capturing-surface-mirrors-for-2024/"><u>IPhone Photography Wonders Capturing Surface Mirrors for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 6 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-durable-iphones-12-and-12-pro-cases-in-202n-expert-reviews-and-ratings-zdnet/"><u>Ultimate Guide to Choosing Durable iPhones 12 and 12 Pro Cases in 202N: Expert Reviews & Ratings | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unexpected-glitches-in-visionpro-app-expert-tips-and-fixes-for-sudden-crashes-zdnet-insights/"><u>Unexpected Glitches in VisionPro App? Expert Tips & Fixes for Sudden Crashes | ZDNet Insights</u></a></li>
+</ul></div>
 

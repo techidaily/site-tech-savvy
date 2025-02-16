@@ -1,7 +1,7 @@
 ---
 title: CGP and the Quest for Reliable Medical Info
-date: 2025-01-26T18:38:17.143Z
-updated: 2025-02-01T00:05:01.531Z
+date: 2025-01-28T20:21:48.853Z
+updated: 2025-02-02T19:07:20.214Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Potential for Improving Wellness
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
  When it comes to sleeping better, the AI model can offer you tips and recommendations for improving sleep hygiene, such as helping you create a wind-down routine or offering advice on how to create a relaxing, sleep-inducing environment.
 
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
 
@@ -74,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
@@ -85,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 * **Consider the context** . Because health and fitness advice can vary so much between individuals, you will want to provide the model with as much personal information as possible, including your health history, goals, and current circumstances, before asking it to generate a response.
 * **Ask for clarification** . If the information provided by ChatGPT seems unclear or incomplete, ask it for additional information. You can even ask ChatGPT to ask you questions to better understand your individual needs before providing you with a response.
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
 
@@ -113,24 +113,17 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-navigating-through-windows-11s-new-frontier/"><u>[New] In 2024, Navigating Through Windows 11'S New Frontier</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovative-approaches-to-powerpoint-video-capture/"><u>2024 Approved Innovative Approaches to PowerPoint Video Capture</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/android-users-handbook-turning-off-intrusive-amber-alerts/"><u>Android User's Handbook: Turning Off Intrusive Amber Alerts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/churn-memetic-content-for-gif-hub-for-2024/"><u>Churn Memetic Content for GIF Hub for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystified-the-turing-test-and-its-potential-disruption/"><u>Demystified: The Turing Test & Its Potential Disruption</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-machines-potential-for-deception/"><u>Generative Machines: Potential for Deception</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/has-openais-control-over-gpt-eroded/"><u>Has OpenAI's Control Over GPT Eroded?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-overcoming-common-airdrop-failures-on-ios-and-macos-systems/"><u>In 2024, Overcoming Common Airdrop Failures on iOS and macOS Systems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-perfection-on-ios-and-android-choose-the-top-8-schedulers/"><u>Instagram Perfection on iOS & Android - Choose the Top 8 Schedulers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-profits-with-windows-11-a-closer-look/"><u>Making Profits with Windows 11 - A Closer Look</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-profitable-proposal-writing-via-gpt-powered-methods/"><u>Pioneering Profitable Proposal Writing via GPT-Powered Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pixel-6-pro-versus-iphone-13-pro-choosing-the-ultimate-high-end-smartphone-expert-comparison/"><u>Pixel 6 Pro Versus iPhone 13 Pro: Choosing the Ultimate High-End Smartphone – Expert Comparison</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-esr-qui2-series-ultra-fast-magsafe-charging-for-iphone-16s-with-cooler-performance-as-reviewed-on-zdnet/"><u>Revolutionary ESR Qui2 Series: Ultra-Fast MagSafe Charging for iPhone 16S With Cooler Performance, as Reviewed on ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-issues-a-step-by-step-guide-to-restoring-sound-on-discord/"><u>Solving Audio Issues: A Step-by-Step Guide to Restoring Sound on Discord</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/transforming-scripted-words-into-powerful-video-soundtracks/"><u>Transforming Scripted Words Into Powerful Video Soundtracks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-tecno-camon-20-by-drfone-android/"><u>Universal Unlock Pattern for Tecno Camon 20</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-apples-latest-ai-breakthrough-successful-progress-amid-areas-requiring-improvement-zdnet/"><u>Unpacking Apple's Latest AI Breakthrough: Successful Progress Amid Areas Requiring Improvement | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-price-of-free-phones-from-wireless-providers-what-you-need-to-know/"><u>Unveiling the Hidden Price of 'Free' Phones From Wireless Providers: What You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-delegate-privacy-to-gpt/"><u>Why You Shouldn't Delegate Privacy to GPT</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-fair-assessment-unveiling-recordcasts-capabilities-for-2024/"><u>[Updated] A Fair Assessment Unveiling RecordCast's Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-breaking-personal-barriers-in-yt-content-creation/"><u>2024 Approved Breaking Personal Barriers in YT Content Creation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-tutorial-for-casting-apple-tvplus-entertainment-to-googles-chromecast/"><u>A Step-by-Step Tutorial for Casting Apple TV+ Entertainment to Google's Chromecast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-chatgpt-experience-with-new-add-ons/"><u>Elevating ChatGPT Experience with New Add-Ons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-body-stream-issues-a-gpt-enthusiasts-guide/"><u>Fixing Body Stream Issues: A GPT Enthusiast's Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-screen-success-brand-endorsement-strategies/"><u>In 2024, Screen Success Brand Endorsement Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-efficiency-7-thoughtful-ways-to-utilize-ai-for-writers/"><u>Maximizing Efficiency: 7 Thoughtful Ways to Utilize AI for Writers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-how-to-fix-the-critical-steam-ui-component-failure-steamuidll/"><u>Solution Found! How to Fix the Critical Steam UI Component Failure (steamui.dll)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-impactful-role-of-artificial-intelligence-in-content-making/"><u>The Impactful Role of Artificial Intelligence in Content Making</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-list-the-leading-mp3-devices-for-music-lovers-cnet-reviews/"><u>Ultimate List: The Leading MP3 Devices for Music Lovers | CNET Reviews</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-pick-the-best-video-restoration-tools-for-windows-and-mac-enthusiasts/"><u>Ultimate Pick: The Best Video Restoration Tools for Windows & Mac Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-choices-from-toms-perspective/"><u>Unveiling Top Hardware Choices From Tom's Perspective</u></a></li>
 </ul></div>
 

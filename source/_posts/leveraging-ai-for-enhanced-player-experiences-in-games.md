@@ -1,7 +1,7 @@
 ---
 title: Leveraging AI for Enhanced Player Experiences in Games
-date: 2024-08-25T17:36:32.254Z
-updated: 2024-08-26T17:36:32.254Z
+date: 2025-01-28T16:45:59.225Z
+updated: 2025-02-02T18:01:24.529Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How AI Could Democratize Video Games
 
 ![a screenshot of the steam "new releases" page showing a lot of games that were all released on the day the screenshot was taken (May 19th)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/steam-new-releases-page.jpg)
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  This increase in the number of games being released is arguably good because of the vastly expanded variety of experiences now available. More people are making games than ever before, presenting viewpoints and perspectives that we may not have had a chance to see if the games industry had remained the way it was the in the 90s and early 2000s. It’s not much of a logical leap to say that AI would only strengthen this effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### AI-Assistants to Make Games With
 
  If you were lucky enough to catch [what was going on at Google I/O 2023](https://www.makeuseof.com/google-io-2023-what-was-announced/), then you know that AI assistants are currently the "in" thing. Services like [Bard](https://bard.google.com/) and [ChatGTP](https://openai.com/blog/chatgpt) are showing that AI can help everyone from writers and artists to programmers and designers. The future of AI in game design will almost certainly take the form of in-software assistants that can help developers with areas they’re not too familiar with.
@@ -39,23 +47,14 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  Of course, all of this assumes that the issue of AI being trained on unwitting creatives’ work has been solved. Currently, the two biggest barriers to this technology becoming widely used are related to public image and legality. Right now, most AI is trained on work without the original creator's permission, and thanks to this, much AI-driven work isn't exactly well-received online.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How AI Could Oversaturate Video Games
 
 ![A chart showing the number of games relased on Steam each year from 2006 to 2023. The chart shows a huge increase in released games from 2014-2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chart-showing-increased-in-games-released-on-steam-each-year-steam-db.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While it’s true that AI will help more people make video games, it could also lead to a huge glut in the market, and that has caused some problems for the games industry in the past. With AI assistance, it will become even easier for low-effort developers to churn out low-quality, low-price games as a quick scam. This has already been an issue in previous years, with 2017 seeing Valve remove 173 asset flip games from the storefront as reported by [Gamesindustry.biz](https://www.gamesindustry.biz/valve-removes-173-asset-flipping-games-from-steam).
 
  AI assistants could make these games easier to produce and make it harder to detect such games, as AI-generated content can at least appear marginally different from bundles of pre-bought assets currently used. When you add the ability for the incredibly young and inexperienced to make a game because they feel like it, it’s not hard to see why the introduction of AI assistants would make some people nervous.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Another Gaming Explosion
 
  AI could create another explosion in the number of games being brought out. It might even finally force Valve to enact some quality control on the games it's allowing for Steam's survival. The concern is that if AI content floods the market, people will lose faith in industry institutions, leading to a similar crash as was experienced in the early 80s. One of the primary causes of that crash, cited by places like [History Computer](https://history-computer.com/what-was-the-video-game-crash-of-1983-and-why-did-it-happen/), was a huge amount of low-quality software being released with no consumer guidance available.
@@ -63,16 +62,17 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  The final major struggle with AI-assisted game design is how it works legally. As we previously mentioned, AI-driven art is not currently accepted by the wider public, especially not in online circles. With gaming being such an online-centric industry, it seems that the hurdles could be bigger here than anywhere else, and many gamers may see avoiding the purchase of AI-driven games as an important moral stance.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Video Game Industry Needs Solid Guidelines Around AI
 
 ![screenshot of Google I/O 2023 showing a woman and man on opposite sides of the stage with a screen between them showing an AI-assistant helping to write a story.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-io-stage-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
 
  While we’ve talked at length about both the potential positives and negatives of the future of AI-assisted game design, it’s worth remembering that all of these potential issues can and should be accounted for. If Valve and other large digital retailers wish to avoid a repeat of previous gaming crashes, then it would almost certainly be wise to try to enact some slightly stricter quality control guidelines that are industry-wide.
@@ -82,8 +82,9 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
  On top of that, the games industry should not wait until legislation is imposed upon it by the government. Self-imposed codes and standards are an important part of any industry, from the Comic Code Authority to the ESRB; these self-policing policies are an important part of a healthy industry. People in positions of power within the industry need to start thinking about how we restrict the power that AI has over creative human expression now and not when it's too late.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Could AI Be the Future of Gaming?
 
  As AI starts to sink into more and more industries, there's no doubt that we'll find it in our games in the not-so-distant future. Whether this is for better or worse is up for debate, we've outlined a few key impacts AI could make.
@@ -98,8 +99,6 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +106,23 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-commanders-crusade-revealing-the-best-of-7-total-war-sagas/"><u>[New] In 2024, Commanders' Crusade Revealing the Best of 7 Total War Sagas</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instigate-inspiration-top-20-ideas-for-ig-masterpieces/"><u>[New] Instigate Inspiration Top 20 Ideas for IG Masterpieces</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-uninterrupted-playback-capture/"><u>[New] Uninterrupted Playback Capture</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-a-step-by-step-for-delving-into-fb-archives/"><u>[Updated] In 2024, A Step-by-Step for Delving Into FB Archives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-perfect-mac-video-capturer/"><u>[Updated] Perfect Mac Video Capturer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-criteria-when-expanding-your-4k-setup/"><u>[Updated] Top 8 Criteria When Expanding Your 4K Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-chatgpt-the-hottest-bot-trends/"><u>Bypassing ChatGPT: The Hottest Bot Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-live-tips-to-check-availability/"><u>ChatGPT Live! Tips to Check Availability</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevate-your-success-must-have-essentials-for-the-modern-business-owner/"><u>Elevate Your Success Must-Have Essentials for the Modern Business Owner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-8-creative-uses-of-chatgpts-image-recognition/"><u>Exploring 8 Creative Uses of ChatGPT’s Image Recognition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-apple-m2-macbook-air-at-a-steal-only-800-on-amazon-pre-october-prime-day-insider-scoop/"><u>Get the Apple M2 MacBook Air at a Steal - Only $800 on Amazon Pre-October Prime Day Insider Scoop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-using-your-apple-watch-to-stay-connected-with-loved-ones-expert-tips-from-zdnet/"><u>Guide: Using Your Apple Watch to Stay Connected with Loved Ones - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-the-future-of-tech-explore-how-apples-latest-ai-developments-will-shape-tomorrow-zdnet-features/"><u>Innovating the Future of Tech: Explore How Apple's Latest AI Developments Will Shape Tomorrow | ZDNet Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/peaceful-pixel-play-idling-worlds/"><u>Peaceful Pixel Play: Idling Worlds</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210541149-9781957869049-queering-psychedelics/"><u>Queering Psychedelics | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-savvy-solutions-top-picks-and-advice-by-toms-computing-experts/"><u>Tech Savvy Solutions: Top Picks and Advice by Tom's Computing Experts</u></a></li>
+</ul></div>
 

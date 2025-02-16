@@ -1,7 +1,7 @@
 ---
 title: The Insidious Art of Online Manipulation
-date: 2024-08-25T17:34:15.270Z
-updated: 2024-08-26T17:34:15.270Z
+date: 2025-01-27T18:22:49.962Z
+updated: 2025-02-02T16:16:58.805Z
 tags:
   - chatgpt
   - open-ai
@@ -37,24 +37,22 @@ thumbnail: https://thmb.techidaily.com/db54d4e94bdc568181a5a19bde06cb60cc627002a
 
 ![Various Messaging Apps on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/messaging-apps-on-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bots are spreading like wildfire online. [Imperva](https://www.imperva.com/resources/resource-library/reports/2023-imperva-bad-bot-report/) reports that bad bots made up 30 percent of automated web traffic in 2022\. You’ll find one within seconds of swiping through Tinder matches.
 
  One of the reasons for this sudden spike in bots is the proliferation of generative AI tools. They churn out bots in bulk. Just input the right prompt, and your tool will present a complete, efficient code snippet for bot generation.
 
  Know when you’re talking to a bot. Although AI uses a natural, conversational tone, its dialogue still sounds monotonous and awkward. After all, chatbots merely follow patterns. It might produce similar responses to different questions, statements, and requests.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Creating Multiple Identities From Stolen Images
 
 ![Creating a Fake Profile With a Stolen Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fake-profile-on-bumble.jpg)
 
 ![Using Stolen Images to Create a Profile on Bumble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uploading-stolen-images-on-bumble.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
 [AI art generators](https://www.makeuseof.com/ai-text-to-art-generators/) manipulate images. Take the below demonstration as an example. We fed Playground AI a candid photograph of a famous singer—the platform produced three variations within seconds.
@@ -65,6 +63,10 @@ Close
 
  Unfortunately, AI images are hard to detect. Your best bet would be to do a [reverse image search](https://www.makeuseof.com/tag/reverse-image-search-apps/) and sift through relevant results.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Building Deceptively Authentic-Looking Profiles
 
  Bots approach victims en masse. So romance scammers who prefer a targeted scheme create just one or two authentic-looking profiles. They’ll use AI to seem convincing. Generative AI tools can compose authentic-looking descriptions that sound natural and genuine; bad grammar will no longer be an issue.
@@ -73,20 +75,18 @@ Close
 
 ![Asking ChatGPT to Write Hobbies for a Dating Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-suggesting-good-hobbies.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here’s ChatGPT writing an entire biography for your dating profile.
 
 ![Asking ChatGPT to Create a Dating Profile for a Female](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-creating-dating-profile-bio.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  Since this process consumes so much time, it also requires a bigger payoff. So, scammers tend to ask for more. Once they earn your trust, they’ll ask for help with various “problems,” like hospital bills, loan payments, or tuition fees. Some will even claim to visit you if you shoulder their ticket.
 
  These cybercriminals are skilled at manipulating victims. The best tactic is to avoid engaging with them right from the get-go. Don’t let them say anything. Otherwise, you might gradually fall for their deception and gaslighting methods.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Exploiting Deepfake Technology for Sexual Extortion
 
  AI advanced deepfake tools at an alarmingly fast rate. New technologies reduce [minor imperfections in deepfake videos](https://www.makeuseof.com/how-do-deepfakes-work-and-who-is-using-them/), like unnatural blinking, uneven skin tones, distorted audio, and inconsistent elements.
@@ -108,8 +108,9 @@ Close
  You have no control over what scammers do. To protect your accounts, make sure you [create a truly secure password](https://www.makeuseof.com/what-makes-a-password-truly-secure/) comprising special characters, alphanumeric combinations, and 14+ characters.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Imitating Real People With Voice Cloning
 
  AI voice generators started as a cool toy. Users would turn sample tracks of their favorite artists into covers or even new songs. Take Heart on My Sleeve as an example. TikTok user [Ghostwriter977](https://www.tiktok.com/@ghostwriter977) made a super-realistic song imitating Drake and The Weeknd, although neither artist sang it.
@@ -119,9 +120,9 @@ Close
  Protect yourself from AI voice clone scams by studying how synthesized outputs sound. Explore these generators. They merely create near-identical clones—you’ll still spot some imperfections and inconsistencies.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Protect Yourself Against AI Dating Scammers
 
  As generative AI tools advance, romance scammers will develop new ways to exploit them. Developers can’t stop these criminals. Take a proactive role in fighting cybercrimes instead of just trusting that security restrictions work. You can still use dating apps. But make sure you know the person on the other side of the screen before engaging with them.
@@ -132,14 +133,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  And with the proliferation of generative AI tools, romance scams are becoming even easier to execute. They lower the barriers to entry. Here are seven common ways romance scammers exploit AI—plus how you can protect yourself.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +146,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/astronomy-gurus-the-elite-of-food-vlogs-for-2024/"><u>[New] Gastronomy Gurus The Elite of Food Vlogs for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-obs-chronology-control-building-a-personalized-countdown/"><u>[New] In 2024, Obs Chronology Control Building a Personalized Countdown</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-professional-shooters-guide-to-stability/"><u>2024 Approved Professional Shooters' Guide to Stability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-improve-and-power-your-chatgpt-interaction-top-9-tools/"><u>Enhance, Improve & Power Your ChatGPT Interaction (Top 9 Tools)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-productivity-with-tailored-notification-settings-on-macos-monterey/"><u>Enhancing Productivity with Tailored Notification Settings on macOS Monterey</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/latest-update-on-playstation-5-slim-current-pricing-and-expected-launch-timeline/"><u>Latest Update on PlayStation 5 Slim - Current Pricing & Expected Launch Timeline</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/maintain-peaceful-posting-dismiss-ig-recommendations-for-2024/"><u>Maintain Peaceful Posting Dismiss IG Recommendations for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-when-discords-screen-share-wont-work/"><u>Quick Fixes for When Discord's Screen Share Won't Work</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/reach-new-heights-in-video-content-with-dji-drones/"><u>Reach New Heights in Video Content with DJI Drones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-tough-professional-communications-with-gpt-3/"><u>Simplifying Tough Professional Communications with GPT-3</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/testing-the-limits-of-4k-with-hc-wxf991/"><u>Testing the Limits of 4K with HC-WXF991</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-almost-perfect-tech-accessory-on-my-arm-score-the-apple-watch-ultra-2-for-100-less-this-labor-day-exclusive-review-by-zdnet/"><u>The Almost Perfect Tech Accessory on My Arm - Score the Apple Watch Ultra 2 for $100 Less This Labor Day | Exclusive Review by ZDNET</u></a></li>
+</ul></div>
 

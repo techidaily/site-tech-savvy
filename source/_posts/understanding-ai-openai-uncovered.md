@@ -1,7 +1,7 @@
 ---
 title: "Understanding AI: OpenAI Uncovered"
-date: 2025-01-29T10:12:34.531Z
-updated: 2025-02-01T11:41:28.840Z
+date: 2025-02-01T16:21:29.794Z
+updated: 2025-02-02T18:55:52.698Z
 tags:
   - chatgpt
   - open-ai
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 ![DALL-E Playground Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dall-e-playground-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [DALL-E is a generative AI model](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) capable of generating images from text descriptions. It was created in January 2021 and has since undergone several improvements.
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 ![codex js sandbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/codex-js-sandbox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Released in 2021, Codex was based on the language model GPT-3 family—an AI model that can generate code. It could create code that is as good, or even better, than those written by human programmers.
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  OpenAI was founded to advance AI research and prevent its monopolization. But the research company faces challenges on different fronts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Regulatory Issues
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  OpenAI has begun creating regulatory measures trying to prevent these scenarios. But some of these measures have also prevented the use of the models, even within normal parameters.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Secrecy vs. Openness
@@ -117,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  However, as AI advances, so do its applications and chances of being used for malicious purposes. This has led OpenAI to try to find a balance between hiding and sharing research, despite the former going against their mission.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Ethical Issues
@@ -151,18 +151,18 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-key-top-5-ultra-light-action-recording-models/"><u>[New] 2024 Approved Key Top 5 Ultra-Light Action Recording Models</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-list-of-outstanding-storytelling-youtubers-this-year/"><u>[New] 2024 Approved The Ultimate List of Outstanding Storytelling YouTubers This Year</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-best-hd-visual-recorders-available/"><u>[New] Best HD Visual Recorders Available</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-thorough-summary-googles-podcast-platform-demystified/"><u>[Updated] 2024 Approved Thorough Summary Google's Podcast Platform Demystified</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-achieve-stellar-clickthrough-rates-via-thumbnail-enlargement-on-youtube/"><u>[Updated] In 2024, Achieve Stellar Clickthrough Rates via Thumbnail Enlargement on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-tricks-to-enhance-your-ppt-impact-on-google-meet-any-device-for-2024/"><u>[Updated] Tricks to Enhance Your PPT Impact on Google Meet, Any Device for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-mac-apps-the-leading-alternatives-to-bandicam/"><u>2024 Approved Essential Mac Apps The Leading Alternatives to Bandicam</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-chatgpt-the-game-changer-in-creative-tech/"><u>Breaking Down ChatGPT: The Game-Changer in Creative Tech</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-privacy-settings-hiding-spam-and-unknown-callers-on-iphone/"><u>Mastering Privacy Settings: Hiding Spam and Unknown Callers on iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/steer-clear-of-risky-ai-forged-keys-for-your-windows-upgrade/"><u>Steer Clear of Risky AI-Forged Keys for Your Windows Upgrade</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-crafting-captivating-haul-videos-for-2024/"><u>Step-by-Step Crafting Captivating Haul Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rush-factor-revealed-analyzing-apple-xr-headset-delivery-schedules-for-demand-indicators-exclusive/"><u>The Rush Factor Revealed: Analyzing Apple XR Headset Delivery Schedules for Demand Indicators Exclusive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-12-and-12-pro-protective-covers-2023-reviews-techradar/"><u>Top Rated iPhone 12 & 12 Pro Protective Covers - 2023 Reviews | TechRadar</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfecting-your-screen-recording-during-games/"><u>[New] 2024 Approved Perfecting Your Screen Recording During Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-top-rated-apps-for-instagrams-vertical-igtv-content-enhancement/"><u>[New] In 2024, Top-Rated Apps for Instagram's Vertical IGTV Content Enhancement</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-top-faces-essential-fb-videos-for-2024/"><u>[Updated] Mastering Top Faces Essential FB Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/code-mastery-for-effective-gpt-3-integration/"><u>Code Mastery for Effective GPT-3 Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-relevance-of-latest-chatgpt-info/"><u>Global Relevance of Latest ChatGPT Info</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-14-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 14 iCloud Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-a-guide-to-academic-writing/"><u>Mastering ChatGPT: A Guide to Academic Writing</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-performance-with-top-tier-gaming-equipment/"><u>Maximize Performance with Top-Tier Gaming Equipment</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unleash-creativity-10-top-public-domain-image-sources/"><u>New In 2024, Unleash Creativity 10 Top Public Domain Image Sources</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/script-revolution-unlocking-creativity-with-chatgpt-in-gaming/"><u>Script Revolution: Unlocking Creativity with ChatGPT in Gaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skepticism-grows-over-zerogpt-and-detection-tools/"><u>Skepticism Grows Over ZeroGPT & Detection Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-finding-your-digital-filming-suite-on-youtube-for-2024/"><u>Step-by-Step Finding Your Digital Filming Suite on YouTube for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-facebook-discover-the-history-popularity-reasons-and-main-attributes/"><u>Unraveling Facebook: Discover the History, Popularity Reasons, and Main Attributes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Sharing and Editing on Apple Pages Using iCloud: A Comprehensive Guide"
-date: 2025-01-29T21:06:19.507Z
-updated: 2025-01-31T22:06:26.575Z
+date: 2025-02-01T18:54:27.590Z
+updated: 2025-02-02T22:39:28.486Z
 tags:
   - apple
 categories:
@@ -33,16 +33,12 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -53,6 +49,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -61,11 +61,11 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-## Enable the Collaboration feature
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Enable the Collaboration feature
 
 ### 1\. Open an Apple Pages document
 
@@ -76,7 +76,7 @@ The first thing you must do is open the Pages document that will be shared with 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
@@ -86,6 +86,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -104,10 +108,6 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,18 +149,19 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-your-youtube-comments-on-various-devices/"><u>[New] In 2024, Discovering Your YouTube Comments on Various Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-strategic-dominance-unleashed-the-foremost-7-war-games/"><u>[New] In 2024, Strategic Dominance Unleashed The Foremost 7 War Games</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-visual-alchemy-compact-set-of-best-afx-samples-for-free/"><u>[New] Visual Alchemy Compact Set of Best AFX Samples for Free</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-a-compreayers-guide-to-monetizing-videos-critical-view-figures-for-2024/"><u>[Updated] A Compreayer's Guide to Monetizing Videos Critical View Figures for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-boldly-step-up-claim-your-set-of-50-exquisite-cost-free-youtube-promo-materials/"><u>[Updated] Boldly Step Up Claim Your Set of 50 Exquisite, Cost-Free YouTube Promo Materials</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-frosty-ambiance-cozy-cinematics-best-bgs-ideas/"><u>[Updated] Frosty Ambiance, Cozy Cinematics Best Bgs Ideas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-communications-for-bodybuilders/"><u>Enhancing AI Communications for Bodybuilders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-latest-ios-18-enhancements-from-apples-wwdc-2023-how-ai-is-changing-the-game/"><u>Exploring the Latest iOS 18 Enhancements From Apple's WWDC 2023: How AI Is Changing the Game</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-galaxy-s8s-ultra-hd-experience-unveiled/"><u>In 2024, Galaxy S8's Ultra HD Experience Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/relying-on-ais-pros-and-cons-of-chatgptbard-in-money-matters/"><u>Relying on AIs: Pros & Cons of ChatGPT/Bard in Money Matters</u></a></li>
-<li><a href="https://video-capture.techidaily.com/speedy-snapshot-and-voice-guided-session-creator/"><u>Speedy Snapshot & Voice-Guided Session Creator</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-best-buy-bargains-in-june-2024-insider-tips-from-zdnet/"><u>Top-Rated Best Buy Bargains in June 2024 - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/unlocking-hidden-insights-with-process-intelligence-on-complex-workflows/"><u>Unlocking Hidden Insights with Process Intelligence on Complex Workflows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-top-10-ingenious-ae-techniques-for-headline-hype/"><u>[New] In 2024, Top 10 Ingenious AE Techniques for Headline Hype</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-effortless-imovie-music-enhancement-using-youtube-songs/"><u>[Updated] 2024 Approved Effortless iMovie Music Enhancement Using YouTube Songs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-online-broadcasting-basics-a-streamers-guide-to-capture/"><u>[Updated] 2024 Approved Online Broadcasting Basics A Streamer’s Guide to Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-quick-methods-for-saving-vimeo-footage/"><u>[Updated] Quick Methods for Saving Vimeo Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-economically-sound-artificial-intelligence-options/"><u>6 Economically Sound Artificial Intelligence Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-critical-thoughts-on-ai-as-therapy-substitutes/"><u>7 Critical Thoughts on AI as Therapy Substitutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-innovative-neural-network-alternatives-eclipsing-chatgpts-mobile-version/"><u>8 Innovative Neural Network Alternatives Eclipsing ChatGPT's Mobile Version</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-tale-of-two-botms-mistral-and-chatgpt-showdown/"><u>A Tale of Two Botms: Mistral and ChatGPT Showdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721424669426-app-alert-chatgpt-now-on-ios/"><u>App Alert: ChatGPT Now on iOS!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138573593-9781450292634-authentic-love/"><u>Authentic Love | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721411498941-bringing-advanced-search-to-your-fingers-bings-ai-for-smartphones/"><u>Bringing Advanced Search to Your Fingers: Bing’s AI for Smartphones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/executive-chair-showdown-why-the-x-chair-x4-dominates-office-seating-reviews/"><u>Executive Chair Showdown: Why the X-Chair X4 Dominates Office Seating Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-504-gateway-timeout-issue-a-step-by-step-guide/"><u>Solving the 504 Gateway Timeout Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-leads-in-translation-accuracy-a-detailed-look-at-chatgpt-and-google-translate/"><u>Which Leads in Translation Accuracy? A Detailed Look at ChatGPT and Google Translate</u></a></li>
 </ul></div>
 

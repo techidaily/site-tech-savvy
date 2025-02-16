@@ -1,7 +1,7 @@
 ---
 title: "Emotional Assistance: Responsible AI Application"
-date: 2024-08-25T17:32:41.783Z
-updated: 2024-08-26T17:32:41.783Z
+date: 2025-02-01T21:16:34.903Z
+updated: 2025-02-02T17:01:08.536Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
  No, it doesn't have a framed degree hanging on its wall or years of expensive training from an Ivy League university. However, it can mimic therapeutic techniques based on your prompts. And even though it's not a real person, [ChatGPT can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), if you know how to use it correctly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Art of Prompting for Mental Health Information
 
  Prompts are the questions or statements you feed to ChatGPT to guide its responses. They're like the steering wheel of your conversation—the more precise your directions, the more accurate your destination.
@@ -46,10 +50,9 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
  Remember though, your AI pal is not psychic. It won't remember past conversations or know your personal history unless you tell it. So, the more details you can provide ahead of your question, the more tailored ChatGPT's response will be. Don't shy away from providing some context with your prompts.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Advanced Chat GPT Training
 
  Let's explore how to train ChatGPT to dig a bit deeper, ask those probing questions, and tailor its advice to your specific situation. The key here is to understand that ChatGPT can respond to complex, multi-layered prompts.
@@ -58,9 +61,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![Screenshot of ChatGPT giving Stoic advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-06-50-am.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  By providing this additional context, you're helping ChatGPT generate more specific, tailored advice. Or, let's say you're struggling with a personal relationship. You could ask, "I had an argument with my friend because of a misunderstanding, and it's causing me a lot of distress. What would a therapist suggest I do to resolve this situation?"
 
  By layering your prompts in this way, you're training ChatGPT to provide more specific, relevant advice. You can also supercharge your prompt by adding something like, "Ask any follow-up questions to understand the situation better before providing a response". This will result in a response that more closely approximates a conversation with a mental health coach.
@@ -68,11 +68,9 @@ The powerful video editing program for your Windows PC</a>
 ![Stoic advice provided by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-04-47-am.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
+
 ## Setting Healthy Boundaries With Your AI
 
  Imagine having a therapist or philosophical advisor who's always there, ready to chat 24/7\. Can't sleep because of a problem you're having with someone at work? Well, you can access ChatGPT anytime.
@@ -86,8 +84,9 @@ The powerful video editing program for your Windows PC</a>
  Also, make sure to balance your use of AI with friends and family and if necessary, other mental health resources. ChatGPT is a supplement, not a substitute. Keep up with your real-world people and never replace them with a chatbot.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Know When to Seek Human Help
 
  While ChatGPT is a fantastic listener and can serve up some solid advice, it has its limits. It's like a Swiss Army Knife—versatile, but you wouldn't want to use it to chop down a tree. That's why it's crucial to know when to switch gears and seek help from a real human.
@@ -99,8 +98,9 @@ The powerful video editing program for your Windows PC</a>
  Furthermore, if you're dealing with complex issues or deep-seated traumas, a trained human therapist will be able to provide a level of understanding, empathy, and care that ChatGPT can't. It's okay to need human help. It's okay to seek it, and it's okay to accept it. No algorithm can replace the nuanced understanding, the shared experiences, and the simple, comforting presence of another human being.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using ChatGPT as a Mental Health Coach
 
  By now you should understand how to use ChatGPT as a mental health coach, including how to craft prompts, create an AI persona, and train ChatGPT to provide tailored advice.
@@ -111,14 +111,11 @@ The powerful video editing program for your Windows PC</a>
 
  Now, before you start envisioning a robot shrink in a comfy leather armchair saying, "Tell me about your relationship with your mother," let's make something clear: ChatGPT is not a licensed therapist. But it can be a handy tool to help manage your mental well-being.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +124,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-crafting-personalized-instagram-story-sections/"><u>2024 Approved Crafting Personalized Instagram Story Sections</u></a></li>
+<li><a href="https://win-data.techidaily.com/a-complete-tutorial-on-file-and-folder-retrieval-via-aomei-cyber-backup-software/"><u>A Complete Tutorial on File & Folder Retrieval via AOMEI Cyber Backup Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-bar-skills-an-accuracy-test/"><u>ChatGPT's Bar Skills: An Accuracy Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-google-pixel-watch-and-apple-watch-series-9-is-it-worth-upgrading-expert-insights-from-zdnet/"><u>Comparing Google Pixel Watch and Apple Watch Series 9 – Is It Worth Upgrading? Expert Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-productivity-in-windows-11-world/"><u>Elevate Productivity in Windows 11 World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-iphone-experience-must-have-anker-charger-additions-coming-soon-zdnet/"><u>Elevate Your iPhone Experience: Must-Have Anker Charger Additions Coming Soon - ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beginners-pathway-utilizing-fade-transitions/"><u>In 2024, Beginner's Pathway Utilizing Fade Transitions</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-setup-fix-the-error-code-80240020-issue/"><u>Mastering Windows 11 Setup: Fix the Error Code 80240020 Issue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tips-to-expunge-your-youtube-queue-of-postponed-content-for-2024/"><u>Tips to Expunge Your YouTube Queue of Postponed Content for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-key-oversights-with-ml-algorithms/"><u>Top 3 Key Oversights with ML Algorithms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-8-virtual-spaces-for-3d-graffiti-fonts-for-2024/"><u>Top 8 Virtual Spaces for 3D Graffiti Fonts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-correct-the-missing-ksuserdll-error-message/"><u>Troubleshooting: Steps to Correct the Missing ksuser.dll Error Message</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-truth-how-to-determine-if-someones-using-an-airtag-to-locate-you/"><u>Uncover the Truth: How to Determine If Someone's Using an AirTag to Locate You</u></a></li>
+</ul></div>
 

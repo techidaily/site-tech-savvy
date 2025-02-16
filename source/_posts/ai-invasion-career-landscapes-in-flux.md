@@ -1,7 +1,7 @@
 ---
 title: "AI Invasion: Career Landscapes in Flux?"
-date: 2025-01-24T21:55:35.667Z
-updated: 2025-01-31T22:01:07.345Z
+date: 2025-01-26T21:57:56.764Z
+updated: 2025-02-02T21:14:51.486Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
@@ -49,7 +49,7 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  These examples might make you think there’s [no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/). However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Replace Programmers?
@@ -57,7 +57,7 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -75,7 +75,7 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some [criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/), ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -89,7 +89,7 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Elsewhere, people are explicitly [formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and [spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
@@ -113,24 +113,22 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-high-visibility-features-mastering-snapchats-star/"><u>[New] 2024 Approved High-Visibility Features Mastering Snapchat's Star</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rom-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube-for-2024/"><u>[New] From Scripts to Subscribers Mastering the Production of Engaging Educational Videos for YouTube for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tepwise-guide-to-transform-youtube-clips-into-animated-gifs-for-2024/"><u>[New] Stepwise Guide to Transform Youtube Clips Into Animated GIFs for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-creatives-making-marvel-virtual-worlds-vivid-for-2024/"><u>[Updated] Creatives Making Marvel Virtual Worlds Vivid for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-digital-library-of-public-domain-game-sounds/"><u>[Updated] Digital Library of Public Domain Game Sounds</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-streamline-your-video-watch-with-borderless-youtube/"><u>[Updated] In 2024, Streamline Your Video Watch with Borderless YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-ai-classifications-public-personal-and-restricted-spheres/"><u>Decoding AI Classifications: Public, Personal, and Restricted Spheres</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decoding-ultimategoog-an-in-depth-look-at-the-ultimate-mirror-site-experience/"><u>Decoding Ultimategoog: An In-Depth Look at the Ultimate Mirror Site Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-gpt-3-capabilities-in-openai/"><u>Exploring GPT-3 Capabilities in OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-securely-maintain-your-smart-device-batteries-including-airtags-against-hazardous-features-a-complete-guide/"><u>How to Securely Maintain Your Smart Device Batteries, Including AirTags, Against Hazardous Features - A Complete Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-command-your-chats-with-flair-pinning-made-simple-in-discord/"><u>In 2024, Command Your Chats with Flair Pinning Made Simple in Discord</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leadership-in-tech-monitoring-chatgpts-academic-reliability/"><u>Leadership in Tech: Monitoring ChatGPT's Academic Reliability</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-ideas-top-20-github-curated-chatgpt-dialogues/"><u>Pioneering Ideas: Top 20 Github-Curated ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reach-new-heights-with-9-key-perks-from-chatgpt-plus/"><u>Reach New Heights with 9 Key Perks From ChatGPT Plus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-safety-the-new-non-ai-emergency-message-feature-on-your-iphone-with-ios-18/"><u>Revolutionizing Safety: The New Non-AI Emergency Message Feature on Your iPhone with iOS 18</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-success-9-essential-steps-for-flawless-windows-media-views/"><u>Streamline Success: 9 Essential Steps for Flawless Windows Media Views</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-recovering-lost-airpods-and-preventative-measures-for-future-losses-insights-from-zdnet/"><u>The Ultimate Guide: Recovering Lost AirPods & Preventative Measures for Future Losses - Insights From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-next-big-thing-how-iphone-16s-cutting-edge-features-make-upgrades-irresistible-wired-magazine/"><u>Unveiling the Next Big Thing: How iPhone 16'S Cutting-Edge Features Make Upgrades Irresistible | Wired Magazine</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discovering-the-finest-free-srt-translation-tools/"><u>[New] Discovering the Finest FREE SRT Translation Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-differentiating-real-vs-fake-facebook-likes/"><u>[New] The Art of Differentiating Real vs Fake Facebook Likes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-picks-ultimate-gifs-and-images-as-zoomgoogle-meet-backdrops/"><u>[New] Top Picks Ultimate GIFs & Images as Zoom/Google Meet Backdrops</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-innovate-and-captivate-top-10-video-response-examples/"><u>[Updated] 2024 Approved Innovate and Captivate Top 10 Video Response Examples</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-art-of-attracting-more-youtube-viewers/"><u>[Updated] Mastering the Art of Attracting More YouTube Viewers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-6-secrets-to-household-harmony/"><u>ChatGPT's 6 Secrets to Household Harmony</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-etiquette-for-interacting-with-ai-assistants-siri-alexa/"><u>Effective Etiquette for Interacting With AI Assistants (Siri, Alexa)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-economy-explained-simplified/"><u>Emoji Economy Explained Simplified</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-most-frequent-windows-errors-quickly/"><u>Fixing the Most Frequent Windows Errors Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/growth-mindset-vs-chatgpt-crutch/"><u>Growth Mindset Vs. ChatGPT Crutch</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-motorola-g54-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Motorola G54 5G</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-perfect-your-videos-first-impression-20-best-fonts/"><u>In 2024, Perfect Your Video's First Impression 20 Best Fonts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/productivity-soared-the-finest-8-ai-enabled-chrome-extensions/"><u>Productivity Soared: The Finest 8 AI-Enabled Chrome Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-in-chatgpt-interaction/"><u>The Hidden Dangers in ChatGPT Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thriving-in-an-ai-era-professional-adaptation-techniques/"><u>Thriving in an AI Era: Professional Adaptation Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-can-shape-offer-from-openai/"><u>What Can ShapE Offer From OpenAI?</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1728476949797-windows-11/"><u>Windows 11を正常にインストールするための詳細ガイド</u></a></li>
 </ul></div>
 

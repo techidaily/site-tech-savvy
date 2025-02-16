@@ -1,7 +1,7 @@
 ---
 title: Dissecting Why Hackers Target GPT Accounts
-date: 2025-01-29T16:58:44.882Z
-updated: 2025-01-31T18:10:21.536Z
+date: 2025-01-26T23:14:52.715Z
+updated: 2025-02-02T17:01:18.807Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Are ChatGPT Accounts Being Hacked?
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
  So why are hackers going after ChatGPT accounts, and why are people willing to pay for these stolen accounts?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Stealing Sensitive Information
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At first, losing your ChatGPT account doesn’t seem like something you should be worried about. But it is. Sure, if you lose a free account, you can create another within a few minutes. But what about the data it contains?
@@ -58,9 +58,17 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
  Aware of such threats, companies like Google and Samsung—as well as Microsoft, a major backer of OpenAI—have all either warned or explicitly banned their staff from sharing company data with the AI chatbot. The fact that these companies are issuing such warnings means that mistakes might already be happening.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reselling ChatGPT Accounts
 
  While most of the world can access the ChatGPT website, some countries are officially banned from the platform. At the time of writing, China, with more than a billion potential users, is on this list. While residents from banned countries can use a VPN and other measures to bypass this restriction, buying cheap, stolen premium accounts is also appealing. This naturally creates a market for stolen [ChatGPT Plus accounts](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), some of which are auctioned off to more than one user. With a readily available market, hackers are naturally incentivized to steal ChatGPT accounts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Protect Your ChatGPT Account
 
@@ -74,15 +82,7 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/setting-up-2fa-on-chatgpt.jpg)
 2. Tap **Settings > Data controls** and then **Enable** beside **Enable two-factor authentication** to turn on the feature for your account  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Unfortunately, at the time of writing, the 2FA feature has been temporarily disabled. If you can access the feature at the time of reading this, turn it on. If not, check back and turn it on whenever OpenAI restores this vital feature.
 
@@ -116,19 +116,16 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-maximizing-moolah-how-to-monetize-videos-on-the-social-network-giant/"><u>[New] Maximizing Moolah How to Monetize Videos on the Social Network Giant</u></a></li>
-<li><a href="https://games-able.techidaily.com/10-tips-to-sharpen-your-monitor-buying-skills/"><u>10 Tips to Sharpen Your Monitor Buying Skills</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-free-screen-capture-solutions-top-5-recommendations-for-windows/"><u>2024 Approved Free Screen Capture Solutions – Top 5 Recommendations for Windows</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-10-border-tools-for-professional-instagram-images/"><u>2024 Approved Top 10 Border Tools for Professional Instagram Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-ipad-pro-comparing-11-inch-and-129-inch-models-with-latest-m1m2-chips-expert-insights/"><u>Choosing the Right iPad Pro: Comparing 11-Inch & 12.9-Inch Models with Latest M1/M2 Chips - Expert Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensible-guide-to-fix-flickering-screens-in-windows/"><u>Comprehensible Guide to Fix Flickering Screens in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-teaching-and-learning-with-5-innovative-chatgpt-strategies/"><u>Elevating Teaching and Learning with 5 Innovative ChatGPT Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722867107277-find-out-where-to-stream-hit-music-videos-online-top-6-spots-revealed/"><u>Find Out Where to Stream Hit Music Videos Online – Top 6 Spots Revealed!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-elite-to-all-with-gpt-4/"><u>From Elite to All with GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/grasping-the-copyright-conundrum-in-ai-realm/"><u>Grasping the Copyright Conundrum in AI Realm</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-to-ensure-your-macbook-pro-13-stays-safe-with-finties-reliable-and-economical-protective-case-a-review/"><u>How to Ensure Your MacBook Pro 13 Stays Safe with Fintie's Reliable and Economical Protective Case: A Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-uncertainty-has-openai-misstepped-in-managing-chatgpt/"><u>Navigating Uncertainty: Has OpenAI Misstepped in Managing ChatGPT?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/seamless-scenes-crafting-smooth-transitions-using-kinemaster-for-2024/"><u>Seamless Scenes Crafting Smooth Transitions Using Kinemaster for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranking-iphones-comprehensive-reviews-by-industry-experts-zdnet/"><u>Top-Ranking iPhones : Comprehensive Reviews by Industry Experts - ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-analyzing-why-youtube-features-specific-comments/"><u>[New] 2024 Approved Analyzing Why YouTube Features Specific Comments</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-elevate-landscape-imaging-with-your-iphone-device/"><u>[New] How to Elevate Landscape Imaging with Your iPhone Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-youtubes-payment-mechanisms-for-content-makers/"><u>2024 Approved Exploring YouTube's Payment Mechanisms for Content Makers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-find-x7-ultra-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-steps-to-uplift-gpts-integrated-plugin-platform/"><u>Essential Steps to Uplift GPT's Integrated Plugin Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-insights-ai-versus-astrological-fortune-telling/"><u>Future Insights: AI versus Astrological Fortune Telling</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-mastering-the-craft-selecting-the-top-5-web-based-title-makers/"><u>In 2024, Mastering the Craft Selecting the Top 5 Web-Based Title Makers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-pitaka-magez-automotive-mobile-dock-revolutionizing-your-iphones-travel-experience/"><u>In-Depth Analysis of Pitaka MagEZ Automotive Mobile Dock - Revolutionizing Your iPhone's Travel Experience.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-text-with-mega-sized-ai-models/"><u>Mastering Text with Mega-Sized AI Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-riddles-with-ai-math-style/"><u>Resolving Riddles with AI, Math Style</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turning-text-to-audio-with-ais-help/"><u>Turning Text to Audio with AI's Help</u></a></li>
 </ul></div>
 

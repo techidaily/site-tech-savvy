@@ -1,7 +1,7 @@
 ---
 title: "Augmenting Group Sessions: The Role of Artificial Intelligence"
-date: 2025-01-27T20:16:08.427Z
-updated: 2025-02-01T06:25:18.391Z
+date: 2025-01-31T20:52:11.647Z
+updated: 2025-02-02T21:30:51.924Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Anticipate Questions in Advance
 
 ![ChatGPT answering the prompt "Give me a list of questions that may be asked during a meeting between the project management department and the health and safety department discussing the installation of a new injection moulding machine"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/anticipating-questions-in-advance-using-chatgpt.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Being in a virtual meeting can be more stressful than a physical one as the interactions are limited. Also, you cannot easily read the body language of others. So, when someone asks a question that you didn't expect, your whole presentation can go off the rails.
 
@@ -41,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
  While these responses may not be the best, they can serve as a great starting point for your preparation. Then, with the questions and potential responses in hand, you can organize them further in any note-taking app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Brainstorm Ideas
@@ -51,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
  ChatGPT can also be used to brainstorm great ideas during a virtual meeting. For example, you can open the AI in another window and ask it to provide intuitive suggestions about the topics under discussion. These ideas can then be passed to the meeting members, and everyone can discuss their viability.
 
  ChatGPT can help provide a new angle that may solve the issue more efficiently. It can also provide a good starting point for your team to come up with fresh new ideas of their own. You can streamline this process of asking ChatGPT for new ideas by [using your voice to control ChatGPT](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Summarize the Meeting Transcript
 
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
  Since the meeting is being conducted online, it can be recorded. You can then use an app like [Rev to transcribe your audio files](https://www.makeuseof.com/how-good-is-rev-transcribing-audio-files/). If the transcription is in PDF form, there is no need to worry. There are [several ways to let ChatGPT read PDF files](https://www.makeuseof.com/chatgpt-read-pdf-ways/) as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Decide the Next Course of Action
@@ -75,16 +79,12 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 ![ChatGPT answering the prompt "What is the next course of action based on the transcription of the meeting we just had"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/deciding-the-next-course-of-action-using-chatgpt.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  An essential part of meeting minutes is to jot down all follow-up actions at the end. This helps clarify what needs to be done next and prevents misunderstandings. Again, ChatGPT can help you with this at the press of a key.
 
  Ask the language model what the next course of action is based on the transcription of your meeting. Then provide the AI chatbot with the transcription of your meeting, and ChatGPT will list all follow-up actions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Assistant for Your Virtual Meetings
 
@@ -111,24 +111,20 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-essential-tips-for-crop-and-export-videos-for-instagram-for-2024/"><u>[New] Essential Tips for Crop & Export Videos for Instagram for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-ultimate-guide-to-iphone-ringtones-refinement/"><u>[New] In 2024, The Ultimate Guide to iPhone Ringtones Refinement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-the-art-of-interviews-iphone-and-ipad-recording-techniques/"><u>[Updated] Perfecting the Art of Interviews IPhone & iPad Recording Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-corrections-for-writers/"><u>AI-Driven Corrections for Writers?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/create-unique-ai-conversations/"><u>Create Unique AI Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-offer-grab-two-premium-nomad-iphone-cases-for-the-price-of-one-bogo-deal-available/"><u>Exclusive Offer: Grab Two Premium Nomad iPhone Cases for the Price of One - BOGO Deal Available!</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728470157277-e/"><u>Eドライブ失われ続ける理由と、パーティション復元手順</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-ready-iphone-lineup-unveiling-devices-compatible-with-apples-next-ai-breakthroughs-and-the-evolved-version-of-siri/"><u>Future-Ready iPhone Lineup: Unveiling Devices Compatible with Apple's Next AI Breakthroughs and the Evolved Version of Siri</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-xs-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone XS Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-time-lapse-camera-apps-for-mobile-devices-2023-update/"><u>New In 2024, Top Time-Lapse Camera Apps for Mobile Devices (2023 Update)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protonvpn-switching-email-and-browsing-safely/"><u>ProtonVPN: Switching Email & Browsing Safely</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-guide-to-discovering-your-pcs-gpu-version/"><u>Rapid Guide to Discovering Your PC's GPU Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shift-your-focus-to-claude-3-the-top-4-reasons-ahead/"><u>Shift Your Focus to Claude 3: The Top 4 Reasons Ahead</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-best-gpt-enhancements-your-plugin-guide-1-9/"><u>The Best GPT Enhancements – Your Plugin Guide (#1-9)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-air-protectors-2024-comprehensive-review-by-tech-experts/"><u>Top Rated iPad Air Protectors 2024 - Comprehensive Review by Tech Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-how-chatgpt-can-transform-health-consulting-in-7-ways/"><u>Unveiling How ChatGPT Can Transform Health Consulting (in 7 Ways)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-obs-studio-explained-capturing-ps4-playthroughs/"><u>[Updated] 2024 Approved OBS Studio Explained Capturing PS4 Playthroughs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-immersive-worlds-vrs-impact-on-entertainment/"><u>2024 Approved Immersive Worlds VR's Impact on Entertainment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reflect-and-paraphrase-restate-what-youve-heard-in-your-own-words-to-ensure-comprehension-and-ask-clarifying-questions-if-needed/"><u>2024 Approved Reflect and Paraphrase Restate What You've Heard in Your Own Words to Ensure Comprehension, and Ask Clarifying Questions if Needed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-muse-reimagined-the-best-ai-writers-of-today/"><u>Artificial Muse Reimagined: The Best AI Writers of Today</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-manual-for-crafting-youtube-playlists-for-2024/"><u>How-To Manual for Crafting YouTube Playlists for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-chatgpts-world-generating-tomorrows-ideas-today/"><u>Inside ChatGPT's World: Generating Tomorrow’s Ideas Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keep-your-game-running-smoothly-with-the-newest-amd-radeon-email-protected-xt-drivers-on-windows-systems/"><u>Keep Your Game Running Smoothly with the Newest AMD Radeon ([Email Protected]) XT Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-electronics-tips-from-toms-hardware-hub/"><u>Mastering Your Electronics - Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/navigating-the-nuances-of-ps4-live-gaming-recordings/"><u>Navigating the Nuances of PS4 Live Gaming Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/painting-with-purpose-mastering-ai-art-through-chatgpt/"><u>Painting with Purpose: Mastering AI Art Through ChatGPT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-launch-difficulties-in-star-wars-the-old-republic-swtor/"><u>Resolving Launch Difficulties in Star Wars The Old Republic (SWTOR)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-conversation-ais-plus-plan-at-20-monthly-us-market-only/"><u>The Future of Conversation: AI's Plus Plan at $20 Monthly (US Market Only)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/troubleshoot-and-mend-your-instagram-video-issues/"><u>Troubleshoot & Mend Your Instagram Video Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-emotional-support-guidelines-for-chatgpt-use/"><u>Virtual Emotional Support: Guidelines for ChatGPT Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wise-choices-avoiding-flawed-chatgpt-addons/"><u>Wise Choices: Avoiding Flawed ChatGPT Addons</u></a></li>
 </ul></div>
 

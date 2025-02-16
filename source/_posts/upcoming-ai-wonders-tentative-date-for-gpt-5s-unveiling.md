@@ -1,7 +1,7 @@
 ---
 title: "Upcoming AI Wonders: Tentative Date for GPT-5's Unveiling?"
-date: 2025-01-30T22:08:28.611Z
-updated: 2025-02-01T02:49:01.650Z
+date: 2025-01-30T18:10:22.254Z
+updated: 2025-02-02T21:54:07.496Z
 tags:
   - chatgpt
   - open-ai
@@ -28,12 +28,16 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will There Be a GPT-5?
 
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
@@ -46,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  Here's a video of Altman's discussion below:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -68,16 +72,12 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4\.
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -115,18 +115,20 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-steps-simplifying-fishy-voice-swaps-on-windows-pcs/"><u>2024 Approved Streamlined Steps Simplifying Fishy Voice Swaps on Windows PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-deal-alert-apple-drops-airpods-price-by-40-for-independence-day-shop-now/"><u>Exclusive Deal Alert: Apple Drops AirPods Price by 40% for Independence Day - Shop Now</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-poco-m6-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Poco M6 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-infinix-zero-30-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Infinix Zero 30 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-c55-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme C55 Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-paint-picture-humor/"><u>In 2024, Paint Picture Humor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keeping-a-tab-on-chatgpts-operating-health/"><u>Keeping a Tab on ChatGPT's Operating Health</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-fixes-for-stable-play-of-madden-nfl-20-on-windowsmac/"><u>Master the Fixes for Stable Play of Madden NFL 20 on Windows/Mac</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/navigate-through-windows-11s-best-practices-for-imports/"><u>Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simulating-dialogue-in-artificayer-intelligence/"><u>Simulating Dialogue in Artificayer Intelligence</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-resolution-to-fix-svchostexes-abnormal-cpu-usage-on-your-windows-11-pc/"><u>Step-by-Step Resolution to Fix svchost.exe’s Abnormal CPU Usage on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-success-innovative-ways-chatgpt-enhances-time-planning/"><u>Streamline Success: Innovative Ways ChatGPT Enhances Time Planning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-6-motivators-harnessing-the-power-of-chatgpt/"><u>The Ultimate 6 Motivators: Harnessing the Power of ChatGPT</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-direct-video-delivery-facebook-to-whatsapp-connection/"><u>[Updated] 2024 Approved Direct Video Delivery Facebook to WhatsApp Connection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-haunting-hilarity-hub/"><u>[Updated] Haunting Hilarity Hub</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-captivating-podcasts-a-step-by-step-writing-guide/"><u>2024 Approved Crafting Captivating Podcasts A Step-by-Step Writing Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-phrases-decoded-simplifying-the-technical-jargon/"><u>AI Phrases Decoded: Simplifying the Technical Jargon</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-cgps-reliability-in-providing-health-facts/"><u>Assessing CGP’s Reliability in Providing Health Facts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-giggle-grind-engineering-emotional-echoes/"><u>ChatGPT's Giggle Grind: Engineering Emotional Echoes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-rights-to-ai-artistry/"><u>Deciphering Rights to AI Artistry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-development-workflows-innovative-uses-of-chatgpt-and-vs-code/"><u>Enhancing Development Workflows: Innovative Uses of ChatGPT & VS Code</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/game-on-selecting-the-finest-displays-for-your-xbox-series-x-console-for-2024/"><u>Game On Selecting the Finest Displays for Your Xbox Series X Console for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-magnification-methods-for-ios-devices/"><u>In 2024, Ideal Magnification Methods for iOS Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-website-construction-through-chatgpts-insights/"><u>Optimizing Website Construction Through ChatGPT's Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-made-easy-resolving-yakuza-eb-game-crashing-problems-and-enjoying-the-song-of-life/"><u>PC Gaming Made Easy: Resolving Yakuza Eb Game Crashing Problems and Enjoying 'The Song of Life'</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/premium-beach-scenes-and-seaside-landscapes-for-desktop-backgrounds-by-yl-software/"><u>Premium Beach Scenes & Seaside Landscapes for Desktop Backgrounds by YL Software</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/resolve-your-jpeg-problem-with-these-8-effective-methods-to-correct-invalid-registry-values/"><u>Resolve Your JPEG Problem with These 8 Effective Methods to Correct Invalid Registry Values</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/say-no-to-data-collection-how-to-disengage-from-chatgpt/"><u>Say No to Data Collection – How to Disengage From ChatGPT</u></a></li>
 </ul></div>
 

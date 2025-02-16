@@ -1,7 +1,7 @@
 ---
 title: "The Tempting Upgrade: How Apple's New $17 USB-C EarPods Became a Must-Have for This Techie During Amazon Prime Day - Insights From ZDNet"
-date: 2025-01-30T09:40:32.340Z
-updated: 2025-02-01T09:47:58.145Z
+date: 2025-01-28T22:43:30.617Z
+updated: 2025-02-02T21:45:44.607Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6e09774b-02af-40f2-b15d-688a67e89fc7%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,16 +71,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-behind-the-screen-scouting-the-hunt-for-pristine-paidless-tiktok-bgs/"><u>[New] 2024 Approved Behind-the-Screen Scouting The Hunt for Pristine, Paidless TikTok BGs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-audiovisual-ascension-masterful-lighting-techniques-unveiled/"><u>[New] Audiovisual Ascension Masterful Lighting Techniques Unveiled</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-best-twitter-video-converters-to-upload-a-video-for-twitter/"><u>[New] Best Twitter Video Converters to Upload a Video for Twitter</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-checklist-for-post-editing-and-uploading-your-360-vids-on-youtube/"><u>[New] In 2024, The Ultimate Checklist for Post-Editing & Uploading Your 360 Vids on YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-smilesketcher-turn-your-ideas-into-memes-and-graphics/"><u>[Updated] 2024 Approved SmileSketcher Turn Your Ideas Into Memes & Graphics</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-picks-of-screen-recording-applications-for-modern-windows-users-for-2024/"><u>[Updated] Top Picks of Screen Recording Applications for Modern Windows Users for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-dominates-as-they-secure-top-seven-positions-in-worldwide-smartphone-market-share/"><u>IPhone Dominates as They Secure Top Seven Positions in Worldwide Smartphone Market Share</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proactive-policies-for-artificial-intelligence-management/"><u>Proactive Policies for Artificial Intelligence Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speedy-solutions-for-moving-your-macbook-data-simplified-steps-unveiled-on-zdnet/"><u>Speedy Solutions for Moving Your MacBook Data - Simplified Steps Unveiled on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-leading-apple-watches-in-2t24-detailed-analysis-and-expert-ratings-zdnet/"><u>Ultimate Guide to the Leading Apple Watches in 2T24: Detailed Analysis and Expert Ratings | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-potential-with-chatgpts-wellbee-planning-tips/"><u>Unlock Potential with ChatGPT's Wellbee Planning Tips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-secrets-to-smoothly-resolving-youtube-short-issues/"><u>[New] 2024 Approved Secrets to Smoothly Resolving YouTube Short Issues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-roadmap-to-engaging-youtube-trailers-through-filmora/"><u>[New] The Roadmap to Engaging YouTube Trailers Through Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[New] The Ultimate Guide to Podcast Outros & Examples</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-7-audio-capturers-2023-edition-for-2024/"><u>[New] Top 7 Audio Capturers 2023 Edition for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outubes-updated-strategy-for-content-creators-for-2024/"><u>[New] YouTube's Updated Strategy for Content Creators for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-elevating-video-previews-a-compreayer-approach-for-youtube/"><u>[Updated] In 2024, Elevating Video Previews A Compreayer Approach for YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-optimize-accessibility-top-free-speech-conversion-tools-for-macos/"><u>[Updated] Optimize Accessibility Top Free Speech Conversion Tools for MacOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/18-ai-enabled-email-writing-tools-for-business-communication/"><u>18 AI-Enabled Email Writing Tools for Business Communication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-discourse-on-flaws-the-top-8-concerns-in-gpt-dialogue/"><u>A Discourse on Flaws: The Top 8 Concerns in GPT Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-guide-to-productivity-via-chatgpt-interactions/"><u>A Guide to Productivity via ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/academic-advancement-5-dynamic-ways-to-use-chatgpt-in-school/"><u>Academic Advancement: 5 Dynamic Ways to Use ChatGPT in School</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721411412896-emoji-less-tweets-on-twitter-linuss-revelations-explored-trojan-explained-and-chatgpt-concerns-addressed/"><u>Emoji-Less Tweets on Twitter, Linus’s Revelations Explored, Trojan Explained, & ChatGPT Concerns Addressed.</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-novice-to-native-speaker-mondlys-triumph/"><u>From Novice to Native Speaker - Mondly's Triumph</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-se-2020-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone SE (2020) Lock Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721433423007-not-a-substitute-for-professional-medical-guidance-ai/"><u>Not a Substitute for Professional Medical Guidance, AI!</u></a></li>
+<li><a href="https://discover-best.techidaily.com/top-hevc-h265-video-encoders-lightning-fast-performance-with-cuda-and-nvenc-integration/"><u>Top HEVC H.265 Video Encoders - Lightning-Fast Performance with CUDA & NVENC Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721434343266-twitter-strips-emojis-linuss-secrets-exposed-trojan-threats-unveiled-and-chatbot-pitfalls/"><u>Twitter Strips Emojis, Linus's Secrets Exposed, Trojan Threats Unveiled, & ChatBot Pitfalls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721431154450-twitters-smileless-tweets-linuss-discoveries-unveiled-trojan-explanation-and-gpt-limitations-showcased/"><u>Twitters Smileless Tweets, Linus’s Discoveries Unveiled, Trojan Explanation, & GPT Limitations Showcased</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721434632646-unleash-bings-ai-now-available-for-both-ios-and-android/"><u>Unleash Bing's AI: Now Available for Both iOS & Android.</u></a></li>
 </ul></div>
 

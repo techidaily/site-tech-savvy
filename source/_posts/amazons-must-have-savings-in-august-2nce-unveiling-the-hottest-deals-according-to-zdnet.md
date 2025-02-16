@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Must-Have Savings in August 2Nce: Unveiling the Hottest Deals, According to ZDNET"
-date: 2025-01-26T00:24:01.469Z
-updated: 2025-01-31T21:51:28.581Z
+date: 2025-01-26T21:03:05.587Z
+updated: 2025-02-02T21:55:00.615Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ The shopping giant frequently cuts prices on top tech products all year round, i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best Amazon deals of August 2024
 
 Jason Hiner/ZDNET
@@ -36,10 +40,6 @@ Jason Hiner/ZDNET
 * [Dyson V8 Cordless Plus Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDyson-Cordless-Vacuum-Silver-Nickel%2Fdp%2FB0CT9552BL%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CT9552BL%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $350 (save $120)
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,300 (save $500)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best Amazon tech deals
 
@@ -54,10 +54,6 @@ Jason Hiner/ZDNET
 * [Bose QuietComfort Wireless Headphones](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-QuietComfort-Cancelling-Headphones-Bluetooth%2Fdp%2FB0D4Z9BZV2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $249 (save $100)
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $50 (save $50)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best Amazon TV deals
 
 Jason Hiner/ZDNET
@@ -68,6 +64,10 @@ Jason Hiner/ZDNET
 * [Samsung 55-inch QLED 4K The Terrace TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-55-inch-Terrace-Outdoor-Built%2Fdp%2FB089B5X28G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $2,498 (save $1,002)
 * [Sony 65-inch OLED 4K Ultra Bravia 8 TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-Exclusive-Features-PlayStation-K-65XR80%2Fdp%2FB0CVQ6YLH7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,1998 (save $502)
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,197 (save $203)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Amazon robot vacuum deals
 
@@ -82,7 +82,7 @@ Maria Diaz/ZDNET
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $320 (save $280)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon home deals
@@ -98,10 +98,6 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $189 (save $60)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $198 (save $102)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 
 ## How did we choose these Amazon deals?
@@ -110,12 +106,16 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
@@ -166,19 +166,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-breaking-barriers-making-your-post-a-sensation-on-fb/"><u>[New] 2024 Approved Breaking Barriers Making Your Post a Sensation on FB</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pro-snipping-made-simple-the-top-5-pc-screen-capture-apps-revealed/"><u>[Updated] 2024 Approved Pro Snipping Made Simple The Top 5 PC Screen Capture Apps Revealed</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-innovative-brainstroming-techniques-for-channels-names/"><u>[Updated] In 2024, Innovative Brainstroming Techniques for Channels' Names</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-leverage-social-platforms-for-vimeo-video-sharing-for-2024/"><u>[Updated] Leverage Social Platforms for Vimeo Video Sharing for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mini-marvels-ultimate-game-hunt/"><u>[Updated] Mini Marvels' Ultimate Game Hunt</u></a></li>
-<li><a href="https://fox-access.techidaily.com/film-editing-expertise-exchange-for-2024/"><u>Film Editing Expertise Exchange for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-i-overcame-apples-limited-fov-with-budget-friendly-xr-glasses-insights-from-a-zdnet-review/"><u>How I Overcame Apple's Limited FOV with Budget-Friendly XR Glasses - Insights From a ZDNet Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-70-lite-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor 70 Lite 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y100t-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y100t</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-demystifying-screen-recording-insights-from-showmore-experts/"><u>In 2024, Demystifying Screen Recording Insights From ShowMore Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-roleplay-elements-fusing-technology-and-art-in-dungeons-and-dragons/"><u>Innovating Roleplay Elements: Fusing Technology & Art in Dungeons & Dragons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-the-simplified-audio-experience-of-sonos-new-s2-app-but-dont-overlook-these-key-limitations/"><u>Introducing the Simplified Audio Experience of Sonos' New S2 App - But Don't Overlook These Key Limitations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maintaining-confidentiality-in-work-chatai-usage/"><u>Maintaining Confidentiality in Work ChatAI Usage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-protectors-the-ultimate-guide-to-iphone-16-and-16-pro-cases-reviews-by-tech-gurus/"><u>Top-Rated Protectors: The Ultimate Guide to iPhone 16 & 16 Pro Cases - Reviews by Tech Gurus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-realtek-card-reader-driver-for-windows-10/"><u>[Download] Realtek Card Reader Driver for Windows 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rief-snippet-analysis-for-beginners/"><u>[New] Brief Snippet Analysis for Beginners</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-secure-engagement-understanding-fair-advertising-on-youtube/"><u>[Updated] Secure Engagement Understanding Fair Advertising on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turn-zip-into-srt-a-step-by-step-conversion-process/"><u>[Updated] Turn ZIP Into SRT A Step-by-Step Conversion Process</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultra-hd-delight-choosing-the-5-best-for-color-precision/"><u>[Updated] Ultra HD Delight Choosing the 5 Best for Color Precision</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-assessment-lightroom-app-android-edition/"><u>2024 Approved In-Depth Assessment Lightroom App, Android Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-logic-lines-can-silicon-seek-out-sorrow-and-joy/"><u>Beyond Logic Lines: Can Silicon Seek Out Sorrow and Joy?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-streaming-glitches-on-chatgpt-platform/"><u>Eliminating Streaming Glitches on ChatGPT Platform</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-11x-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 11X 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-logitech-g930-connection-challenges-on-windows-driver-solutions/"><u>Overcoming Logitech G930 Connection Challenges on Windows: Driver Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-service-chatgpts-role-in-whatsapp-assistance/"><u>Seamless Service: ChatGPT's Role in WhatsApp Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ai-journey-simplified-edition/"><u>The AI Journey, Simplified Edition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-elite-10-secrets-for-tiktok-sensations-for-2024/"><u>The Elite 10 Secrets for TikTok Sensations for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-parents-guide-to-chatgpt-and-generative-ai/"><u>The Parents Guide to ChatGPT and Generative AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-job-application-stature-chatgpt-resume-tactics/"><u>Transform Your Job Application Stature (ChatGPT Resume Tactics)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-typing-to-text-into-word-masterpieces/"><u>Transform Your Typing to Text Into Word Masterpieces</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-others-chatgpts-role-in-ei/"><u>Understanding Others: ChatGPT's Role in EI</u></a></li>
 </ul></div>
 

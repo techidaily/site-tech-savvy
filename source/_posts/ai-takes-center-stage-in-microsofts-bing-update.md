@@ -1,7 +1,7 @@
 ---
 title: AI Takes Center Stage in Microsoft's Bing Update
-date: 2025-01-28T20:49:54.655Z
-updated: 2025-02-01T04:19:46.071Z
+date: 2025-01-26T18:41:58.301Z
+updated: 2025-02-02T17:45:48.238Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
 
  OpenAI is the company responsible for [ChatGPT–the AI-powered chatbot](http://www.makeuseof.com/how-to-use-chatgpt-by-openai/) that can generate content, answer questions, create marketing strategies, fix code bugs, and more. The AI research lab also launched DALL-E 2 late last year, capable of [generating images based on textual prompts](https://www.makeuseof.com/how-to-use-dall-e-2/) .
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New in Microsoft Edge?
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -81,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
 
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
 
@@ -105,22 +105,20 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-top-tech-reviews-with-a-focus-on-alternatives-for-2024/"><u>[New] Top Tech Reviews with a Focus on Alternatives for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-mobile-marvels-the-leading-arvr-app-picks/"><u>[Updated] Mobile Marvels The Leading AR/VR App Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm5yag5rur44gr5yuv55s757eo6zug77ya5yih44kk5yplusw44kk55u057wq44gu44kz44oe44cn/"><u>「円滑に動画編集：切り取り直結のコツ」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mod/"><u>完全無料:最新MODファイルを動かすためのオンライン変換ツール - モヴェアビで学ぶ方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/addressing-6-standard-stickers-system-setbacks/"><u>Addressing 6 Standard Stickers' System Setbacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-stealthy-escape-detectors-at-a-standstill/"><u>Content Stealthy Escape: Detectors at a Standstill</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-ai-complexity-the-difference-between-forefront-and-chatgpt/"><u>Decoding AI Complexity: The Difference Between Forefront and ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-dialogue-dynamics-building-custom-conversational-bots/"><u>DIY Dialogue Dynamics: Building Custom Conversational Bots</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ngs-on-youtube-a-monthly-perspective-in-2024/"><u>Earnings on YouTube A Monthly Perspective, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/easing-through-exit-not-found-a-windows-fix-guide/"><u>Easing Through Exit Not Found: A Windows Fix Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-gpts-earning-potential-in-8-opportunities/"><u>Exploring GPT's Earning Potential in 8 Opportunities</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/fight-like-a-warrior-5-intense-martial-arts-rpgs-for-2024/"><u>Fight Like a Warrior 5 Intense Martial Arts RPGs for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-algorithms-to-cocktails-chatgpt-testing/"><u>From Algorithms to Cocktails: ChatGPT Testing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-following-review-innovative-outlooks/"><u>In 2024, Following Review Innovative Outlooks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/initiating-journey-into-ai-prompt-development/"><u>Initiating Journey Into AI Prompt Development</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-in-depth-camera-comparison-reveals-unexpected-champion-tech-analysis-by-zdnet/"><u>Pixel 9 Pro XL vs iPhone 15 Pro: In-Depth Camera Comparison Reveals Unexpected Champion | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-the-latest-macos-and-innovative-designs-make-the-mac-studio-a-better-choice-than-upgrading-to-an-m4-mac-mini-in-autumn/"><u>Why the Latest macOS and Innovative Designs Make the Mac Studio a Better Choice Than Upgrading to an M4 Mac Mini in Autumn</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-seamless-strategies-to-record-and-archive-gotomeetings/"><u>[New] 2024 Approved Seamless Strategies to Record and Archive GoToMeetings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-customize-your-videos-appeal-youtube-thumbnail-tips-and-tricks-for-2024/"><u>[New] Customize Your Video's Appeal YouTube Thumbnail Tips & Tricks for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-building-mental-armor-against-online-critics/"><u>[Updated] Building Mental Armor Against Online Critics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-riddle-me-this-the-ultimate-room-conundrums-for-2024/"><u>[Updated] Riddle Me This The Ultimate Room Conundrums for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adobe-memefixer-a-humorous-journey/"><u>2024 Approved Adobe Memefixer A Humorous Journey</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-basics-top-9-upgrades-to-enjoy-in-chatgpt-plus/"><u>Beyond Basics: Top 9 Upgrades to Enjoy in ChatGPT Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/checking-for-errors-with-chatgpt/"><u>Checking for Errors with ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-open-source-image-enhancement-software/"><u>Essential Open Source Image Enhancement Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flights-frontier-comparing-basic-to-advanced-copilots/"><u>Flight's Frontier: Comparing Basic to Advanced CoPilots</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guide-detaille-comment-eliminer-les-restrictions-de-sauvegarde-de-film-sur-mac-et-pc/"><u>Guide Détaillé : Comment Éliminer Les Restrictions De Sauvegarde De Film Sur Mac Et PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-infinix-note-30-vip-racing-edition-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Infinix Note 30 VIP Racing Edition Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-adoption-unleashing-chatgpt-app/"><u>IOS Adoption: Unleashing ChatGPT App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/programmers-assistant-showdown-copilot-vs-chatgpt-analysis/"><u>Programmer's Assistant Showdown: Copilot Vs. ChatGPT Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-tech-behind-ais-replication-of-conversations/"><u>The Tech Behind AI's Replication of Conversations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlimited-sky-storage-solutions-for-your-visual-chronicles-free-and-premium-for-2024/"><u>Unlimited Sky Storage Solutions for Your Visual Chronicles, Free & Premium for 2024</u></a></li>
 </ul></div>
 

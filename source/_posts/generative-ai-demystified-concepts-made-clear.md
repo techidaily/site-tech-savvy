@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Demystified: Concepts Made Clear"
-date: 2024-08-25T17:32:59.060Z
-updated: 2024-08-26T17:32:59.060Z
+date: 2025-02-01T19:53:49.914Z
+updated: 2025-02-02T17:18:41.609Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 **MUO VIDEO OF THE DAY**
 
 **SCROLL TO CONTINUE WITH CONTENT**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Generative AI?
 
@@ -42,44 +46,45 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  So if you want to create a generative AI model that generates pictures of cars, you'd have to feed the model a huge dataset of car images. To create an impressive model, you'd need to feed it pictures of as many car brands and models as you can think of. With enough training, the algorithm will learn what each car brand or model looks like, and we'll be able to create images of almost any car you can think of on demand.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Popular Generative AI Models
 
  There are hundreds of generative AI models currently in development or already being deployed in the consumer AI market. Some of the popular ones you should know of include:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generative Pre-Trained Transformer (GPT)
 
 ![chatgpt 4 answer question on number of data points june 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-4-answer-question-on-number-of-data-points-june-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  GPT, developed by OpenAI, is among the most recognizable names in the generative AI space. Its popularity hinges on its effectiveness as a conversational AI model and the viral success of the ChatGPT chatbot, which uses GPT as its underlying technology. It is a large language model designed to generate human-like text when prompted. Typical of any generative AI model, [all iterations of the GPT model](https://www.makeuseof.com/gpt-models-explained-and-compared/) have been trained on a massive amount of diverse text data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Pathways Language Model (PaLM)
 
  PaLM, an experimental large language model by Google, is a powerful generative AI model capable of performing a large range of tasks like creative writing, code generation, language translation, and a number of other text-based natural language tasks. Like GPT, PaLM was trained on a large corpus of text data sourced from a wide array of sources across the web. It is [the AI model that powers Google's Bard AI](https://www.makeuseof.com/what-is-google-palm-2/).
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Music Language Model (MusicLM)
 
  MusicLM is another generative AI model from Google. It is designed to generate "high-fidelity" music from simple text prompts. Trained on thousands of hours of music across various genres, the generative model can create unique music by using simple descriptions of the music you need as inputs. If you're wondering how good it is, here's [our review of the MusicLM model](https://www.makeuseof.com/google-musiclm-overview-how-to-use/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. DALL-E
 
 [DALL-E is OpenAI's AI image generation model](http://www.makeuseof.com/what-is-dall-e-ai-image-generator/) designed to create multiple styles of unique imagery from text prompts. It is a multimodal implementation of the GPT model, trained on numerous text-image pairs from various sources across the internet.
 
  Beyond generative AI models, you'll also find generative AI products like Midjourney, DALL-E image generator, Stable Diffusion image generator, Hugging Chat, and several other impressive AI products powered by generative AI models.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Has Generative AI Exploded In Popularity?
 
  On 30th November 2022, OpenAI CEO Sam Altman announced the launch of ChatGPT in a tweet. Despite being OpenAI's CEO, Altman was relatively unknown in the larger internet community, and his tweet came with little to no fanfare.
@@ -90,23 +95,17 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  Generative AI tools such as Bing AI, Google's Bard, DALL-E, ChatGPT, and Midjourney have seamlessly woven themselves into the fabric of our daily lives, constantly presenting us with their remarkable creations. Whether it's the captivating write-ups crafted by ChatGPT or the astonishingly lifelike images conjured by Midjourney, generative AI has become an ever-present companion, accompanying us day in and day out. This is the genesis of the recent popularity of generative AI.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Embrace Generative AI
 
  The popularity of generative AI tools is not a fad. Unlike some recent technological trends that gained popularity and fizzled away with time, generative AI is a technology that holds actual practical benefits. As this resurgent technology niche snuggles its way into almost all aspects of our digital life, it's best to seek out ways to make the best use of the technology rather than being puzzled about it.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +114,22 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-quick-fix-guide-successful-transmission-of-videos-on-the-social-networking-app-messenger/"><u>[New] In 2024, Quick Fix Guide Successful Transmission of Videos on the Social Networking App Messenger</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-vision-quest-steps-to-secure-your-dream-4k-screen/"><u>[New] In 2024, Vision Quest Steps to Secure Your Dream 4K Screen</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uicker-scaling-ensure-perfect-youtubemac-ratios-for-2024/"><u>[New] Quicker Scaling Ensure Perfect Youtube/Mac Ratios for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/actics-for-transforming-youtube-list-layouts/"><u>[New] Tactics for Transforming YouTube List Layouts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-proactive-ways-to-record-breathtaking-live-sports-games/"><u>[Updated] 2024 Approved Proactive Ways to Record Breathtaking Live Sports Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-secretive-accessory-rollout-captivates-tech-enthusiasts-with-character-rich-designs-insights-from-zdnets-latest-article/"><u>Apple's Secretive Accessory Rollout Captivates Tech Enthusiasts with Character-Rich Designs | Insights From ZDNet’s Latest Article</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-gpt-4s-role-in-7-cutting-edge-apps/"><u>Delving Into GPT-4's Role in 7 Cutting-Edge Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-ais-role-in-digital-heists-banks-and-pcs-at-stake/"><u>Examining AI's Role in Digital Heists: Banks & PCs at Stake</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guard-against-googles-disguised-cyber-threatbard-app/"><u>Guard Against Google's Disguised Cyber Threat—Bard App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-chuckles-through-adobe-media/"><u>In 2024, Capture Chuckles Through Adobe Media</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/seamless-storytelling-top-10-premiere-pro-transition-effects/"><u>Seamless Storytelling Top 10 Premiere Pro Transition Effects</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tame-your-browser-overload-top-tips-to-optimize-chromes-cpu-and-memory-usage/"><u>Tame Your Browser Overload: Top Tips to Optimize Chrome's CPU and Memory Usage</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-presidents-day-blowout-sales-discounts-and-deals-on-amazon-walmart-best-buy-and-beyond-zdnet/"><u>Top President's Day Blowout Sales - Discounts & Deals on Amazon, Walmart, Best Buy & Beyond | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reports-apples-transition-to-high-end-beats-accessories-replacing-beloved-finewoven-lineup/"><u>ZDNet Reports Apple's Transition to High-End Beats Accessories Replacing Beloved FineWoven Lineup</u></a></li>
+</ul></div>
 

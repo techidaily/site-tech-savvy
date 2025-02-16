@@ -1,7 +1,7 @@
 ---
 title: Tailored Training Regimens Prioritizing Your Well-Being
-date: 2025-01-30T06:45:26.600Z
-updated: 2025-01-31T21:53:42.674Z
+date: 2025-01-30T19:18:06.523Z
+updated: 2025-02-02T17:10:02.055Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,11 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is ChatGPT?
 
  The [AI chatbot ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) by generating natural-sounding responses to prompts that you type. Although this type of technology has existed for a while, ChatGPT in particular is notable for its (mostly) accurate and intelligent responses.
 
  Despite a few limitations—the chatbot has limited information about the world after about 2021—it's useful for summarizing books, writing a resume, debugging code, and much more. But does it have enough information to design a workout plan for you? Here's how ChatGPT responded to common requests for three different types of workout plans.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Basic Workout Plans From ChatGPT
 
@@ -55,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ![ChatGPT workout plan for advanced athletes prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-advanced-athletes-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Meanwhile, a second plan for more seasoned athletes follows a similar format, including plenty of examples for cardio, core, and resistance training. Each section includes many options.
@@ -65,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
  A note reinforcing the importance of rest and recovery helps make sure you aren't overtraining as well. Again, it's a dependable plan to increase your baseline fitness.
 
 ![Chat GPT injury recovery prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chat-gpt-injury-recovery-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What if you are recovering from an injury? It's safest (and always recommended) to consult your doctor for any specific questions about how you can exercise with an injury or other health concern, but I wanted to see how the bot would respond.
 
@@ -77,16 +73,12 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
 
@@ -96,9 +88,17 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 ![ChatGPT Boston qualifier prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-boston-qualifier-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, there is some level of self-awareness with ChatGPT's advice on this topic (if you can say such a thing about AI technology). For instance, if you ask it to create a running plan that will help you qualify for the Boston Marathon, then it directs you to find an online plan that already addresses this ambition. It's a huge, years-long goal, even for many talented runners, and the app rightly doesn't attempt to offer a pat response.
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Strength Training Plans From ChatGPT
 
@@ -137,22 +137,20 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-adept-approaches-for-capturing-high-impact-presentations/"><u>[New] 2024 Approved Adept Approaches for Capturing High-Impact Presentations</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-achieving-video-popularity-mastering-youtube-thumbnail-selection-for-2024/"><u>[Updated] Achieving Video Popularity Mastering YouTube Thumbnail Selection for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-streaming-wars-the-digital-platform-showdown-for-2024/"><u>[Updated] Streaming Wars The Digital Platform Showdown for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-why-marketers-love-video-commendations/"><u>2024 Approved Why Marketers Love Video Commendations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-unveils-revolutionary-ai-image-creation-tool-magic-in-your-pocket/"><u>Apple Unveils Revolutionary AI Image Creation Tool: Magic in Your Pocket!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-apples-wwdc-announcements-today-insights-into-advanced-machine-learning-siri-innovations-and-what-to-expect-from-ios-eighteen-comprehensive-re177/"><u>Breaking Down Apple’s WWDC Announcements Today: Insights Into Advanced Machine Learning, Siri Innovations & What to Expect From iOS Eighteen – Comprehensive Report</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-tying-chatgpt-to-whatsapps-helpdesk/"><u>Bridging the Gap: Tying ChatGPT to WhatsApp's Helpdesk</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-list-prime-day-2n-tablet-savings-still-available/"><u>Discover the Ultimate List: Prime Day 2N Tablet Savings - Still Available</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-upgrades-in-apples-airpods-lineup-the-ultimate-showcase-of-the-four-most-notable-enhancements-zdnet-insights/"><u>Discovering Upgrades in Apple's AirPods Lineup: The Ultimate Showcase of the Four Most Notable Enhancements | ZDNET Insights</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitechs-professional-driving-force-gamepad-software-for-all-windows-versions/"><u>Download Logitech's Professional Driving Force Gamepad Software for All Windows Versions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-authored-video-distributors/"><u>Premium Authored Video Distributors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prestigious-6-titans-gigantic-lms-innovators/"><u>Prestigious 6 Titans: Gigantic LMS Innovators</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/remobell-s-review-a-video-doorbell-under-100/"><u>RemoBell S Review: A Video Doorbell Under $100</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-email-modification-on-proton-browser/"><u>Step-by-Step Email Modification on Proton Browser</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailored-chatgpt-strategies-for-sports-buffs/"><u>Tailored ChatGPT Strategies for Sports Buffs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unbiased-evaluation-of-googles-nest-wifi-revolutionizing-home-networking-with-a-mesh-router-designed-for-all/"><u>Unbiased Evaluation of Google's Nest Wifi: Revolutionizing Home Networking with a Mesh Router Designed for All</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/ways-to-watch-facebook-live-on-tv-for-2024/"><u>Ways To Watch Facebook Live On TV for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-premier-12-screen-recording-solutions-uncapped-recording/"><u>[New] 2024 Approved Premier 12 Screen Recording Solutions - Uncapped Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hriving-despite-cyberbullying-and-scathing-feedback-for-2024/"><u>[New] Thriving Despite Cyberbullying and Scathing Feedback for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-freedom-from-popups-discover-the-top-7-android-adblock-apps/"><u>[Updated] 2024 Approved Freedom From Popups? Discover the Top 7 Android AdBlock Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-redefine-your-viewing-experience-without-xplit/"><u>[Updated] 2024 Approved Redefine Your Viewing Experience Without Xplit</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-keeping-secrets-on-screen-tips-for-private-content-reduction/"><u>2024 Approved Keeping Secrets on Screen Tips for Private Content Reduction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clear-pathways-to-unlocking-your-chatgpt-access/"><u>Clear Pathways to Unlocking Your ChatGPT Access</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fight-solitude-with-technology-leveraging-chatgpt-to-feel-less-alone/"><u>Fight Solitude with Technology: Leveraging ChatGPT to Feel Less Alone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-innovative-approaches-to-video-voiceover-integration/"><u>In 2024, Innovative Approaches to Video Voiceover Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-responses-top-techniques-unveiled/"><u>Mastering GPT Responses: Top Techniques Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-new-neural-networks-which-tech-takes-preference/"><u>Navigating New Neural Networks: Which Tech Takes Preference?</u></a></li>
+<li><a href="https://windows11.techidaily.com/netflix-discontinuing-offline-viewing-feature-on-pcs-effective-soon/"><u>Netflix Discontinuing Offline Viewing Feature on PCs Effective Soon</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolution-in-rendering-the-convergence-of-blizzard-microsoft-and-deep-learning-podcast-discussion/"><u>Revolution in Rendering: The Convergence of Blizzard, Microsoft & Deep Learning [Podcast Discussion]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/superior-mp4-integrator-with-fb-for-2024/"><u>Superior MP4 Integrator with FB for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-a-world-of-possibilities-top-4-innovative-ai-storybuilders/"><u>Unlock a World of Possibilities: Top 4 Innovative AI Storybuilders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/which-programming-partner-prevails-github-copilot-or-chatgpt-analysis/"><u>Which Programming Partner Prevails? GitHub Copilot or ChatGPT Analysis</u></a></li>
 </ul></div>
 

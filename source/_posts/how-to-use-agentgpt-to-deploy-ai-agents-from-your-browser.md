@@ -1,7 +1,7 @@
 ---
 title: How to Use AgentGPT to Deploy AI Agents From Your Browser
-date: 2024-08-25T17:37:19.953Z
-updated: 2024-08-26T17:37:19.953Z
+date: 2025-02-01T18:43:15.292Z
+updated: 2025-02-02T17:24:44.398Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
  To ensure you don't miss out on anything important, let's talk about the features, settings, and general usage of AgentGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Access AgentGPT
 
  You can get AgentGPT in two ways. For those looking to try out the platform without installation, you simply have to visit [AgentGPT](https://agentgpt.reworkd.ai/). More advanced users can go to the [official AgentGPT GitHub](https://github.com/reworkd/AgentGPT) to download and install AgentGPT on their local system.
@@ -59,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![Assembling AgentGPT agent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/deal-finder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We have named our agent "Deal Finder." You can name your agent anything you want; just make sure that name is related to its function or goal. This will make it easy to identify your agents once you save several of them on your side panel.
 
  Although the example provides a vague goal, based on how GPT works, I'd advise you to be more specific with your goals. The more specific you are, the more efficient and accurate your agent will be. Since goals are basically prompts, you may want to [level up your prompting skills](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) to make better goals.
@@ -66,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  Now, before clicking that deploy agent button, let's first configure our agent.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Configure Agent
 
  Properly configuring your agent will ensure you get an output that satisfies your expectations. The settings menu lets you choose the GPT model, execution mode, level of focus, tokens, and maximum loops that your agent will do during execution.
@@ -77,8 +86,9 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![Basic settings in AgentGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/basic-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From here, you can set and configure your API, preferred language, model, and execution mode. Make sure to choose the latest model of GPT, as this will provide a better-performing agent. In terms of mode, you can either choose between **Automatic Mode** or **Pause Mode**. Automatic Mode allows your agent to continue executing tasks until it is finished, while Pause Mode makes your agent pause for every step it takes.
 
  If you scroll down further, you will see the **Advanced Settings** section. This provides advanced settings only available to accounts that provide an API Key.
@@ -94,22 +104,17 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  Using the advanced settings, you can determine the performance of your agent and the quality of its output. Remember to balance these settings properly; the higher they are, the more expensive the operation.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Deploy Agent
 
  Once you've assembled and configured your agent, you hit **Deploy Agent** for your agent to start. You can monitor the entire process through the main console of the website. When finished, you can choose to save the agent to store the output within AgentGPT. You can also save your output locally as a PDF, Image, or just a text copy.
 
 ![PDF generated by AgentGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  As you can see, our Deal Finder agent successfully provided us with a promo code, a free shipping voucher, and a bundle offer!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Limitations of AgentGPT
 
  Although AgentGPT gave us a usable output, it does have a few limitations. Firstly, AgentGPT is harder to direct as you cannot provide human input when the agent is running. Also, since you can only direct the agent by giving it a goal, you'll have to be very good at prompting your goal on your first try. Otherwise, your agent will only continue operating until it finishes or you make it stop.
@@ -118,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
  Lastly, GPT-3.5 limits the potential of AgentGPT. Although [GPT-4 is the next version from GPT-3.5](http://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/), there are significant differences between the two models. This limits AgentGPT to using only text as inputs and outputs.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Future of AgentGPT
 
  Although AgentGPT is currently under development, it was able to provide some good output for simple tasks. When the GPT-4 API finally receives a widespread release (it's currently limited) and AgentGPT moves out of beta, we can expect better performance, more features, and maybe even support for audio, images, and even video! So while we wait, you may want to explore other similar AI assistant platforms, such as Auto-GPT and BabyAGI.
@@ -129,14 +131,11 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
  Of course, there are a few things you need to learn before you start. So, if this is relatively new to you and you would like to know more about AgentGPT, how to use it, how it works, and its limitations, you're in the right place.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,4 +144,20 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-homemade-guide-to-google-vr-headset-construction-for-2024/"><u>[New] Homemade Guide to Google VR Headset Construction for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevating-your-immersive-video-storytelling-mastering-360-degree-edits-in-premierepro/"><u>[New] In 2024, Elevating Your Immersive Video Storytelling Mastering 360-Degree Edits in PremierePro</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-most-popular-vr-game-experiences-on-oculus/"><u>[New] In 2024, The Most Popular VR Game Experiences on Oculus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-no-video-display-on-sony-a6400-screen/"><u>2024 Approved No Video Display on Sony A6400 Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-tablet-picks-for-2eze-year-in-depth-analysis-and-ratings-zdnet/"><u>Affordable Tablet Picks for 2Eze Year: In-Depth Analysis and Ratings | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-excellence-achievable-through-chatgpt-partnership/"><u>Excel Excellence Achievable Through ChatGPT Partnership</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-windows-device-updated-with-the-newest-amd-gpu-drivers/"><u>Get Your Windows Device Updated with the Newest AMD GPU Drivers!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-excel-at-ppt-delivery-google-meet-tactics-for-any-device/"><u>How to Excel at PPT Delivery Google Meet Tactics for Any Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-instructions-for-ricoh-mp-c3003-printer-drivers-free-download/"><u>Installation Instructions for Ricoh MP C3003 Printer Drivers - Free Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-datas-depths-with-gpt-3-6-essential-practices/"><u>Navigating Data's Depths with GPT-3: 6 Essential Practices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/professional-filmmaking-secrets-the-ultimate-guide-to-11-color-edits-for-2024/"><u>Professional Filmmaking Secrets The Ultimate Guide to 11 Color Edits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-document-potential-6-innovative-gpt-apps-for-analysis/"><u>Unlock Document Potential: 6 Innovative GPT Apps for Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wilderness-wanderer-ai-as-your-safety-net/"><u>Wilderness Wanderer? AI as Your Safety Net?</u></a></li>
+</ul></div>
 

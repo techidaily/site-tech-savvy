@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Camera Duel: Pixel 9XL Against iPhone 15 Pro - Stunning Results & a Shocking Twist!"
-date: 2025-01-24T18:21:47.270Z
-updated: 2025-02-01T12:18:02.634Z
+date: 2025-01-30T20:49:21.034Z
+updated: 2025-02-02T20:54:48.994Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ The Google Pixel 9 Pro and 9 Pro XL come equipped with a 50MP primary camera, a 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel gets skin tones right
@@ -81,7 +81,7 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -111,7 +111,7 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -125,7 +125,7 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -170,21 +170,18 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-quick-guide-retrieving-past-reddit-threads-instantly-for-2024/"><u>[New] Quick Guide Retrieving Past Reddit Threads Instantly for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-configuring-who-can-see-your-youtube-clips/"><u>[Updated] 2024 Approved Configuring Who Can See Your YouTube Clips</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ultimate-5-remote-viewing-recorders/"><u>[Updated] In 2024, Ultimate 5 Remote Viewing Recorders</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tag-tactics-amplifying-your-gaming-content-online/"><u>2024 Approved Tag Tactics Amplifying Your Gaming Content Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/anticipate-apples-new-airpods-launch-insider-info-on-arrival-and-securing-yours-early-with-confidence/"><u>Anticipate Apple's New AirPods Launch – Insider Info on Arrival and Securing Yours Early with Confidence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-bulky-designs-next-gen-magsafe-battery-pack-charges-lightning-fast-for-ultimate-convenience/"><u>Beyond the Bulky Designs: Next-Gen MagSafe Battery Pack Charges Lightning-Fast for Ultimate Convenience!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-success-in-an-algorithmically-augmented-world/"><u>Crafting Success in an Algorithmically Augmented World</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-the-amazon-basics-mobile-tablet-mount-a-hands-free-experience-for-travelers/"><u>Discovering the Amazon Basics Mobile Tablet Mount: A Hands-Free Experience for Travelers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-logitech-g602-mouse-software-on-your-windows-computer/"><u>How to Get the Latest Logitech G602 Mouse Software on Your Windows Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/identifying-the-beneficiary-in-ai-copyright-claims/"><u>Identifying the Beneficiary in AI Copyright Claims</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamlining-game-recording-techniques/"><u>In 2024, Streamlining Game Recording Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-alternatives-to-openais-pos-mobile-platform/"><u>Innovative Alternatives to OpenAI’s POS Mobile Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-resource-for-writing-youtube-videos-with-chatgpt/"><u>The Ultimate Resource for Writing YouTube Videos with ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-steps-addressing-missing-d3dx9n41dll-files/"><u>The Ultimate Troubleshooting Steps: Addressing Missing d3dx9_n41.dll Files</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unveiling-elite-choices-a-guide-to-hdr-cameras/"><u>Unveiling Elite Choices A Guide to HDR Cameras</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-solutions-to-top-6-vehicle-ai-installation-problems/"><u>Unveiling Solutions to Top 6 Vehicle AI Installation Problems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-record-audio-on-windows-11/"><u>[Updated] How To Record Audio on Windows 11?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-advanced-ai-solutions-to-upgrade-your-phones-chat-functionality/"><u>10 Advanced AI Solutions to Upgrade Your Phone's Chat Functionality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-4-ways-to-record-facebook-live-stream/"><u>2024 Approved 4 Ways to Record Facebook Live Stream</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-become-a-kinemaster-meme-wizard/"><u>2024 Approved Become a KineMaster Meme Wizard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensible-introduction-to-openai-api-features/"><u>A Comprehensible Introduction to OpenAI API Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-new-era-for-domestic-automation-ai-and-chatgpts-alliance/"><u>A New Era for Domestic Automation: AI and ChatGPT's Alliance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721415282261-become-an-in-demand-bug-hunter-join-openais-reward-scheme-today/"><u>Become an In-Demand Bug Hunter; Join OpenAI’s Reward Scheme Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721432134138-experience-enhanced-browsing-bings-ai-driven-search-on-mobile/"><u>Experience Enhanced Browsing: Bing's AI-Driven Search on Mobile.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-galaxy-s23plus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Galaxy S23+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-a1-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo A1 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-from-prompting-for-updates/"><u>Stop Windows From Prompting for Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429377788-twitters-cleared-of-smileys-linuss-uncovering-trojans-breakdown-and-ai-gpt-issues-displayed/"><u>Twitters Cleared of Smileys, Linus's Uncovering, Trojans Breakdown, & AI GPT Issues Displayed</u></a></li>
+<li><a href="https://fox-search.techidaily.com/win7-disk-partitioning-issue-how-to-recover-missing-partitions/"><u>Win7 Disk Partitioning Issue: How to Recover Missing Partitions</u></a></li>
 </ul></div>
 

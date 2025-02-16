@@ -1,7 +1,7 @@
 ---
 title: Decoding the Future of Interactive AI Platforms in Europe - The EU's AI Act and Its Impact on GPT-Like Systems
-date: 2025-01-24T22:39:54.806Z
-updated: 2025-01-31T19:19:06.991Z
+date: 2025-01-31T18:44:32.583Z
+updated: 2025-02-02T16:10:28.275Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the EU AI Act?
@@ -48,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 
  While the EU AI Act has several objectives, its main aim is to somewhat reign in AI. This will be done by assessing the risk levels of AI systems, ensuring they follow EU laws, and enforcing transparency requirements for AI systems.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Who Will Be Affected by the EU AI Act?
 
 ![wooden court hammer on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/court-hammer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While the EU AI Act is still in the works, there are concerns over how it will affect AI researchers, developers, and users within the EU.
@@ -74,12 +70,16 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
  Evidently, the scope is large, spanning the AI industry. Thousands of AI organizations may be affected by this act, including ChatGPT creator, OpenAI. This has led to contention between the EU and OpenAI CEO Sam Altman. In fact, Altman has threatened to pull OpenAI, and therefore ChatGPT, out of the EU because of it. So, why has he made such a striking statement?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is Sam Altman Threatening to Pull ChatGPT From the EU?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
 
@@ -92,7 +92,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
@@ -116,17 +116,22 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-breaking-down-the-animation-process-a-movie-maker-approach/"><u>[New] Breaking Down the Animation Process A Movie Maker Approach</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-interpreting-the-purpose-behind-a-facebooks-blue-video-icon/"><u>[New] In 2024, Interpreting the Purpose Behind a Facebook's Blue Video Icon</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-sync-your-style-across-ios-and-android-with-a-customized-whatsapp-sound/"><u>[New] Sync Your Style Across iOS and Android with a Customized WhatsApp Sound</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-apex-thrill-racers-our-favorites-5/"><u>[Updated] Apex Thrill Racers Our Favorites (5)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-guide-for-crafting-engaging-online-services/"><u>ChatGPT: A Guide for Crafting Engaging Online Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-cgps-precision-and-reliability-in-health-info/"><u>Evaluating CGP's Precision and Reliability in Health Info</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-ready-pick-elite-tablet-selection-tested-and-reviewed-by-industry-pros-zdnet/"><u>Future-Ready Pick: Elite Tablet Selection , Tested & Reviewed by Industry Pros | ZDNet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-execute-flawless-wirecast-broadcasts-on-youtube/"><u>How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-motorola-moto-g13-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Motorola Moto G13 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-chatgpt-failures-in-apples-ecosystem/"><u>Overcoming ChatGPT Failures in Apple's Ecosystem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-interaction-with-these-lesser-known-ai-functions/"><u>Revolutionize Interaction with These Lesser-Known AI Functions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96037670-9781881098478-the-witches-almanac-issue-38-spring-2019-to-spring-2020/"><u>The Witches' Almanac: Issue 38, Spring 2019 to Spring 2020 | Free Book</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-exploring-premium-gif-software-for-iphone-users-for-2024/"><u>[Updated] Exploring Premium GIF Software for iPhone Users for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtubes-easy-guide-to-exceptional-thumbnails/"><u>[Updated] YouTube's Easy Guide to Exceptional Thumbnails</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-free-and-easy-explore-the-top-webm-video-tools/"><u>2024 Approved Free and Easy Explore the Top WebM Video Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-pioneering-success-with-effective-youtube-adsense-tactics/"><u>2024 Approved Pioneering Success with Effective YouTube AdSense Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-overhaul-seo-threats-and-opportunities/"><u>AI Overhaul: SEO Threats and Opportunities</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722990295876-bid-goodbye-to-screenshake-learn-the-key-techniques-to-stop-that-annoying-flicker/"><u>Bid Goodbye to Screenshake – Learn the Key Techniques to Stop That Annoying Flicker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bot-interactions-and-anonymity-unveiling-3-major-privacy-issues/"><u>Bot Interactions and Anonymity: Unveiling 3 Major Privacy Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-the-boundaries-of-chatgpts-token-count/"><u>Charting the Boundaries of ChatGPT's Token Count</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-ipod-touch-generation-2-video-conversion-handbook-easy-guide-for-media-transfer/"><u>Comprehensive iPod Touch Generation 2 Video Conversion Handbook – Easy Guide for Media Transfer</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/construct-a-homemade-google-vr-helmet-for-cost-effective-fun-for-2024/"><u>Construct a Homemade Google VR Helmet for Cost-Effective Fun for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engaging-with-gpt-3-a-strategy-for-openai/"><u>Engaging with GPT-3: A Strategy for OpenAI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-best-compatible-drivers-for-your-epson-et-2750-printer-on-windows-108x-free-download-options/"><u>Install the Best Compatible Drivers for Your Epson ET-2750 Printer on Windows 10/8.x: Free Download Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/masterclass-on-enhancing-customer-journeys-using-xr-and-spatial-computing-enterprise-edition-explore-at-zdnet/"><u>Masterclass on Enhancing Customer Journeys Using XR and Spatial Computing - Enterprise Edition | Explore at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-nonresponsive-dialogues-for-ais/"><u>Navigating Nonresponsive Dialogues for AIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slang-currency-emojis-as-budget-insights/"><u>Slang Currency: Emojis As Budget Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spotlight-on-sham-dialogues-using-mentions-wisely/"><u>Spotlight on Sham Dialogues: Using Mentions Wisely</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-your-potential-with-troubleshootable-chatgpt-issues/"><u>Unleashing Your Potential with Troubleshootable ChatGPT Issues</u></a></li>
 </ul></div>
 

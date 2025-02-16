@@ -1,7 +1,7 @@
 ---
 title: "Beginning Moment: Try Out 8 Personal GPT Creations"
-date: 2025-01-29T10:35:21.131Z
-updated: 2025-02-01T02:55:25.758Z
+date: 2025-02-01T18:25:25.627Z
+updated: 2025-02-02T22:43:46.451Z
 tags:
   - chatgpt
   - open-ai
@@ -31,16 +31,12 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Resume and Cover Letter Creator
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
 
@@ -51,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  Here's a guide on [how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Translation Tool
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It is no news that [ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/). It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
@@ -82,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 **Try this GPT**: [K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
@@ -99,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  Want to see simple RPG games in action? You can try my Dungeon Weaver GPT.
 
 **Try this GPT**: [Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Personal Tutor
 
@@ -120,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
 
  For example, as a graphic designer side gig, I built a custom GPT to create geometric Google-inspired logos using my client's brand colors: blue, red, yellow, and green. I trained it by uploading several examples of logos we designed in this style. Now, when prompted to create a logo for anything, the GPT generates professional logo options that meet the brand requirements. While a simple illustration, it demonstrates how tailored GPTs can replicate elements of human work.
@@ -127,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 **Try this GPT**: [Colorful Creations](https://chat.openai.com/g/g-e7klUPLGp-colorful-creations).
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
@@ -155,19 +155,20 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/2024-approved-total-gigabytes-for-an-entirety-of-daily-films/"><u>2024 Approved Total Gigabytes for an Entirety of Daily Films</u></a></li>
-<li><a href="https://win-data.techidaily.com/ssd-202/"><u>最新型号 SSD 转换工具列表202</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-iphone-showdown-key-differences-between-the-iphone-16-and-iphone-15-for-potential-upgrades-zdnet-analysis/"><u>Apple iPhone Showdown: Key Differences Between the iPhone 16 and iPhone 15 for Potential Upgrades | ZDNet Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envisioning-elegance-da-vincis-latest-image-inspirations/"><u>Envisioning Elegance: Da Vinci's Latest Image Inspirations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-tech-hacks-unveiling-top-10-ipad-shortcuts-and-settings-for-novice-users-and-experts-alike-insights/"><u>Essential Tech Hacks: Unveiling Top 10 iPad Shortcuts & Settings for Novice Users & Experts Alike - Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-seamlessly-and-swiftly-relocate-your-macbook-information-with-these-simple-steps/"><u>Expert Tips: Seamlessly & Swiftly Relocate Your MacBook Information With These Simple Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-apple-can-refine-the-vision-pro-for-commercial-success-expert-advice-by-zdnet/"><u>How Apple Can Refine the Vision Pro for Commercial Success - Expert Advice by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/immerse-in-apples-virtual-reality-experience-watch-their-latest-3d-videos-using-a-meta-quest-device-tips-and-tricks/"><u>Immerse in Apple's Virtual Reality Experience: Watch Their Latest 3D Videos Using a Meta Quest Device - Tips & Tricks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-13t-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi 13T Pro Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/lost-your-login-info-reinstating-your-fb-account-using-alternate-methods/"><u>Lost Your Login Info? Reinstating Your FB Account Using Alternate Methods!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/perfect-cone-capture-equipment-for-2024/"><u>Perfect Cone Capture Equipment for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-8-windows-audio-apps-compared/"><u>Premier 8-Windows Audio Apps Compared</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/twitter-scams-vs-new-verified-signatures-showdown/"><u>Twitter Scams vs New Verified Signatures Showdown</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-reels-sonic-boom-integrating-music-voiceovers/"><u>[New] 2024 Approved Instagram Reels Sonic Boom Integrating Music, Voiceovers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions-for-2024/"><u>[New] Comprehensive Approach to Integrating Whiteboards in Zoom Sessions for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-crown-jewels-of-community-engagement-on-reddit-top-10/"><u>[Updated] 2024 Approved Crown Jewels of Community Engagement on Reddit - Top 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-funny-10-best-meme-blueprints-unveiled/"><u>2024 Approved Finding the Funny #10 Best Meme Blueprints Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/coding-elegance-with-python-and-gpt-3-synergy/"><u>Coding Elegance with Python & GPT-3 Synergy</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhanced-quality-on-netflix-with-newly-updated-ad-sponsored-subscription-option/"><u>Enhanced Quality on Netflix with Newly Updated Ad-Sponsored Subscription Option</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-ai-for-perfected-cocktail-recipes/"><u>Examining AI for Perfected Cocktail Recipes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-simple-ai-to-sophisticated-gpt-4/"><u>From Simple AI to Sophisticated GPT-4</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 13 Pro Max Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-phantom-v-flip-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Phantom V Flip Is Unlocked</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-x-sync-studio-platform-personal-computing/"><u>In 2024, X-Sync Studio Platform, Personal Computing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimize-your-vlogs-with-smart-youtube-editing-tips-for-2024/"><u>Optimize Your Vlogs with Smart YouTube Editing Tips for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prompting-proficiency-leading-ai-training-modules/"><u>Prompting Proficiency: Leading AI Training Modules</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-paperclip-potential-through-ai-interaction-and-analysis/"><u>Unleashing Paperclip Potential Through AI Interaction and Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-the-best-ai-gpt-showdown-with-microsoft-and-google-bard/"><u>Unleashing the Best AI: GPT Showdown with Microsoft and Google Bard</u></a></li>
 </ul></div>
 

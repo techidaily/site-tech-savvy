@@ -1,7 +1,7 @@
 ---
 title: AI's Influence on Coding Efficiency
-date: 2025-01-31T02:16:24.456Z
-updated: 2025-01-31T18:17:36.778Z
+date: 2025-01-30T22:01:19.020Z
+updated: 2025-02-02T17:49:29.898Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overall Sentiments of Developers Towards AI
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
  As mentioned, AI is growing in popularity among developers. According to the [Stack Overflow 2023 survey](https://survey.stackoverflow.co/2023/), 70% are already using or plan to use AI tools in their development process with 44% already using the tools now and 26% planning to.
 
  The views on AI differ based on the profession and the level of experience of the developer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Profession
 
@@ -54,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Countries
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Tasks Developers Are Using AI For?
 
@@ -71,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
  The survey revealed that 86% of professional developers are using AI tools to write code and 54% are using them to debug their code. They are also interested in using AI tools to test, commit and review code, deploy and monitor applications, and document code.
 
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Benefits of AI for Developers
 
@@ -86,17 +94,9 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Popular AI Tools That Developers Are Using in 2023
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
@@ -111,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
  This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get Started With AI in Software Development
@@ -139,24 +139,22 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-boosting-visual-appeal-in-tiktok-videos/"><u>[Updated] In 2024, Boosting Visual Appeal in TikTok Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-harness-the-power-of-video-for-enhanced-facebook-traffic/"><u>2024 Approved Harness the Power of Video for Enhanced Facebook Traffic</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-lava-storm-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/big-names-bold-forecasts-what-ai-experts-expect/"><u>Big Names, Bold Forecasts: What AI Experts Expect</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/code-and-speech-entwined-chatgpts-power-of-conversion/"><u>Code and Speech Entwined: ChatGPT's Power of Conversion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-ai-top-7-rules-for-writers-and-editors/"><u>Embracing AI: Top 7 Rules for Writers & Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experts-pick-the-ultimate-collection-of-iphone-16-and-iphone-16-pro-cases-featuring-maximum-durability-and-style/"><u>Experts' Pick: The Ultimate Collection of iPhone 16 and iPhone 16 Pro Cases Featuring Maximum Durability & Style</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/extend-your-macbooks-endurance-mastering-the-low-power-feature-on-macos-monterey-expert-tips-and-tricks/"><u>Extend Your MacBook's Endurance: Mastering the Low Power Feature on macOS Monterey - Expert Tips & Tricks</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/high-definition-santorini-scenery-walls-and-backdrops-premium-digital-artwork-by-yl-software/"><u>High-Definition Santorini Scenery Walls & Backdrops - Premium Digital Artwork by YL Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/html5and/"><u>HTML5動画を安全にダウンロード&保管する簡単な方法</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-s24-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy S24 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-want-to-join-video-content-creators-who-already-produce-stop-motion-videos-on-instagram-in-this-article-we-are-going-to-show-you-how-to-make-a-stop-moti/"><u>New Want to Join Video Content Creators Who Already Produce Stop Motion Videos on Instagram? In This Article We Are Going to Show You How to Make a Stop Motion Video on Instagram with and without the Bui</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-gpts-top-6-conversational-blunders-and-fixes/"><u>Overcoming GPT's Top 6 Conversational Blunders & Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/practical-implementation-of-llama-2s-capabilities/"><u>Practical Implementation of Llama 2’S Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-tech-top-strategies-for-apples-ai-dominance-over-competitors-in-the-2024-wwdc-showcase-insights/"><u>Revolutionizing Tech: Top Strategies for Apple's AI Dominance Over Competitors in the 2024 WWDC Showcase - Insights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tech-tales-data-recovery-heroism/"><u>Tech Tales: Data Recovery Heroism</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-comprehensive-guide-to-the-latest-hardware-innovations/"><u>Tom's Tech Insights: A Comprehensive Guide to the Latest Hardware Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-mp3-players-comprehensive-reviews-zdnet/"><u>Top Rated MP3 Players : Comprehensive Reviews - ZDNet</u></a></li>
-<li><a href="https://article-files.techidaily.com/yield-entertaining-memes-through-adobe-path-for-2024/"><u>Yield Entertaining Memes, Through Adobe Path for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-game-changing-tactics-to-record-high-stakes-gameplay/"><u>[Updated] In 2024, Game-Changing Tactics to Record High-Stakes Gameplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-creation-mastering-social-media-posts/"><u>AI-Driven Content Creation: Mastering Social Media Posts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/central-luts-in-post-production-filmmaking-revolution/"><u>Central Luts in Post-Production Filmmaking Revolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-a-reliable-source-for-wellbeayer-info/"><u>ChatGPT as a Reliable Source for Wellbeayer Info</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-updating-driver-software-on-your-acer-nitro-5/"><u>Comprehensive Guide: Updating Driver Software on Your Acer Nitro 5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-screen-time-with-ai-support/"><u>Crafting Personalized Screen Time with AI Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-vs-bert-dissecting-modern-nlp-giants-distinctions/"><u>GPT vs BERT: Dissecting Modern NLP Giants' Distinctions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Without iTunes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-collaboration-chatgpt-in-google-workspace/"><u>Intelligent Collaboration: ChatGPT in Google Workspace</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/les-dix-astuces-magistrales-pour-resoudre-le-defi-de-lechec-de-lecture-du-dvd-guide-complet/"><u>Les Dix Astuces Magistrales Pour Résoudre Le Défi De L'Échec De Lecture Du DVD - Guide Complet!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-green-screen-software-for-android-and-ios-top-picks/"><u>New Free Green Screen Software for Android and iOS Top Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-domestic-functionality-with-chatgpt-innovations/"><u>Reimagining Domestic Functionality with ChatGPT Innovations</u></a></li>
+<li><a href="https://common-error.techidaily.com/set-your-origin-games-right-fixing-configuration-hitches-easily/"><u>Set Your Origin Games Right: Fixing Configuration Hitches Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-accuracy-debate-chatgpt-or-lies/"><u>The Accuracy Debate: ChatGPT or Lies?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-waiting-game-why-is-chatgpt-4-lagging/"><u>The Waiting Game: Why Is ChatGPT-4 Lagging?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-motorola-moto-g84-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Motorola Moto G84 5G Phones</u></a></li>
 </ul></div>
 

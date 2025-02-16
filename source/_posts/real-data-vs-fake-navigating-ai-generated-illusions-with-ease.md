@@ -1,7 +1,7 @@
 ---
 title: "Real Data vs Fake: Navigating AI-Generated Illusions with Ease"
-date: 2024-08-25T17:36:04.269Z
-updated: 2024-08-26T17:36:04.269Z
+date: 2025-02-01T16:47:48.322Z
+updated: 2025-02-02T23:24:36.384Z
 tags:
   - chatgpt
   - open-ai
@@ -71,16 +71,14 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
 ![Screenshot of ChatGPT giving wrong responses to a question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/revolt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  On further probing, it kept giving wrong answers, with a high level of confidence.
 
 ![Screenshot of ChatGPT giving multiple wrong answers to a prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wrong-answer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  So why is ChatGPT unable to give an accurate answer to these prompts?
 
  It could be that the language model is unequipped to handle rather complex prompts such as these or that it cannot interpret the prompt accurately, ignoring the prompt on giving a similar word with a specific alphabet.
@@ -96,23 +94,25 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 ![Picture showing Bing Chat and ChatGPT on arrowed sigsn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-showing-bing-chat-and-chatgpt-on-arrowed-sigsn.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Although rare, if you notice a grammatical error in the content produced by a large processing model, such as ChatGPT, that should raise an eyebrow and make you suspect a hallucination. Similarly, when text-generated content doesn't sound logical, correlate with the context given, or match the input data, you should suspect a hallucination.
 
  Using human judgment or common sense can help detect hallucinations, as humans can easily identify when a text does not make sense or follow reality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Computer Vision
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As a branch of artificial intelligence, machine learning, and computer science, computer vision empowers computers to recognize and process images like human eyes. Using [convolutional neural networks](https://www.makeuseof.com/convolutional-neural-network-explained/), they rely on the incredible amount of visual data used in their training.
 
  A deviation from the patterns of the visual data used in training will result in hallucinations. For example, if a computer was not trained with images of a tennis ball, it could identify it as a green orange. Or if a computer recognizes a horse beside a human statue as a horse beside a real human, then an AI hallucination has occurred.
@@ -120,15 +120,17 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
  So to spot a computer vision hallucination, compare the output generated to what a \[normal\] human is expected to see.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Self-Driving Cars
 
 ![Ford Blue Cruise 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ford-blue-cruise-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedmedia.viewmore.image.html/content/fordmedia/fna/us/en/news/2021/04/14/ford-mother-of-all-road-trips-bluecruise-hands-free-driving/jcr:content/rightRailPar/relatedmedia.html)
 
  Thanks to AI, self-driving cars are gradually infiltrating the auto market. Pioneers like Tesla Autopilot and Ford's BlueCruise have been championing the scene of self-driving cars. You can check out [how and what the Tesla Autopilot sees](https://www.makeuseof.com/how-and-what-the-tesla-autopilot-sees/) to get a bit of an understanding of how AI powers self-driving cars.
@@ -151,8 +153,6 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +160,20 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-spotlight-on-figure-skaters-2022-edition/"><u>[New] Spotlight on Figure Skaters 2022 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-the-upgrade-dilemma-iphone-14-vs-iphone-16-pro-explained/"><u>Analyzing the Upgrade Dilemma: IPhone 14 Vs. IPhone 16 Pro Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-apple-understanding-your-devices-new-vintage-status-and-its-significance-tech-insights/"><u>Decoding Apple: Understanding Your Device's New 'Vintage' Status and Its Significance | Tech Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-critique-how-does-the-acer-chromebook-15s-big-screen-stack-up/"><u>Detailed Critique: How Does the Acer Chromebook 15'S Big Screen Stack Up?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-note-12r-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y56-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo Y56 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-intel-usb-30-drivers-available-now-for-windows-10-systems-free-downloads/"><u>Latest Intel USB 3.0 Drivers Available Now for Windows 10 Systems - Free Downloads!</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gems-discover-the-best-nintendo-switch-docks/"><u>Next-Gen Gems: Discover the Best Nintendo Switch Docks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-blackout-issues-with-steam-application/"><u>Overcoming Blackout Issues with Steam Application</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/pcai/"><u>PCソフトとオンラインサービスを駆使したAIアニメやイラスト画像高質化テクニック！</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perplexity-ai-surpasses-google-elevate-your-research/"><u>Perplexity AI Surpasses Google - Elevate Your Research</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pursuing-the-honest-path-with-truthcoin/"><u>Pursuing The Honest Path with TruthCoin?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolution-of-specific-bugs-causing-unforeseen-behavior-such-as-application-crashes-or-inconsistent-functionality/"><u>Resolution of Specific Bugs Causing Unforeseen Behavior, Such as Application Crashes or Inconsistent Functionality.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tech Faceoff: How the New Samsung Galaxy Book Goes Head-to-Head with the Iconic MacBook Pro for Premium Laptop Supremacy | ZDNet"
-date: 2025-01-28T12:55:39.623Z
-updated: 2025-01-31T18:33:45.107Z
+date: 2025-01-31T21:41:15.337Z
+updated: 2025-02-02T20:52:21.894Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ If you're going to be one of those people, read on.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 * [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)
@@ -38,7 +34,7 @@ If you're going to be one of those people, read on.
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Update
@@ -61,17 +57,9 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### read this
 
@@ -82,6 +70,10 @@ It's not that you can't still get the service to work, but you may have to jump 
 I'd definitely check any banking and financial apps for any special process involved in moving them to a new handset and take care of that up front. 
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Protect your data
 
@@ -108,6 +100,10 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -136,6 +132,10 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
@@ -144,7 +144,7 @@ Remember, once you start this process, there's no going back!
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
@@ -187,22 +187,24 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-experts-manual-for-fusing-linktree-and-tiktok-biographies/"><u>[New] The Expert's Manual for Fusing Linktree and TikTok Biographies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-discoveries-prime-websites-and-methods-to-download-tamil-ringtone-files/"><u>2024 Approved Exclusive Discoveries Prime Websites & Methods to Download Tamil Ringtone Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparative-study-of-access-models-in-digital-information-systems-implications-for-public-use/"><u>Comparative Study of Access Models in Digital Information Systems: Implications for Public Use</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-movement-on-face-images-with-picsart-for-2024/"><u>Crafting Movement on Face Images with Picsart for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/freedom-in-focus-top-20-prisoner-wit-punchlines-on-social-media-for-2024/"><u>Freedom in Focus Top 20 Prisoner-Wit Punchlines on Social Media for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-f14-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy F14 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-free-sustainable-scenes-for-filmmakers/"><u>In 2024, Free Sustainable Scenes for Filmmakers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-chatgpt-issue-top-9-troubleshooting-steps/"><u>IPhone ChatGPT Issue: Top 9 Troubleshooting Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-apple-ignoring-safety-a-closer-look-at-iphone-protection-and-customer-concerns/"><u>Is Apple Ignoring Safety? A Closer Look at iPhone Protection and Customer Concerns</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-motorola-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-your-iphones-potential-uncover-powerful-hidden-voice-command-tricks-learn-now/"><u>Maximize Your iPhone's Potential: Uncover Powerful Hidden Voice Command Tricks - Learn Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sale-alert-apple-slashes-airpod-prices-by-40-in-pre-fourth-of-july-offer-the-latest-news/"><u>Sale Alert: Apple Slashes AirPod Prices by $40 in Pre-Fourth of July Offer – The Latest News</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secrets-to-purchasing-the-apple-vision-pro-expert-buying-guide-and-achieving-perfect-facial-recognition/"><u>Secrets to Purchasing the Apple Vision Pro: Expert Buying Guide & Achieving Perfect Facial Recognition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-bot-safety-spectrum-3-privacy-issues-unveiled/"><u>The Bot Safety Spectrum: 3 Privacy Issues Unveiled</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-playbook-for-youtube-growth-and-recognition-for-2024/"><u>The Ultimate Playbook for YouTube Growth and Recognition for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-a-100-savings-on-apples-magic-keyboard-for-your-workspace-this-black-friday-insights/"><u>Unlock a $100 Savings on Apple's Magic Keyboard for Your Workspace This Black Friday Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-does-hugging-face-do-explanation-and-applications/"><u>What Does Hugging Face Do? Explanation & Applications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expert-advice-on-maximizing-fidelity-in-vr-recording-for-2024/"><u>[New] Expert Advice on Maximizing Fidelity in VR Recording for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-visionaries-on-the-evolution-of-ai-technology/"><u>10 Visionaries on the Evolution of AI Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-reasons-why-chatgpt-wont-take-your-writing-job/"><u>5 Reasons Why ChatGPT Won’t Take Your Writing Job</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-to-control-chatgpt-with-your-voice/"><u>5 Ways to Control ChatGPT With Your Voice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-reasons-why-job-seekers-and-workers-should-learn-to-use-chatgpt/"><u>6 Reasons Why Job Seekers and Workers Should Learn to Use ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-chrome-tools-for-advanced-ai-interactions/"><u>7 Chrome Tools for Advanced AI Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-game-changing-bard-ai-features-revealed-at-googles-2023-tech-expo/"><u>7 Game-Changing Bard AI Features Revealed at Google's 2023 Tech Expo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-innovative-applications-of-chatgpt-for-wellness/"><u>9 Innovative Applications of ChatGPT for Wellness</u></a></li>
+<li><a href="https://blog-min.techidaily.com/nicozon/"><u>動画をNicozonで安全に保存するための最新のステップガイド</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722903965832-all-eyes-on-samsungs-upcoming-2025-event-rumors-confirmed-tech-and-future-innovations/"><u>All Eyes on Samsung's Upcoming 2025 Event - Rumors, Confirmed Tech, and Future Innovations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/best-4k-gaming-laptops-unleash-game-potential-for-2024/"><u>Best 4K Gaming Laptops - Unleash Game Potential for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-14-pro-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 14 Pro activation lock with a professional tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-to-leading-compact-tablets-of-2nplusd-endorsed-by-industry-experts-zdnet/"><u>Comprehensive Guide to Leading Compact Tablets of 2N+d, Endorsed by Industry Experts | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721390291559-emoji-free-tweet-evolution-linuss-unmasking-trojan-discourse-and-chatgpt-hurdles/"><u>Emoji-Free Tweet Evolution, Linus's Unmasking, Trojan Discourse, & ChatGPT Hurdles</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-note-12-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi Note 12 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-applications-for-adding-audio-to-video-in-android/"><u>New Applications for Adding Audio to Video in Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721413290822-seize-the-day-with-a-bug-discovery-passport-join-openais-rewarding-adventure/"><u>Seize the Day with a Bug Discovery Passport; Join OpenAI’s Rewarding Adventure</u></a></li>
 </ul></div>
 

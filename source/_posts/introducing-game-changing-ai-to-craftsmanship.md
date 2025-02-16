@@ -1,7 +1,7 @@
 ---
 title: Introducing Game-Changing AI to Craftsmanship
-date: 2024-08-25T17:37:03.322Z
-updated: 2024-08-26T17:37:03.322Z
+date: 2025-01-28T23:19:11.288Z
+updated: 2025-02-02T18:12:52.365Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 
 ![An electric bulb on a black chalkboard with chat bubbles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bulb-on-chalkboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Multi-modal AI refers to AI models that can process and understand different types of data, such as text, images, and videos. Get this, if GPT-4 becomes a multi-modal AI, it will be a game changer for DIY enthusiasts.
 
  This means that GPT-4 could potentially generate DIY project ideas based on visual input, such as a user's uploaded images of materials or finished projects.
@@ -41,17 +45,10 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 
  As the field of NLP continues to evolve, the release of GPT-4 is highly anticipated due to its potential to accelerate DIY development.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Advanced Language Processing Capabilities
 
  Large-scale language generation is a feature that will allow the generation of large, coherent, and accurate texts that provide informative responses to DIY enthusiasts. A multilingual support feature will also diversify the use of the language model by the DIY community, hence promoting collaboration and quickening the formation and implementation of ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### AI-Based IDE Plugins
 
  The integration of AI tools and extensions in IDEs is already taking off with modules such as [GitHub Copilot](https://github.com/features/copilot). GitHub Copilot is a tool from GitHub that is powered by [OpenAI Codex](https://openai.com/blog/openai-codex/), a GPT3-based model.
@@ -59,30 +56,33 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Such tools being available in development environments aid in the generation of flawless code, and speed up the process of writing code for complex DIY projects—not forgetting debugging features.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Integration of Machine-Learning Algorithms
 
  Integrating algorithms can improve model response relevance and accuracy, leading to personalized DIY recommendations based on user behavior. ML algorithms can recognize DIY-related keywords and tailor user-specific responses, easing the product research and development process.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Future of Microcontroller-Based Platforms
 
 ![A white robot assistant with a tablet with user interface attached to the chest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/white-robot-assistant.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Microcontroller-based platforms could benefit greatly from advancements in AI models such as ChatGPT4\. Integrating these models can expand the processing power and memory of the platforms, leading to more accurate data analysis from embedded and IoT systems. Speaking of this, we've covered many [Arduino IoT projects](https://www.makeuseof.com/best-arduino-iot-projects/) you can try without waiting for GPT advancements.
 
  Predictive maintenance measures could also be developed using this data. In the future, lightweight AI versions could even be integrated into devices for DIY projects using compression techniques. Generally, DIY partakers will soon be able to efficiently ideate, research, implement, and modify projects.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bringing AI to the DIY World
 
  GPT-4 will undoubtedly transform the DIY industry. Generation of personalized and accurate responses, multilingual support, virtual DIY assistance, coding assistant, and debugging features are just the tip of the iceberg of the capabilities the upcoming language model has to offer the field.
@@ -93,14 +93,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Cloud-based data analysis by GPT-4, integrated with microcontroller-based platforms like Arduino, will offer DIYers a more productive approach to product development.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +106,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-the-fading-technique-on-soundtracks-in-audacity/"><u>[New] 2024 Approved Mastering the Fading Technique on Soundtracks in Audacity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-build-successful-youtube-advertisements-for-free/"><u>[Updated] 2024 Approved How to Build Successful YouTube Advertisements for Free?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-videography-essentials-incorenas-markers-and-edit-techniques/"><u>[Updated] Videography Essentials Incorenas Markers and Edit Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/buy-these-apple-innovations-revealed-at-wwdc-today-discover-the-products-and-find-out-where-to-preorder-now-gadgetguru/"><u>Buy These Apple Innovations Revealed at WWDC Today! Discover the Products and Find Out Where to Preorder Now | GadgetGuru</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/can-disk-defragmentation-boost-your-computers-performance-expert-tips-by-yl-computing/"><u>Can Disk Defragmentation Boost Your Computer's Performance - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/car-sound-troubleshooting-reasons-behind-malfunctioning-speakers/"><u>Car Sound Troubleshooting: Reasons Behind Malfunctioning Speakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-tech-triumphs-gpt-vs-microsoftgoogles-innovations/"><u>Comparative Tech Triumphs: GPT Vs. Microsoft/Google's Innovations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-hardware-guides-and-reviews-by-toms-technology-experts/"><u>Comprehensive Hardware Guides & Reviews by Tom's Technology Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioning-a-new-era-in-healthcare-with-chatgpt/"><u>Envisioning a New Era in Healthcare with ChatGPT</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-easy-laughter-the-art-of-creating-funny-memes/"><u>In 2024, Easy Laughter The Art of Creating Funny Memes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/outstanding-asmr-audio-experience-for-minimal-spending/"><u>Outstanding ASMR Audio Experience for Minimal Spending</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-2024s-leading-mp3-devices-insights-by-zdnet/"><u>Ultimate Guide to 2024'S Leading MP3 Devices - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/updating-applications-on-macos-effortlessly-discover-the-top-two-methods-zdnet/"><u>Updating Applications on macOS Effortlessly: Discover the Top Two Methods | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-exclusive-apples-venture-into-ar-glasses-and-cost-effective-visual-aids-on-the-horizon/"><u>ZDNet Exclusive: Apple's Venture Into AR Glasses and Cost-Effective Visual Aids on the Horizon</u></a></li>
+</ul></div>
 

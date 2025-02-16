@@ -1,7 +1,7 @@
 ---
 title: "The Chronicle of Chaos: Tracing Back to the Origins of CrowdStrike-Induced Windows Meltdown Crisis , as Revealed"
-date: 2025-01-26T10:58:35.636Z
-updated: 2025-02-01T12:09:53.297Z
+date: 2025-01-26T21:30:36.039Z
+updated: 2025-02-02T17:02:28.276Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-foremost-zooid-beginnings-guide/"><u>[New] Foremost Zooid Beginnings Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-diving-deep-into-screencast-best-practices/"><u>[New] In 2024, Diving Deep Into Screencast Best Practices</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-facebook-copyright-what-if-my-videos-removed-immediately-due-to-copyright/"><u>[Updated] 2024 Approved Facebook Copyright | What If My Videos Removed Immediately Due to Copyright?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-fresh-discussion-ideas-for-podcast-success-for-2024/"><u>[Updated] Fresh Discussion Ideas for Podcast Success for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-novice-film-capture-scrutiny-report-for-2024/"><u>[Updated] Novice Film Capture Scrutiny Report for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-best-virtual-reality-finger-guards-unveiled/"><u>2024 Approved Best Virtual Reality Finger Guards Unveiled</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-enhancing-visual-detail-in-videoleap-videos/"><u>2024 Approved Enhancing Visual Detail in Videoleap Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoid-potential-problems-essential-information-on-ios-18s-impact-on-ipads-detailed-zdnet-insights/"><u>Avoid Potential Problems: Essential Information on iOS 18'S Impact on iPads Detailed | ZDNET Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enterprises-dilemma-the-5-significant-reasons-against-chatgpt/"><u>Enterprises' Dilemma: The 5 Significant Reasons Against ChatGPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-top-game-graphics-by-updating-to-the-newest-geforce-gtx-1660-ti-software/"><u>Get Top Game Graphics by Updating to the Newest GeForce GTX 1660 Ti Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-evaluating-advancements-from-the-iphone-14-pro-to-the-latest-iphone-15-pro-deep-dive/"><u>IPhone Showdown: Evaluating Advancements From the iPhone 14 Pro to the Latest iPhone 15 Pro Deep Dive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-gpt-effective-for-math-puzzles/"><u>Is GPT Effective for Math Puzzles?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedying-screen-flicker-on-surface-pro-7/"><u>Remedying Screen Flicker on Surface Pro 7</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-rhythm-reviews-cutting-edge-sound/"><u>[New] Rhythm Reviews Cutting-Edge Sound</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-secrets-of-filmo-for-2024/"><u>[Updated] Secrets of Filmo for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/finding-frame-frames-the-art-of-isolating-images-on-windows-10/"><u>Finding Frame Frames The Art of Isolating Images on Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 12?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/leading-global-linguistic-studies-abroad/"><u>Leading Global Linguistic Studies Abroad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/paramount-considerations-in-utilizing-artificial-intelligence-for-emotional-support-via-chatgpt/"><u>Paramount Considerations in Utilizing Artificial Intelligence for Emotional Support via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pathway-to-peak-performance-chatgpts-wellbe-point-of-view/"><u>Pathway to Peak Performance: ChatGPT's Wellbe Point of View</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/politeness-in-the-age-of-ai-engaging-with-gpt-alexa-and-more/"><u>Politeness in the Age of AI: Engaging with GPT, Alexa & More</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prime-digital-marketplaces-for-ai-creativity/"><u>Prime Digital Marketplaces for AI Creativity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlined-academic-success-through-gpt-assisted-notes/"><u>Streamlined Academic Success Through GPT-Assisted Notes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463940528-why-isnt-my-iphone-buzzing-on-silentring-settings-fix-it-with-these-8-steps/"><u>Why Isn't My iPhone Buzzing on Silent/Ring Settings? Fix It With These 8 Steps!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-not-rely-on-chatgpt-for-complete-text-synopses/"><u>Why Not Rely on ChatGPT for Complete Text Synopses?</u></a></li>
 </ul></div>
 

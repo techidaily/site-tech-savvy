@@ -1,7 +1,7 @@
 ---
 title: Ace Exams Easily with GPT-Powered Notetaking
-date: 2024-08-25T17:32:08.742Z
-updated: 2024-08-26T17:32:08.742Z
+date: 2025-01-27T16:22:31.797Z
+updated: 2025-02-02T23:20:02.387Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
  Undoubtedly, traditional note-taking is still good, but what if you take a more futuristic approach by using AI for note-taking?
 
  By now, you may have heard of ChatGPT due to the buzz it has created in the artificial intelligence (AI) industry. There are [many things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/); for this article, we'll stick to using it for systematic note-taking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1\. Create a Prompt for Your Topic
 
@@ -61,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 
  You must adjust the above prompt to suit your needs. So, if you are preparing notes for a different subject or topic, change the words in square brackets accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2\. Ask ChatGPT to Prepare the Notes
 
  Now that you have the prompt, type it into the ChatGPT interface and press **Enter**.
@@ -85,33 +86,37 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 ![Re-Prompting In ChatGPT Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/re-prompting-in-chatgpt-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Prompting is indeed a skill, and if you want to master it, read our [prompt crafting guide for beginners](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) once. Once you master prompting, you can quickly improve your notes. For example, you can prompt ChatGPT to include bucket brigades, more examples, and context-based questions in your notes.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 4\. Format the Notes in a Note-Taking App
 
  Once satisfied with the output, click the **copy** button and paste the copied output into your preferred note-taking app. This can vary from Microsoft OneNote to Google Keep. To help you better, we've shared our views on some [useful note-taking apps for different platforms](https://www.makeuseof.com/note-taking-apps-link-ideas-together/).
 
 ![ChatGPT Copy Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-copy-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've transferred the notes into your note-taking app, it's entirely up to you how you choose to present them. Also, you can check some of the [most effective strategies to master note-taking quickly](https://www.makeuseof.com/use-good-note-taking-strategies-to-take-faster-notes/).
 
  Now, if you're excited about formatting your draft notes, there are plenty of ways. For example, you can color grade the main points, use font styling, and add images for better context. We already have a guide on some [free AI image generation tools](https://www.makeuseof.com/ai-text-to-art-generators/) and [websites for copyright-free images](https://www.makeuseof.com/tag/top-5-websites-for-free-stock-photographs/) to give your notes an eye-catchy look.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Can You Improve Your Notes Using ChatGPT?
 
  So you have the notes ready, but now what? Do you want to improve them and make them easy to remember? Here are two ways by which you can improve your notes when using ChatGPT:
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Layered Note-Taking Method
 
 ![Obsidian Notes Using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-notes-using-chatgpt.jpg)
@@ -119,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
  Layered note-taking is a great way to organize and structure your notes. With this method, you create different layers or levels of information, starting with the most critical points at the top and adding more detailed information as you go down.
 
  This lets you quickly look through your notes and easily locate the critical information you need. This method is beneficial when you have much information to cover and want to ensure you effectively capture the essential points.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Question and Answer Method
 
@@ -138,9 +147,6 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 * **Avoid grammatical errors in your prompt:** While ChatGPT can understand your query, if it has minor errors, if the grammar mistakes are too much, it'll be hard to generate the desired response.
 * **Assign yourself a role:** If you find it hard to understand a topic, you can prompt, "**I'm a \[Role\]. Now, explain \[TOPIC\] to me in the best possible manner.**".
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Create Your Notes From Scratch Using ChatGPT
 
  With the acquired skills, you can craft prompts for ChatGPT perfectly. Besides, remember the principle: the level of detail in your prompts determines the depth of your notes.
@@ -151,14 +157,11 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 
  In this article, we'll show you how to use ChatGPT to prepare detailed and informative notes easily. Besides, we'll guide you to create your personalized prompt for note-taking.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +170,23 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/cgp-and-the-quest-for-reliable-medical-info/"><u>CGP and the Quest for Reliable Medical Info</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-restoring-functionality-to-resource-monitor-on-win11/"><u>Comprehensive Guide: Restoring Functionality to Resource Monitor on Win11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/crafting-a-compelling-profile-visual-experience-for-2024/"><u>Crafting a Compelling Profile Visual Experience for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-the-capabilities-of-claude-3/"><u>Embracing the Capabilities of Claude 3</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicate-graphics-lag-zero-dxgi-device-stall-error-0x887a0006/"><u>Eradicate Graphics Lag - Zero DXGI Device Stall (Error 0X887A0006)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-safe-are-addons-enhancing-chatgpt-experience/"><u>How Safe Are Addons Enhancing ChatGPT Experience?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-iphone-battery-life-key-updates-in-ios-18-and-new-charging-methods/"><u>Mastering iPhone Battery Life: Key Updates in iOS 18 and New Charging Methods</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multilingual-mastery-at-40plus-top-benefits-of-embracing-new-language-learning/"><u>Multilingual Mastery at 40+: Top Benefits of Embracing New Language Learning</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-mouseless-woes-windows-the-ultimate-troubleshooting-steps/"><u>Resolve Your Mouseless Woes: Windows The Ultimate Troubleshooting Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/surveying-youtube-interactions-for-2024/"><u>Surveying YouTube Interactions for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-significance-of-vector-databases-for-ai-innovation/"><u>The Significance of Vector Databases for AI Innovation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/top-quality-sd-card-for-sony-alpha-7s-ii/"><u>Top Quality SD Card for Sony Alpha 7S II</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transferring-and-archiving-your-customized-gpt-dialogues/"><u>Transferring and Archiving Your Customized GPT Dialogues</u></a></li>
+<li><a href="https://win-guides.techidaily.com/troubleshooting-sudden-operating-system-failures-with-expert-advice-from-yl-software/"><u>Troubleshooting Sudden Operating System Failures with Expert Advice From YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-new-ipad-air-triumphs-over-the-expensive-ipad-pro-my-honest-verdict-zdnet/"><u>Why the New iPad Air Triumphs Over the Expensive iPad Pro – My Honest Verdict | ZDNET</u></a></li>
+</ul></div>
 

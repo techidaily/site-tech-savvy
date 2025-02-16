@@ -1,7 +1,7 @@
 ---
 title: Secure ChatGPT Record Keeping Methods
-date: 2025-01-31T05:14:37.984Z
-updated: 2025-02-01T03:01:41.334Z
+date: 2025-01-28T18:50:45.650Z
+updated: 2025-02-02T17:05:52.219Z
 tags:
   - chatgpt
   - open-ai
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 ![Archiving chat in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archiving-chat-in-chatgpt-web.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
 ### How to View Your Hidden ChatGPT Chats on the Web
@@ -55,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 ![Accessing ChatGPT settings on the web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/accessing-chatgpt-settings-on-the-web.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click on your OpenAI account name in the bottom-left corner of the ChatGPT page.
 2. Select **Settings** from the context menu.
 3. When the settings menu pops up, click **Manage** next to **Archived chats**.
@@ -66,11 +66,11 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Hide ChatGPT Chats on Your iPhone
 
@@ -83,11 +83,11 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
-![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 
@@ -96,7 +96,7 @@ Close
  If you don't see the **Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to View Your Hidden Chats in the ChatGPT App
@@ -110,11 +110,11 @@ Close
 
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
@@ -143,18 +143,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-full-potential-top-9-methods-in-vr-cinematography/"><u>[New] Unlocking the Full Potential Top 9 Methods in VR Cinematography</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unveiling-hidden-sights-in-google-meet-conferences/"><u>[Updated] 2024 Approved Unveiling Hidden Sights in Google Meet Conferences</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlocking-earnings-potential-essential-view-numbers/"><u>[Updated] In 2024, Unlocking Earnings Potential Essential View Numbers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-allies-for-wellness-discover-5-supportive-bots/"><u>AI Allies for Wellness: Discover 5 Supportive Bots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-apples-top-14-picks-must-have-apps-and-games-for-2/"><u>Discover Apple's Top 14 Picks: Must-Have Apps & Games for 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engage-now-8-unique-gpts-at-your-fingertips/"><u>Engage Now: 8 Unique GPTs at Your Fingertips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-narzo-n55-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Narzo N55 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/identifying-inauthentic-connections-the-guide-to-detecting-phony-social-network-invites/"><u>Identifying Inauthentic Connections: The Guide to Detecting Phony Social Network Invites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/impact-of-doj-litigation-against-apple-on-consumers-and-app-creators-insights/"><u>Impact of DOJ Litigation Against Apple on Consumers & App Creators - Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-through-halinitializationfailed-stop-code-0x00-a-user-friendly-guide-to-fixing-your-system/"><u>Navigating Through HAL_INITIALIZATION_FAILED (STOP Code 0X0^0): A User-Friendly Guide to Fixing Your System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-m2-upgrade-in-macbook-air-a-teardrop-worthy-experience-revealed/"><u>The M2 Upgrade in MacBook Air: A Teardrop-Worthy Experience, Revealed .</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-the-full-potential-of-your-favorite-games-on-a-mac/"><u>Unleash the Full Potential of Your Favorite Games on a Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-sets-gpt4all-apart-inside-look-at-its-working-principles/"><u>What Sets GPT4All Apart? Inside Look at Its Working Principles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-xbox-gaming-captured-a-beginners-screen-recording-journey/"><u>[New] 2024 Approved Xbox Gaming Captured A Beginner's Screen Recording Journey</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-premier-solutions-highest-rated-vimeo-downloaders/"><u>[Updated] 2024 Approved Premier Solutions Highest Rated Vimeo Downloaders</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-capture-clarity-editing-insights-for-professional-results/"><u>[Updated] Capture Clarity Editing Insights for Professional Results</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unveiling-the-most-effective-honestly-approved-promotion-strategies-for-2024/"><u>[Updated] Unveiling the Most Effective, Honestly-Approved Promotion Strategies for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/15-free-ai-solutions-for-email-efficiency-and-quality/"><u>15 Free AI Solutions for Email Efficiency and Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/22-streamline-communication-leading-free-ai-email-services/"><u>22 Streamline Communication: Leading Free AI Email Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-introduction-to-openai/"><u>A Comprehensive Introduction to OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-tale-of-three-ais-facing-the-same-crafted-prompts/"><u>A Tale of Three AI's Facing the Same Crafted Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721373899048-dont-fall-for-the-google-bard-scam-its-dangerous/"><u>Don't Fall for the Google Bard Scam, It's Dangerous!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/efficient-protocols-for-high-quality-iptv-screening/"><u>Efficient Protocols for High-Quality IPTV Screening</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721412419769-embrace-free-gpt-4-but-dont-ignore-the-exclusive-perks-available-to-plus-users/"><u>Embrace Free GPT-4; But Don’t Ignore the Exclusive Perks Available to Plus Users.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721416691577-exciting-times-for-everyone-gpt-4-is-now-free-plus-still-shines-with-6-benefits/"><u>Exciting Times for Everyone: GPT-4 Is Now Free; Plus Still Shines with 6 Benefits.</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/exclusive-list-of-leading-free-video-editing-programs/"><u>Exclusive List of Leading Free Video Editing Programs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721430217196-gpt-3-unveils-game-changing-upgrades-key-highlights/"><u>GPT-3 Unveils Game-Changing Upgrades: Key Highlights!</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a24-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A24 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-12-mini-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 12 mini With 7 Methods</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-insightful-approaches-to-recognizing-genuine-facebook-advocates/"><u>In 2024, Insightful Approaches to Recognizing Genuine Facebook Advocates</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/leading-animals-in-play-androids-favorites-list-for-2024/"><u>Leading Animals in Play Android's Favorites List for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721370727220-mobile-phone-is-50-ransomware-decryption-explained-and-chatgpt-writes-our-podcast/"><u>Mobile Phone Is 50, Ransomware Decryption Explained, and ChatGPT Writes Our Podcast</u></a></li>
 </ul></div>
 

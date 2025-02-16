@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Finding Lost AirPods & Avoiding Future Misplacement - Tips by ZDNet
-date: 2025-01-31T10:47:23.024Z
-updated: 2025-02-01T01:46:10.466Z
+date: 2025-01-27T22:57:09.226Z
+updated: 2025-02-02T17:14:31.073Z
 tags:
   - apple
 categories:
@@ -29,14 +29,10 @@ Those sneaky little earbuds can walk away from us, but luckily the AirPods have 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to find your lost AirPods
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Set up Find My ASAP
 
@@ -45,7 +41,7 @@ Nina Raemont/ZDNET
 First and foremost, set up Find My. Find My, one of the native apps on your iPhone and iPad, will become your best friend when you begin a search for lost devices like AirPods or Apple Watches. Note: You'll want to set up Find My as soon as possible, because you can't locate your AirPods through Find My _after_ you've lost them. If your AirPods are already set up on Find My, go to the next step. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Find My
@@ -54,6 +50,10 @@ Nina Raemont/ZDNET
 
 Open the Find My app, then toggle to the Devices tab to select your AirPods, which you've registered on Find My. If your AirPods are nearby, they'll appear on the map. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Play sound to find AirPods
 
 Nina Raemont/ZDNET
@@ -61,7 +61,7 @@ Nina Raemont/ZDNET
 Click the Play Sound feature to locate your earbuds. You'll hear a ringing sound near you. It's important to know that at least one of the two earbuds must be out of its charging case or it won't play a sound. You can play sound for the left and right earbuds by tapping L or R. Once you've found them, you can hit stop. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will this work if I've lost my AirPods while they're in the charging case?
@@ -69,7 +69,7 @@ Click the Play Sound feature to locate your earbuds. You'll hear a ringing sound
 If you've lost your AirPods while they're in the charging case, it gets harder to locate them on Find My.The Find My map will show the most recent location where the case was last opened, but won't be updated to their current location if they've been moved since they were last used.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can you locate AirPods that aren't online?
@@ -106,18 +106,19 @@ Unfortunately, no. They need to be online and connected to Find My to easily loc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-easy-ipad-and-iphone-screen-recording-for-beginners/"><u>[New] In 2024, Easy iPad & iPhone Screen Recording for Beginners</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-producing-channel-trailer-synopses-a-guide-for-2024/"><u>[Updated] Producing Channel Trailer Synopses A Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehending-giant-language-processors-in-tech/"><u>Comprehending Giant Language Processors in Tech</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-premier-news-compilation-services-of-2024-editors-favorites/"><u>Explore the Premier News Compilation Services of 2024 - Editor's Favorites</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a54-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A54 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mobile-mastery-with-chatgpt-for-androidios-users/"><u>Mobile Mastery with ChatGPT for Android/iOS Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-arrivals-essential-charging-gadgets-from-anker-to-enhance-your-upcoming-iphone-purchase/"><u>New Arrivals! Essential Charging Gadgets From Anker to Enhance Your Upcoming iPhone Purchase</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peering-into-the-intelligent-machine/"><u>Peering Into the Intelligent Machine</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/troubleshooting-deadlocks-how-to-resolve-ghostrunner-errors-on-windows-11-systems/"><u>Troubleshooting Deadlocks: How to Resolve GhostRunner Errors on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-discover-unbeatable-christmas-offers-on-iphones-and-macbooks-at-best-prices/"><u>Ultimate Guide: Discover Unbeatable Christmas Offers on iPhones & MacBooks at Best Prices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-picsart-analysis-and-tutorial-for-2024/"><u>Ultimate PicsArt Analysis & Tutorial for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/utilizing-cookiebot-technology-for-advanced-online-analytics-and-personalization/"><u>Utilizing Cookiebot Technology for Advanced Online Analytics & Personalization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-to-choose-after-iphone-13-15-pro-exit-the-stage-expert-picks/"><u>What to Choose After iPhone 13, 15 Pro Exit the Stage - Expert Picks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-copyright-aware-techniques-for-reposting-imagery/"><u>[New] Copyright-Aware Techniques for Reposting Imagery</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unlock-tiktok-potential-pc-and-mac-video-sharing-guide/"><u>[New] In 2024, Unlock TikTok Potential PC & Mac Video Sharing Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-revolutionary-tips-to-upgrade-your-webinar-recordings-for-2024/"><u>[New] Revolutionary Tips to Upgrade Your Webinar Recordings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensive-guide-for-high-quality-presentation-capture-for-2024/"><u>[Updated] Comprehensive Guide for High-Quality Presentation Capture for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-controlling-who-can-leave-a-comment-on-your-youtube-videos/"><u>[Updated] Controlling Who Can Leave a Comment on Your YouTube Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-million-token-breakthrough-in-geminis-saga/"><u>$1 Million Token Breakthrough in Gemini's Saga</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-reasons-to-view-snapchats-ai-as-essential-not-extras/"><u>6 Reasons to View Snapchat's AI as Essential, Not Extras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-essential-free-ai-apps-for-email-crafting/"><u>8 Essential Free AI Apps for Email Crafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-closer-look-at-how-gptzero-detects-non-human-writers/"><u>A Closer Look at How GPTZero Detects Non-Human Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-critical-look-at-auto-gpt-solo-use/"><u>A Critical Look at Auto-GPT Solo Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-gratuite-de-fichiers-mp4-a-format-3gp-en-ligne-movavi/"><u>Conversion Gratuite De Fichiers MP4 À Format 3GP en Ligne - Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-zte-nubia-flip-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does ZTE Nubia Flip 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-key-to-unlocking-the-best-video-production-talents/"><u>In 2024, The Key to Unlocking the Best Video Production Talents</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-when-your-laptops-pointing-device-freezes-up/"><u>Troubleshooting Techniques for When Your Laptop's Pointing Device Freezes Up</u></a></li>
 </ul></div>
 

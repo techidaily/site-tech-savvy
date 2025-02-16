@@ -1,7 +1,7 @@
 ---
 title: "Mercedes' Innovation: Blending GPT Tech with Car Voices"
-date: 2024-08-25T17:33:18.187Z
-updated: 2024-08-26T17:33:18.187Z
+date: 2025-01-31T20:08:08.837Z
+updated: 2025-02-02T22:58:24.906Z
 tags:
   - chatgpt
   - open-ai
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  What can you expect? And will other automakers follow suit? Let’s find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Voice Control Is Now Available on Mercedes-Benz
 
 ![Mercedes me app showing ChatGPT feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/23c0224_004.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1b56-458a-9324-20b25cc176cb)
 
@@ -39,6 +47,10 @@ Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1
 
  Beyond that, you can use [ChatGPT plug-ins](https://www.makeuseof.com/best-chatgpt-plugins/) to order food, find the best ticket prices, write emails, or [send a messages on Slack](https://www.makeuseof.com/what-is-slack/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other Automakers Could Follow Suit
 
  Mercedes-Benz is not the only automaker to consider integrating ChatGPT into its cars. According to [Reuters](https://www.reuters.com/business/autos-transportation/gm-explores-using-chatgpt-vehicles-2023-03-10/), General Motors is also looking at introducing a virtual assistant powered by ChatGPT. This could be part of its strategy after [ditching Android Auto and Apple CarPlay](https://www.makeuseof.com/gm-to-drop-android-auto-apple-carplay/).
@@ -46,9 +58,9 @@ Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1
  It's worth noting that even without ChatGPT voice assistant integrated into your car’s infotainment system, you can still talk to ChatGPT driving if you’re connected to Apple CarPlay and Siri. This would be a good way to mimic Mercedes' native integration of the chatbot if you own a vehicle from another brand.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Could Redefine Virtual Assistants in Vehicles
 
  ChatGPT has a lot of potential if it's integrated into vehicles, considering that it’s way more intelligent than Google Assistant, Siri, or Alexa as a virtual assistant. Mercedes-Benz introducing ChatGPT to its vehicles is a sign of things to come in the automotive industry that could redefine how we interact with virtual assistants in our cars.
@@ -59,14 +71,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  What can you expect? And will other automakers follow suit? Let’s find out.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,4 +84,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-creating-captivating-youtube-thumbnails-for-mac-users-for-2024/"><u>[New] Creating Captivating YouTube Thumbnails for Mac Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-impactful-power-of-customer-testimonials-on-sales-for-2024/"><u>[Updated] The Impactful Power of Customer Testimonials on Sales for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-asmr-quality-high-standards-meet-affordable-costs/"><u>2024 Approved ASMR Quality High Standards Meet Affordable Costs</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-agni-2-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Agni 2 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-gains-enhanced-image-recognition-features-similar-to-google-lens-boosting-mobile-photography-experience-zdnet/"><u>IPhone 16 Gains Enhanced Image Recognition Features Similar to Google Lens, Boosting Mobile Photography Experience - ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-g2ntn-mouse-driver-download-for-windows-78110-and-11/"><u>Logitech G2n_TN Mouse Driver Download for Windows 7/8.1/10 & 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-the-hunt-for-premium-phones-the-leading-stores-with-unmatched-selections/"><u>Mastering the Hunt for Premium Phones: The Leading Stores with Unmatched Selections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/minstrels-versus-chatgpt-and-real-alpacas-top-llms-battle/"><u>Minstrels Versus ChatGPT & Real Alpacas: Top LLMs Battle</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-verdict-on-vn-video-editor-apk-a-comprehensive-review/"><u>New 2024 Approved The Verdict on VN Video Editor APK A Comprehensive Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-paperclips-with-ai-driven-maximization-techniques/"><u>Reimagining Paperclips with AI-Driven Maximization Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-llama-2-effectively-in-various-fields/"><u>Utilizing Llama 2 Effectively in Various Fields</u></a></li>
+</ul></div>
 

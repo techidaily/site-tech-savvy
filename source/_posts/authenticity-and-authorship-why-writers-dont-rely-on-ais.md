@@ -1,7 +1,7 @@
 ---
 title: "Authenticity and Authorship: Why Writers Don't Rely on AIs"
-date: 2025-01-29T21:47:54.700Z
-updated: 2025-01-31T16:21:38.563Z
+date: 2025-01-29T19:28:39.383Z
+updated: 2025-02-02T17:52:24.457Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. AI Doesn’t Fact-Check Information
 
  AI systems cover a broad range of general questions. They’ll scour billions of online resources to provide a condensed answer comprising the most widely accepted facts. Users often get reliable responses in science, math, and history.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
  Although chatbots and [writing tools](https://www.makeuseof.com/ai-writing-tools/) consistently strive for accuracy, they don’t double-check the facts. AI only relays what it finds. Even sophisticated systems inaccurately respond to questions about recent research ideas, advanced mathematical equations, medicine, controversial topics, and current events.
 
  You can still [use ChatGPT like a search engine](https://www.makeuseof.com/is-chatgpt-search-engine-threat/). Just make sure you don’t take its answers at face value; otherwise, you might publish misleading information. As a general rule, always compare AI responses with official resources.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Language Models Like GPT-3 Follow Templates
 
@@ -56,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
@@ -80,9 +76,17 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ![Copy.ai Lists Down Article Sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-sources.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Generic pieces rarely gain traffic. To attract readers and score higher SERP rankings, write original articles that are exclusive to your site. Stop rewriting stuff that everyone already knows.
 
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. AI Generates the Same Results for Similar Questions
 
@@ -93,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 ## 6\. AI Can’t Adopt Your Tone
 
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.
 
@@ -108,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
  If you want top-ranking pages, focus on providing value. Haphazardly instructing writing tools and chatbots to stuff keywords into lengthy, generic blogs yields negligible results. Search engines might even qualify your site as spam.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Many Premium Plagiarism Checkers Flag AI-Generated Pieces
 
 ![Plagiarism Checker Results of AI-Generated Text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/plagiarism-checker-results.jpg)
@@ -121,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
  With that said, they’re still unoriginal. Chatbots and writing tools only escape plagiarism technicalities through formulaic paraphrasing. Spinning bypasses many plagiarism detectors, after all.
 
  Writers have differing opinions about the morality of publishing AI content and plagiarism, but as a respectable professional, you should do your own research. Never risk plagiarizing content. Study the topics for yourself, draw logical conclusions, then convey them in your own words.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use AI Chatbots Responsibly
 
@@ -151,18 +151,22 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-serenity-through-stories-a-review-of-parent-driven-narrative-vids/"><u>[New] Serenity Through Stories A Review of Parent-Driven Narrative Vids</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-radeon-relive-download-and-review/"><u>[Updated] In 2024, Radeon Relive Download and Review</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ultimate-checklist-streamlining-and-maximizing-screencast-quality-with-mobizen/"><u>[Updated] Ultimate Checklist Streamlining and Maximizing Screencast Quality with Mobizen</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-batch-file-transformations-for-2024/"><u>Best Batch File Transformations for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/exploring-the-new-features-and-enhancements-in-microsoft-surface-pro-7-performance-vs-innovation-balance/"><u>Exploring the New Features and Enhancements in Microsoft Surface Pro 7: Performance vs Innovation Balance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-your-insights-to-ingenious-ai-build-a-gpt-of-your-design/"><u>From Your Insights to Ingenious AI: Build a GPT of Your Design</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-free-youtube-endings-that-stand-out-ranked/"><u>In 2024, Free YouTube Endings That Stand Out - Ranked</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/popular-free-photography-and-film-archives-for-2024/"><u>Most Popular Free Photography and Film Archives for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pro-tips-integrating-gpt-in-your-note-routine/"><u>Pro Tips: Integrating GPT in Your Note Routine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/satellite-sos-feature-now-available-on-google-pixel-9-the-premier-android-device-enhancing-emergency-communications/"><u>Satellite SOS Feature Now Available on Google Pixel 9: The Premier Android Device Enhancing Emergency Communications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-simplicity-chatgpts-top-9-techniques/"><u>The Art of Simplicity: ChatGPT's Top 9 Techniques</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Samsung Galaxy M34 5G</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-reno-10-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo Reno 10 5G</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-charting-the-course-to-youtube-success-top-5-strategies-inside/"><u>[New] In 2024, Charting the Course to YouTube Success – Top 5 Strategies Inside</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-guide-to-delivering-engaging-ppt-in-google-meet-mobiledesktop/"><u>[Updated] 2024 Approved Guide to Delivering Engaging PPT in Google Meet (Mobile/Desktop)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitters-new-rule-include-aspect-ratio-in-video-posts/"><u>[Updated] 2024 Approved Twitter's New Rule Include Aspect Ratio in Video Posts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapping-sharing-how-to-send-images-with-a-single-touch/"><u>[Updated] In 2024, Snapping, Sharing How To Send Images With a Single Touch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-outdoor-gadgets-for-making-road-trip-videos/"><u>2024 Approved Outdoor Gadgets for Making Road-Trip Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-spreadsheet-solutions-via-chatgpt-and-excel/"><u>AI-Powered Spreadsheet Solutions via ChatGPT & Excel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dvdmp4-movavi/"><u>DVD至MP4格式轉換完全指南 | Movavi節省時間的工具列表</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-ai-comparing-forefronts-prowess-with-chatgpt/"><u>Evaluating AI: Comparing Forefront's Prowess with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-auto-gpts-uniqueness-standing-out-from-chatgpts-tech/"><u>Exploring Auto-GPT’s Uniqueness - Standing Out From ChatGPT's Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-failure-to-detect-wd-my-passport-ultra-drive/"><u>How to Resolve Windows Failure to Detect WD My Passport Ultra Drive</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-face-forward-influential-beauty-guides/"><u>In 2024, The Face Forward Influential Beauty Guides</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-plugins-made-simple/"><u>Integrating ChatGPT Plugins Made Simple</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-security-intact-dont-use-chatbots-for-windows-unlocks/"><u>Keeping Security Intact: Don't Use Chatbots for Windows Unlocks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lead-the-conversation-five-vocal-commands-to-master-chatgpt/"><u>Lead the Conversation: Five Vocal Commands to Master ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-edge-insights-discover-6-uses-for-ais-code-maestro/"><u>Leading-Edge Insights - Discover 6 Uses for AI's Code Maestro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shielding-from-swindles-real-vs-fake-gpts/"><u>Shielding From Swindles: Real vs Fake GPTs</u></a></li>
 </ul></div>
 

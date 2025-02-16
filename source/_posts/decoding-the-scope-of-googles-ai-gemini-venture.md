@@ -1,7 +1,7 @@
 ---
 title: Decoding the Scope of Google's AI Gemini Venture
-date: 2024-08-25T17:32:17.943Z
-updated: 2024-08-26T17:32:17.943Z
+date: 2025-01-30T20:22:44.086Z
+updated: 2025-02-02T16:04:07.579Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ---
 
 ## Decoding the Scope of Google's AI Gemini Venture
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,79 +35,10 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 
  If you are intrigued by Google's Gemini project, here are a few things to familiarize yourself with.
 
-## What Is Google Gemini?
-
- ChatGPT has revolutionized the entire technology industry with its state-of-the-art capabilities and innate ability to play around with text manipulation. Despite ChatGPT's popularity, Google's latest [artificial intelligence](https://www.makeuseof.com/artificial-intelligence-ai-simple-terms/) project Gemini is here to give it a run for its money.
-
- But what is Google's Gemini project? This is what Google DeepMind's CEO, Demis Hassabis told [Wired](https://www.wired.com/story/google-deepmind-demis-hassabis-chatgpt/):
-
- At a high level, you can think of Gemini as combining some of the strengths of AlphaGo-type systems with the amazing language capabilities of the large models.
-
- Google's Gemini AI model is a [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) that works seamlessly with text. Its prowess resembles GPT-4, the LLM behind the ChatGPT app. In 2016, AlphaGo, an artificial intelligence program, defeated Go's (a board game) world champion.
-
- In April 2023, Google brought together Google Brain, its native deep learning artificial intelligence research unit, and AlphaGo's creators, DeepMind, to create Google DeepMind. Under Google DeepMind's tutelage, the entire conceptualization and development of Google Gemini is taking place.
-
- Google and DeepMind have tried to create a worthy competitor to the ChatGPT chatbot before, with [Google Bard competing with ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/). However, with the strong collaboration between the two, Google hopes to create Gemini to beat its competition finally.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-### Rationale Behind Google Gemini
 
- The rationale behind Gemini is simple. Google wants to enhance its functionalities for enterprise-based products, such as Google Docs and Slides, and power Google Bard to tackle the competition and make it more resource-friendly.
-
- Additionally, developers must pay Google to access the Gemini AI app via its Google Cloud server-rental division. This move will directly challenge Microsoft and its AI integrations within Office 365 products.
-
- Additionally, with Gemini potentially launching in the fall of 2023, there might even be advanced developments in the field of medical science, as medical [AI chatbots](https://www.makeuseof.com/what-are-ai-chatbots/) and robots could run on Gemini under the hood.
-
-## How Will Gemini Work? The Structure Explained
-
-![Artificial Intelligence Brain illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/artificial-intelligence-3382507_1920.jpg)
-
- Google has an extensive knowledge base and a rich, data-driven application base, which will be the primary training resource for the Gemini AI application. Add a deep, experience-driven understanding and a flourishing talent pool to this large language model (LLM) training list, and you already have a winner.
-
- Gemini is using a new architecture to merge a multimodal encoder and decoder. The former's job is to convert different data types into a common language, which the latter understands and acts upon. The decoder further generates outputs in various modalities, which is the winning point for the latest Google invention.
-
- You can expect novel outputs with Gemini since it is not dependent on its base data training only. The application will be able to evolve as it progresses without needing to rely on its original data training.
-
-## Gemini vs. ChatGPT: A Stiff Competition
-
-![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
-
- Will ChatGPT and Google's Gemini be at loggerheads once the latter rolls out? Well, Google does intend to snuff out its competition with the launch of its newest application.
-
- At the time of this writing, here's what's known about Gemini and how it fares with its existing competition, ChatGPT.
-
- GPT-4 is a large language model with between 1 trillion and 1.7 trillion parameters. It writes essays, translates languages, and quickly answers questions. But, [ChatGPT has limitations](https://www.makeuseof.com/things-chatgpt-cant-do/) to what it can and can't do.
-
- On the other hand, once released, Gemini will be a multimodal intelligence network capable enough to handle various tasks, data-driven requirements, images, audio, videos, 3D models, and even graphs. Since Gemini is a culmination of model networks, it can handle multiple requests simultaneously without limiting itself.
-
- Google Gemini's release date is still unknown at the time of writing. It might be available to the wider public between September and December 2023, per the rumors circulating its release.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
-## Will Google's Gemini AI Project Compete With OpenAI?
-
- Google Gemini and OpenAI will battle it out in the open market post Gemini's release later this year. While OpenAI's ChatGPT has garnered enough attention from its users, Gemini AI should come as a breath of fresh air with its new perspective on AI and enhanced capabilities.
-
- So, is Google Gemini a ChatGPT competitor? Only time will tell, as there is still much dependent on Gemini's release and its final list of capabilities.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- Google does not cease to amaze. This time, it's here to slay with the Gemini AI project. While Gemini AI is still in the works, there is hope and expectation on the way, considering this project intends to compete with OpenAI's ChatGPT app.
-
- Is Google Gemini a ChatGPT competitor? If the rumors are true, this enormous project will bring forth the best of Google's best minds.
-
- If you are intrigued by Google's Gemini project, here are a few things to familiarize yourself with.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Google Gemini?
 
  ChatGPT has revolutionized the entire technology industry with its state-of-the-art capabilities and innate ability to play around with text manipulation. Despite ChatGPT's popularity, Google's latest [artificial intelligence](https://www.makeuseof.com/artificial-intelligence-ai-simple-terms/) project Gemini is here to give it a run for its money.
@@ -126,6 +61,10 @@ The powerful video editing program for your Windows PC</a>
 
  Additionally, with Gemini potentially launching in the fall of 2023, there might even be advanced developments in the field of medical science, as medical [AI chatbots](https://www.makeuseof.com/what-are-ai-chatbots/) and robots could run on Gemini under the hood.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Will Gemini Work? The Structure Explained
 
 ![Artificial Intelligence Brain illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/artificial-intelligence-3382507_1920.jpg)
@@ -135,6 +74,10 @@ The powerful video editing program for your Windows PC</a>
  Gemini is using a new architecture to merge a multimodal encoder and decoder. The former's job is to convert different data types into a common language, which the latter understands and acts upon. The decoder further generates outputs in various modalities, which is the winning point for the latest Google invention.
 
  You can expect novel outputs with Gemini since it is not dependent on its base data training only. The application will be able to evolve as it progresses without needing to rely on its original data training.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Gemini vs. ChatGPT: A Stiff Competition
 
@@ -167,17 +110,9 @@ The powerful video editing program for your Windows PC</a>
  If you are intrigued by Google's Gemini project, here are a few things to familiarize yourself with.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Google Gemini?
 
  ChatGPT has revolutionized the entire technology industry with its state-of-the-art capabilities and innate ability to play around with text manipulation. Despite ChatGPT's popularity, Google's latest [artificial intelligence](https://www.makeuseof.com/artificial-intelligence-ai-simple-terms/) project Gemini is here to give it a run for its money.
@@ -200,38 +135,24 @@ The powerful video editing program for your Windows PC</a>
 
  Additionally, with Gemini potentially launching in the fall of 2023, there might even be advanced developments in the field of medical science, as medical [AI chatbots](https://www.makeuseof.com/what-are-ai-chatbots/) and robots could run on Gemini under the hood.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How Will Gemini Work? The Structure Explained
 
 ![Artificial Intelligence Brain illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/artificial-intelligence-3382507_1920.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Google has an extensive knowledge base and a rich, data-driven application base, which will be the primary training resource for the Gemini AI application. Add a deep, experience-driven understanding and a flourishing talent pool to this large language model (LLM) training list, and you already have a winner.
 
  Gemini is using a new architecture to merge a multimodal encoder and decoder. The former's job is to convert different data types into a common language, which the latter understands and acts upon. The decoder further generates outputs in various modalities, which is the winning point for the latest Google invention.
 
  You can expect novel outputs with Gemini since it is not dependent on its base data training only. The application will be able to evolve as it progresses without needing to rely on its original data training.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Gemini vs. ChatGPT: A Stiff Competition
 
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  Will ChatGPT and Google's Gemini be at loggerheads once the latter rolls out? Well, Google does intend to snuff out its competition with the launch of its newest application.
 
  At the time of this writing, here's what's known about Gemini and how it fares with its existing competition, ChatGPT.
@@ -243,8 +164,75 @@ The powerful video editing program for your Windows PC</a>
  Google Gemini's release date is still unknown at the time of writing. It might be available to the wider public between September and December 2023, per the rumors circulating its release.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Will Google's Gemini AI Project Compete With OpenAI?
+
+ Google Gemini and OpenAI will battle it out in the open market post Gemini's release later this year. While OpenAI's ChatGPT has garnered enough attention from its users, Gemini AI should come as a breath of fresh air with its new perspective on AI and enhanced capabilities.
+
+ So, is Google Gemini a ChatGPT competitor? Only time will tell, as there is still much dependent on Gemini's release and its final list of capabilities.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Google does not cease to amaze. This time, it's here to slay with the Gemini AI project. While Gemini AI is still in the works, there is hope and expectation on the way, considering this project intends to compete with OpenAI's ChatGPT app.
+
+ Is Google Gemini a ChatGPT competitor? If the rumors are true, this enormous project will bring forth the best of Google's best minds.
+
+ If you are intrigued by Google's Gemini project, here are a few things to familiarize yourself with.
+
+## What Is Google Gemini?
+
+ ChatGPT has revolutionized the entire technology industry with its state-of-the-art capabilities and innate ability to play around with text manipulation. Despite ChatGPT's popularity, Google's latest [artificial intelligence](https://www.makeuseof.com/artificial-intelligence-ai-simple-terms/) project Gemini is here to give it a run for its money.
+
+ But what is Google's Gemini project? This is what Google DeepMind's CEO, Demis Hassabis told [Wired](https://www.wired.com/story/google-deepmind-demis-hassabis-chatgpt/):
+
+ At a high level, you can think of Gemini as combining some of the strengths of AlphaGo-type systems with the amazing language capabilities of the large models.
+
+ Google's Gemini AI model is a [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) that works seamlessly with text. Its prowess resembles GPT-4, the LLM behind the ChatGPT app. In 2016, AlphaGo, an artificial intelligence program, defeated Go's (a board game) world champion.
+
+ In April 2023, Google brought together Google Brain, its native deep learning artificial intelligence research unit, and AlphaGo's creators, DeepMind, to create Google DeepMind. Under Google DeepMind's tutelage, the entire conceptualization and development of Google Gemini is taking place.
+
+ Google and DeepMind have tried to create a worthy competitor to the ChatGPT chatbot before, with [Google Bard competing with ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/). However, with the strong collaboration between the two, Google hopes to create Gemini to beat its competition finally.
+
+### Rationale Behind Google Gemini
+
+ The rationale behind Gemini is simple. Google wants to enhance its functionalities for enterprise-based products, such as Google Docs and Slides, and power Google Bard to tackle the competition and make it more resource-friendly.
+
+ Additionally, developers must pay Google to access the Gemini AI app via its Google Cloud server-rental division. This move will directly challenge Microsoft and its AI integrations within Office 365 products.
+
+ Additionally, with Gemini potentially launching in the fall of 2023, there might even be advanced developments in the field of medical science, as medical [AI chatbots](https://www.makeuseof.com/what-are-ai-chatbots/) and robots could run on Gemini under the hood.
+
+## How Will Gemini Work? The Structure Explained
+
+![Artificial Intelligence Brain illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/artificial-intelligence-3382507_1920.jpg)
+
+ Google has an extensive knowledge base and a rich, data-driven application base, which will be the primary training resource for the Gemini AI application. Add a deep, experience-driven understanding and a flourishing talent pool to this large language model (LLM) training list, and you already have a winner.
+
+ Gemini is using a new architecture to merge a multimodal encoder and decoder. The former's job is to convert different data types into a common language, which the latter understands and acts upon. The decoder further generates outputs in various modalities, which is the winning point for the latest Google invention.
+
+ You can expect novel outputs with Gemini since it is not dependent on its base data training only. The application will be able to evolve as it progresses without needing to rely on its original data training.
+
+## Gemini vs. ChatGPT: A Stiff Competition
+
+![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Will ChatGPT and Google's Gemini be at loggerheads once the latter rolls out? Well, Google does intend to snuff out its competition with the launch of its newest application.
+
+ At the time of this writing, here's what's known about Gemini and how it fares with its existing competition, ChatGPT.
+
+ GPT-4 is a large language model with between 1 trillion and 1.7 trillion parameters. It writes essays, translates languages, and quickly answers questions. But, [ChatGPT has limitations](https://www.makeuseof.com/things-chatgpt-cant-do/) to what it can and can't do.
+
+ On the other hand, once released, Gemini will be a multimodal intelligence network capable enough to handle various tasks, data-driven requirements, images, audio, videos, 3D models, and even graphs. Since Gemini is a culmination of model networks, it can handle multiple requests simultaneously without limiting itself.
+
+ Google Gemini's release date is still unknown at the time of writing. It might be available to the wider public between September and December 2023, per the rumors circulating its release.
+
 ## Will Google's Gemini AI Project Compete With OpenAI?
 
  Google Gemini and OpenAI will battle it out in the open market post Gemini's release later this year. While OpenAI's ChatGPT has garnered enough attention from its users, Gemini AI should come as a breath of fresh air with its new perspective on AI and enhanced capabilities.
@@ -276,8 +264,9 @@ The powerful video editing program for your Windows PC</a>
  Google and DeepMind have tried to create a worthy competitor to the ChatGPT chatbot before, with [Google Bard competing with ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/). However, with the strong collaboration between the two, Google hopes to create Gemini to beat its competition finally.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Rationale Behind Google Gemini
 
  The rationale behind Gemini is simple. Google wants to enhance its functionalities for enterprise-based products, such as Google Docs and Slides, and power Google Bard to tackle the competition and make it more resource-friendly.
@@ -286,16 +275,10 @@ The powerful video editing program for your Windows PC</a>
 
  Additionally, with Gemini potentially launching in the fall of 2023, there might even be advanced developments in the field of medical science, as medical [AI chatbots](https://www.makeuseof.com/what-are-ai-chatbots/) and robots could run on Gemini under the hood.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Will Gemini Work? The Structure Explained
 
 ![Artificial Intelligence Brain illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/artificial-intelligence-3382507_1920.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  Google has an extensive knowledge base and a rich, data-driven application base, which will be the primary training resource for the Gemini AI application. Add a deep, experience-driven understanding and a flourishing talent pool to this large language model (LLM) training list, and you already have a winner.
 
  Gemini is using a new architecture to merge a multimodal encoder and decoder. The former's job is to convert different data types into a common language, which the latter understands and acts upon. The decoder further generates outputs in various modalities, which is the winning point for the latest Google invention.
@@ -317,22 +300,20 @@ The powerful video editing program for your Windows PC</a>
  Google Gemini's release date is still unknown at the time of writing. It might be available to the wider public between September and December 2023, per the rumors circulating its release.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will Google's Gemini AI Project Compete With OpenAI?
 
  Google Gemini and OpenAI will battle it out in the open market post Gemini's release later this year. While OpenAI's ChatGPT has garnered enough attention from its users, Gemini AI should come as a breath of fresh air with its new perspective on AI and enhanced capabilities.
 
  So, is Google Gemini a ChatGPT competitor? Only time will tell, as there is still much dependent on Gemini's release and its final list of capabilities.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -341,4 +322,18 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-five-key-approaches-to-youtube-livestream-capture/"><u>[New] Five Key Approaches to Youtube Livestream Capture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/authenticity-and-authorship-why-writers-dont-rely-on-ais/"><u>Authenticity and Authorship: Why Writers Don't Rely on AIs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/captivating-your-network-streamlining-content-via-wirecast-to-facebook-for-2024/"><u>Captivating Your Network Streamlining Content via Wirecast to Facebook for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dji-innovation-in-aviation-mavic-pro-deep-dive/"><u>DJI Innovation in Aviation Mavic Pro Deep Dive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/game-changer-unleashed-exploring-the-impact-of-head-up-displays-in-biking-through-photochromic-technology-reviews/"><u>Game Changer Unleashed: Exploring the Impact of Head-Up Displays in Biking Through Photochromic Technology Reviews</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-yuva-2-lock-screen-password-by-drfone-android/"><u>How To Change Lava Yuva 2 Lock Screen Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-realme-narzo-60x-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Realme Narzo 60x 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-look-at-geekworm-x1011-a-revolutionary-approach-to-building-nas-systems/"><u>Inside Look at Geekworm X1011: A Revolutionary Approach to Building NAS Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-investing-in-advanced-apple-insights-worth-your-money-experts-say-it-could-be-under-20month-insights-from-zdnet/"><u>Is Investing in Advanced Apple Insights Worth Your Money? Experts Say It Could Be Under $20/Month - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-6-innovative-tactics-for-apple-to-surpass-tech-giants-in-the-upcoming-wwdc-showdown-analysis/"><u>The Top 6 Innovative Tactics for Apple to Surpass Tech Giants in the Upcoming WWDC Showdown Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-selecting-superior-ai-prompts-craftors/"><u>Unveiling the Future: Selecting Superior AI Prompts Craftors</u></a></li>
+</ul></div>
 

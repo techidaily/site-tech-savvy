@@ -1,7 +1,7 @@
 ---
 title: Navigating Pitfalls in Text Generation with ChatGPT
-date: 2025-01-27T16:28:14.609Z
-updated: 2025-02-01T11:19:00.426Z
+date: 2025-01-30T18:45:07.143Z
+updated: 2025-02-02T18:12:53.958Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Don't Overdepend on ChatGPT
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
  Remember that it's possible for ChatGPT to churn out outdated information. As ChatGPT itself says, its knowledge cutoff is only up to September 2021, so it's always good to double-check the information.
 
 ![ChatGPT reminds user to double check information it provides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-50.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  OpenAI CEO Sam Altman also mentions in an [ABC News video interview](http://www.youtube.com/watch?v=540vzMlf-54) that users should be more cautious about ChatGPT's "hallucinations problem." It can confidently state made-up ideas as if they were facts. A single incident like CNET's can damage your credibility as an authoritative source.
 
@@ -68,15 +64,15 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
 ![chatGPT giving a link to a nonexistent JSTOR academic journal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-47.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In another example, we gave ChatGPT a more specific topic to research on to see if it would come up with better results. This is the prompt we used: I am writing a literary research paper on "The Heroine in British Young Adult and Coming-of-Age Contemporary Novels." Can you give me a literature review on this topic?
 
  ChatGPT responded with a list of five works, complete with the author's names and summaries. However, we couldn't find any of the works it listed online.
 
 ![ChatGPT responding to request for a literature review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-49-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To better understand the information, we asked for links. This time, ChatGPT refused, saying it was only an AI language model without web browsing capabilities. However, it gave bibliographic information, which we couldn't verify online despite the works being supposedly written between 2004-2018\.
 
@@ -124,12 +120,16 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
 ![Conversation with ChatGPT asking to summarize a blog on Hackernoon by Eric Allen, which was uploaded in parts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-43.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This example was a learn-by-doing experiment on how to use ChatGPT to summarize long and technical articles effectively. However, you can now access many internet resources and [learn prompting techniques to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
 
  Using recommended prompts is not a fail-safe method against hallucinations, but it can help you deliver accurate results. You can also review the [best ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) for more information on prompting techniques.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Maximize ChatGPT Capabilities, but Be Mindful of Its Limits
@@ -157,17 +157,17 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-comprehensive-list-of-top-virtual-classrooms-not-inspired-by-udemy/"><u>[New] 2024 Approved A Comprehensive List of Top Virtual Classrooms Not Inspired by Udemy</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nnovative-youtube-channel-names-for-the-next-gen-vloggers-and-film-makers-keep-it-under-or-at-156-characters/"><u>[New] Innovative YouTube Channel Names for the Next Gen Vloggers and Film Makers (Keep It Under or at 156 Characters)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-from-concept-to-capture-the-breakdown-of-apeaks-recorder-software/"><u>[Updated] From Concept to Capture The Breakdown of Apeak's Recorder Software</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-trendsetters-guide-selecting-best-tools-to-craft-instagram-videos/"><u>[Updated] Trendsetters’ Guide Selecting Best Tools to Craft Instagram Videos</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guide-complet-comment-substituer-votre-hdd-par-un-ssd-samsung-850-evo-sous-windows/"><u>Guide Complet: Comment Substituer Votre HDD Par Un SSD Samsung 850 EVO Sous Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-granblue-fantasy-pc-game-from-unexpectedly-crashing-when-relinking/"><u>How to Stop Granblue Fantasy PC Game From Unexpectedly Crashing When Relinking</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-systems-academic-research-revolution/"><u>Intelligent Systems: Academic Research Revolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interview-success-integrating-chatgpt-wisdom/"><u>Interview Success: Integrating ChatGPT Wisdom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgtp-exposed-to-privacy-threats/"><u>Is ChatGTP Exposed to Privacy Threats?</u></a></li>
-<li><a href="https://techidaily.com/sign-uot-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .uot file Documents Online for Free</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-review-unpacking-the-features-and-performance-of-ecoflow-river-n3-a-must-have-for-beginners/"><u>Top Review: Unpacking the Features and Performance of EcoFlow River N3 - A Must-Have for Beginners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-stylus-tablets-comprehensive-reviews-from-tech-experts-zdnet/"><u>Top-Rated Stylus Tablets : Comprehensive Reviews From Tech Experts | ZDNet</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-quick-tips-sending-tweets-content-via-whatsapp-app/"><u>[New] In 2024, Quick Tips Sending Tweets' Content via WhatsApp App</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-tonal-triumphs-the-art-of-hue-enhancement/"><u>[New] Tonal Triumphs The Art of Hue Enhancement</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-steady-yourself-against-oculus-nausea/"><u>[Updated] Steady Yourself Against Oculus Nausea</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/18-next-level-sales-management-applications-beyond-gpts-realm/"><u>18 Next-Level Sales Management Applications Beyond GPT's Realm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/26-cutting-edge-solutions-to-replace-chatgpts-pos-software/"><u>26 Cutting-Edge Solutions to Replace ChatGPT's POS Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-peek-into-hugging-faces-workings-and-uses/"><u>A Peek Into Hugging Face’s Workings and Uses</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descubra-o-melhor-desenvolvador-de-imagens-para-seu-mac-apresentando-a-maior-qualidade-do-vivaphoto-master-edition/"><u>Descubra O Melhor Desenvolvador De Imagens Para Seu MAc: Apresentando a Maior Qualidade Do VivaPhoto Master Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unveiling-google-meets-screen-alteration-techniques/"><u>In 2024, Unveiling Google Meet's Screen Alteration Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-chrono-translocation-techniques/"><u>Mastering Chrono-Translocation Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721373940749-seamless-ai-powered-bing-search-across-ios-and-android/"><u>Seamless AI-Powered Bing Search Across iOS and Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-and-updating-sata-drivers-on-your-windows-pc/"><u>Step-by-Step Guide: Installing and Updating SATA Drivers on Your Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721424969962-twitters-without-symbols-linuss-exposed-content-trojans-demystified-and-gpt-errors-spotlighted/"><u>Twitters Without Symbols, Linus’s Exposed Content, Trojans Demystified, & GPT Errors Spotlighted.</u></a></li>
 </ul></div>
 

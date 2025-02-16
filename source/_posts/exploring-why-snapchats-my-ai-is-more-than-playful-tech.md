@@ -1,7 +1,7 @@
 ---
 title: Exploring Why Snapchat’s My AI Is More Than Playful Tech
-date: 2025-01-28T10:23:07.909Z
-updated: 2025-02-01T06:26:31.797Z
+date: 2025-01-31T21:11:22.200Z
+updated: 2025-02-02T23:17:57.836Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Snapchat uses the same [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
 
  Snapchat’s trainers also use the same datasets. You’ll notice that My AI knows the same things as ChatGPT does, especially with general knowledge questions.
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Conversations Retain the Last 3,000 Words
 
@@ -70,15 +70,19 @@ Close
 
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
 
@@ -86,18 +90,18 @@ Close
 
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
-![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
 Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to > **Settings** \> **Privacy Controls** \> **My Location**. Toggle the Ghost Mode button to hide your location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. My AI Solves Intermediate Word Problems Correctly
@@ -107,10 +111,6 @@ Close
  While Bard AI and Bing Chat use more advanced LLMs than Snapchat, My AI surprisingly does well in Math.
 
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
@@ -127,7 +127,7 @@ Close
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try Snapchat’s New AI Assistant
@@ -155,19 +155,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-leading-12-screen-recorders-no-time-limit/"><u>[Updated] In 2024, Leading 12 Screen Recorders, No Time Limit</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-novel-nooks-in-mc-the-simplest-house-designs-for-2024/"><u>[Updated] Novel Nooks in MC The Simplest House Designs for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-xiaomi-redmi-note-12-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Xiaomi Redmi Note 12 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/downloading-and-setting-up-llama-2-locally-explained/"><u>Downloading and Setting up Llama 2 Locally Explained</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enabling-inactive-cameras-on-asus-laptops/"><u>Enabling Inactive Cameras on Asus Laptops</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhance-your-online-presence-using-manycams-real-time-recording-and-broadcast-tools/"><u>Enhance Your Online Presence Using ManyCam's Real-Time Recording and Broadcast Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-ready-for-the-upgrade-your-ultimate-guide-to-downloading-ios-18-on-supported-iphones-exclusive-info-from-zdnet/"><u>Get Ready for the Upgrade! Your Ultimate Guide to Downloading IOS 18 on Supported iPhones - Exclusive Info From ZDNET</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-lava-blaze-2-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Lava Blaze 2 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-trigger-camera-notifications-in-win11/"><u>Techniques to Trigger Camera Notifications in Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-resource-on-chatgpt-use/"><u>The Ultimate Resource on ChatGPT Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-idevices-currently-best-avoided-expert-tips/"><u>Top 4 iDevices Currently Best Avoided: Expert Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-iphone-discounts-and-promotions-in-july-2024-explore-the-latest-offers/"><u>Top iPhone Discounts & Promotions in July 2024 - Explore the Latest Offers!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-gaming-bliss-with-top-chatgpt-games-of-the-year/"><u>Unlock Gaming Bliss with Top ChatGPT Games of the Year</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[Updated] In 2024, From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-guide-to-personalizing-your-whatsapp-ringtone-iphonesandroids-included-for-2024/"><u>[Updated] The Ultimate Guide to Personalizing Your WhatsApp Ringtone - iPhones/Androids Included for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-tech-secure-data-with-chatgpt-tips/"><u>Affordable Tech, Secure Data with ChatGPT Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breakdown-of-hugging-faces-utility-in-ai-technologies/"><u>Breakdown of Hugging Face's Utility in AI Technologies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-insights-googles-palm-2-and-openais-gpt-4/"><u>Comparative Insights: Google's PaLM 2 & OpenAI's GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dominate-your-digital-queries-with-perplexity-ai/"><u>Dominate Your Digital Queries with Perplexity AI</u></a></li>
+<li><a href="https://win11.techidaily.com/elite-selection-optimal-windows-options-for-switch-gaming/"><u>Elite Selection: Optimal Windows Options for Switch Gaming</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-2023-strategy-for-twitter-snaps-via-snapchat-uploads/"><u>In 2024, 2023 Strategy for Twitter Snaps via Snapchat Uploads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-face-off-choosing-between-the-m1-and-m2-models-expert-insights-techguide/"><u>IPad Pro Face-Off: Choosing Between the M1 and M2 Models - Expert Insights | TechGuide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/minimize-flaws-4-key-avoidances-when-using-chatgpt/"><u>Minimize Flaws: 4 Key Avoidances When Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-using-chatgpt-for-your-youtube-video-drafts/"><u>Step by Step: Using ChatGPT for Your YouTube Video Drafts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncovering-solutions-troubleshooting-missing-youtube-comments-effectively/"><u>Uncovering Solutions: Troubleshooting Missing YouTube Comments Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-the-power-of-ai-how-to-make-chatgpt-an-ideal-dungeon-master-companion/"><u>Unleashing the Power of AI: How to Make ChatGPT an Ideal Dungeon Master Companion</u></a></li>
 </ul></div>
 

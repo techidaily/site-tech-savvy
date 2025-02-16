@@ -1,7 +1,7 @@
 ---
 title: Tailored Training Strategies with AI Innovation
-date: 2025-01-30T04:36:29.576Z
-updated: 2025-02-01T00:53:54.822Z
+date: 2025-01-29T17:59:32.802Z
+updated: 2025-02-02T16:21:14.534Z
 tags:
   - chatgpt
   - open-ai
@@ -36,11 +36,11 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 
 ![Workout plan prompt for 25-year-old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/workout-plan-prompt-for-25-year-old.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Simply inputting the client’s goals and current fitness levels while you ask ChatGPT to create the workout plan is a good starting point. After doing this, you can use other prompts and measures to create a more comprehensive workout plan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Include Preferences
 
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
  You can also feed the AI information about other forms of exercise your client wants to engage in, apart from the one predominant in the plan. For instance, the client may be an avid golfer who golfs multiple times a week, even as they're trying to gain muscle mass at the gym.
 
  By considering all these factors, you can create prompts to guide ChatGPT in creating a more personalized workout schedule.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use a Long Prompt
 
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 ![Madi's workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/madi-s-workout-plan-by-chat-gpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Long prompts are great if you have many clients across a wide range of fitness specialties and goals. They save you time because you just have to gather all the client’s special information and feed them to ChatGPT in well-formed sentences. Not providing context is one of the [ChatGPT prompt mistakes](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) that long prompts can help you avoid.
@@ -86,23 +82,31 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 
  From time to time, you have to revisit the plan and make changes to accommodate your client’s growth. Based on what you have noticed from your client’s reports on how they feel during and after training or from watching them train, you can instruct ChatGPT to modify the workout plan it has created.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Increase Workout Intensity
 
  If your client is getting used to the current intensity of workouts, you can copy and paste the previous workout plan back into ChatGPT and ask the AI to create a more intense version. Then, you’ll get a whole new workout with ChatGPT, either adding more reps and sets to the exercises or creating more difficult alternatives.
 
 ![Intensified workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intensified-workout-plan-by-chat-gpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For example, ChatGPT has modified the 25-year-old man’s home workout plan to make it more intense. From the image below, you’ll see that it has replaced normal push-ups with plyometric push-ups. And instead of planks, it has prescribed planks with shoulder taps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Add Other Forms of Training
 
  With changes in muscle endurance and general lifestyle over time, your client may need to engage in other training and exercise forms. For example, if they now have access to gym equipment but only once a week because of their busy schedule, you can modify a home workout plan to include one gym day per week.
 
 ![Chat GPT including a gym day to a home workout plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chat-gpt-including-a-gym-day-to-a-home-workout-plan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, you can ask ChatGPT to add cardio, conditioning, CrossFit, or mobility exercises to a workout plan for an all-encompassing approach to fitness, depending on your client’s current needs and preferences.
 
@@ -111,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
  To avoid monotony and keep your client’s motivation high, you can also instruct ChatGPT to vary exercises. While this is similar to increasing exercise intensity, it is completely different because it only involves creating alternatives, not making the exercises more difficult.
 
  You can use this initiative for periods when your client is losing consistency, as it adds some spice, making their workouts more interesting. ChatGPT has many workout and exercise suggestions, so you can continue experimenting until you find something you like.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Remember to Allow Your Expertise to Shine
 
@@ -141,18 +141,24 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-implementing-youtubes-custom-markup-guide/"><u>[New] In 2024, Implementing YouTube's Custom Markup Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-combo-crusade-sharing-vids-on-twitter-and-tumblr/"><u>[New] In 2024, The Combo Crusade Sharing Vids on Twitter and Tumblr</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-engagement-analyzing-chatgpt-plus-strengths-and-weaknesses/"><u>Elevating Engagement: Analyzing ChatGPT Plus Strengths and Weaknesses</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-find-n3-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo Find N3 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-honor-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Honor Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/pioneering-portable-vrs-google-cardboard-versus-samsungs-tech-for-2024/"><u>Pioneering Portable VRs Google Cardboard Versus Samsung's Tech for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smarter-editing-7-ai-tools-for-authors-and-editorialists/"><u>Smarter Editing: 7 AI Tools for Authors and Editorialists</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/step-by-step-instructions-for-leveraging-preview-as-your-powerful-inbuilt-photo-editor-on-mac/"><u>Step-by-Step Instructions for Leveraging Preview as Your Powerful, Inbuilt Photo Editor on Mac</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-epitome-of-luxury-in-mobile-tech-an-in-depth-review-of-the-iphone-xs-max/"><u>The Epitome of Luxury in Mobile Tech - An In-Depth Review of the iPhone XS Max</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-pivotal-role-of-eus-artificial-intelligence-law-on-ai-applications-like-chatgpt/"><u>The Pivotal Role of EU's Artificial Intelligence Law on AI Applications Like ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-vpn-apps-for-ios-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Rated VPN Apps for iOS: Comprehensive Testing & Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-you-should-consider-the-new-ipad-air-unveiling-four-strong-arguments-for-your-next-tech-purchase-zdnet/"><u>Why You Should Consider the New iPad Air - Unveiling Four Strong Arguments for Your Next Tech Purchase | ZDNET</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-get-ahead-with-these-must-know-pixlr-techniques-for-2024/"><u>[New] Get Ahead with These Must-Know Pixlr Techniques for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-the-best-video-footage-with-gopro/"><u>[New] Unleashing the Best Video Footage with GoPro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-in-depth-look-at-videorecorderpros-features-and-review/"><u>[Updated] In 2024, In-Depth Look at VideoRecorderPro's Features & Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-journey-through-the-top-10-sites-offering-an-array-of-impressive-3d-texts-for-2024/"><u>[Updated] Journey Through The Top 10 Sites Offering an Array of Impressive 3D Texts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-best-chatgpt-extensions-for-vs-code/"><u>6 Best ChatGPT Extensions for VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-compelling-arguments-why-professionals-should-embrace-chatgpt/"><u>6 Compelling Arguments: Why Professionals Should Embrace ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ways-content-writers-can-outperform-ai-writing-tools/"><u>6 Ways Content Writers Can Outperform AI Writing Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-enhanced-gpt-tools-for-health-and-hygiene/"><u>7 Enhanced GPT Tools for Health & Hygiene</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-ways-to-use-chatgpt-for-your-business/"><u>8 Ways to Use ChatGPT for Your Business</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721435679680-cleared-twitter-of-checkmarks-linuss-revelations-trojan-analysis-and-ai-shortcom-writes/"><u>Cleared Twitter of Checkmarks, Linus’s Revelations, Trojan Analysis, & AI Shortcom Writes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-secure-customized-workout-routines-by-chatgpt/"><u>Crafting Secure, Customized Workout Routines by ChatGPT</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/engage-followers-effective-strategies-for-fb-slideshows/"><u>Engage Followers Effective Strategies for FB Slideshows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-frames-innovative-techniques-for-backward-viewing-on-yt/"><u>Flipping Frames Innovative Techniques for Backward Viewing on YT</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/get-every-moment-of-fb-lives-top-5-video-capture-apps-for-2024/"><u>Get Every Moment of Fb Lives Top 5 Video Capture Apps for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721402584696-gpt-4-universally-accessible-6-reasons-to-persist-with-platinum-plan/"><u>GPT-4 Universally Accessible; 6 Reasons to Persist with Platinum Plan.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-xcover-7-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy XCover 7 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-technique-of-merging-columns-in-ms-excel-with-these-simple-tips/"><u>Master the Technique of Merging Columns in MS Excel with These Simple Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-microphone-problems-with-these-handy-tips/"><u>Overcome iPhone Microphone Problems with These Handy Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721426226662-overcoming-gpts-text-limit-tips-and-tricks/"><u>Overcoming GPT's Text Limit – Tips & Tricks</u></a></li>
 </ul></div>
 

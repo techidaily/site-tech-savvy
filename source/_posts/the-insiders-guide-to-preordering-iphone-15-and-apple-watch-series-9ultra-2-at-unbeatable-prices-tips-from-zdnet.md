@@ -1,7 +1,7 @@
 ---
 title: The Insider's Guide to Preordering iPhone 15 and Apple Watch Series 9/Ultra 2 at Unbeatable Prices – Tips From ZDNET
-date: 2025-01-26T07:12:48.159Z
-updated: 2025-02-01T01:29:20.849Z
+date: 2025-01-28T23:19:26.683Z
+updated: 2025-02-02T22:37:33.670Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ The Apple Watch Series 10 starts at $399 for GPS and $499 for cellular. It comes
 This [Best Buy deal](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series-10-gps-42mm-aluminum-case-with-black-sport-band-s-m-jet-black%2F6572678.p%3FskuId%3D6572678&publisher_slug=itechdaily19598&exclusive=1) only applies to the aluminum Apple Watch Series 10\. (You can also find [deals on the new iPhone 16](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,18 +71,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-masterful-approach-to-creating-attractive-yt-summaries/"><u>[Updated] In 2024, Masterful Approach to Creating Attractive YT Summaries</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-90-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-regulation-the-responsible-route/"><u>AI Regulation: The Responsible Route</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-forward-the-innovative-approaches-that-may-enable-apple-to-surpass-openai-microsoft-and-google-at-wwdc-2024-insight/"><u>Future Forward: The Innovative Approaches That May Enable Apple to Surpass OpenAI, Microsoft and Google at WWDC 2024 Insight</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/google-worker-reveals-preference-finding-happiness-in-macbooks-not-windows-laptops-an-in-depth-look-by-zdnet/"><u>Google Worker Reveals Preference: Finding Happiness in MacBooks, Not Windows Laptops – An In-Depth Look by ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-multilingualism-chatgpt-as-your-translation-companion/"><u>Navigating Multilingualism: ChatGPT as Your Translation Companion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/real-time-gpt-4-use-for-enhanced-chatgpt-experience/"><u>Real-Time GPT-4 Use for Enhanced ChatGPT Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/scholars-secret-navigating-how-to-secure-a-tidal-student-offer/"><u>Scholar's Secret: Navigating How to Secure a Tidal Student Offer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-your-new-ipad-9th-generation-at-a-steal-only-250-post-apple-launch-discover-more/"><u>Secure Your New iPad (9Th Generation) at a Steal: Only $250 Post-Apple Launch! Discover More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-clear-out-clutter-with-one-simple-email-strategy-no-multi-account-setup-required/"><u>Simplify Your Inbox: Clear Out Clutter with One Simple Email Strategy – No Multi-Account Setup Required!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-power-of-ai-transparency-via-openais-shap-e/"><u>The Power of AI Transparency via OpenAI's SHAP E</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-civ-5-freezes-on-computer/"><u>Troubleshooting Civ 5 Freezes on Computer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-google-meet-recording-on-iphonesandroids-for-2024/"><u>[New] Mastering Google Meet Recording on iPhones/Androids for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-recording-setup-gamers-guide-to-flawless-footage-for-2024/"><u>[Updated] Advanced Recording Setup Gamers' Guide to Flawless Footage for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-your-ultimate-guide-to-top-9-platforms-for-2024/"><u>[Updated] Your Ultimate Guide to Top 9 Platforms for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategizing-the-open-door-to-market-success/"><u>2024 Approved Strategizing the Open Door to Market Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engage-with-intelligence-key-new-features-of-chatgpt-unveiled/"><u>Engage with Intelligence: Key New Features of ChatGPT Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-video-storytelling-with-chatgpt-driven-script-writing/"><u>Enhance Video Storytelling with ChatGPT-Driven Script Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exiting-the-chatgpt-realm-top-alternatives/"><u>Exiting the ChatGPT Realm: Top Alternatives</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-handling-the-cant-find-dciman32dll-problem/"><u>Expert Advice on Handling the 'Can't Find' dciman32.dll Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-weak-points-demystifying-the-mechanism-behind-prompt-injection-attacks/"><u>Exploring AI Weak Points: Demystifying the Mechanism Behind Prompt Injection Attacks</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c22-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-obs-and-streamlabs-battle-who-will-triumph-in-live-broadcasts/"><u>In 2024, OBS and Streamlabs Battle Who Will Triumph in Live Broadcasts?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-techniques-7-proven-ai-tools/"><u>Masterful Techniques: 7 Proven AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-macs-efficiency-introducing-microsoft-copilot/"><u>Maximize Your Mac's Efficiency: Introducing Microsoft Copilot</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-poco-x5-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Poco X5 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-speeches-with-these-7-ai-innovators/"><u>Streamlining Speeches with These 7 AI Innovators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sync-and-share-your-icloud-pictures-anywhere-ios-windows-or-android-tutorials/"><u>Sync and Share Your iCloud Pictures Anywhere: IOS, Windows, or Android Tutorials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-developers-journey-with-ai/"><u>The Developer’s Journey With AI</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-7-list-cost-free-windows-media-centers/"><u>Ultimate 7 List: Cost-Free Windows Media Centers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ais-involvement-in-cyber-threats/"><u>Understanding AI's Involvement in Cyber Threats</u></a></li>
 </ul></div>
 

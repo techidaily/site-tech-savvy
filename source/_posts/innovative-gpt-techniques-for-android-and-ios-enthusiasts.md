@@ -1,7 +1,7 @@
 ---
 title: Innovative GPT Techniques for Android & iOS Enthusiasts
-date: 2025-01-31T00:19:20.001Z
-updated: 2025-01-31T17:13:57.575Z
+date: 2025-01-30T23:16:08.415Z
+updated: 2025-02-02T17:19:22.311Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using OpenAI's Official ChatGPT App
 
  ChatGPT is available for iOS and Android. Here's how you can use it:
@@ -39,27 +43,19 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 ![ChatGPT in App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-in-app-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
-![ChatGPT demo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-demo.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ChatGPT demo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-demo.jpg)
 
 Close
 
  Now you can start using ChatGPT as you would on your computer. If you cannot download the app because it's unavailable in your area, you can try using ChatGPT through the web browser method or download the third-party apps listed below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Using ChatGPT Through a Smartphone Web Browser
 
@@ -71,6 +67,10 @@ Close
 
 ![ChatGPT signup page iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-signup-page-ios.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT final disclaimer screen iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-final-disclaimer-screen-ios.jpg)
 
 ![ChatGPT conversation screen iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-conversation-screen-iphone.jpg)
@@ -78,10 +78,6 @@ Close
 Close
 
  Like the desktop version, you can access previous conversations, [upgrade to ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), or even enable dark mode. You can access these settings by tapping the **menu icon** in the top-left corner of your screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Using ChatGPT Through Siri Shortcuts
 
@@ -101,21 +97,21 @@ Close
 
 ![SiriGPT Shortcuts app iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-shortcuts-app-ios.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![SiriGPT insert API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-insert-api-key.jpg)
 
 ![SiriGPT prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-prompt-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  That's certainly a lot of work, and whether it's worth it depends on how much you use the shortcut. At its worst, it's a neat party trick, but at its best, you have the power of GPT in your hands, now with the voice of Siri powering it. Again, this is not the most convenient way of accessing ChatGPT, but it's surprising how well it works when it does.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Third-Party ChatGPT Apps for Android and iOS
 
@@ -126,16 +122,16 @@ Close
 ![Perplexity AI app sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-sources.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Perplexity AI app thread](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-thread-1.jpg)
 
-![perlexity-ai-invitation-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perlexity-ai-invitation-screen.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![perlexity-ai-invitation-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perlexity-ai-invitation-screen.jpg)
 
 Close
 
@@ -158,6 +154,10 @@ Close
  Amid all the excitement with AI, staying on your toes is important. You can easily fall victim to apps that steal your data, charge you for no reason, or annoy you with a constant barrage of ads.
 
  Your best bet is to go with the official app or use the web version in the absence of it. But, then, the Siri Shortcuts method is great, too. Furthermore, if you need a third-party ChatGPT app, stick with our recommendations. However, if you want the best experience, stick to the official ChatGPT website or the official ChatGPT app, or try Microsoft's Bing AI Chat.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Power of AI in the Palm of Your Hands
 
@@ -182,21 +182,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unexpected-vertical-tilt-in-instagram-vids-why/"><u>[New] In 2024, Unexpected Vertical Tilt in Instagram Vids? Why?</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/accidental-save-mishap-how-to-undo-an-unintentional-overwrite-on-your-word-file/"><u>Accidental Save Mishap: How to Undo an Unintentional Overwrite on Your Word File</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assisted-podcast-storytelling-experiment/"><u>AI Assisted Podcast Storytelling Experiment</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/como-convertir-su-disco-de-arranque-del-sistema-mbr-al-formato-de-tabla-de-particion-guid-gpt-en-windows-11/"><u>Cómo Convertir Su Disco De Arranque Del Sistema (MBR) Al Formato De Tabla De Partición GUID (GPT) en Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-the-amazfit-bip-the-ultimate-starter-gadget-for-modern-watch-lovers-reviewed/"><u>Discovering the Amazfit BIP: The Ultimate Starter Gadget for Modern Watch Lovers Reviewed</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-tecno-spark-10-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Spark 10 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-on-choosing-top-9-webcam-enhancement-tools-for-2024/"><u>Expert Tips on Choosing Top 9 Webcam Enhancement Tools for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-ready-for-fresh-audio-innovations-latest-speculation-on-imminent-airpods-lite-and-airpods-max-debut-apple-insights-zdnet/"><u>Get Ready for Fresh Audio Innovations: Latest Speculation on Imminent AirPods Lite and AirPods Max Debut | Apple Insights - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guidelines-for-the-best-ai-chatbot-subscription-experience/"><u>Guidelines for the Best AI Chatbot Subscription Experience</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-v30-lite-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo V30 Lite 5G Devices</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/how-to-create-a-hyper-v-emulated-floppy-disk-image-a-step-by-step-guide/"><u>How to Create a Hyper-V Emulated Floppy Disk Image: A Step-by-Step Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-13-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone 13 Smoothly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mac-professionals-choice-unpacking-the-apple-studio-display-a-stylish-yet-costly-option-for-creatives-at-27-inches-5k-resolution-an-expert-review-techadviso141/"><u>Mac Professional's Choice? Unpacking the Apple Studio Display – A Stylish Yet Costly Option for Creatives at 27 Inches, 5K Resolution: An Expert Review | TechAdvisor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-easy-your-guide-to-agentdeployment-on-agentgpt/"><u>Quick and Easy: Your Guide to AgentDeployment on AgentGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-apple-m3-macbook-air-an-in-depth-review-of-the-cutting-edge-ai-computer-for-everyday-use-tech-analysis-by-zdnet/"><u>The New Apple M3 MacBook Air: An In-Depth Review of the Cutting-Edge AI Computer for Everyday Use | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visionarys-voice-elons-gpt-confession/"><u>Visionary's Voice: Elon's GPT Confession</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>[New] 2024 Approved Premier Platforms Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-comprehending-the-basics-of-whatsapp-calls/"><u>[Updated] 2024 Approved Comprehending the Basics of WhatsApp Calls</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlock-zooms-full-power-with-share-screen-expertise/"><u>[Updated] 2024 Approved Unlock Zoom’s Full Power with Share Screen Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-apps-and-extensions-to-export-and-share-your-chatgpt-history/"><u>4 Apps and Extensions to Export and Share Your ChatGPT History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-ai-prompting-tips-and-tricks-that-actually-work/"><u>7 AI Prompting Tips and Tricks That Actually Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-emerging-technologies-outclassing-gpt-apps-on-smartphones/"><u>7 Emerging Technologies Outclassing GPT Apps on Smartphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-questions-and-requests-chatgpt-cannot-answer-or-process/"><u>7 Questions and Requests ChatGPT Cannot Answer or Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-next-level-ai-companions-for-your-smartphone-beyond-chatgpt/"><u>8 Next-Level AI Companions for Your Smartphone Beyond ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/academic-dedication-rejecting-unfair-help-from-ai/"><u>Academic Dedication: Rejecting Unfair Help From AI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-premium-youtube-videos-in-stunning-hd4k-quality-for-free-on-your-mac/"><u>Download Premium Youtube Videos in Stunning HD/4k Quality for Free on Your Mac</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/essential-insights-on-email-harvesting-a-deep-dive-with-massmail-tools/"><u>Essential Insights on Email Harvesting: A Deep Dive with MassMail Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-asus-rog-phone-8-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Asus ROG Phone 8? Fixed | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-s18e-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo S18e Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-best-of-both-worlds-exceptional-color-accuracy-and-high-performance-flexibility-with-the-asus-rog-strix-xg2n7acs-monitor/"><u>The Best of Both Worlds: Exceptional Color Accuracy and High-Performance Flexibility with the Asus ROG Strix XG2n7ACS Monitor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721437615697-the-evolution-of-internet-search-ai-enhanced-bing/"><u>The Evolution of Internet Search: AI-Enhanced Bing.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429142152-transform-challenges-into-cash-with-openais-bug-bounty-initiative/"><u>Transform Challenges Into Cash with OpenAI's Bug Bounty Initiative!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-a34-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy A34 5G Phones</u></a></li>
 </ul></div>
 

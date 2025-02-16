@@ -1,7 +1,7 @@
 ---
 title: Gather Your Wits Before Listening to Bot-Provided Cures
-date: 2025-01-28T12:08:50.512Z
-updated: 2025-02-01T00:14:34.924Z
+date: 2025-01-28T18:32:29.755Z
+updated: 2025-02-02T23:54:49.997Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT does not know everything. According to OpenAI, ChatGPT has limited knowledge, particularly when it comes to what happened after September 2021\.
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
  Therefore, it cannot get current news on developments in medical fields. Yes, ChatGPT is unaware of the pig-to-human heart transplant or any other very recent breakthroughs in medical science.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. ChatGPT May Produce Incorrect Information
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A recent study by the [University of Maryland School of Medicine](https://www.medschool.umaryland.edu/news/2023/UM-School-of-Medicine-Study-Finds-ChatGPT-Helpful-for-Breast-Cancer-Screening-Advice-With-Certain-Caveats-.html) on ChatGPT's advice for breast cancer screening found the following results:
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. ChatGPT Is Just an AI Language Model
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Not a Replacement for Your Doctor
@@ -117,16 +117,22 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-4-pcmac-full-screen-recorders-ultimate-guide/"><u>[Updated] Top 4 PC/Mac Full-Screen Recorders Ultimate Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-on-a-new-ipad-pro-compare-features-and-performance-for-your-perfect-pick-macworld/"><u>Deciding on a New iPad Pro? Compare Features and Performance for Your Perfect Pick | MacWorld</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-update-your-dell-g15-gpu-drivers-in-windows-pcs/"><u>How to Update Your Dell G15 GPU Drivers in Windows PCs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/macxdvd-application-terms-of-use-and-data-protection-guidelines/"><u>MacXDVD Application Terms of Use & Data Protection Guidelines</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-iphone-gps-functionality-addressing-location-unavailable-error/"><u>Restoring iPhone GPS Functionality: Addressing 'Location Unavailable' Error</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-connection-tips-for-linking-up-airpods-with-quest-3-headphones-without-disturbing-others-zdnet/"><u>Seamless Connection: Tips for Linking Up AirPods with Quest 3 Headphones Without Disturbing Others | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergizing-education-with-ai-innovations/"><u>Synergizing Education with AI Innovations</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-legacy-of-memories-scanning-and-storing-vintage-photographs/"><u>The Legacy of Memories Scanning and Storing Vintage Photographs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secret-pathway-to-a-complimentary-macbook-air-13in-m3-from-best-buy-exclusive-guide-unveiled/"><u>Unlocking the Secret Pathway to a Complimentary MacBook Air 13in M3 From Best Buy: Exclusive Guide Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-optimizing-ps4-games-for-live-capture-in-obs/"><u>[New] 2024 Approved Optimizing PS4 Games for Live Capture in OBS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-flipping-photo-hues-a-step-by-step-guide/"><u>[New] Flipping Photo Hues A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone/"><u>[New] Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-twitter-media-transfer-to-whatsapp/"><u>[Updated] Direct Twitter Media Transfer to WhatsApp</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/affordable-mobiles-expensive-cyber-threats-battling-ransomware-join-the-chatgpt-podcast-conversation/"><u>Affordable Mobiles, Expensive Cyber Threats: Battling Ransomware - Join the ChatGPT Podcast Conversation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-enhanced-ai-tools-justified-by-costs-incurred/"><u>Are Enhanced AI Tools Justified by Costs Incurred?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-abodes-productivity-with-chatgpt-techniques/"><u>Elevate Your Abode's Productivity with ChatGPT Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-bypassing-influencers-establishing-your-brand-identity-on-tiktok/"><u>In 2024, Bypassing Influencers Establishing Your Brand Identity on TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-budget-no-barrier-to-adventure-find-your-plan-with-these-7-free-apps/"><u>No Budget, No Barrier to Adventure – Find Your Plan with These 7 Free Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/restoring-full-chatgpt-functionality-fixing-key-obstacles/"><u>Restoring Full ChatGPT Functionality: Fixing Key Obstacles</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-realme-c67-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Realme C67 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sparkling-ai-chat-mastering-chatgpts-10-enhancements/"><u>Sparkling AI Chat: Mastering ChatGPT's 10 Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-chrome-productivity-boosts-with-cutting-edge-ai-technology/"><u>Top 8 Chrome Productivity Boosts with Cutting-Edge AI Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-f5-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco F5 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-dall-es-potential-with-png-and-jpg-conversions/"><u>Unlocking DALL-E's Potential with PNG and JPG Conversions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verse-vendetta-the-ultimate-showdown-humans-chatgpt-and-sheep-like-alpacas/"><u>Verse Vendetta - The Ultimate Showdown: Humans, ChatGPT & Sheep-Like Alpacas</u></a></li>
 </ul></div>
 

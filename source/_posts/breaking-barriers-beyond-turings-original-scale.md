@@ -1,7 +1,7 @@
 ---
 title: "Breaking Barriers: Beyond Turing's Original Scale"
-date: 2025-01-29T19:59:43.276Z
-updated: 2025-01-31T20:20:29.640Z
+date: 2025-01-29T22:54:33.049Z
+updated: 2025-02-02T19:30:03.674Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
 
@@ -63,16 +63,12 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
@@ -86,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google's LaMBDA
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore, [Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/). This is currently available to users in the UK and the United States.
@@ -107,15 +107,15 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -144,19 +144,24 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-full-apps-deep-dive-with-az-video-logger-pro/"><u>2024 Approved Full-Apps Deep Dive with AZ Video Logger Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-in-play-crafting-next-gen-virtual-experiences/"><u>AI in Play: Crafting Next-Gen Virtual Experiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-technological-tide-with-creative-tradition/"><u>Balancing Technological Tide with Creative Tradition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-alert-6-cyber-threats-to-consider/"><u>ChatGPT Alert: 6 Cyber Threats to Consider</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-costs-without-compromising-quality-my-switch-from-apple-and-metas-headsets-to-budget-xr-glasses-explained-pcmag/"><u>Cutting Costs Without Compromising Quality? My Switch From Apple and Meta's Headsets to Budget XR Glasses Explained | PCMag</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-cleaning-for-a-functional-windows-11-space/"><u>Effortless Cleaning for a Functional Windows 11 Space</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guiding-ais-journey-to-coexist-with-us/"><u>Guiding AI's Journey to Coexist with Us</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-smart-7-hd-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Smart 7 HD Easily?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-c300s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Nokia C300s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/master-list-saving-your-favorite-ringtone-files/"><u>Master List Saving Your Favorite Ringtone Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-soundscapes-expert-insights-on-audio-post-production-in-garageband/"><u>Mastering Soundscapes Expert Insights on Audio Post-Production in GarageBand</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-screensaver-pick-the-ultimate-defender-techradar/"><u>Top-Rated Apple Watch Screensaver - Pick the Ultimate Defender | TechRadar</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-get-your-stubbornly-closed-epic-games-launcher-running-again/"><u>Troubleshooting Steps: Get Your Stubbornly Closed Epic Games Launcher Running Again</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-potential-with-apples-m1-max-clip/"><u>Unlocking Potential with Apple's M1 Max Clip</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-enhancing-your-virtual-engagement-through-better-zoomed-views/"><u>[New] In 2024, Enhancing Your Virtual Engagement Through Better Zoomed Views</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-lifecast-your-show-a-basic-podcast-streaming-strategy/"><u>[New] Lifecast Your Show A Basic Podcast Streaming Strategy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/op-5-youtube-creators-subscription-leaders-for-2024/"><u>[New] Top 5 YouTube Creators Subscription Leaders for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-youtubes-small-screen-image-magic/"><u>[New] Unlock YouTube's Small Screen Image Magic</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-prime-choices-for-valheims-agricultural-success/"><u>[Updated] In 2024, Prime Choices for Valheim's Agricultural Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplify-transcribing-the-word-guide-to-speech-to-text/"><u>[Updated] Simplify Transcribing The Word Guide to Speech-to-Text</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-customizable-ai-for-creative-endeavors/"><u>Demystifying Customizable AI for Creative Endeavors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emulating-conversational-flow-in-chatbots/"><u>Emulating Conversational Flow in Chatbots</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-pc-issues-in-cult-of-the-lamb-a-comprehensive-guide/"><u>Fixing PC Issues in 'Cult of the Lamb': A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-12-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 12?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/immersive-tabletop-journeys-gpt-insights-to-elevate-your-rpgs/"><u>Immersive Tabletop Journeys: GPT Insights to Elevate Your RPGs</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/installing-the-plex-media-server-on-windows-11-a-step-by-step-guide/"><u>Installing the Plex Media Server on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/laughter-logic-can-computers-inspire-joyous-jests/"><u>Laughter Logic: Can Computers Inspire Joyous Jests?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prep-for-perfection-using-chatgpt-in-interviews/"><u>Prep for Perfection: Using ChatGPT in Interviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-web-experience-with-proton-vpn-extension/"><u>Securing Web Experience with Proton VPN Extension</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-enabling-and-utilizing-live-activity-in-ios-16-iphones/"><u>Step-by-Step Guide: Enabling and Utilizing Live Activity in iOS 16 iPhones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-insiders-guide-to-chatgpt-feature-signup/"><u>The Insider’s Guide to ChatGPT Feature Signup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-transformative-ai-practices-you-must-try/"><u>Top 7 Transformative AI Practices You Must Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-ai-practices-7-proven-strategies/"><u>Transformative AI Practices: 7 Proven Strategies</u></a></li>
 </ul></div>
 

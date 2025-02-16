@@ -1,7 +1,7 @@
 ---
 title: "Engaging with Algorithms: Mistral's Encounter With ChatGPT"
-date: 2025-01-26T00:54:56.289Z
-updated: 2025-01-31T20:33:56.494Z
+date: 2025-01-26T22:37:34.100Z
+updated: 2025-02-02T17:19:00.889Z
 tags:
   - chatgpt
   - open-ai
@@ -20,20 +20,12 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is Mistral AI's Le Chat?](https://funwhole.sjv.io/9groge)
 * [Le Chat vs. ChatGPT: Creativity](https://bluettius.sjv.io/dkpnv2)
 * [Le Chat vs. ChatGPT: Programming Skills](https://versadesk.pxf.io/xyboxx)
 * [Le Chat vs. ChatGPT: Common Sense and Logical Reasoning](https://ukaidot.sjv.io/daqnoj)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -61,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
  I've been wondering the same, and to find out, I tested Le Chat extensively to see how it compares to ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Le Chat vs. ChatGPT: Creativity
 
  Creativity is one of the most important metrics for judging the performance of a conversational AI chatbot. Remember, the purpose of an AI chatbot is to replicate or mimic the conversational abilities and creative flair of humans at scale. This makes creativity a very important strength for any AI chatbot. The world has experimented with ChatGPT for over a year, and its creative abilities are undeniable. But how does Le Chat compare? We put both chatbots to a series of creativity tests.
@@ -72,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 ![ChatGPT describes itself-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-describes-itself-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And here's how Le Chat would describe itself as well:
@@ -87,13 +83,13 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![ChatGPT writes rap about cocumbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-rap-about-cocumbers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here's Le Chat's response:
 
 ![Le Chat Mistral writes song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-writes-song.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It might be a subjective issue, but ChatGPT's response seemed like the better option here. Le Chat's lyrics seemed quite wordy and didn't really read like something a rapper would put out. To test how both lyrics would sound if they were to be made into music, we used [Suno AI music generator to generate music](https://www.makeuseof.com/suno-ai-make-music-from-text-prompt/) from the lyrics. Three out of three trials, ChatGPT's lyrics sounded way better. Below are two samples from both AI chatbots, you can be the judge of which chatbot did better.
 
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  Sample 2:
 
  I tried a few other creative tasks, like poems, article writing, and drafting tricky work emails with the AI chatbots. Despite showing great promise, Le Chat was clearly outdone by ChatGPT in all instances. It's important to point out that one area Le Chat was particularly strong in was crafting articles, although with some tricky prompting styles. However, in terms of all-round creativity, the medal goes to ChatGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Le Chat vs. ChatGPT: Programming Skills
 
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  I repeated a few more programming tests involving finding and fixing bugs, and ChatGPT consistently outperformed Le Chat. In some instances, Le Chat didn't even know what it was supposed to do. There's a good chance Le Chat can measure up to ChatGPT in some areas, but coding skills don't seem to be one of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Le Chat vs. ChatGPT: Common Sense and Logical Reasoning
@@ -180,20 +180,20 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easy-guide-online-tools-to-save-your-youtube-videos/"><u>[New] 2024 Approved Easy Guide Online Tools to Save Your YouTube Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-seamless-multi-screen-browsing-in-chrome-using-pip/"><u>[New] Seamless Multi-Screen Browsing in Chrome Using PIP</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-bargain-ball-games-free-recording-and-editing-techniques/"><u>[Updated] 2024 Approved Bargain Ball Games Free Recording & Editing Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-enabled-revolution-in-hr-task-management/"><u>AI-Enabled Revolution in HR Task Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-unveils-top-ranking-super-bowl-weekend-advertisement-a-non-super-bowl-contender-hits-the-mark/"><u>Apple Unveils Top-Ranking Super Bowl Weekend Advertisement: A Non-Super Bowl Contender Hits the Mark!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-c22-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia C22 is off? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-successfully-download-and-install-the-most-recent-xp-pen-driver-software/"><u>How To Successfully Download & Install the Most Recent XP-Pen Driver Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-music-production-with-ai-apple-upgrades-logic-pro-to-include-virtual-band-members-on-ipads-and-macs-analysis/"><u>Revolutionizing Music Production with AI: Apple Upgrades Logic Pro to Include Virtual 'Band Members' On iPads and Macs Analysis</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/seamless-techniques-for-downscaling-from-hd-1080p-to-sd-720p-videos-without-compromising-quality/"><u>Seamless Techniques for Downscaling From HD 1080P to SD 720P Videos Without Compromising Quality</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-into-flexibility-opening-fax-editor-on-windows-11-pcs/"><u>Step Into Flexibility: Opening Fax Editor on Windows 11 PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-using-gpt-3-in-openai-lab/"><u>Step-by-Step Guide to Using GPT-3 in OpenAI Lab</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-rise-and-fall-of-yahoo-messenger-unveiling-the-history-behind-its-termination/"><u>The Rise and Fall of Yahoo! Messenger – Unveiling the History Behind Its Termination</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-computers-expert-picks/"><u>Top-Ranking Mac Computers : Expert Picks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unseen-mistakes-by-artificial-writers/"><u>Unseen Mistakes by Artificial Writers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrading-to-the-newest-a-side-by-side-look-at-ipad-air-4-and-ipad-air-er-technology-insights-from-zdnet/"><u>Upgrading to the Newest: A Side-by-Side Look at iPad Air 4 and iPad Air Er | Technology Insights From ZDNET</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-best-tips-to-use-zoom-on-chromebook/"><u>[New] In 2024, Best Tips to Use Zoom on Chromebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-art-of-conveying-content-mastering-onestream-livestreams/"><u>[New] In 2024, The Art of Conveying Content Mastering OneStream Livestreams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-crucial-techniques-for-documenting-lol-wars/"><u>[Updated] Crucial Techniques for Documenting LOL Wars</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hysterics-hub-best-meme-tool/"><u>[Updated] Hysterics Hub Best Meme Tool</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-video-time-warp-techniques/"><u>[Updated] In 2024, Instagram Video Time Warp Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lg-bp350-evaluation-size-resolution-and-connectivity/"><u>[Updated] LG BP350 Evaluation - Size, Resolution, and Connectivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-maximize-your-apple-watchs-endurance-top-8-configurations-that-prolong-battery-life-insights/"><u>1. Maximize Your Apple Watch's Endurance: Top 8 Configurations That Prolong Battery Life - Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-clip-sound-and-format-transformation/"><u>2024 Approved Twitter Clip Sound and Format Transformation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unveiling-the-role-of-authenticity-in-online-self-portraits/"><u>2024 Approved Unveiling the Role of Authenticity in Online Self-Portraits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-tech-companion-ipad-pro-or-macbook-air-a-comprehensive-comparison/"><u>Choosing Your Tech Companion: IPad Pro or MacBook Air – A Comprehensive Comparison</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-microsoft-surface-pro-8-evaluation-the-ultimate-device-for-professionals-analysis-on-zdnet/"><u>Comprehensive Microsoft Surface Pro 8 Evaluation: The Ultimate Device for Professionals? - Analysis on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/healthy-eating-strategies-using-gpt-assist/"><u>Healthy Eating Strategies Using GPT-Assist</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-lava-blaze-2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Lava Blaze 2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-everyone-should-use-apple-pages-a-breakdown-of-its-5-essential-features-and-advantages/"><u>Why Everyone Should Use Apple Pages: A Breakdown of Its 5 Essential Features and Advantages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wrist-worn-wonders-compared-a-detailed-breakdown-of-google-pixel-watch-and-apple-watch-series-nine-for-savvy-consumers-zdnet/"><u>Wrist-Worn Wonders Compared: A Detailed Breakdown of Google Pixel Watch and Apple Watch Series Nine for Savvy Consumers | ZDNET</u></a></li>
 </ul></div>
 

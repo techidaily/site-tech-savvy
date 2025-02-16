@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Turing's Evaluation: Chances of Victory?"
-date: 2025-01-29T07:55:17.657Z
-updated: 2025-02-01T08:08:24.635Z
+date: 2025-01-31T23:24:11.859Z
+updated: 2025-02-02T19:48:55.106Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
 
@@ -49,14 +57,6 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -67,9 +67,17 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
@@ -91,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore, [Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/). This is currently available to users in the UK and the United States.
@@ -103,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
@@ -144,24 +144,24 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-critique-free2x-app-for-webcam-capture/"><u>[New] Critique Free2X App for Webcam Capture</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-high-quality-streaming-choice-go-with-obs-or-fraps/"><u>[New] High-Quality Streaming Choice Go With OBS or Fraps?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-best-practices-for-silent-film-making/"><u>[New] The Best Practices for Silent Film Making</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-time-lapse-titans-choosing-the-creme-de-la-camera/"><u>[New] Time-Lapse Titans Choosing the Crème De La Camera</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-chatgpts-plugins/"><u>Comprehensive Guide to ChatGPT's Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-dilemmas-squared-chatgpt-to-the-rescue/"><u>Digital Dilemmas Squared: ChatGPT to the Rescue</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/discover-the-leading-cover-photo-makers-for-facebook-profiles/"><u>Discover the Leading Cover Photo Makers for Facebook Profiles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-writing-speed-via-hix-and-gpt/"><u>Elevate Writing Speed via HIX & GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-pick-for-the-ultimate-stylus-tablet-of-202/"><u>Exclusive Pick for the Ultimate Stylus Tablet of 202</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-xiaomi-redmi-note-13-pro-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Xiaomi Redmi Note 13 Pro 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-photo-frames-leading-software-reviews/"><u>Mastering Photo Frames Leading Software Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-productivity-with-macos-finder-quick-actions-the-ultimate-guide/"><u>Maximize Productivity with MacOS Finder Quick Actions: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolving-the-persistent-issues-with-apples-latest-iphone-model-insights-from-zdnet/"><u>Resolving the Persistent Issues with Apple's Latest iPhone Model - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/tailored-guide-for-selective-youtube-content-download/"><u>Tailored Guide for Selective YouTube Content Download</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-developers-blueprint-for-using-chatgpt-api/"><u>The Developer's Blueprint for Using ChatGPT API</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-video-journey-choosing-the-seven-best/"><u>The Ultimate Video Journey Choosing the Seven Best</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-8-criteria-for-selecting-online-language-bots-as-a-freelancer/"><u>Top 8 Criteria for Selecting Online Language Bots as a Freelancer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-claude-2s-core-functionality/"><u>Understanding Claude 2'S Core Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-5-techniques-where-artificer-intelligence-assists-hackers/"><u>Unveiling 5 Techniques Where Artificer Intelligence Assists Hackers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-top-8-trending-facebook-video-hits-for-2024/"><u>[New] Top 8 Trending Facebook Video Hits for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-techniques-to-compress-and-adjust-iphone-videos/"><u>[Updated] 2024 Approved Essential Techniques to Compress and Adjust iPhone Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-voice-transformation-made-simple-with-no-fee-tools-for-2024/"><u>[Updated] Voice Transformation Made Simple with No-Fee Tools for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-quality-meets-convenience-the-best-5-hd-webcams-and-mics/"><u>2024 Approved Quality Meets Convenience - The Best 5 HD Webcams & Mics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-ai-checking-chatgpt-detector-tools-for-teachers-lecturers-and-bosses/"><u>4 AI-Checking ChatGPT Detector Tools for Teachers, Lecturers, and Bosses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-principles-of-ai-use-for-effective-editing-and-writing/"><u>7 Principles of AI Use for Effective Editing and Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-developers-roadmap-to-building-intelligent-web-solutions-using-chatgpt/"><u>A Developer's Roadmap to Building Intelligent Web Solutions Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-guide-to-forging-poetry-with-gpt-3-help/"><u>A Guide to Forging Poetry with GPT-3 Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-new-world-of-ai-discover-insights-in-these-9-communities/"><u>A New World of AI: Discover Insights in These 9 Communities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-stepwise-approach-to-leveraging-gpt-3-power-in-openai-playground/"><u>A Stepwise Approach to Leveraging GPT-3 Power in OpenAI Playground</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721389813844-chatgpt-takes-the-ios-stage/"><u>ChatGPT Takes the iOS Stage!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-glitches-in-resident-evil-village-a-step-by-step-guide/"><u>Fixing Audio Glitches in Resident Evil Village: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-realme-11x-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme 11X 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-laptop-keyboard-on-pc-tips-for-win7win8win10-users/"><u>How to Repair a Malfunctioning Laptop Keyboard on PC: Tips for Win7/Win8/Win10 Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-find-x6-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo Find X6 Pro online without jailbreak</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721420345678-no-emoji-tweets-on-twitter-linuss-insight-revealed-trojans-explained-and-chatgpt-concerns-addressed/"><u>No Emoji Tweets on Twitter, Linus's Insight Revealed, Trojans Explained, & ChatGPT Concerns Addressed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-honor-v-purse-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Honor V Purse to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-converters-cornerstone-for-srt-transformations/"><u>The Converter's Cornerstone for SRT Transformations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721366503700-unveiling-the-power-of-search-bings-ai-enters-your-devices/"><u>Unveiling the Power of Search: Bing's AI Enters Your Devices.</u></a></li>
 </ul></div>
 

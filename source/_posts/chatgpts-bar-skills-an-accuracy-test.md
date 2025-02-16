@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Bar Skills: An Accuracy Test"
-date: 2025-01-06T19:53:29.883Z
-updated: 2025-01-13T01:12:17.174Z
+date: 2025-02-01T16:14:10.023Z
+updated: 2025-02-02T21:27:58.363Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Cocktails and Why ChatGPT?
 
  Anyone can pour themselves a glass of beer or wine. But cocktails are generally more difficult to get right. Hence the need for either experience in making cocktails, formal lessons teaching you the craft, or a book packed full of recipes and techniques.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
  However, there is another option in the form of [ChatGPT](https://chat.openai.com/). On paper, ChatGPT should offer all the expertise offered up by Google Search as well as the ability to adapt to your needs in creative ways. After all, you can [use ChatGPT as a cooking assistant](https://www.makeuseof.com/use-chatgpt-cooking-assistant/), to help you [land a dream job](https://www.makeuseof.com/chatgpt-help-land-dream-job/), and more besides.
 
  As long as your prompts are sound, the AI chatbot should deliver. So, let's test that theory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing ChatGPT's Abilities as a Bartender
 
@@ -51,11 +51,7 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
@@ -77,10 +73,14 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Prompt 4: "Please Create a New, Wholly Original Cocktail."
 
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So, Is ChatGPT Good at Making Cocktails?
@@ -149,24 +149,20 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-visualconstruct-pro/"><u>[New] In 2024, VisualConstruct Pro</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-dynamic-audio-excellence-best-cameras-microphones-for-2024/"><u>[Updated] Dynamic Audio Excellence Best Cameras' Microphones for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-integrate-audio-magic-the-secrets-of-musical-stories-on-instagram-for-2024/"><u>[Updated] Integrate Audio Magic The Secrets of Musical Stories on Instagram for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-site-engagement-through-intelligent-cookiebot-integration-unleashing-potential/"><u>Enhanced Site Engagement Through Intelligent Cookiebot Integration: Unleashing Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-user-experience-through-cookiebot-technology-integration/"><u>Enhanced User Experience Through Cookiebot Technology Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-user-experience-with-our-cookiebot-integrated-technology/"><u>Enhanced User Experience with Our Cookiebot-Integrated Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-boost-with-cookiebot-technology-powering-your-site/"><u>Experience Boost with Cookiebot Technology Powering Your Site</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fachliche-einblicke-in-das-bankgewerbe-und-finanzunternehmen-interaktives-webinar-mit-experten-von-abbyy/"><u>Fachliche Einblicke in Das Bankgewerbe Und Finanzunternehmen - Interaktives Webinar Mit Experten Von ABBYY</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-officejet-5740-ready-simple-driver-downloads-steps/"><u>Get Your HP OfficeJet #5740 Ready: Simple Driver Downloads Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-cookiebot-technology-for-tailored-web-interactions/"><u>Harnessing Cookiebot Technology for Tailored Web Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-user-tracking-and-analytics/"><u>Harnessing the Power of Cookiebot for Enhanced User Tracking & Analytics</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-essential-steps-for-mp3-streams-on-youtube/"><u>In 2024, Essential Steps for MP3 Streams on Youtube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-smoothly-embed-facebook-live-on-your-site/"><u>In 2024, How to Smoothly Embed Facebook Live on Your Site</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/loptimisation-par-intelligence-des-processus-avec-blue-prism-boostez-les-performances-automatisees/"><u>L'Optimisation Par Intelligence Des Processus Avec Blue Prism - Boostez Les Performances Automatisées</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-innovations-at-the-california-department-of-motor-vehicles-dmv/"><u>Leveraging AI Innovations at the California Department of Motor Vehicles (DMV)</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/oplossing-zweefpunten-om-het-missende-outlook-pst-file-in-windows-11-op-te-sporen-en-te-herleven/"><u>Oplossing: Zweefpunten Om Het Missende Outlook PST-File in Windows 11 Op Te Sporen en Te Herleven</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/pro-thumbnails-made-simple-macos-style/"><u>Pro Thumbnails Made Simple MacOS Style</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-asus-chromebook-flip-c302ca-exceptional-value-convertible-design-and-impressive-features/"><u>Top Rated ASUS Chromebook Flip C302CA - Exceptional Value, Convertible Design, and Impressive Features</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-easily-animate-your-photos-the-9-best-online-tools-for-2024/"><u>Updated Easily Animate Your Photos The 9 Best Online Tools for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-analysis-variety-in-fb-video-aspects/"><u>[New] 2024 Approved Analysis Variety in FB Video Aspects</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-the-world-of-virtual-engagements-effects-filters-and-more/"><u>[Updated] Navigating the World of Virtual Engagements Effects, Filters, & More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-effective-methods-to-access-and-utilize-the-gpeditmsc-open-group-policy-editor-on-windows-10/"><u>5 Effective Methods to Access and Utilize the gpedit.msc Open Group Policy Editor on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-windows-11-creators-update-uncovering-new-features-with-insider-preview-build-1503/"><u>A Deep Dive Into Windows 11 Creator’s Update: Uncovering New Features with Insider Preview Build 1503</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-media-maestro-picture-perfect-with-pitches-for-2024/"><u>Elite Media Maestro Picture Perfect with Pitches for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808324185-fortnite-is-blocked-at-your-school-heres-how-to-unblock-it/"><u>Fortnite Is Blocked at Your School? Here’s How to Unblock It.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808218067-how-to-import-chrome-bookmarks-to-firefox-quickly-and-easily/"><u>How to Import Chrome Bookmarks to Firefox. Quickly & Easily!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reestablish-the-connection-a-guide-to-fix-a-non-responsive-bluetooth-keyboard-on-windowsmac/"><u>Reestablish the Connection: A Guide to Fix a Non-Responsive Bluetooth Keyboard on Windows/Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-repeated-pc-shutdowns-during-age-of-wonders-planetfall-gameplay-step-by-step-guide/"><u>Resolving Repeated PC Shutdowns During 'Age of Wonders: Planetfall' Gameplay - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/e-strategies-for-stellar-sports-highlights/"><u>Simple Strategies for Stellar Sports Highlights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-walkthrough-connecting-and-using-your-wireless-printer-with-ease/"><u>The Ultimate Walkthrough: Connecting and Using Your Wireless Printer with Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone-for-2024/"><u>Top 5 Podcast Apps for Listening to Podcasts on an iPhone for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-to-get-and-run-kodi-on-your-xbox-one-easy-steps-inside/"><u>Ultimate Tutorial to Get and Run Kodi on Your Xbox One - Easy Steps Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-your-computers-memory-how-to-test-genuine-ram-pace-in-latest-windows-environments/"><u>Unveiling the Secrets of Your Computer's Memory: How to Test Genuine RAM Pace in Latest Windows Environments</u></a></li>
 </ul></div>
 

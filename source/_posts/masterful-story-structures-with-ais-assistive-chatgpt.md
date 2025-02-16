@@ -1,7 +1,7 @@
 ---
 title: Masterful Story Structures with AI's Assistive ChatGPT
-date: 2024-08-25T17:33:32.274Z
-updated: 2024-08-26T17:33:32.274Z
+date: 2025-02-01T16:04:06.039Z
+updated: 2025-02-02T22:57:20.156Z
 tags:
   - chatgpt
   - open-ai
@@ -45,18 +45,20 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 
  The best way to start with ChatGPT is to just be straightforward with your requests. Simply explain that you are wanting to write a story and would like some help. For this article, we still always go with ChatGPT’s first suggestion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Generate a Theme
 
 ![ChatGPT Storytelling generating a theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-storytelling_theme.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When starting a story, it may be best to start with a theme, so you have a sense of direction for the story. Will it be a story of good vs evil? Betrayal? Sacrifice? All of these sound like good, common themes for any story, but the point here is to see what ChatGPT will come up with for any writer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Create the Characters
 
 ![ChatGPT Storytelling creating a character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-storytelling_character.jpeg)
@@ -64,11 +66,16 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
  Asking ChatGPT to create characters can become tricky because a single storyline can have hundreds of characters. For the purpose of this exercise, ChatGPT will only be asked to create the main character.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Pick a Point of View
 
 ![ChatGPT Storytelling picking a point of view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-storytelling_point-of-view.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Choosing a point of view can be as easy as knowing how you write best. However, if you are unsure which direction you want to take, ask ChatGPT.
 
@@ -78,38 +85,45 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 
  The setting allows your reader to see the world your character belongs in—whether it be a new world never before written about or a real street in a real neighborhood. Let’s see what ChatGPT comes up with.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Determine the Plot
 
 ![ChatGPT Storytelling choosing a plot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-storytelling_plot.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The plot is what happens in a story. When you ask ChatGPT, it’ll give you the plot broken down into acts. Usually, a story’s plot contains three acts. Sometimes it can be more, depending on the overall story.
 
 ### Form the Tone
 
 ![ChatGPT storytelling setting the tone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-storytelling_tone.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Having emotion in a story is essential to keeping a reader engaged—this emotion is called the tone. Many times, the tone can be relayed using characters and settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Decide on the Conflict
 
 ![ChatGPT Storytelling creating conflict](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-storytelling_conflict.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  When your main character wants something, but there is another clashing thing that happens to get in the way—that is conflict. Without conflict and tension in a story, it’s hard to hold any reader’s attention. Let’s see what ChapGPT can come up with for some drama in this story.
 
 ### Choose the Resolution
 
 ![ChatGPT storytelling choosing a resolution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-storytelling_resolution.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The resolution is the ending of a story. Many times, the resolution will be a good ending that ties up all the loose strings in a story—however, it doesn’t always have to. If the story is going to continue at another point in the future, cliffhangers can be fun resolutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT’s Storyline Results
 
@@ -128,18 +142,10 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 
  Also, ChatGPT never makes it clear if she is moving from or to a small coastal town. In the end, it may be up to you what the main character is going to be doing.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## What to Keep in Mind
 
  There are [pros and cons to using ChatGPT for creative writing](https://www.makeuseof.com/using-chatgpt-for-creative-writing-pros-cons/). However, understanding the cons can help to really take advantage of the pros—in the end, making you a better writer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### ChatGPT Is Still a Robot
 
  ChatGPT cannot replace the element of human emotion. Yes, it was created by humans and is an insanely intelligent piece of advanced technology, but it can’t feel what you can feel.
@@ -147,22 +153,17 @@ The powerful video editing program for your Windows PC</a>
 ![Cute Robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cute-robot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you rely too heavily on ChatGPT while writing your story, you may find many areas lacking the emotion that your readers would be expecting. To help alleviate this problem, it’ll be your job to add feeling to the story by using techniques like character dialogue and sensory language.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Be Patient With ChatGPT
 
  It’s important to remember that sometimes ChatGPT won’t spit out exactly what you want the first time around—and there’s no shame in asking it to come up with something else, either.
 
  However, if you want to truly challenge yourself as a writer, try being open-minded and use what it offers. See if you can make something great out of it. And if not, then call the time spent a practice session and move on to the next big idea.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use ChatGPT as a Guide Only
 
  Sure, you could ask ChatGPT to actually write the story for you, but would you be able to call yourself the author of the work at that point? The answer is probably not.
@@ -171,9 +172,6 @@ The powerful video editing program for your Windows PC</a>
 
  In the end, ChatGPT should just be a writing tool to help you create the best piece of work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Give ChatGPT a Try When Writing Your Next Story
 
  ChatGPT can seem pretty straightforward to use, but it’s important to make sure you’re asking it the right questions to get the best possible answers. This is especially true when you are attempting to create a whole storyline while using AI.
@@ -190,8 +188,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +195,22 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-prospects-and-limitations-within-samsungs-2023-image-editor/"><u>[New] Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-media-management-on-instagram/"><u>[Updated] Mastering Media Management on Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-add-ons-the-best-new-filmmakers-starter-list/"><u>2024 Approved Prime Add-Ons The Best New Filmmaker’s Starter List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ready-for-victory-try-this-top-ranked-free-voice-alteration-software-now/"><u>2024 Approved Ready for Victory? Try This Top-Ranked Free Voice Alteration Software Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-loyalists-delight-as-lg-rolls-out-no-cost-audio-improvement-featured-on-zdnet/"><u>Apple Loyalists Delight as LG Rolls Out No-Cost Audio Improvement, Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/controlling-ai-ensuring-positive-integration/"><u>Controlling AI: Ensuring Positive Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-samsung-android-debug-bridge-adb-drivers-free/"><u>Download Samsung Android Debug Bridge (ADB) Drivers - Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-strategies-for-clearing-your-gpt-history/"><u>Efficient Strategies for Clearing Your GPT History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apples-latest-mac-mini-with-m2-chip-drops-to-record-low-price-of-479-the-inside-scoop-on-tech-deals/"><u>How Apple's Latest Mac Mini With M2 Chip Drops to Record Low Price of $479 | The Inside Scoop on Tech Deals</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-xiaomi-redmi-note-12-pro-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Xiaomi Redmi Note 12 Pro 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-screenshot-to-ringtone-your-guide-to-tiktok-song-selection/"><u>In 2024, From Screenshot to Ringtone Your Guide to TikTok Song Selection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/masterful-crypto-communication-top-10-gpt-powered-conversation-starters/"><u>Masterful Crypto Communication: Top 10 GPT-Powered Conversation Starters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-ios-181-preview-release-featuring-enhanced-apple-ai-capabilities-get-your-access-today/"><u>New IOS 18.1 Preview Release Featuring Enhanced Apple AI Capabilities – Get Your Access Today!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-audio-innovation-detailed-breakdown-of-expected-pricing-launch-window-and-speculative-leaks/"><u>Upcoming Apple Audio Innovation: Detailed Breakdown of Expected Pricing, Launch Window, & Speculative Leaks</u></a></li>
+</ul></div>
 

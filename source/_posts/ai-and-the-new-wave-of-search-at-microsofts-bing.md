@@ -1,7 +1,7 @@
 ---
 title: AI & The New Wave of Search at Microsoft's Bing
-date: 2024-08-25T17:32:05.213Z
-updated: 2024-08-26T17:32:05.213Z
+date: 2025-01-27T16:04:22.527Z
+updated: 2025-02-02T23:57:54.789Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7
 
  More importantly, we need to look ahead and decode how our experience with the search engines we’ve acquainted ourselves with for so many years will change in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Microsoft Prometheus Model?
 
  Microsoft has branded Bing and the Edge browser as your AI copilot for the web. Undoubtedly, the new [AI-powered Bing packs some huge upgrades](http://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , but it’s essential to understand how they’re made possible.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7
  Microsoft Prometheus is a specialized artificial intelligence model for superior web searching and querying and is fundamentally based on OpenAI’s GPT3.5 and ChatGPT models. Its capabilities are optimized for rapidly fetching relevant and accurate search results without compromising user safety.
 
  The Prometheus model powers the new Bing to deliver summarized search results that are more relevant and can even answer composite search queries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A New Generation of AI for Web Searching
 
@@ -46,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7
  You can also use Bing as your AI chatbot and query it for simple questions like “What’s the weather going to be like in two weeks?” and even complex queries such as “I enjoyed Coachella, what similar music festivals should I visit?”. If you’re not satisfied with Bing’s answer, you can ask it to refine the response per your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A New Era for Web Browsers as Well?
 
  Web browsers such as Google Chrome and Microsoft Edge are used to surf the web. They allow you to access webpages on the internet, view multimedia content on sites such as YouTube and Netflix, access your email inbox, play games, and more. With all the AI advancements in the web domain, it's crucial to consider the impact it could have on web browsers and how we access the web.
@@ -55,15 +64,17 @@ thumbnail: https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7
 ![Icons of multiple web browsers on a wooden board background](https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  While we’re certainly still a long way from seeing web browsers go obsolete, but we can expect functional upgrades that make it easy to access AI-powered web searching and content generation. Perhaps other browsers, such as Chrome and Opera, will adopt something similar to Edge’s new AI sidebar.
 
 [Google is expected to release its Bard competitor](https://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) to Microsoft’s AI-powered Bing very soon. Once it’s launched and possibly integrated with Google Chrome, we’ll have a better idea of how web browsers will evolve in the coming future.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bing Redefines Searching Using AI
 
  Microsoft has redefined the web searching experience with Bing’s new AI capabilities. While change can sometimes be messy, AI-powered searching has revolutionized how we access the internet for the better.
@@ -74,8 +85,6 @@ thumbnail: https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +92,22 @@ thumbnail: https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/arning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income-for-2024/"><u>[New] Earning in the Limelight without Ads A Comprehensive Guide to YouTube Income for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adaptive-fitness-regimens-via-machine-learning-assistance/"><u>Adaptive Fitness Regimens via Machine Learning Assistance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-enhances-mac-lineup-with-next-gen-m4-chips-integrated-with-artificebile-ai-functionality-anticipate-arrival-times-now/"><u>Apple Enhances Mac Lineup with Next-Gen M4 Chips Integrated with Artificebile AI Functionality – Anticipate Arrival Times Now!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sound-transforming-apps-for-youtube-vloggers/"><u>Best Sound Transforming Apps for YouTube Vloggers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-cybersecurity-risks-to-your-bank-data/"><u>GPT and Cybersecurity: Risks to Your Bank Data?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-definition-clash-prodigious-sj6-versus-innovative-yi-4k/"><u>High Definition Clash Prodigious SJ6 Versus Innovative Yi 4K</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-starburst-secures-enhanced-investments-to-amplify-its-data-mesh-strategy-zdnet-analysis/"><u>How Starburst Secures Enhanced Investments to Amplify Its Data Mesh Strategy | ZDNet Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-your-standard-sata-achi-controllers-driver/"><u>How to Seamlessly Update Your Standard SATA ACHI Controller's Driver</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-a-world-beyond-gpt-how-claudes-features-eclipse-chatgpt-ffour-fold/"><u>In a World Beyond GPT: How Claude's Features Eclipse ChatGPT’ FFour-Fold</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-gptbot-landscape-legality-concerns-explored/"><u>Navigating the GPTBot Landscape - Legality Concerns Explored</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-leading-digital-sound-transformer-quick-seamless-mp3-conversions/"><u>New 2024 Approved Leading Digital Sound Transformer Quick, Seamless MP3 Conversions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-discontinuing-your-subscription-on-apple-music-independent-of-itunes-tips-from-zdnet/"><u>Step-by-Step Guide: Discontinuing Your Subscription on Apple Music Independent of iTunes - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-essentials-android-must-improve-to-challenge-apples-ios-dominance-insights/"><u>Top 5 Essentials Android Must Improve to Challenge Apple's iOS Dominance: Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/trasforma-i-tuoi-gif-in-video-mp4-senza-costi-con-il-servizio-online-di-convertitore-video-rapido/"><u>Trasforma I Tuoi GIF in Video MP4 Senza Costi Con Il Servizio Online Di Convertitore Video Rapido</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/worlds-top-techies-and-their-ai-predictions/"><u>World's Top Techies and Their AI Predictions</u></a></li>
+</ul></div>
 

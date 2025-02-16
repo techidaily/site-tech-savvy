@@ -1,7 +1,7 @@
 ---
 title: "Access Immediately: Explore 8 Specially Designed AIs"
-date: 2025-01-31T08:08:11.486Z
-updated: 2025-01-31T19:33:49.791Z
+date: 2025-01-28T18:14:59.803Z
+updated: 2025-02-02T20:35:15.321Z
 tags:
   - chatgpt
   - open-ai
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 **Try this GPT:**[Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
@@ -65,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Personal Movie Recommender
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but [interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/). You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
 
  We tried several RPG games with GPTs, which were impressive and immersive. Coming up with the rules can be a bit tedious, but you'll find several sites dedicated to creating prompts for RPG games on ChatGPT. A good example is [RPG Prompts](http://www.rpgprompts.com/); you'll find dozens of interesting RPG prompts you can use to kickstart your RPG experience on ChatGPT.
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 **Try this GPT**: [Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Personal Tutor
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 **Try this GPT**: [Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Niche Tools for Work
@@ -125,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Custom GPTs: Endless Possibilities for Work and Fun
@@ -155,17 +155,17 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-3-simple-methods-for-color-correction-in-photoshop/"><u>[New] 3 Simple Methods for Color Correction in PhotoShop</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-the-network-of-youtube-multitasking-mastery/"><u>[New] In 2024, Navigating The Network Of YouTube Multitasking Mastery</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-design-tips-for-captivating-facebook-slideshows/"><u>[Updated] 2024 Approved Design Tips for Captivating Facebook Slideshows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-4k-spectacle-top-10-monitors-compatible-with-macs/"><u>2024 Approved 4K Spectacle Top 10 Monitors Compatible with Macs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-11-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme 11 5G without App | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/esr-unveils-enhanced-qi2-magsafe-chargers-with-cryoboost-technology-for-rapid-cool-charging-of-iphones-above-mini-exclusive-analysis-by-zdnet/"><u>ESR Unveils Enhanced Qi2 MagSafe Chargers with CryoBoost Technology for Rapid, Cool-Charging of iPhones Above Mini | Exclusive Analysis by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/freelance-mastery-through-ai-chatgpts-top-6-strategies/"><u>Freelance Mastery Through AI: ChatGPT's Top 6 Strategies</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y56-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo Y56 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-learning-journey-with-chatgpt-notes-guide/"><u>Optimize Your Learning Journey with ChatGPT Notes Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chatgpt-advantage-for-writing-subtly-sensitive-company-emails/"><u>The ChatGPT Advantage for Writing Subtly Sensitive Company Emails</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wilderness-survival-will-ai-conversations-help-you-out/"><u>Wilderness Survival: Will AI Conversations Help You Out?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ooting-in-cities-cultivating-urban-biodiversity/"><u>[New] Rooting in Cities Cultivating Urban Biodiversity</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-elevate-tiktok-visuals-switch-backgrounds-with-confidence-and-precision/"><u>[Updated] Elevate TikTok Visuals Switch Backgrounds with Confidence and Precision</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-celluloid-to-screen-adapting-your-vids-for-ig-for-2024/"><u>[Updated] From Celluloid to Screen Adapting Your Vids for IG for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/5-facons-efficaces-de-reparer-une-cle-usb-inutilisee-solutions-pratiques/"><u>5 Façons Efficaces De Réparer Une Clé USB Inutilisée : Solutions Pratiques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chatgpt-and-its-proprietors-determining-the-company-responsible-for-its-development/"><u>ChatGPT and Its Proprietors: Determining the Company Responsible for Its Development</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-zte-blade-a73-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your ZTE Blade A73 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-gemini-the-future-of-ai-beyond-chatgpts-reach/"><u>Is Gemini the Future of AI Beyond ChatGPT's Reach?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meal-mastery-via-chatgpt-insights/"><u>Meal Mastery via ChatGPT Insights</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/steps-to-restore-removed-programs-in-windows-operating-systems-windows-111087-for-pc-users/"><u>Steps to Restore Removed Programs in Windows Operating Systems (Windows 11/10/8/7) for PC Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-worth-of-sns-hdr-an-in-depth-comparison-study/"><u>The Worth of SNS HDR An In-Depth Comparison Study</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-in-chatbot-dialogue-dynamics/"><u>Unlock Your Potential in Chatbot Dialogue Dynamics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-the-ai-alignment-control-problem/"><u>What Is the AI Alignment Control Problem?</u></a></li>
 </ul></div>
 

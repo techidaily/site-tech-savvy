@@ -1,7 +1,7 @@
 ---
 title: "What Powers OpenAI's Clarity: SHAP E Insights"
-date: 2025-01-31T08:00:09.295Z
-updated: 2025-02-01T09:15:13.799Z
+date: 2025-01-30T16:44:08.758Z
+updated: 2025-02-02T18:59:33.852Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is OpenAI's Shap-E?
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
  By combining these two components, Shap-E can generate realistic and diverse 3D models that match the given text or image input and can be viewed from different angles and lighting conditions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How You Can Use OpenAI's Shap-E
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
  You can also report issues and find solutions to issues already raised by others on the Shap-E GitHub page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Can Do With OpenAI's Shap-E
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 ![Screenshot of text-3D images from OpenAI's Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-text-3d-images-from-openai-s-github.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As an architect, you can use Shap-E to create 3D models of buildings and structures based on written descriptions. You can specify the structures' dimensions, materials, colors, and styles using simple sentences. For example, you can prompt it with: "Make a skyscraper with 60 floors and glass balustrades," and export the result(s) to other software for further editing if you like the results you get.
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
  Although it is still a work in progress, Shap-E is a step ahead of OpenAI's [POINT-E](https://openai.com/research/point-e), which produces 3D point clouds based on text prompts. The point clouds are limited in their expressiveness and resolution, often producing blurry or incomplete shapes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Generate 3D Models Using OpenAI's Shap-E
@@ -105,17 +105,24 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-navigating-networks-generating-social-media-sensations/"><u>[New] 2024 Approved Navigating Networks Generating Social Media Sensations</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-stay-concentrated-how-to-tame-the-chatter-of-google-video-calls/"><u>[New] In 2024, Stay Concentrated How to Tame the Chatter of Google Video Calls</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-complete-guide-to-macbook-webcam-recording/"><u>[New] The Complete Guide to MacBook Webcam Recording</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels-for-2024/"><u>[Updated] Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-inside-stardust-an-extensive-exploration-of-stardew-valley-with-a-focus-on-its-enigmatic-island-ginger-isle/"><u>[Updated] In 2024, Inside Stardust An Extensive Exploration of Stardew Valley with a Focus on Its Enigmatic Island - Ginger Isle</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-guide-to-recording-adobe-presentation-videos/"><u>2024 Approved Guide to Recording Adobe Presentation Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-replace-keyword-research/"><u>Can ChatGPT Replace Keyword Research?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-wellness-unveiling-the-top-9-methodologies/"><u>ChatGPT for Wellness: Unveiling the Top 9 Methodologies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-ventures-viable-income-strategies/"><u>ChatGPT Ventures: Viable Income Strategies?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-huawei-p60-device-sim-by-drfone-android/"><u>Easily Unlock Your Huawei P60 Device SIM</u></a></li>
-<li><a href="https://fox-http.techidaily.com/evaluating-ffmpegs-mastery-in-untouched-audio-extraction-techniques-for-2024/"><u>Evaluating FFmpeg's Mastery in Untouched Audio Extraction Techniques for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whennonewchat-anticipate-gpt-access-return/"><u>WhenNoNewChat: Anticipate GPT Access Return</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-bring-laughs-home-for-free-mememakers-way-for-2024/"><u>[New] Bring Laughs Home for FREE - MemeMaker's Way for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-maximizing-b-roll-value-essential-techniques/"><u>[New] Maximizing B-Roll Value Essential Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mooth-sound-transformation-essential-ios-apps-to-convert-youtube-mp3-wise/"><u>[New] Smooth Sound Transformation Essential iOS Apps to Convert YouTube MP3-Wise</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-expertise-in-quick-creation-professional-valorant-thumbnail-art/"><u>2024 Approved Expertise in Quick Creation Professional Valorant Thumbnail Art</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-fruition-for-virtual-quests/"><u>2024 Approved Ultimate Fruition for Virtual Quests</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bert-vs-gpt-explaining-nlps-pioneering-models/"><u>BERT vs GPT: Explaining NLP's Pioneering Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-dialogue-6-strategies-to-harness-chatgpts-power-as-a-dm/"><u>Beyond Dialogue: 6 Strategies to Harness ChatGPT's Power as a DM</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-translate-user-trust-into-safety/"><u>Does ChatGPT Translate User Trust Into Safety?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excels-expertise-from-formulas-to-graphical-wonders/"><u>Excel's Expertise: From Formulas to Graphical Wonders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-effective-group-conferencing/"><u>Harnessing ChatGPT for Effective Group Conferencing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/head-to-head-battle-iphone-15-pro-max-against-samsungs-galaxy-s24-ultra-features-comparison/"><u>Head-to-Head Battle: IPhone 15 Pro Max Against Samsung's Galaxy S24 Ultra Features Comparison</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-12-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus 12</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-model-showdown-insights-into-gpt-and-bert-differences/"><u>Language Model Showdown: Insights Into GPT and BERT Differences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lead-stronger-interviews-by-mastering-chatgpt-techniques/"><u>Lead Stronger Interviews by Mastering ChatGPT Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oppo-a78-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A78 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-google-event-news-rumors-and-announcements/"><u>The Next Google Event: News, Rumors, and Announcements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-roadmap-to-poetic-mastery-via-chatgpt-guidance/"><u>The Roadmap to Poetic Mastery via ChatGPT Guidance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-savings-on-amazon-exclusive-offers-of-august-2024-featured/"><u>Top Savings on Amazon - Exclusive Offers of August 2024 Featured</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-snapchats-my-ai-excels-beyond-entertainment/"><u>Why Snapchat’s My AI Excels Beyond Entertainment</u></a></li>
 </ul></div>
 

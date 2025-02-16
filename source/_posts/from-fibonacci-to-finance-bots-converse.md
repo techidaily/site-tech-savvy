@@ -1,7 +1,7 @@
 ---
 title: From Fibonacci to Finance, Bots Converse
-date: 2024-08-25T17:35:39.194Z
-updated: 2024-08-26T17:35:39.194Z
+date: 2025-01-29T18:42:06.869Z
+updated: 2025-02-02T17:48:08.612Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
  But is this fledgling AI chatbot really worth the title? Is Mistral's Le Chat better than ChatGPT?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Mistral AI's Le Chat?
 
  Le Chat is a conversational AI chatbot developed by French AI startup Mistral AI. It is powered by several Mistral-owned large language models, including Mistral Large, Mistral Small, and Mistral Next, all of which you can choose to use when interacting with the AI chatbot. Although it is a relatively new entrant in the AI chatbot space, it is rated highly because of the performance of its AI models despite their smaller size when compared to industry heavyweights like Gemini and GPT-4\.
@@ -58,18 +62,6 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
 ![ChatGPT describes itself-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-describes-itself-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And here's how Le Chat would describe itself as well:
 
 ![Le Chat Mistral describes itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-describes-itself.jpg)
@@ -83,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 ![ChatGPT writes rap about cocumbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-rap-about-cocumbers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And here's Le Chat's response:
 
 ![Le Chat Mistral writes song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-writes-song.jpg)
@@ -106,8 +99,9 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
  I tried a few other creative tasks, like poems, article writing, and drafting tricky work emails with the AI chatbots. Despite showing great promise, Le Chat was clearly outdone by ChatGPT in all instances. It's important to point out that one area Le Chat was particularly strong in was crafting articles, although with some tricky prompting styles. However, in terms of all-round creativity, the medal goes to ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Le Chat vs. ChatGPT: Programming Skills
 
  Proficiency in coding has become a key requirement for major AI chatbots. Writing decent code is a baseline skill, but to truly stand out among the elite, an AI chatbot must demonstrate its prowess in crafting code that can effectively solve a diverse array of complex problems. We've previously [built an entire web app from scratch using ChatGPT](https://www.makeuseof.com/chatgpt-how-build-web-app/) which demonstrates its remarkable abilities as a programming tool. But how good is Le Chat at writing code?
@@ -124,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
  I repeated a few more programming tests involving finding and fixing bugs, and ChatGPT consistently outperformed Le Chat. In some instances, Le Chat didn't even know what it was supposed to do. There's a good chance Le Chat can measure up to ChatGPT in some areas, but coding skills don't seem to be one of them.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Le Chat vs. ChatGPT: Common Sense and Logical Reasoning
 
  An interesting twist with AI chatbots is their ability to solve complex tasks with ease but fail at simple ones that require basic common sense to complete. Many chatbots, both established ones like ChatGPT and new entrants like Le Chat, struggle when it comes to solving tasks requiring human-style common sense and logical reasoning. So, how do Le Chat and ChatGPT compare on this front?
@@ -150,15 +141,17 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 ![ChatGPT Answers Trick Question-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-answers-trick-question-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Le Chat was also able to see through the trickery and responded accordingly as well:
 
 ![Le Chat Mistral answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-answers-trick-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I tried more trick questions, and it seemed both ChatGPT and Le Chat are quite adept at dealing with commonsense and logical reasoning prompts. However, with more complex logic questions, only ChatGPT could provide the right responses.
 
  While Le Chat has generated some buzz as a potential "ChatGPT killer," our testing shows it still has growing to do before it can truly go toe-to-toe with the heavyweights of the AI chatbot world. Though Le Chat demonstrated impressive capabilities in areas like common sense reasoning, its creative output and coding skills lagged noticeably behind ChatGPT. The French AI upstart certainly shows promise, but the hype machine may be getting a little ahead of itself.
@@ -173,8 +166,6 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +173,22 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-break-through-bot-barriers-rising-from-the-crowd/"><u>[New] Break Through Bot Barriers Rising From the Crowd</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-live-tv-service-showdown-a-comparative-look/"><u>[New] Premier Live TV Service Showdown A Comparative Look</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-8-essential-tools-for-your-youtube-to-avi-needs/"><u>[Updated] In 2024, 8 Essential Tools for Your YouTube-to-AVI Needs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-top-10-border-tools-for-professional-instagram-images/"><u>[Updated] In 2024, Top 10 Border Tools for Professional Instagram Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2023s-ultimate-guide-to-choosing-an-apple-watch-screen-protector-top-picks-and-user-ratings-cnet/"><u>2023'S Ultimate Guide to Choosing an Apple Watch Screen Protector: Top Picks and User Ratings | CNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dawn-of-the-ai-audio-era-chatgpt-for-daw-sound-artists/"><u>Dawn of the AI Audio Era: ChatGPT for DAW Sound Artists</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-mic-functionality-in-zoom-on-windows-11-and-10/"><u>Fixing the Issue: How to Restore Mic Functionality in Zoom on Windows 11 & 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/highlighting-pivotal-gpt-crypto-discussions/"><u>Highlighting Pivotal GPT-Crypto Discussions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-high-definition-recording-mastering-live-footage-using-logitech-cam/"><u>In 2024, High Definition Recording Mastering Live Footage Using Logitech Cam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silent-assistants-securing-bot-discussions/"><u>Silent Assistants: Securing Bot Discussions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/snap-into-the-loop-mastering-boomerangs-for-max-impact/"><u>Snap Into the Loop Mastering Boomerangs for Max Impact</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-leading-digital-note-taking-apps-with-artificinas-intelligence/"><u>The Leading Digital Note Taking Apps with Artificinas Intelligence</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-new-age-of-computing-the-ultimate-guide-to-the-impressive-apple-mac-mini-with-m1-chip/"><u>Unboxing the New Age of Computing: The Ultimate Guide to the Impressive Apple Mac Mini with M1 Chip</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ais-shortcomings-the-top-8-issues-with-gpt/"><u>Understanding AI's Shortcomings: The Top 8 Issues with GPT</u></a></li>
+</ul></div>
 

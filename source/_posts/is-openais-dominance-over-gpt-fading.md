@@ -1,7 +1,7 @@
 ---
 title: Is OpenAI's Dominance Over GPT Fading?
-date: 2025-01-31T12:51:10.664Z
-updated: 2025-01-31T19:11:52.579Z
+date: 2025-01-31T23:27:46.833Z
+updated: 2025-02-02T20:16:24.426Z
 tags:
   - chatgpt
   - open-ai
@@ -30,16 +30,12 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Understanding How ChatGPT Works
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Before we can get a clear picture of how much OpenAI is losing control of ChatGPT, we must first understand [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) .
@@ -51,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
  There's no foolproof way to ensure that ChatGPT learns only from positive information while discarding the bad ones. Technically, it's impractical to do so at a large scale, especially for an AI like ChatGPT that needs to train on so much data. Furthermore, some information can be used for both good and evil purposes, and ChatGPT would have no way of knowing its intent unless it's put into a greater context.
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is ChatGPT Too Powerful for Its Own Good?
 
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
 ![hide a dead body by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-a-dead-body-by-chatgpt.jpg)
@@ -84,31 +80,35 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It even wrote a classic Nigerian Prince email scam when asked.
 
 ![Nigerian prince scam email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nigerian-prince-scam-email.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Jailbreaking almost completely invalidates any safeguards that OpenAI has put in place, highlighting that the company might not have a reliable way to keep its AI chatbot under control.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Does the Future Hold for ChatGPT?
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent [ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
 
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can OpenAI Put ChatGPT Under Control?
 
@@ -131,18 +131,20 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-capturing-adventures-with-right-tools-and-tech/"><u>[New] 2024 Approved Capturing Adventures with Right Tools & Tech</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/recovered-functional-epson-scanner-in-windows-11-again/"><u>[RECOVERED] Functional Epson Scanner in Windows 11 Again</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-easy-steps-to-alter-story-video-playback-speed/"><u>[Updated] In 2024, Easy Steps to Alter Story Video Playback Speed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-securely-shutting-down-your-instagram-presence-forever/"><u>[Updated] In 2024, Securely Shutting Down Your Instagram Presence Forever</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-emojis-explained-more-than-meets-the-eye-for-2024/"><u>[Updated] Snapchat Emojis Explained More Than Meets the Eye for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-net-framework-installation-errors/"><u>Guide to Overcoming .NET Framework Installation Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-do-these-apps-harness-gpt-4s-power/"><u>How Do These Apps Harness GPT-4's Power?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-note-taking-with-gpt-a-pros-guide/"><u>Mastering Note-Taking with GPT: A Pro's Guide</u></a></li>
-<li><a href="https://win-online.techidaily.com/optimizing-your-email-strategy-for-mobile-devices-key-insights-and-techniques-from-massmails-approach-to-catering-to-pc-vs-mobile-audiences/"><u>Optimizing Your Email Strategy for Mobile Devices - Key Insights and Techniques From MassMail's Approach to Catering to PC Vs. Mobile Audiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/refining-texts-with-ai-insight/"><u>Refining Texts with AI Insight?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/social-manners-in-virtual-assistance-interactions-siri-gpt/"><u>Social Manners in Virtual Assistance Interactions (Siri, GPT)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-leading-green-filmmaking-software/"><u>[New] Leading Green Filmmaking Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-revealed-the-best-10-in-4k-no-hassle-for-2024/"><u>[New] Revealed The Best 10 in 4K, No Hassle for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-soundtrack-streamlining-top-websites-for-skype-ringtones/"><u>[Updated] Soundtrack Streamlining Top Websites for Skype Ringtones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>2024 Approved The Realm of Melodies Where to Get Hearing Heroes' Ringtones</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-gpt-text-length-limits/"><u>Bypassing GPT Text Length Limits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/colorizing-your-folders-in-macos-a-step-by-step-guide/"><u>Colorizing Your Folders in macOS – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-threat-prompt-injection-attacks-defined/"><u>Dissecting AI Threat - Prompt Injection Attacks Defined</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-nvidia-geforce-game-ready-driver-for-windows-1110/"><u>Download Nvidia GeForce Game Ready Driver for Windows 11/10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-conversational-support-merging-gpt-with-whatsapp/"><u>Mastering Conversational Support: Merging GPT with WhatsApp</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-school-without-edgenuity-videos/"><u>Mastering School Without Edgenuity Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfecting-dialogues-advanced-strategies-for-chatgpt/"><u>Perfecting Dialogues: Advanced Strategies for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-to-next-gen-search-perplexity-ai-unveiled/"><u>Upgrade to Next-Gen Search: Perplexity AI Unveiled</u></a></li>
 </ul></div>
 

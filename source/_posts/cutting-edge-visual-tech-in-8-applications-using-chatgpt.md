@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge Visual Tech in 8 Applications Using ChatGPT
-date: 2025-01-24T20:30:18.170Z
-updated: 2025-01-31T23:29:18.931Z
+date: 2025-02-01T17:13:36.367Z
+updated: 2025-02-02T17:18:13.186Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  Depending on the context of the image, you can choose to enter a text-based prompt in addition to the image, or just let ChatGPT do its thing and let it analyze the attached picture.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Identifying Items or Describing Images
 
  For the curious ones among us who tend to find the most random of objects either on social media or during a walk down a busy street, identifying items has never been easier. Be it a one-of-a-kind speed camera or a really funky-looking pair of earphones, ChatGPT Vision does a pretty good job at identifying the objects you're inquiring about.
@@ -47,26 +51,30 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
  On the other hand, if you're just looking for a textual description of an image when you just can't formulate your thoughts into words, asking for a detailed description is a great way to use the new Vision feature in ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Recognizing Fictional Characters
 
 ![ChatGPT Vision recognizing a character from a popular TV series](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Can't seem to recognize that one character from a meme you have stored on your phone? Turns out, ChatGPT is quite remarkable at recognizing characters from popular media such as TV shows, movies, or anime.
 
  There's a catch, though—it will deny any requests you may have of extracting information about a real person. It still works in recognizing characters from live-action movies and TV series, but ChatGPT Vision draws a bold line beyond that when it's associated with the identity of a real human being.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Converting Wireframes to Code
 
  Easily one of the best uses of modern-day AI tools is the fact that everyone has been using them to fill in knowledge gaps and learn new things. If you're a developer, designer, or just someone learning their ropes around web development, ChatGPT is a great resource to use on your journey.
 
  With the Vision feature, you can ease the learning curve even further by simply uploading a picture of a wireframe or UI design and seeking ChatGPT for help with the actual code. Outside generating front-end code using wireframes, there are plenty of other ways you can [use ChatGPT for programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Translating Handwritten Text
 
@@ -82,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  Not only can ChatGPT break down the visual data for you, but it can also explain certain segments in detail upon request. However, we encourage you to take particulars such as numbers that are produced with a grain of salt, since data inaccuracy is one of the most common [problems associated with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Assembling Furniture
 
  Buying new furniture for your space is always exciting, but actually assembling it may not be so exhilarating. If you're stuck at a particular step and the perplexing diagrams in the manual seem to be of no help, snapping a photo of the steps or the piece of furniture and asking ChatGPT could be worth a shot.
@@ -93,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
  Simple queries about which screw goes where and which step comes next can be answered with the right images and prompts in place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaining Artwork Feedback
@@ -103,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
  At a time when almost anybody can [create art using AI](https://www.makeuseof.com/ai-text-to-art-generators/), constructive criticism is what every true photographer and artist strives for, and although ChatGPT lacks the human touch, it may yield some very useful feedback.
 
  You can gain valuable insight in regard to composition, framing, colors, and overall style if you structure your prompt the right way. You can even go creative and upload a photo of a half-finished painting and ask ChatGPT for ideas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Getting Help With Recipes
 
@@ -141,24 +141,16 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlock-content-potential-with-the-right-vimeo-membership-choice/"><u>[New] 2024 Approved Unlock Content Potential with the Right Vimeo Membership Choice</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-rhythmic-recording-music-infused-snapchat-adventures-for-2024/"><u>[New] Rhythmic Recording Music-Infused Snapchat Adventures for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-clear-background-in-picsart/"><u>[Updated] Step-by-Step Guide Clear Background in Picsart</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-stepwise-reduction-tactics-for-audio-levels-in-fl-studio/"><u>[Updated] Stepwise Reduction Tactics for Audio Levels in FL Studio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-stream-undoing-masterclass-twenty-one-tactics-to-learn-and-use/"><u>2024 Approved Stream Undoing Masterclass Twenty-One Tactics to Learn and Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-quirky-comfort-of-apples-new-vision-pro-case-for-just-199-as-covered-by-zdnet/"><u>Discover the Quirky Comfort of Apple's New Vision Pro Case for Just $199, as Covered by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-nvidias-ai-service-for-personalized-creation/"><u>Exploring NVIDIA's AI Service for Personalized Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/finding-fluid-in-iphone-charger-port-discover-the-two-solutions/"><u>Finding Fluid in iPhone Charger Port? Discover the Two Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/galaxy-ai-breakthrough-elevates-samsung-amidst-tech-shakeup-as-google-faces-regulatory-hurdles-in-latest-innovation-rankings/"><u>Galaxy AI Breakthrough Elevates Samsung Amidst Tech Shakeup as Google Faces Regulatory Hurdles in Latest Innovation Rankings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/giggle-generation-top-ten-templates-for-viral-effect-for-2024/"><u>Giggle Generation Top Ten Templates for Viral Effect for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-poco-c55s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Poco C55s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-ai-writing-inspirations-at-your-fingertips/"><u>Innovative AI Writing Inspirations at Your Fingertips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-4-in-todays-chatgpt-sessions/"><u>Leveraging GPT-4 in Today's ChatGPT Sessions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/melting-glaciers-misunderstood-a-scientific-perspective/"><u>Melting Glaciers Misunderstood: A Scientific Perspective</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-your-spot-enroll-in-googles-innovative-bard-ai-conversation-service/"><u>Secure Your Spot: Enroll in Google's Innovative BARD AI Conversation Service!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/soundscapes-for-social-scenarios-on-facebook/"><u>Soundscapes for Social Scenarios on Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-code-with-unique-ai-tools-beyond-chatgpt/"><u>The Future of Code with Unique AI Tools Beyond ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-reasons-to-opt-for-the-sleeker-iphone-16-pro-mini-instead-of-the-iphone-16-pro-max-this-year-analysis-by-zdnet/"><u>Top Reasons to Opt for the Sleeker iPhone 16 Pro Mini Instead of the iPhone 16 Pro Max This Year | Analysis by ZDNET</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-incorporating-vimeo-videos-seamlessly-in-microsoft-slides/"><u>[New] 2024 Approved Incorporating Vimeo Videos Seamlessly in Microsoft Slides</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-image-clarity-combatting-unwanted-motion/"><u>[Updated] Image Clarity Combatting Unwanted Motion</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-thriving-in-the-digital-space-crafting-high-impact-fb-videos/"><u>2024 Approved Thriving in the Digital Space Crafting High-Impact FB Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-resume-game-with-ai-innovation/"><u>Elevate Your Resume Game with AI Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enterprise-advancement-through-expanded-api-scope-gpt-whisper/"><u>Enterprise Advancement Through Expanded API Scope: GPT, Whisper</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ai-systems-emulate-human-talking-patterns/"><u>How AI Systems Emulate Human Talking Patterns</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insightful-interaction-how-chatgpt-revolutionizes-data-analysis/"><u>Insightful Interaction: How ChatGPT Revolutionizes Data Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unboxing-savings-alert-score-an-unbelievable-price-on-apple-watch-series-10-only-99-when-you-preorder-now-at-best-buy-zdnet-insights/"><u>Unboxing Savings Alert: Score an Unbelievable Price on Apple Watch Series 10 - Only $99 When You Preorder Now at Best Buy | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uniting-giants-how-bzs-games-meet-microsofts-ai-visionaries-tech-dialogue/"><u>Uniting Giants: How BZ's Games Meet Microsoft's AI Visionaries [Tech Dialogue]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-a23-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy A23 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

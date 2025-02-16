@@ -1,7 +1,7 @@
 ---
 title: "Claude 3: A Tool for Everyone?"
-date: 2025-01-30T07:33:19.349Z
-updated: 2025-01-31T18:11:18.668Z
+date: 2025-01-27T18:58:48.872Z
+updated: 2025-02-02T19:32:55.779Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 * [What Can You Do With Claude 3?](https://atezr.pxf.io/752omg)
 * [Claude 3 vs. ChatGPT](https://parisrhonecom.sjv.io/zqobqr)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Claude 3 from Anthropic offers a significant leap from Claude 2 and outperforms GPT-4 in various tasks.
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
  Anthropic has announced the release of Claude 3—a family of AI models with the potential to upset GPT-4\. It has outstanding potential, but is it ready to take ChatGPT's crown?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Claude 3?
@@ -77,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 ![ChatGPT vs Claude AI logos](https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae116eaf3e790989364bc8da0ce.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A quick way to test the performance of an AI model is to check how well it stacks up against the best in the market: GPT-4\. Of course, I put both models to the test; how well does Anthropic's Claude 3 stack up against the colossal GPT-4?
@@ -91,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And here is Claude 3's result when asked to do the same.
@@ -102,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  After trying more complex programming tests, Claude was the better model in several cases, while GPT-4 also had its wins. While I can't conclusively say Claude 3 is better at programming logic, if there was a huge gap between the two models, that gap would almost certainly have shrunk.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Claude vs. ChatGPT: Common Sense Reasoning
 
  I went ahead to test both models on common sense reasoning. Working with AI chatbots is an interesting paradox. AI chatbots can handle complex tasks with ease but often struggle with basic problems that require common sense or logic. So, we gave both models a series of seemingly straightforward questions that required common sense to correctly answer.
@@ -114,11 +106,19 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 ![ChatGPT answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-answers-trick-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT answered correctly even without GPT-4\. If you are wondering the reason for the choice of question, well, chatbots have historically failed woefully at this sort of questioning line. Up next was Claude's turn to answer.
 
 ![testing Claude 3 on commonsense reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/testing-claude-3-on-commonsense-reasoning.jpg)
 
  Claude's response wasn't exactly a definitive answer, but it was able to identify the key information; you don't bury survivors. It's important to note that the last time we asked Claude 2 the same question, it wasn't able to see through the common sense trap.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Creative Writing
 
@@ -129,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
  Here's ChatGPT's take:
 
 ![ChatGPT writes lyrics to a rap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-lyrics-to-a-rap-song.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And here's Claude's response, using the same prompt.
 
@@ -147,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
  Unlike ChatGPT, Claude struggled with identifying buildings among others, and the failure rate increased if the building was not in the US or China. However, it had no problem identifying obfuscated versions of the Eiffel Tower or the Empire State Building.
 
 ![Empire state building identified by Claude 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/empire-state-building-identified-by-claude-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT is clearly better at this, but considering Claude 3 is Anthropic's first attempt at building a multimodal AI model, it wasn't a bad outing.
 
@@ -169,24 +169,15 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-colors-unleashed-practical-application-of-color-theory-for-2024/"><u>[New] Colors Unleashed Practical Application of Color Theory for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-authority-list-top-10-sports-and-football-streaming-applications-cutting-edge/"><u>[Updated] Authority List Top 10 Sports & Football Streaming Applications, Cutting Edge</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-how-to-make-fortnite-thumbnail-in-30-seconds/"><u>[Updated] In 2024, How to Make Fortnite Thumbnail in 30 Seconds</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/top3/"><u>最適なサンプリングレート変換ウェブサイトランキングTOP3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-psychiatry-the-9-risks-that-may-sneak-up-on-you/"><u>AI Psychiatry: The 9 Risks That May Sneak Up on You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbot-showdown-are-we-on-the-verge-of-change/"><u>ChatBot Showdown: Are We on the Verge of Change?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-alert-for-device-owners-fixing-the-hazardous-lithium-issue-affecting-airtags-and-more-insider-guide/"><u>Critical Alert for Device Owners: Fixing the Hazardous Lithium Issue Affecting AirTags & More, Insider Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-client-engagement-with-gpt-in-therapy-sessions/"><u>Enhancing Client Engagement with GPT in Therapy Sessions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-genre-to-page-the-ultimate-guide-to-top-5-ai-reading-apps-and-sites/"><u>From Genre to Page: The Ultimate Guide to Top 5 AI Reading Apps and Sites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-apple-is-facilitating-the-move-to-android-devices-for-users-exclusive-reports/"><u>How Apple Is Facilitating the Move to Android Devices for Users - Exclusive Reports</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-poco-f5-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Poco F5 Pro 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-poco-f5-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Poco F5 5G Phone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-top-10-video-making-apps-iphone-android-edition/"><u>In 2024, Top 10 Video-Making Apps IPhone, Android Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-your-next-purchase-should-you-opt-for-macbook-pro-or-macbook-air-expert-insights-from-zdnet/"><u>Navigating Your Next Purchase: Should You Opt for MacBook Pro or MacBook Air? Expert Insights From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pushing-boundaries-the-future-of-generative-systems/"><u>Pushing Boundaries: The Future of Generative Systems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-simplified-approach-for-transforming-flac-music-tracks-into-m4a-format/"><u>The Simplified Approach for Transforming FLAC Music Tracks Into M4A Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transition-from-finewoven-to-beats-accessories-as-apple-revamps-lineup-revealed/"><u>Transition From FineWoven to Beats Accessories as Apple Revamps Lineup, Revealed</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-iphoneipad-photo-upload-error-on-windows-os-w11-edition/"><u>Troubleshooting iPhone/iPad Photo Upload Error on Windows OS, W11 Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-study-success-with-smart-gpt-notes/"><u>Unlock Study Success with Smart GPT Notes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-effective-screen-recording-with-a-focus-on-usability/"><u>2024 Approved Effective Screen Recording with a Focus on Usability</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-exploring-benq-bl2711u-ultra-hd-monitor-deep-dive/"><u>2024 Approved Exploring BenQ BL2711U Ultra-HD Monitor Deep Dive</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-level-mp4-experience-integrating-advanced-srt-audio/"><u>2024 Approved Next-Level MP4 Experience Integrating Advanced SRT Audio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-tokens-maximizing-chatgpt-capacity/"><u>Beyond Tokens: Maximizing ChatGPT Capacity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-owc-mercury-pro-analysis-top-tier-reliability-meets-unmatched-velocity/"><u>Comprehensive OWC Mercury Pro Analysis: Top-Tier Reliability Meets Unmatched Velocity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-public-speaking-with-these-ai-helpers/"><u>Elevate Your Public Speaking with These AI Helpers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-11-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme 11 Pro?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launching-chatgpt-bash-scripts-and-shellgpt-tactics/"><u>Launching ChatGPT: Bash Scripts and ShellGPT Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talk-tech-titles-exploring-the-distinctions-between-gpt-and-bings-bot-dialogues/"><u>Talk Tech Titles: Exploring the Distinctions Between GPT & Bing's Bot Dialogues</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970061-9781088232231-under-the-hands-of-mercy/"><u>Under the Hands of Mercy | Free Book</u></a></li>
 </ul></div>
 

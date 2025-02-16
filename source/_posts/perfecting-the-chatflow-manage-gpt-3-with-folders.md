@@ -1,7 +1,7 @@
 ---
 title: "Perfecting the ChatFlow: Manage GPT-3 with Folders"
-date: 2024-08-25T17:34:53.981Z
-updated: 2024-08-26T17:34:53.981Z
+date: 2025-01-28T18:30:28.800Z
+updated: 2025-02-02T18:45:02.785Z
 tags:
   - chatgpt
   - open-ai
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 
  That's where the ChatGPT Folders Chrome extension comes into play, allowing you to organize, structure, and pin your ChatGPT conversations. Here's how it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT Folders to Organize Your ChatGPT Conversations
 
  Let's face it; the ChatGPT conversation history isn't the chatbot's strongest feature. Having the list of prior conversations is handy, but without a way to manage it properly, it's not up to scratch.
 
  The [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) Chrome extension addresses this problem directly, adding support for folders, subfolders, pinning, bulk conversation deletion, and the option to [share your ChatGPT conversations](https://www.makeuseof.com/apps-extensions-export-share-chatgpt-history/). Now, I imagine OpenAI will add all of these features to ChatGPT in the future ([ChatGPT link sharing is already enabled](https://www.makeuseof.com/share-chatgpt-chats-links/)). But the future isn't now, and ChatGPT Folders is delivering the goods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Download and Install ChatGPT Folders
 
@@ -38,33 +46,28 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
  Launch ChatGPT to check ChatGPT Folders installed correctly. You should now find a new toolbar atop your ChatGPT conversation history with options to create a New Conversation and, most importantly, a New Folder. You'll also note that a tree structure now exists alongside your ChatGPT conversations, which you can use to select specific chats you want to move into a folder, delete, and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Create a New Folder, Add Your Conversations
 
  From here, you can begin creating new folders to manage your ChatGPT conversations.
 
 ![adding chatgpt conversations to folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adding-chatgpt-conversations-to-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. From the top bar, select **New Folder**. Give it a name.
 2. Now, select any ChatGPT conversations you want to add by selecting the check box.
 3. You can either drag and drop the selected folders into your new folder or right-click and select **Move to > New Folder**.  
 ![moving chatgpt conversations to new folder chatgpt folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/moving-chatgpt-conversations-to-new-folder-chatgpt-folders.jpg)
 4. Select your folder. It will open using the same tree structure, where you'll find your grouped conversations.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. **Optional**: Inside your new folder, select the **New Folder** button once more to create a subfolder. Use the same steps as before to transfer ChatGPT conversations to the subfolder.
 
 ![chatgpt folders with nested conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-with-nested-conversations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. How to Delete a Folder and Reset Your Conversations
 
  Deleting a folder and resetting your conversations are two different processes, but you'll want to know about both.
@@ -76,14 +79,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![chatgpt folders reset conversations and folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-reset-conversations-and-folders.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the three-line button at the top of the ChatGPT history, then **Reset folders and conversations**. Doing so will remove all of the ChatGPT Folders you've created and return your ChatGPT conversations to their original state. Note that this isn't the same as [deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/).
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Are ChatGPT Folders the ChatGPT Future?
 
  The additional functionality ChatGPT Folders brings to ChatGPT is most welcome.
@@ -104,14 +104,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  That's where the ChatGPT Folders Chrome extension comes into play, allowing you to organize, structure, and pin your ChatGPT conversations. Here's how it works.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +117,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-perfect-pixels-with-pro-android-tips/"><u>[New] 2024 Approved Perfect Pixels with Pro Android Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-smart-tagging-amplifying-your-youtube-presence/"><u>[Updated] 2024 Approved Smart Tagging Amplifying Your YouTube Presence</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y36-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-5-facebook-video-grabber/"><u>2024 Approved Top 5 Facebook Video Grabber</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-bots-the-dangerous-gap/"><u>Bypassing Bots: The Dangerous Gap</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-next-gen-art-the-essence-of-using-microsofts-copilot/"><u>Crafting Next-Gen Art: The Essence of Using Microsoft's Copilot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-labor-day-sale-get-your-apple-pencil-2nd-gen-for-just-95-limited-time-deal/"><u>Exclusive Labor Day Sale: Get Your Apple Pencil (2Nd Gen) for Just $95 – Limited Time Deal!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/resolviendo-el-problema-por-que-desaparecen-las-fotos-de-la-tarjeta-sd-en-tu-camara/"><u>Resolviendo El Problema: Por Qué Desaparecen Las Fotos De La Tarjeta SD en Tu Cámara</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safe-and-smart-the-ultimate-guide-to-choosing-the-perfect-phone-for-your-child-insights-by-zdnet/"><u>Safe and Smart: The Ultimate Guide to Choosing the Perfect Phone for Your Child - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spot-the-tricks-deceptive-chatgpt-methods/"><u>Spot the Tricks: Deceptive ChatGPT Methods</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2526813-9780007387588-the-real-witches-kitchen/"><u>The Real Witches’ Kitchen | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-honor-x7b-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Honor X7b Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-resolve-mozilla-thunderbird-launch-issues/"><u>Troubleshooting Steps to Resolve Mozilla Thunderbird Launch Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-impact-of-apple-pay-later-on-your-experian-credit-reporting-what-to-expect-next/"><u>Understanding the Impact of Apple Pay Later on Your Experian Credit Reporting – What to Expect Next</u></a></li>
+</ul></div>
 

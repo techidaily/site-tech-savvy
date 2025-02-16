@@ -1,7 +1,7 @@
 ---
 title: Get Alerts From Slack Directly on Your Apple Watch - A Step-by-Step Guide
-date: 2025-01-29T08:31:27.288Z
-updated: 2025-01-31T22:36:21.437Z
+date: 2025-01-30T16:43:56.787Z
+updated: 2025-02-02T18:59:20.895Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ Apple's known for creating products that "just work," and the [Apple Watch](http
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [You can already use the Apple Watch's double-tap feature. Here's how](https://www.zdnet.com/article/you-can-already-use-the-apple-watchs-double-tap-feature-heres-how/)
@@ -36,7 +40,7 @@ But, even with all of this simplicity, you may still have questions. What if you
 **Also: [Want a new Apple Watch? We compared the 5 best models available](https://www.zdnet.com/article/best-apple-watch/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to set up an Apple Watch
@@ -83,7 +87,7 @@ It's much easier to restore from a backup if you have one for this watch, or an 
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 4: Sign in with your Apple ID to link the Apple watch to your iCloud account
@@ -91,10 +95,6 @@ Michael Gariffo/ZDNET
 This step allows your new Apple Watch to sync your personal data, access Find My functionality, and maintain its Activation Lock (a security measure designed to ensure only you can use your Apple Watch). While you can skip this step and do it later in the Watch app on your iPhone, it's strongly recommended that you complete it as soon as possible. 
 
 If you're setting up a used Apple Watch that was previously activated on another iCloud account, you could run into a hiccup at this point. If the watch was reset correctly, it should activate and tie itself to your iCloud account. However, if it wasn't reset, or it was reset without being unpaired from its previous iPhone, your setup may be blocked by the previous owner's Activation Lock. If this occurs, Apple has [a guide on how to proceed](https://support.apple.com/en-us/HT205009). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 5: Set your passcode
 
@@ -132,14 +132,10 @@ Expect to be staring at a loading animation like this for as long as 20 minutes.
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can you set up an Apple Watch without an iPhone?
@@ -155,6 +151,10 @@ The process is almost identical to the steps above, but requires the use of an A
 **Also: [How to use Apple Cash Family to help kids develop good money habits](https://www.zdnet.com/article/icloud-shared-photo-library-auto-shares-your-photos-with-family/)**
 
 The main differences you'll run into during family setups are the requirement to assign the watch to a member of your family, choosing whether or not that family member can buy apps without your permission, and a few parental control settings, like disabling most functionality during "Schooltime," or setting up movement goals. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can you set up an Apple Watch with an iPad?
 
@@ -202,18 +202,18 @@ To do this, open the Watch app on your iPhone. Then, tap **My Watch**, followed 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-blueprint-for-a-viral-solitary-audio-experience/"><u>[New] In 2024, Blueprint for a Viral Solitary Audio Experience</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-downloading-from-vimeo-made-simple-software-free-or-not/"><u>[New] In 2024, Downloading From Vimeo Made Simple Software-Free or Not?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-enhancing-video-quality-with-right-lighting-for-2024/"><u>[Updated] Enhancing Video Quality with Right Lighting for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-outro-crafting-for-beginners-top-6-free-resources/"><u>2024 Approved Outro Crafting for Beginners Top 6 Free Resources</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-filmmaking-on-a-shoestring-10-essential-low-budget-tools/"><u>In 2024, Filmmaking on a Shoestring 10 Essential Low-Budget Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-apples-smart-tech-evolution-comprehensive-insights-into-upcoming-ai-features-for-your-devices/"><u>Introducing Apple's Smart Tech Evolution: Comprehensive Insights Into Upcoming AI Features for Your Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ios-18-update-enables-native-phone-call-recording-without-extra-apps-insights/"><u>IOS 18 Update Enables Native Phone Call Recording Without Extra Apps - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-call-capture-tutorial-is-it-legal-expert-advice/"><u>IPhone Call Capture Tutorial: Is It Legal? - Expert Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-resilient-chatgpt-sign-in/"><u>Mastering the Art of Resilient ChatGPT Sign-In</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-ai-tools-to-master-online-information-questing/"><u>Pioneering AI Tools to Master Online Information Questing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-conversations-key-updates-from-chatgpt/"><u>Revolutionizing Conversations: Key Updates From ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stop-irritating-sms-invasion-master-three-simple-strategies-for-silencing-spam-alerts-on-your-iphone/"><u>Stop Irritating SMS Invasion: Master Three Simple Strategies for Silencing Spam Alerts on Your iPhone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-your-pathway-to-professional-looking-animated-gifs-online/"><u>[Updated] In 2024, Your Pathway to Professional-Looking Animated GIFs Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-insta-marketing-dynamo-crafting-winning-strategies-with-videos-on-social-media-for-2024/"><u>[Updated] Insta-Marketing Dynamo Crafting Winning Strategies with Videos on Social Media for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-selfies-on-instagram-a-guide-for-2024/"><u>[Updated] Mastering Selfies on Instagram A Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-composers-path-to-infusing-music-in-online-videos-fb/"><u>[Updated] The Composer's Path to Infusing Music in Online Videos (FB)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-flick-dvd/"><u>DVD Flickテクニック集: 効果的なフォーマット、日本語対応、動画からDVDへの変換手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-big-ai-moment-predicting-the-release-of-gpt-5/"><u>Next Big AI Moment: Predicting the Release of GPT-5?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-diving-into-the-delays-of-assassins-creed-valhalla-launch-and-how-to-overcome-them/"><u>Solved: Diving Into the Delays of Assassin's Creed Valhalla Launch and How to Overcome Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/starting-off-as-an-innovator-in-conversational-systems/"><u>Starting Off as an Innovator in Conversational Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-system-the-windows-11-reset-method/"><u>Streamlining Your System: The Windows 11 Reset Method</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-drivers-can-look-forward-to-zoom-conferencing-on-the-road-insights-from-zdnet/"><u>Tesla Drivers Can Look Forward to Zoom Conferencing on the Road: Insights From ZDNet</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/troubleshooting-guide-how-to-fix-winx-dvd-rippers-partial-movie-ripping-issue/"><u>Troubleshooting Guide: How To Fix WinX DVD Ripper's Partial Movie Ripping Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truthcoin-seeking-honesty-or-hype/"><u>TruthCoin: Seeking Honesty or Hype?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-makes-gpt-enterprises-stand-out/"><u>What Makes GPT Enterprises Stand Out?</u></a></li>
 </ul></div>
 

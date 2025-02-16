@@ -1,7 +1,7 @@
 ---
 title: GPT-4 Unfolds for the Masses
-date: 2025-01-29T08:06:40.737Z
-updated: 2025-02-01T04:46:53.591Z
+date: 2025-01-29T23:59:32.627Z
+updated: 2025-02-02T20:58:01.906Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/4e8500390862c71ba9fd3f45025661c15b6c8c5d9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/4e8500390862c71ba9fd3f45025661c15b6c8c5d9
 
 So, what is GPT-4o?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GPT-4o?
 
  GPT-4o is the ChatGPT developer OpenAI's newest AI model, revealed at its early May 2024 "Spring Update" event. It will coexist with its previous top-performing model, GPT-4 Turbo, at least for now, and brings a huge number of updates to the tool.
@@ -51,7 +55,7 @@ So, what is GPT-4o?
 ![openai gpt4o peformance chart may 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/openai-gpt4o-peformance-chart-may-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
@@ -59,7 +63,7 @@ So, what is GPT-4o?
  Now, numbers are all very well and good, but what does that actually translate to? Well, again, working from OpenAI's numbers, GPT-4o "matches GPT-4 Turbo performance" for English writing and coding, is significantly faster in "non-English languages," and, most importantly, is faster and cheaper in terms of API use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4o Live Capabilities Are Astounding
@@ -74,10 +78,6 @@ So, what is GPT-4o?
 
  I was in Morocco recently, and even with Google Translate helping get some meaning into Arabic, the full context of the translation is never completely accurate. GPT-4o's live translation would have been incredibly useful!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Coding and Tutoring
 
  GPT-4o also brings significant upgrades to code interpretation and assistance using its multi-modal capabilities. Similar to the other tools, yes, ChatGPT could already work with some data, but its new model drastically steps this up.
@@ -85,7 +85,7 @@ So, what is GPT-4o?
  The ability to debug code using just your voice is remarkable. However, its real use will only become clear when actual programmers and developers begin using the tool. While ChatGPT's coding abilities are useful, they're only as useful as the knowledge of the user, like most generative AI tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does GPT-4o Launch? Is GPT-4o Free?
@@ -113,24 +113,18 @@ So, what is GPT-4o?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-link-building-101-a-content-marketers-guide/"><u>[New] 2024 Approved YouTube Link-Building 101 A Content Marketer's Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/addressing-the-major-oversight-of-the-most-recent-ipad-unveiling-solutions-for-apple-to-rectify-the-situation/"><u>Addressing the Major Oversight of the Most Recent iPad Unveiling – Solutions for Apple to Rectify the Situation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-how-gpt4all-operates/"><u>Behind-the-Scenes: How GPT4All Operates</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lenovo-thinkphone-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-gratuita-de-archivos-wav-a-mov-online-con-movavi/"><u>Conversión Gratuita De Archivos WAV a MOV Online Con Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortlessly-enhance-your-apple-watch-experience-with-these-expert-tips-zdnet/"><u>Effortlessly Enhance Your Apple Watch Experience with These Expert Tips | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-design-excellence-with-chatgpts-persona-tools/"><u>Elevating Design Excellence with ChatGPT's Persona Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-creativity-and-precision-with-ai-enhanced-design-tools/"><u>Enhancing Creativity & Precision with AI-Enhanced Design Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/exploring-the-jabra-elite-10-gen-2-unveiling-top-tier-audio-with-innovative-smart-charging-design/"><u>Exploring the Jabra Elite 10 Gen 2: Unveiling Top-Tier Audio with Innovative Smart Charging Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-the-iphone-14-hits-the-perfect-balance-a-comprehensive-review/"><u>How the iPhone 14 Hits the Perfect Balance - A Comprehensive Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-boost-engagement-crafting-the-perfect-instagram-unboxing/"><u>In 2024, Boost Engagement Crafting the Perfect Instagram Unboxing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-complete-transformation-handbook-using-morphvox-tech/"><u>In 2024, Complete Transformation Handbook Using MorphVOX Tech</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-avoid-pc-lag-in-wwe-2k20-with-easy-tweaks/"><u>Mastering the Fix: Avoid PC Lag in WWE 2K20 with Easy Tweaks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/new-zebra-printer-drivers-download-and-install-guide-for-windows-users/"><u>New Zebra Printer Drivers: Download and Install Guide for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-core-principles-unpacked-by-openai/"><u>The Core Principles Unpacked by OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-verifiers-guide-ensuring-authenticity-of-wellness-info/"><u>The Verifier's Guide: Ensuring Authenticity of Wellness Info</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-iphone-savings-and-discounts-in-july-2024-discover-on-zdnet/"><u>Top iPhone Savings & Discounts in July 2024 - Discover on ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/urgent-top-10-lost-iphone-x-solutions-revealed-for-2024/"><u>Urgent Top 10 Lost iPhone X Solutions Revealed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frame-your-life-with-iphones-top-10-photo-rules/"><u>[New] Frame Your Life with iPhone's Top 10 Photo Rules</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-quickest-online-platforms-transforming-gif-into-video/"><u>[New] Quickest Online Platforms Transforming GIF Into Video</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-virtual-anonymity-to-facebook-fame-how-to-expand-your-audience/"><u>[Updated] 2024 Approved From Virtual Anonymity to Facebook Fame How to Expand Your Audience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-interactive-slides-with-youtube-videos-for-2024/"><u>[Updated] Interactive Slides with YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-vs-chatgpt-the-4-innovative-improvements-that-redefine-interaction/"><u>Claude vs ChatGPT: The 4 Innovative Improvements that Redefine Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-claude-2-its-mechanisms-purpose/"><u>Delving Into Claude 2: Its Mechanisms, Purpose</u></a></li>
+<li><a href="https://discover-help.techidaily.com/essential-insights-into-windows-defender-analyzing-its-strengths-and-weaknesses-with-yl-software/"><u>Essential Insights Into Windows Defender - Analyzing Its Strengths and Weaknesses with YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mitigating-pressure-chatgpt-techniques/"><u>Mitigating Pressure: ChatGPT Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-cpu-excesses-windows-resource-monitors-secrets-revealed/"><u>Navigating CPU Excesses: Windows Resource Monitor's Secrets Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-gans-sidestep-common-errors/"><u>Navigating GANs: Sidestep Common Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-float-engaging-with-netflixs-picture-in-picture/"><u>The Art of Float Engaging with Netflix's Picture-in-Picture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-advanced-ai-dialogues-in-chrome-here-are-7-must-haves/"><u>Unlock Advanced AI Dialogues in Chrome: Here Are 7 Must-Haves</u></a></li>
 </ul></div>
 

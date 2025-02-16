@@ -1,7 +1,7 @@
 ---
 title: Transforming Tasks with ChatGPT for Professional Success
-date: 2024-08-25T17:35:28.206Z
-updated: 2024-08-26T17:35:28.206Z
+date: 2025-01-30T21:26:01.356Z
+updated: 2025-02-02T18:02:18.319Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 **SCROLL TO CONTINUE WITH CONTENT**
 
  Hiring executive assistants was once the privilege of CEOs. Today, artificial intelligence can be anyone's EA (Executive Assistant). If you need help with administrative tasks, here’s how to use ChatGPT as your personal assistant.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Ask ChatGPT to Manage Your To-Do List
 
@@ -61,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 
 ![interacting with chatgpt to help write a resume summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t185502-413.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We added “Let me know what details you need” in our prompt to help ChatGPT come up with the best answer. ChatGPT gives results based on what it knows. If you want the outcome to be more specific, provide it with solid information.
 
  ChatGPT’s answer was too long for a resume, so we asked it to summarize its response in two to three sentences. Later on, we realized that it was still too long for our taste, so we chose one sentence from ChatGPT’s response.
@@ -74,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 3. “Generate a creative tagline for our upcoming marketing campaign centered around \[product/service\].”
 4. “Give \[number\] synonyms for \[word\]."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Ask ChatGPT to Help With Email-Related Tasks
 
  Dealing with overflowing email inboxes can be overwhelming, especially for remote workers. ChatGPT can come to the rescue by assisting with various email-related tasks.
@@ -87,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 
 ![chatgpt summary of an email using bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t190106-778.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Other email prompts you can use:
 
 * “ChatGPT, compose an email to \[recipient\] regarding our meeting tomorrow and include the agenda.”
@@ -105,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 ![conversation with ChatGPT about HIPAA privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t190351-135.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As of this writing, ChatGPT can provide information up to its last knowledge update in September 2021\. [Forbes](https://www.forbes.com.au/news/innovation/chatgpt-removes-september-2021-knowledge-cutoff/) reports that Open AI will soon remove the knowledge cut-off restriction for all users. However, the timeline for this update is still unclear.
 
  If you want ChatGPT to help you learn about other topics, here are the prompts you can use:
@@ -116,9 +119,6 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 * “I’m trying to understand \[topic\]. Can you provide an overview?”
 * "Can you teach me how to \[skill\]?"
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 5\. Ask ChatGPT for Personalized Recommendations
 
  Sometimes, you need a quick work break to recharge. ChatGPT can be your go-to source for personalized recommendations in various areas of interest.
@@ -130,8 +130,9 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 ![conversation with ChatGPT asking for sitcom recommendations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t191243-497.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We used the following prompt for this example: “I want to watch a good sitcom this weekend. I enjoyed Friends and The Big Bang Theory. Can you give other recommendations?” ChatGPT gave ten sitcoms that fit our bill for a good weekend laugh.
 
  Other prompts to try:
@@ -143,8 +144,9 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
  Tip: ChatGPT is designed to understand and respond to natural language queries, so feel free to communicate with it conversationally.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Say Hello to Your Personal Assistant, ChatGPT
 
  Incorporating ChatGPT into your work routine enhances productivity, expands knowledge, and makes work more enjoyable. With its wide range of capabilities, ChatGPT provides a reliable digital companion for work.
@@ -161,8 +163,6 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +170,22 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-expedite-content-indexing-with-these-7-free-youtube-tag-extractors/"><u>[New] In 2024, Expedite Content Indexing with These 7 FREE YouTube Tag Extractors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>[New] The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-deciphering-the-latest-instagram-posting-rules/"><u>[Updated] 2024 Approved Deciphering the Latest Instagram Posting Rules</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-achieving-high-quality-videos-with-your-cellphone-webcam-for-2024/"><u>[Updated] Achieving High-Quality Videos with Your Cellphone Webcam for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-inspiring-action-through-impactful-market-research-communication-for-2024/"><u>[Updated] Inspiring Action Through Impactful Market Research Communication for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-vpn-use-improve-privacy-while-using-chatgpt/"><u>Can VPN Use Improve Privacy While Using ChatGPT?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortless-inclusion-of-linktree-in-your-tiktok-bio/"><u>Effortless Inclusion of Linktree in Your TikTok Bio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-3-an-ally-for-aspiring-poets-and-writers/"><u>GPT-3: An Ally for Aspiring Poets and Writers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-x-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone X Without a Home Button</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nubia-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nubia</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-transitions-gpts-horizon-altered/"><u>OpenAI Transitions, GPT's Horizon Altered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personal-development-and-the-power-of-chatgpt/"><u>Personal Development and the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-up-various-mac-os-network-interfaces-for-enhanced-connection-options/"><u>Setting Up Various MAC OS Network Interfaces for Enhanced Connection Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-made-easy-unveil-top-advantages-of-macos-15-on-your-apple-macbook/"><u>Upgrading Made Easy: Unveil Top Advantages of MacOS 15 on Your Apple MacBook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-glamour-a-guide-to-video-color-balance/"><u>YouTube Glamour A Guide to Video Color Balance</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crafting GPT Alerts to Spot Phony Bot Interactions
-date: 2024-08-25T17:32:07.531Z
-updated: 2024-08-26T17:32:07.531Z
+date: 2025-01-28T18:54:59.483Z
+updated: 2025-02-02T19:13:47.543Z
 tags:
   - chatgpt
   - open-ai
@@ -15,10 +15,18 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
 ## Crafting GPT Alerts to Spot Phony Bot Interactions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is ChatGPT's GPT Mentions Feature?](https://appsumo.8odi.net/gmezyk)
 * [How to Use the GPT Mentions Feature](https://boody-eco-wear.pxf.io/qyo4oo)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -54,11 +62,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
  Let's say you wanted to gather some key data and then create an infographic to introduce what you've found. To find the data, you start a chat with the Consensus GPT. Once Consensus gives you the relevant information, you mention Canva in your chat, and click on the Canva GPT option.
@@ -66,22 +69,17 @@ The powerful video editing program for your Windows PC</a>
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, you're chatting with Canva until you click "X" on the **Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
 
  Note that, before a custom GPT connects with any other platform to retrieve data, it'll ask your permission to do so first. Just click **Allow** if you're happy to go ahead.
@@ -93,15 +91,17 @@ The powerful video editing program for your Windows PC</a>
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, we have hotels, flights, and trails for our trip all in one chat!
 
  There's no end to what you can do with this new GPT Mentions feature, be it for work or play. If you're a ChatGPT Plus user, give this handy feature a try today to see what you can do when talking to two or more GPTs at once.
@@ -114,8 +114,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +121,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-generating-attention-grabbing-video-teasers/"><u>[New] 2024 Approved Generating Attention-Grabbing Video Teasers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ioneering-youtube-success-with-targeted-seo-practices/"><u>[New] Pioneering YouTube Success with Targeted SEO Practices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dynamic-designs-mastering-motion-blur-in-adobe-ai-creations-for-2024/"><u>[Updated] Dynamic Designs Mastering Motion Blur in Adobe AI Creations for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-beginners-guide-to-earning-success/"><u>[Updated] In 2024, YouTube Beginners' Guide to Earning Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cultivating-intellect-over-copy-pasting-with-gpt/"><u>Cultivating Intellect Over Copy-Pasting with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptzero-decoded-pinpointing-non-human-text-creators/"><u>GPTZero Decoded: Pinpointing Non-Human Text Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-development-apples-affordable-augmented-reality-spectacles-insights/"><u>In Development: Apple's Affordable Augmented Reality Spectacles - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-air-evolution-comparing-new-m3-chip-to-previous-generation-m2-for-your-next-purchase-techreviewzdnet/"><u>Macbook Air Evolution: Comparing New M3 Chip to Previous Generation M2 for Your Next Purchase | TechReviewZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-sonos-devices-a-strategy-for-apples-intervention/"><u>Reviving Sonos Devices: A Strategy for Apple's Intervention</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screen-capture-showdown-is-obs-better-than-fraps/"><u>Screen Capture Showdown Is OBS Better Than Fraps?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-smart-guide-to-procuring-premium-image-banners-for-2024/"><u>The Smart Guide to Procuring Premium Image Banners for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-9-smartphone-gadgets-for-aspiring-vloggers-to-upgrade-their-craft-for-2024/"><u>Top 9 Smartphone Gadgets for Aspiring Vloggers to Upgrade Their Craft for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-wallet-reviews-comprehensive-analysis-by-tech-experts/"><u>Top-Rated AirTag Wallet Reviews : Comprehensive Analysis by Tech Experts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT to Enhance Your D&D Games
-date: 2024-08-25T17:34:39.225Z
-updated: 2024-08-26T17:34:39.225Z
+date: 2025-01-29T22:32:55.476Z
+updated: 2025-02-02T17:59:12.877Z
 tags:
   - chatgpt
   - open-ai
@@ -31,13 +31,25 @@ thumbnail: https://thmb.techidaily.com/7079de538a777b736a226ef7753a657beca0fed63
 
 ![ChatGPT cloud city prompt and its results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-cloud-city-prompt-and-its-results.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can use this as a good premise to build your own lore and create a plot hook your players can use to get into the campaign.
 
  Also, you can use it to answer impromptu questions about the story players might ask, which you didn’t prepare for. For example, one of the players in our campaign asked an elder about the people who founded the city. It was just a matter of inputting that question into ChatGPT and making the answer part of the lore.
 
 ![ChatGPT answering question on the history of Sky City](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answering-question-on-the-history-of-sky-city.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, ChatGPT isn’t very good with original creativity and won’t be good with naming things. You should come up with names yourself if you wish for more original names.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Good at Descriptions
 
@@ -55,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/7079de538a777b736a226ef7753a657beca0fed63
 
  If you don’t know which VTT to use for your D&D game, we have a list of [the best VTTs for D&D](https://www.makeuseof.com/the-best-virtual-tabletops-vtts-to-play-dd-and-other-rpgs/) you can work with.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Generating Loot Is a Lot Faster
 
  Generating loot might also be difficult to do on the fly as a game master. It’s hard to come up with balanced and relevant loot items for players unless you have years of improvisational experience.
@@ -71,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/7079de538a777b736a226ef7753a657beca0fed63
 ![Five D&D 5e items generated as loot by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/five-d-d-5e-items-generated-as-loot-by-chatgpt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Helps With Rule Lawyering
 
  Even the most experienced D&D game masters don’t know all the game's rules. There are so many classes, subclasses, spells, abilities, and items that it might be impossible to internalize all the rules. You can use ChatGPT to search for and settle debates on rules that pop up while playing a game.
@@ -81,14 +91,12 @@ thumbnail: https://thmb.techidaily.com/7079de538a777b736a226ef7753a657beca0fed63
 
 ![ChatGPT suggesting to use an Investigation roll for a D&D scenario](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-suggesting-to-use-an-investigation-roll-for-a-d-d-scenario.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the image above, ChatGPT resolved a scenario where the players had to find a handprint stain in a burgled room as an Investigation roll, not a Perception roll. Additionally, it also gave its reasons why, which could be a great explanation for players who would like to argue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Calculations and Simulating Results
 
  Game masters are tasked with a lot during the course of the game. One of these things is simulating physics and running calculations to ensure that things happen as they would in a realistic scenario.
@@ -101,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/7079de538a777b736a226ef7753a657beca0fed63
 
  It’s still worth noting that sometimes the AI may generate wrong results, as that’s one of the [issues with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). You should still use your discretion as a game master and a human to make the right calls.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## For More Immersive NPC Dialogues
 
  Some games can get pretty immersive, and as a game master, you can use ChatGPT to keep up. Players can get lost in character and begin to ask very specific questions to NPCs.
@@ -112,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/7079de538a777b736a226ef7753a657beca0fed63
 
 ![ChatGPT answering the question on how a bard should string their lute](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answering-the-question-on-how-a-bard-should-string-their-lute.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## There’s More AI Can Do in Your Games
 
  We only listed here all the things ChatGPT can do. But there are still other free AI products you can use to enhance your games. There are AIs that can generate images that you can use for scenes and characters.
@@ -132,8 +133,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +140,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-crafting-instagram-reels-like-professionals-top-10-tools/"><u>[New] 2024 Approved Crafting Instagram Reels Like Professionals - Top 10 Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-trustworthy-tiktok-audience-growers-for-2024/"><u>[New] Trustworthy TikTok Audience Growers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-becoming-a-pro-at-iphone-hdr-imaging/"><u>[Updated] Becoming a Pro at iPhone HDR Imaging</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-ps3-classics-on-your-pc-with-top-tools/"><u>[Updated] Mastering PS3 Classics on Your PC with Top Tools</u></a></li>
+<li><a href="https://discover-best.techidaily.com/beat-the-size-cap-in-discord-for-windows-expert-tips-and-tricks-revealed/"><u>Beat the Size Cap in Discord for Windows - Expert Tips & Tricks Revealed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-how-to-enter-the-marvel-universe-using-apples-vision-pro-technology-get-yours-on-may-30th/"><u>Discover How to Enter the Marvel Universe Using Apple's Vision Pro Technology – Get Yours on May 30Th.</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/easy-steps-convert-your-dvd-into-a-digital-file-download-movies-safely/"><u>Easy Steps: Convert Your DVD Into a Digital File – Download Movies Safely</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-anthropics-ai-creative-suite/"><u>Exploring Anthropic's AI Creative Suite</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fostering-bonds-in-a-digital-age-using-chatai-tools/"><u>Fostering Bonds in a Digital Age Using ChatAI Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-cross-platform-messaging-sending-and-receiving-imessages-via-windows-according-to-zdnet-experts/"><u>Mastering Cross-Platform Messaging: Sending & Receiving iMessages via Windows, According to ZDNet Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-throughout-best-5-prompt-geners/"><u>Revolutionizing AI Throughout: Best 5 Prompt Geners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solve-instant-problems-in-live-chatgpt-transmissions/"><u>Solve Instant Problems in Live ChatGPT Transmissions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-wave-of-risks-in-generative-ai-tech/"><u>The Next Wave of Risks in Generative AI Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-crypto-warning-signs-for-bingchat-token-schemes/"><u>The Ultimate Crypto Warning Signs for BingChat Token Schemes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-places-to-preorder-ipad-pro-ipad-air-and-new-apple-pencil-pro-exclusive-current-offers/"><u>Top Places to Preorder iPad Pro, iPad Air & New Apple Pencil Pro: Exclusive Current Offers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-mastery-through-gpt-3-creating-interactive-experiences/"><u>Web Mastery Through GPT-3: Creating Interactive Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-trusting-just-cloud-service-providers-isnt-enough-prioritizing-your-own-data-protection-strategies/"><u>Why Trusting Just Cloud Service Providers Isn't Enough: Prioritizing Your Own Data Protection Strategies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/winning-strategies-with-fifa-19-why-its-a-leader-in-sports-gaming/"><u>Winning Strategies with FIFA 19: Why It's a Leader in Sports Gaming</u></a></li>
+</ul></div>
 

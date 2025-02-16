@@ -1,7 +1,7 @@
 ---
 title: Is iOS 18 Causing Issues with Your iPad? Essential Info & Tips Pre-Installation - Insights From ZDNet
-date: 2025-01-27T12:16:14.711Z
-updated: 2025-02-01T06:07:53.061Z
+date: 2025-01-26T21:28:22.008Z
+updated: 2025-02-02T17:17:55.395Z
 tags:
   - apple
 categories:
@@ -39,6 +39,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Airplane Mode
 
@@ -91,7 +95,7 @@ As mentioned above, Travel Mode and Airplane Mode are independent settings. That
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Planes, trains, automobiles - and boats
@@ -99,7 +103,7 @@ Screenshot by David Gewirtz/ZDNET
 While I have no intention of taking my Vision Pro out and about, I have had a chance to review the experiences shared by others online. Here are some thoughts for each of the vehicle types you're likely to be traveling in -- _as a passenger_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Airplanes
@@ -113,7 +117,7 @@ You'll need to account for where the battery goes, where your [travel case](http
 That said, as long as you have enough battery power (or [spare batteries](https://www.apple.com/shop/product/MW283LL/A/apple-vision-pro-battery)), your experience on a plane should be fairly straightforward as this was a use case Apple clearly designed for. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Trains
@@ -124,10 +128,6 @@ ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdn
 
 He also found that the lenses tended to fog up. While not necessarily a deal-killer, lens issues can be a serious problem when using the device, especially in a humid environment. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Automobiles
 
 While highway travel in a car may seem similar to air and train travel -- at least to the Vision Pro's sensors -- traveling locally is very different. Air and train travel are generally straight-line movements with gentle curves that might not even be noticeable. 
@@ -137,10 +137,6 @@ Highway travel, particularly on long stretches of the national highway system in
 **Also: [Connected cars, powered by AI, will make up 95% of all vehicles on the road by 2030](https://www.zdnet.com/article/connected-cars-powered-by-ai-will-make-up-95-of-all-vehicles-on-the-road-by-2030/)**
 
 Travel mode will certainly help, but expect it to blink in and out depending on what's going on outside the vehicle. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Shipboard travel
 
@@ -155,6 +151,10 @@ I've been on ships in rough seas, and here's the thing: You don't want to be wat
 I've also lived through devastating earthquakes. The [Loma Prieta earthquake](https://en.wikipedia.org/wiki/1989%5FLoma%5FPrieta%5Fearthquake) had a magnitude of 6.9, lasted approximately 15 seconds, and destroyed much of the San Francisco area. Sailing on rough seas is like being in a quake as large or larger than the Loma Prieta quake, but doing it for three, six, 12, or even 24 _hours_. 
 
 If you're sailing and the vessel is rolling or heaving, give up on the entertainment, and do your best not to hurl your lunch. In fact, try not to eat any lunch. Just hang in there until it's over. There will be time to watch _Avatar: The Way of Water_ in 3D another day, when the seas are calm and so is your stomach lining. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Situational awareness
 
@@ -211,24 +211,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-creating-captivating-360-footage-for-social-media-sharing/"><u>[New] In 2024, Creating Captivating 360 Footage for Social Media Sharing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-premium-commercial-sky-data-haven-for-2024/"><u>[New] Premium Commercial Sky Data Haven for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-professional-streaming-best-devices-to-record-live-sessions/"><u>[New] Professional Streaming Best Devices to Record Live Sessions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-efficiently-transmit-via-obs-on-fb-live/"><u>[Updated] 2024 Approved Efficiently Transmit via OBS on FB Live</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-disappear-red-eye-effect-on-iphone-images-at-no-charge-for-2024/"><u>[Updated] Disappear Red Eye Effect on iPhone Images at No Charge for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-hidden-gem-in-top-office-gadgets-the-most-underappreciated-2-in-1-device-of-the-year-insights-from-zdnet/"><u>A Hidden Gem in Top Office Gadgets: The Most Underappreciated 2-in-1 Device of the Year - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-perfect-ipad-for-your-child-in-202n-ultimate-list/"><u>Choosing the Perfect iPad for Your Child in 202N Ultimate List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-july-2024-iphone-savings-and-deals-curated-for-tech-enthusiasts/"><u>Discover the Ultimate July 2024 iPhone Savings & Deals Curated for Tech Enthusiasts!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emotional-exploitation-by-machine-minds/"><u>Emotional Exploitation by Machine Minds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2022-pc-stability-fixed-no-more-crashes/"><u>Football Manager 2022 PC Stability Fixed - No More Crashes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-browsing-to-discovery-ais-influence-on-sites/"><u>From Browsing to Discovery: AI's Influence on Sites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-and-huggingchat-showdown-a-clear-winner/"><u>GPT and HuggingChat Showdown: A Clear Winner?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721446421101-how-to-repair-iphones-that-wont-send-or-receive-texts-top-7-tips/"><u>How to Repair iPhones That Won't Send or Receive Texts – Top 7 Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pause-the-siri-vs-chatgpt-comparison-why-theyre-notalike/"><u>Pause the Siri Vs. ChatGPT Comparison: Why They're Notalike</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premium-extensions-supercharging-chatgpt-in-vs-code/"><u>Premium Extensions: Supercharging ChatGPT in VS Code</u></a></li>
-<li><a href="https://win-unique.techidaily.com/the-ultimate-guide-to-free-video-editing-tools-for-converting-avi-to-mp4-2014-edition/"><u>The Ultimate Guide to Free Video Editing Tools for Converting AVI to MP4 (2014 Edition)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-choices-for-uncertain-occasions-expert-tips-on-perfect-presents-inspiration-from-zdnet/"><u>Top Choices for Uncertain Occasions: Expert Tips on Perfect Presents - Inspiration From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-langchain-essentials-for-new-users/"><u>Unveiling LangChain: Essentials for New Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-youtubes-potential-understanding-the-impact-of-tags/"><u>[New] Unlocking YouTube's Potential Understanding the Impact of Tags</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-vidmaster-pro-8-review-highlights-for-2024/"><u>[New] VidMaster Pro 8 Review Highlights for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-expert-recommended-6-online-apps-to-delete-background-perfectly/"><u>[Updated] 2024 Approved Expert-Recommended 6 Online Apps to Delete Background Perfectly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-cross-platform-movie-recording-pc-mac-and-mobile/"><u>2024 Approved Cross-Platform Movie Recording PC, Mac & Mobile</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-extensive-analysis-the-complete-gear-360-camera-experience/"><u>2024 Approved Extensive Analysis The Complete Gear 360 Camera Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-confrontation-wholl-win-at-chatbot-battles/"><u>Claude Confrontation: Who'll Win at ChatBot Battles?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customize-today-accessible-8-innovative-gpt-services/"><u>Customize Today: Accessible 8 Innovative GPT Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-economics-symbols-as-money-guides/"><u>Emoji Economics: Symbols as Money Guides</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/initiatives-to-enhance-your-podcasts-rss-feeds-for-2024/"><u>Initiatives to Enhance Your Podcast's RSS Feeds for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-workings-of-intrinsic-computerized-thinking-models/"><u>The Workings of Intrinsic Computerized Thinking Models</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/timeframe-equation-for-20mb-content/"><u>Timeframe Equation for 20MB Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-ais-magic-the-science-of-transfer-learning/"><u>Unraveling AI's Magic: The Science of Transfer Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visual-visionaries-leveraging-gpt-4-and-dall-e-for-artistry/"><u>Visual Visionaries: Leveraging GPT-4 and DALL-E for Artistry</u></a></li>
 </ul></div>
 

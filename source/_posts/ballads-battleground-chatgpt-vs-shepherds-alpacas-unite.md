@@ -1,7 +1,7 @@
 ---
 title: "Ballads Battleground: ChatGPT vs Shepherds, Alpacas Unite!"
-date: 2025-01-27T08:18:00.264Z
-updated: 2025-01-31T20:05:34.599Z
+date: 2025-01-30T19:22:47.134Z
+updated: 2025-02-02T16:33:14.503Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
@@ -48,23 +44,19 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -76,13 +68,13 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -120,9 +112,17 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -137,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
  You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
@@ -165,21 +165,19 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-leading-10-video-editing-programs-for-instagram-reels-enthusiasts/"><u>[New] 2024 Approved Leading 10 Video Editing Programs for Instagram Reels Enthusiasts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-stepwise-approach-to-adding-video-tracks-to-your-youtube-playlists-for-2024/"><u>[New] Stepwise Approach to Adding Video Tracks to Your YouTube Playlists for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-insider-secrets-smooth-videophoto-transfer-to-windows-11-for-2024/"><u>[Updated] Insider Secrets Smooth Video/Photo Transfer to Windows 11 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-mac-iphone-and-ipad-pip/"><u>2024 Approved The Ultimate Guide to Mac, iPhone, and iPad PIP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-user-dialogues-directly-impact-ai-learning-in-chatgpt/"><u>Can User Dialogues Directly Impact AI Learning in ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-superiority-gpt-vs-huggingface/"><u>Deciphering Superiority: GPT VS HuggingFace</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-prevent-android-apps-from-running-in-the-background/"><u>Effective Techniques to Prevent Android Apps From Running in the Background</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-ai-game-with-these-7-tips/"><u>Elevate Your AI Game with These 7 Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-effects-does-ai-strengthen-or-weaken-our-mental-health-infrastructure-and-offer-guidance/"><u>Exploring the Effects: Does AI Strengthen or Weaken Our Mental Health Infrastructure & Offer Guidance?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gracious-speech-communicating-effectively-with-siri-and-alexa/"><u>Gracious Speech: Communicating Effectively with Siri & Alexa</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/growth-tactics-for-windows-storage-preserve-information/"><u>Growth Tactics for Windows Storage, Preserve Information</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-seamlessly-incorporate-gpt-3-in-your-job/"><u>How to Seamlessly Incorporate GPT-3 in Your Job</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-lecturers-guide-to-efficient-classroom-sound-archiving-on-macs/"><u>In 2024, Lecturer's Guide to Efficient Classroom Sound Archiving on Macs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-balanced-approach-to-smartphones-a-thorough-review-of-the-new-apple-iphone-se-2/"><u>The Balanced Approach to Smartphones: A Thorough Review of the New Apple iPhone SE (2#)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-amazon-bargains-this-month-august-2024-specials-featured-on-zdnet/"><u>Top-Rated Amazon Bargains This Month - August 2024 Specials Featured on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-most-innovative-mp3-devices-ranked/"><u>Ultimate Guide to the Most Innovative MP3 Devices - Ranked</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-drafting-a-dim-sum-storyline/"><u>[New] 2024 Approved Drafting a Dim Sum Storyline</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-viewer-count-triumphs-play-button-honors/"><u>[Updated] 2024 Approved Global Viewer Count Triumphs Play Button Honors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-transformative-tools-for-uploading-videos-to-twitter/"><u>[Updated] 2024 Approved Transformative Tools for Uploading Videos to Twitter</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-art-of-iphone-photography-in-the-dark/"><u>[Updated] The Art of iPhone Photography in the Dark</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-honor-80-pro-straight-screen-edition-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Honor 80 Pro Straight Screen Edition to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/athletes-guide-to-enhanced-gpt-interactions/"><u>Athlete's Guide to Enhanced GPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/caution-googles-bard-might-be-more-bug-than-genius/"><u>Caution: Google's Bard Might Be More Bug than Genius</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-future-navigating-the-most-promising-ai-hardware-tech/"><u>Crafting Future: Navigating the Most Promising AI Hardware Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-mastery-unlocked-embrace-chatgpts-ai-assistance/"><u>Excel Mastery Unlocked: Embrace ChatGPT's AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ground-rules-to-learn-langchain-llms/"><u>Ground Rules to Learn LangChain LLMs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/immersive-ios-and-ipad-gaming-experiennces-that-echo-the-charm-of-classics-the-room-and-myst/"><u>Immersive iOS & iPad Gaming Experiennces that Echo the Charm of Classics 'The Room' & 'Myst'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improve-health-regimens-with-top-8-ai-plugins/"><u>Improve Health Regimens with Top 8 AI Plugins</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolve-rainbow-six-siege-connection-errors/"><u>Ultimate Guide to Resolve Rainbow Six Siege Connection Errors</u></a></li>
 </ul></div>
 

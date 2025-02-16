@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: MacBook Air with M1 Chip at an All-Time Low of $649 – Exclusive Offer From ZDNet!"
-date: 2025-01-26T10:05:08.307Z
-updated: 2025-01-31T23:41:25.958Z
+date: 2025-02-01T20:25:00.972Z
+updated: 2025-02-02T20:26:14.783Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,21 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastery-of-close-up-engagement-on-the-web/"><u>[New] Mastery of Close-Up Engagement on the Web</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-sims-4-gametime-the-recorders-handbook/"><u>[Updated] In 2024, Sims 4 Gametime The Recorder's Handbook</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-step-by-step-guide-to-maximizing-your-roi-on-spotify-ads/"><u>[Updated] Step-by-Step Guide to Maximizing Your ROI on Spotify Ads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-deepening-digital-conversations/"><u>2024 Approved Step-by-Step Guide to Deepening Digital Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accelerate-writing-processes-with-ai-tools/"><u>Accelerate Writing Processes With AI Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-oppo-reno-8t-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Oppo Reno 8T</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artful-adventures-journey-through-da-vincis-inspirational-prompts/"><u>Artful Adventures: Journey Through Da Vinci’s Inspirational Prompts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-concept-to-application-understanding-ai-transfers/"><u>From Concept to Application: Understanding AI Transfers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-m3-to-m1-navigating-appleebase-upgrade-decision-for-your-macbook-pro-featured-analysis-and-seo-optimized-review-on-zdnet/"><u>From M3 to M1: Navigating Apple'ebase Upgrade Decision for Your MacBook Pro - Featured Analysis and SEO Optimized Review on ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-archive-navigation-made-simple/"><u>In 2024, Twitter Archive Navigation Made Simple</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-16-revolutionizes-diy-repairs-apple-proves-its-user-friendly-upgrade/"><u>IPhone 16 Revolutionizes DIY Repairs - Apple Proves It’s User-Friendly Upgrade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/save-big-with-this-dual-function-macbook-charger-stand-and-port-hub-for-only-102-special-offer/"><u>Save Big with This Dual-Function MacBook Charger Stand and Port Hub for Only $102 | Special Offer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-is-bright-for-tablet-displays-a-deep-dive-into-ipad-pros-tandem-oled-screen-with-zdnet-analysis/"><u>The Future Is Bright for Tablet Displays: A Deep Dive Into iPad Pro's Tandem OLED Screen with ZDNet Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-fujitsu-scansnap-ix1400-enhancing-office-efficiency-for-home-businesses-and-smes/"><u>The Ultimate Review of Fujitsu ScanSnap iX1400: Enhancing Office Efficiency for Home Businesses & SMEs</u></a></li>
-<li><a href="https://win11.techidaily.com/top-tactics-when-your-windows-defense-is-non-functional/"><u>Top Tactics When Your Windows Defense Is Non-Functional</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-the-elusive-msvcr7ec-runtime-library/"><u>Troubleshooting Tips for the Elusive MSVCR7e/C Runtime Library</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-operations-of-autonomous-device-ai-systems/"><u>Unveiling the Operations of Autonomous Device AI Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-innovate-content-dissemination-youtube-to-facebook-methods/"><u>[New] In 2024, Innovate Content Dissemination YouTube-to-Facebook Methods</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-slumber-screen-shows-story-insights-reviewed/"><u>[New] In 2024, Slumber Screen Shows Story Insights Reviewed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-techniques-for-seamless-youtube-subtitling-and-captions/"><u>[New] In 2024, Step-by-Step Techniques for Seamless YouTube Subtitling & Captions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-optimal-5-displays-for-immersive-ps5-gaming-for-2024/"><u>[New] Optimal 5 Displays for Immersive PS5 Gaming for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-from-ground-to-greatness-photos-on-a-stretch/"><u>[Updated] From Ground to Greatness Photos on a Stretch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assistants-crafting-your-itinerary-for-free-with-top-7-travel-aids/"><u>AI Assistants: Crafting Your Itinerary for FREE with Top 7 Travel Aids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpts-innovative-edge-comparing-it-to-conversational-ai-chatgpt/"><u>Auto-GPT's Innovative Edge - Comparing It To Conversational AI, ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-your-frustration-with-these-fixes-for-microsoft-flight-simulator-2020-pc-crashes/"><u>Banish Your Frustration with These Fixes for Microsoft Flight Simulator 2020 PC Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/designing-revolutionary-conversations-via-gpt-crafted-chatgpts/"><u>Designing Revolutionary Conversations via GPT-Crafted ChatGPTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-guide-for-digital-video-photo-effects-application/"><u>In 2024, Comprehensive Guide for Digital Video Photo Effects Application</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovations-in-dialogue-the-top-4-differences-between-claude-and-chatgpt/"><u>Innovations in Dialogue: The Top 4 Differences Between Claude and ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-cover-letter-success-with-ai-powered-by-gpt-3/"><u>Optimize Cover Letter Success with AI Powered by GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-use-etiquette-with-chatgpt-and-virtual-assistants/"><u>Should You Use Etiquette With ChatGPT and Virtual Assistants?</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-eradicating-xc0f1103f-problem-with-geforce/"><u>Steps for Eradicating XC0F1103F Problem with GeForce</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-transcendent-communication-unpacking-googles-palm-2-model/"><u>The Dawn of Transcendent Communication: Unpacking Google’s PaLM 2 Model</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-power-of-siri-why-and-how-to-get-disappeared-suggestions-back-on-iphone/"><u>Unlock the Power of Siri: Why and How to Get Disappeared Suggestions Back on iPhone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Insight Into Massive Computational Linguistics
-date: 2025-01-24T16:30:19.688Z
-updated: 2025-02-01T02:22:40.786Z
+date: 2025-01-30T20:54:12.926Z
+updated: 2025-02-02T21:38:45.444Z
 tags:
   - chatgpt
   - open-ai
@@ -53,17 +53,21 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
@@ -71,13 +75,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Limitations of LLMs?
 
 ![woman frustrated at response from computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/woman-frustrated-at-response-from-computer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  LLMs represent an impressive technological achievement. But the technology is far from perfect, and there are still plenty of limitations as to what they can achieve. Some of the more notable of these are listed below:
 
@@ -87,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 4. **An LLM is only as good as its training data:** Accuracy can never be guaranteed. The old computer adage of "Garbage In, Garbage Out" sums this limitation up perfectly. LLMs are only as good as the quality and quantity of their training data allow them to be.
 
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Examples of Popular LLMs
 
@@ -98,23 +106,19 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. LaMDA
 
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. BERT
 
  BERT stands for Bi-directional Encoder Representation from Transformers. The bidirectional characteristics of the model differentiate [BERT from other LLMs like GPT](https://www.makeuseof.com/what-is-bert-language-model-how-differ-gpt/).
 
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Future of LLMs
 
@@ -128,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 4. **Greater Integration**: LLMs could become personal digital assistants. Think of Siri on steroids, and you get the idea. LLMs could become virtual assistants that help you with everything from suggesting meals to dealing with your correspondence.
 
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
 
@@ -158,22 +158,16 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-cost-effective-premium-screen-capture-software-for-chromebook/"><u>[New] 2024 Approved Cost-Effective Premium Screen Capture Software for Chromebook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-explore-the-10-fastest-expanding-yt-hubs-for-wisdom/"><u>[New] 2024 Approved Explore the 10 Fastest-Expanding YT Hubs for Wisdom</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-deciphering-intermittent-stoppages-in-photobooth-videos/"><u>[New] Deciphering Intermittent Stoppages in Photobooth Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-designing-engrossing-videography-storylines/"><u>[New] Designing Engrossing Videography Storylines</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-playlist-to-share-on-fb-stories/"><u>[New] In 2024, The Ultimate Playlist to Share on FB Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detection-of-fake-text-openais-anti-alias-tech-for-chatgpt/"><u>Detection of Fake Text: OpenAI's Anti-Alias Tech for ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-code-execution-codegpt-plus-vs-code/"><u>Effortless Code Execution: CodeGPT + VS Code</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-a-malfunctioning-rust-microphone-comprehensive-guide-for-2nnd4/"><u>Fixing a Malfunctioning Rust Microphone - Comprehensive Guide for 2Nnd4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-writers-block-to-success-top-ai-assistants-unveiled/"><u>From Writer's Block to Success: Top AI Assistants Unveiled</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-against-risks-in-chatgpt-use/"><u>Safeguarding Against Risks in ChatGPT Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/say-goodbye-to-dall-e-apples-innovative-on-device-imagination-tech-demystified/"><u>Say Goodbye to DALL-E: Apple's Innovative, On-Device Imagination Tech Demystified</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-complexity-chatgpt-enhanced-3d-printing-solutions/"><u>Simplify Complexity: ChatGPT-Enhanced 3D Printing Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-advantages-that-make-the-smaller-iphone-16-pro-my-pick-over-the-max-for-this-year-zdnet/"><u>The Advantages That Make the Smaller iPhone 16 Pro My Pick Over the Max for This Year | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-artificnial-intelligence-navigating-bing-app-on-your-android-phone/"><u>Unleashing Artificnial Intelligence: Navigating Bing App on Your Android Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-ai-the-first-steps-in-9-essential-forums/"><u>Unlocking AI: The First Steps in 9 Essential Forums</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-an-in-demand-bug-hunter-join-openais-reward-scheme-today/"><u>Become an In-Demand Bug Hunter; Join OpenAI’s Reward Scheme Today!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-ensuring-effectiveness-and-risk-in-exerrances/"><u>ChatGPT: Ensuring Effectiveness & Risk in Exerrances</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-guide-to-the-best-free-h265-hevc-and-uhd-video-software-compatible-with-windows-11mac-2020-update/"><u>Comprehensive Guide to the Best Free H.265 HEVC & UHD Video Software Compatible with Windows 11/Mac (2020 Update)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-skills-with-my-bots-from-gameplay-to-visual-sculpting-techniques/"><u>Enhance Skills with My Bots: From Gameplay to Visual Sculpting Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-uncharted-waters-7-non-chatgpt-ai-alternatives/"><u>Exploring Uncharted Waters: 7 Non-ChatGPT AI Alternatives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-live-link-lore-when-does-gear-give-way-to-grids/"><u>In 2024, Live Link Lore When Does Gear Give Way to Grids?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-a59-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo A59 5G</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-revolutionizes-languages-with-augmented-reality/"><u>Mondly Revolutionizes Languages with Augmented Reality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-amd-driver-update-with-built-in-auto-detect-functionality/"><u>Seamless AMD Driver Update with Built-In Auto-Detect Functionality</u></a></li>
+<li><a href="https://techidaily.com/tecno-video-recovery-recover-deleted-videos-from-tecno-by-fonelab-android-recover-video/"><u>Tecno Video Recovery - Recover Deleted Videos from Tecno</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/textual-journeys-gameplay-mastery-through-chatgpt/"><u>Textual Journeys: Gameplay Mastery Through ChatGPT</u></a></li>
 </ul></div>
 

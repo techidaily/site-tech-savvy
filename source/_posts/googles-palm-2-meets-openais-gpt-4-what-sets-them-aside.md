@@ -1,7 +1,7 @@
 ---
 title: "Google's PaLM 2 Meets OpenAI's GPT-4: What Sets Them Aside?"
-date: 2025-01-28T16:29:40.583Z
-updated: 2025-02-01T09:19:27.429Z
+date: 2025-02-01T17:24:13.246Z
+updated: 2025-02-02T22:02:09.228Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## PaLM 2 vs. GPT-4: Performance Overview
 
 [PaLM 2 is packed with new and improved capabilities](https://www.makeuseof.com/what-is-google-palm-2/) over its predecessor. One of the unique advantages PaLM 2 has over GPT-4 is that it's available in smaller sizes specific to certain applications that do not have as much onboard processing power.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
  All these different sizes have their own smaller models called Gecko, Otter, Bison, and Unicorn, with Gecko being the smallest, followed by Otter, Bison, and finally, Unicorn, the largest model.
 
 ![Neon Pink Brain Image on a Black Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/neon-pink-brain-image-on-a-black-background.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Google also claims an improvement in reasoning capabilities over GPT-4 in WinoGrande and DROP, with the former pulling a narrow margin in ARC-C. However, there's significant improvement across the board regarding PaLM and SOTA.
 
@@ -55,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
  If this number is anywhere close to 100 billion or under, PaLM 2 is most likely smaller in terms of parameters than GPT-3.5\. Considering a model potentially under 100 billion can go toe to toe with GPT-4 and even beat it at some tasks is impressive. [GPT-3.5 initially blew everything out of the water](https://www.makeuseof.com/gpt-models-explained-and-compared/), including PaLM, but PaLM 2 has made quite the recovery.
 
  Another obvious performance advantage that PaLM 2 carries over GPT-4 is its availability in different sizes. This means that different versions of the model, Gecko, for instance, can run on mobile devices, even without an internet connection, and provide onboard AI capabilities—something we're yet to see from GPT-4\. This kind of on-device processing gives PaLM 2 an edge over GPT-4 when it comes to accessibility and deployment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Differences in GPT-4 and PaLM 2 Training Data
 
@@ -74,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 
  That said, the sheer volume of training data used for GPT-4 means that it has an advantage when it comes to understanding the nuances of language and should theoretically generate higher-quality outputs. However, this also means that OpenAI needs to put stronger restrictions in place to keep the model from going haywire, something that Google can avoid, considering it left potentially toxic sources out of the training data.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## PaLM 2 and GPT-4 Chatbots and Services
 
  The first portal to access both the LLMs is using their respective chatbots, PaLM 2's Bard and GPT-4's ChatGPT. That said, GPT-4 is behind a paywall with ChatGPT Plus, and free users only get access to GPT-3.5\. Bard, on the other hand, is free for all and available across 180 countries.
@@ -87,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 ![Setting an emoji wallpaper on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/emoji-wallpapers-android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Google I/O 2023 was filled with announcements about how PaLM 2 and generative AI integration will improve the Google Workspace experience with AI features coming to Google Docs, Sheets, Slides, Gmail, and just about every service the search giant offers. In addition, Google has confirmed that PaLM 2 has already been integrated into over 25 Google products, including Android and YouTube.
@@ -98,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 
 ![A screenshot of Microsoft's Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's not to say that developers won't be switching to or at least trying out PaLM 2, but Google still has to play catch-up with OpenAI on that front. The fact that PaLM 2 is open-source, instead of being locked behind a paid API, means it has the potential to be more widely adopted than GPT-4\.
 
  All things considered, at the moment, the PaLM 2-powered Bard appears to be the better choice when it comes to research as it is better at answering questions with relevant information and accessing the latest information on the internet about any given subject. [According to Bard's latest update](https://bard.google.com/updates), delivered on September 19, 2023, Bard is now using its "most capable model yet" with support for another 40 languages, in-depth coding assistance, the ability to present different perspectives on a given topic, and general quality and accuracy improvements.
@@ -105,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
  You also get the option of double-checking Bard's responses with Google searches. However, on the performance front, the model still takes longer to generate responses as compared to the GPT-4 powered ChatGPT or Bing Chat.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can PaLM 2 Take on GPT-4?
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
  PaLM 2 is still very new, so the answer to whether or not it can take on GPT-4 remains to be answered. However, with everything that Google is promising and the aggressive manner it has decided to use to propagate it, it does look like PaLM 2 can give GPT-4 a run for its money. With Google's ongoing development of a multimodal AI model called Gemini also in the works, it's about time for OpenAI to get on its toes.
 
  However, GPT-4 is still quite a capable model and, as mentioned before, beats PaLM 2 in quite a few comparisons. That said, PaLM 2's multiple smaller models give it an irrefutable edge. Gecko itself is so lightweight that it can work on mobile devices, even when offline. This means that PaLM 2 can support an entirely different class of products and devices that might struggle to use GPT-4\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The AI Race Is Heating Up
 
@@ -137,18 +137,22 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-crafting-cinematic-reels-embracing-the-power-of-pause/"><u>[New] Crafting Cinematic Reels Embracing the Power of Pause</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-streamers-dilemma-choose-between-obs-and-twitch-for-2024/"><u>[New] Streamer's Dilemma Choose Between OBS & Twitch for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-discover-top-10-camcorders-in-depth-analysis/"><u>[Updated] In 2024, Discover Top 10 Camcorders – In-Depth Analysis</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723012930869-bypassing-cod-vanguards-n-error-code-0x00001338-on-pc-unlock-your-gameplay-now/"><u>Bypassing CoD: Vanguard's N Error Code 0X00001338 on PC – Unlock Your Gameplay Now!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/choosing-the-perfect-phone-iphone-or-android/"><u>Choosing the Perfect Phone: IPhone or Android?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-powerhouses-palm-2-and-gpt-4-comparison/"><u>Dissecting AI Powerhouses: PaLM 2 and GPT-4 Comparison</u></a></li>
-<li><a href="https://fox-within.techidaily.com/fixing-unresponsive-input-devices-solutions-when-your-mouse-and-keyboard-fail-tips-from-yl-computing/"><u>Fixing Unresponsive Input Devices: Solutions When Your Mouse & Keyboard Fail - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-alternatives-that-match-openais-sora-quality/"><u>Free Alternatives That Match OpenAI's Sora Quality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-beginners-blueprint-for-youtube-trailers-via-filmora/"><u>In 2024, The Beginner's Blueprint for YouTube Trailers via Filmora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-notetaking-best-6-ai-software-explored/"><u>Innovative Notetaking: Best 6 AI Software Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipad-users-alert-ios-157-brickage-risks-and-essential-pre-installation-checks-you-need-to-make/"><u>IPad Users Alert! IOS 15.7 Brickage Risks and Essential Pre-Installation Checks You Need to Make</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/is-luminances-hdr-suitable-for-production/"><u>Is Luminance's HDR Suitable for Production?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-essential-benefits-of-using-apples-official-support-pages-insights-from-zdnet/"><u>Top 5 Essential Benefits of Using Apple's Official Support Pages: Insights From ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unleashing-originality-in-virtual-meme-worlds/"><u>[New] In 2024, Unleashing Originality in Virtual Meme Worlds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-troubleshoot-vanished-facebook-videos-discover-our-top-12-fixes/"><u>[Updated] 2024 Approved Troubleshoot Vanished Facebook Videos - Discover Our Top 12 Fixes</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-whats-buzzing-the-social-sphere-tiktok-and-twitter-hits-for-2024/"><u>[Updated] What's Buzzing the Social Sphere? TikTok & Twitter Hits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-global-tech-titans-talk-about-the-ai-era/"><u>10 Global Tech Titans Talk About the AI Era</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-x-audio-enhancer-for-computer-use/"><u>2024 Approved X-Audio Enhancer for Computer Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-evolved-conversational-bots-for-smartphones-without-gpt/"><u>7 Evolved Conversational Bots for Smartphones Without GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-obstacles-preventing-gpt-jailbreaking/"><u>7 Obstacles Preventing GPT Jailbreaking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-chatgpt-side-gigs-are-they-legit-money-making-opportunities/"><u>8 ChatGPT Side Gigs: Are They Legit Money-Making Opportunities?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-tactics-to-troubleshoot-and-improve-chatgpt-performance/"><u>9 Tactics to Troubleshoot and Improve ChatGPT Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-ways-chatgpt-can-make-your-life-easier/"><u>9 Ways ChatGPT Can Make Your Life Easier</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429042472-cleanse-tweets-of-cursive-symbols-linuss-disclosures-trojan-explanation-and-chatbot-issues/"><u>Cleanse Tweets of Cursive Symbols, Linus’s Disclosures, Trojan Explanation, & ChatBot Issues.</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-we-encountered-an-error-oculus-app-installation-issue-in-windows-1110/"><u>How to Fix the “We Encountered an Error” Oculus App Installation Issue in Windows 11/10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-right-way-to-raise-your-videos-reach-responsibly/"><u>In 2024, The Right Way to Raise Your Video's Reach Responsibly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-8-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 8 on MetroPCS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-macro-videography-techniques/"><u>In 2024, Ultimate Guide to Macro Videography Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429558277-no-emojis-on-twitter-linuss-leaks-trojan-explained-and-chatbot-glitches-highlighted/"><u>No Emojis on Twitter, Linus’s Leaks, Trojan Explained, & ChatBot Glitches Highlighted.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-tiktok-content-with-elite-ring-lights-of-2eighteen-a-comprehensive-guide-for-creators-siliconspectrum/"><u>Upgrade Your TikTok Content with Elite Ring Lights of 2Eighteen: A Comprehensive Guide for Creators | SiliconSpectrum</u></a></li>
 </ul></div>
 

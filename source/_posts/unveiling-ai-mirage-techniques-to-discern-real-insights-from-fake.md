@@ -1,7 +1,7 @@
 ---
 title: "Unveiling AI Mirage: Techniques to Discern Real Insights From Fake"
-date: 2024-08-25T17:36:05.983Z
-updated: 2024-08-26T17:36:05.983Z
+date: 2025-01-30T19:33:51.707Z
+updated: 2025-02-02T17:36:36.924Z
 tags:
   - chatgpt
   - open-ai
@@ -23,11 +23,19 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  Unfortunately, AI took on some negative attributes, including hallucinations. So, is AI hallucination similar to the kind of hallucination humans experience?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is AI Hallucination?
 
  Artificial intelligence hallucination occurs when an AI model generates outputs different from what is expected. Note that some AI models are trained to intentionally generate outputs unrelated to any real-world input (data).
 
  For example, [top AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/), such as DALL-E 2, can creatively generate novel images we can tag as "hallucinations" since they are not based on real-world data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI Hallucination in Large Language Processing Models
 
@@ -37,13 +45,14 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
 ![ChatGPT's response to where Elon Musk's house is located](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181459.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On further query, ChatGPT turned up with this:
 
 ![A ChatGPT prompt further querying where elon musk's factory is at in brazil](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181530.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### AI Hallucination in Computer Vision
 
  Let's consider another field of AI that can experience AI hallucination: [Computer Vision](https://www.makeuseof.com/what-is-computer-vision-and-why-does-it-matter/). The quiz below shows a 4x4 montage with two entities that look so much alike. The images are a mix of BBQ potato chips and leaves.
@@ -79,8 +88,9 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 ![Screenshot of ChatGPT giving multiple wrong answers to a prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wrong-answer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  So why is ChatGPT unable to give an accurate answer to these prompts?
 
  It could be that the language model is unequipped to handle rather complex prompts such as these or that it cannot interpret the prompt accurately, ignoring the prompt on giving a similar word with a specific alphabet.
@@ -92,25 +102,24 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
  Here are some ways to spot AI hallucinations while using common AI applications:
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Large Language Processing Models
 
 ![Picture showing Bing Chat and ChatGPT on arrowed sigsn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-showing-bing-chat-and-chatgpt-on-arrowed-sigsn.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Although rare, if you notice a grammatical error in the content produced by a large processing model, such as ChatGPT, that should raise an eyebrow and make you suspect a hallucination. Similarly, when text-generated content doesn't sound logical, correlate with the context given, or match the input data, you should suspect a hallucination.
 
  Using human judgment or common sense can help detect hallucinations, as humans can easily identify when a text does not make sense or follow reality.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Computer Vision
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As a branch of artificial intelligence, machine learning, and computer science, computer vision empowers computers to recognize and process images like human eyes. Using [convolutional neural networks](https://www.makeuseof.com/convolutional-neural-network-explained/), they rely on the incredible amount of visual data used in their training.
 
@@ -122,18 +131,12 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
 ![Ford Blue Cruise 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ford-blue-cruise-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedmedia.viewmore.image.html/content/fordmedia/fna/us/en/news/2021/04/14/ford-mother-of-all-road-trips-bluecruise-hands-free-driving/jcr:content/rightRailPar/relatedmedia.html)
 
  Thanks to AI, self-driving cars are gradually infiltrating the auto market. Pioneers like Tesla Autopilot and Ford's BlueCruise have been championing the scene of self-driving cars. You can check out [how and what the Tesla Autopilot sees](https://www.makeuseof.com/how-and-what-the-tesla-autopilot-sees/) to get a bit of an understanding of how AI powers self-driving cars.
 
  If you own one of such cars, you would want to know if your AI car is hallucinating. One sign will be if your vehicle seems to be deviating from its normal behavior patterns while driving. For example, if the vehicle brakes or swerves suddenly without any obvious reason, your AI vehicle might be hallucinating.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Systems Can Hallucinate Too
 
  Humans and AI models experience hallucinations differently. When it comes to AI, hallucinations refer to erroneous outputs that are miles apart from reality or do not make sense within the context of the given prompt. For example, an AI chatbot may give a grammatically or logically incorrect response or misidentify an object due to noise or other structural factors.
@@ -150,8 +153,6 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +160,22 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-discovering-the-best-in-display-tech-10-list-for-your-mac/"><u>[Updated] 2024 Approved Discovering the Best in Display Tech - #10 List for Your Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-premier-biking-game-showcase/"><u>[Updated] 2024 Approved Premier Biking Game Showcase</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-step-by-step-embedding-youtube-content-in-slideshows/"><u>[Updated] In 2024, Step-by-Step Embedding YouTube Content in Slideshows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/alternative-video-editors-for-laptops-for-2024/"><u>Alternative Video Editors for Laptops for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-vision-of-tomorrow-introducing-an-automated-companion-to-enhance-home-living-zdnet/"><u>Apple's Vision of Tomorrow: Introducing an Automated Companion to Enhance Home Living | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-ipads-for-children-ultimate-guide-to-the-top-picks-of-2022-zdnet-insights/"><u>Best iPads for Children - Ultimate Guide to the Top Picks of 2022 | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-how-chatgpt-reads-pdf-files/"><u>Bridging the Gap: How ChatGPT Reads PDF Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-chromebook-voice-quality-exclusive-list-of-5-top-extensions/"><u>Elevate Chromebook Voice Quality Exclusive List of 5 Top Extensions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-11-proplus-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme 11 Pro+ Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-14-pro-max-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 14 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-apple-ai-education-empowering-thousands-of-students-and-alumni-with-cutting-edge-training-insights-from-zdnet/"><u>Innovative Apple AI Education: Empowering Thousands of Students and Alumni with Cutting-Edge Training – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-with-new-gpt-4-integration-methods/"><u>Navigating ChatGPT with New GPT-4 Integration Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proven-winners-analyzing-5-leading-ai-prompt-generators/"><u>Proven Winners: Analyzing 5 Leading AI Prompt Generators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-the-bizarre-issues-plaguing-iphones-urgent-solutions-apple-must-implement/"><u>Tackling the Bizarre Issues Plaguing iPhones: Urgent Solutions Apple Must Implement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-mediatrans-pro-iphoneipad-best-remote-file-manager/"><u>WinX MediaTrans Pro: 원격 이미지, 음악, 동영상 효율적으로 iPhone/iPad에 전송하는 대답 - Best Remote File Manager</u></a></li>
+</ul></div>
 

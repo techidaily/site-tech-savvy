@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Tasks: Utilize 8 Crafted AI Services"
-date: 2024-08-25T17:37:18.825Z
-updated: 2024-08-26T17:37:18.825Z
+date: 2025-02-01T17:05:24.117Z
+updated: 2025-02-02T16:00:50.006Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Resume and Cover Letter Creator
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the weeks following ChatGPT's release, we tested [ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
 
  To improve translation capabilities for Pidgin, I created a custom GPT for Pidgin translation. How? I fed it dozens of expert Pidgin dictionaries and linguistic resources. After re-testing ChatGPT against Google Translate on Pidgin text, the results were striking—ChatGPT significantly outperformed Google Translate by nearly all metrics. This example highlights the power of building custom GPTs for specific translation tasks, irrespective of language. With the right training data, these customized chatbots can surpass even the best general translation tools. Fancy playing around with Pidgin?
@@ -51,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  It is no news that [ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/). It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
@@ -71,17 +73,10 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
 **Try this GPT**: [K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero).
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but [interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/). You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
 
  We tried several RPG games with GPTs, which were impressive and immersive. Coming up with the rules can be a bit tedious, but you'll find several sites dedicated to creating prompts for RPG games on ChatGPT. A good example is [RPG Prompts](http://www.rpgprompts.com/); you'll find dozens of interesting RPG prompts you can use to kickstart your RPG experience on ChatGPT.
@@ -105,15 +100,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 **Try this GPT**: [Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
 
  For example, as a graphic designer side gig, I built a custom GPT to create geometric Google-inspired logos using my client's brand colors: blue, red, yellow, and green. I trained it by uploading several examples of logos we designed in this style. Now, when prompted to create a logo for anything, the GPT generates professional logo options that meet the brand requirements. While a simple illustration, it demonstrates how tailored GPTs can replicate elements of human work.
@@ -121,6 +118,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 **Try this GPT**: [Colorful Creations](https://chat.openai.com/g/g-e7klUPLGp-colorful-creations).
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
@@ -134,14 +135,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +148,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-essential-gratuitous-lut-downloads-of-the-year/"><u>[New] Top 10 Essential, Gratuitous LUT Downloads of the Year</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-seek-out-all-shared-media-on-messenger-platform/"><u>2024 Approved Seek Out All Shared Media on Messenger Platform</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-essential-how-to-guide-for-filming-anywhere-anytime/"><u>2024 Approved The Essential How-To Guide for Filming Anywhere, Anytime</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>2024 Approved The Ultrawide-UHD Dilemranc Which Monitor Wins?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-interaction-protocols-courtesy-matters-gpt-alexa/"><u>AI Interaction Protocols - Courtesy Matters (GPT, Alexa)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-next-smartphone-a-comparative-analysis-of-the-iphone-14-pro-and-iphone-14-pro-max-insights-for-tech-enthusiasts/"><u>Choosing Your Next Smartphone: A Comparative Analysis of the iPhone 14 Pro and iPhone 14 Pro Max - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-career-quest-strategies-with-chatgpt/"><u>Enhancing Career Quest Strategies with ChatGPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-wav-to-mp3-converter-by-movavi-convert-audio-files-in-minutes/"><u>Free Online WAV to MP3 Converter by Movavi: Convert Audio Files in Minutes!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/frosty-yet-warm-choosing-the-best-winter-backdrops-for-2024/"><u>Frosty Yet Warm Choosing the Best Winter Backdrops for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improve-your-audio-experience-discover-how-tvos-18-upgrades-apple-tvs-dialogue-clarity-insights/"><u>Improve Your Audio Experience: Discover How tvOS 18 Upgrades Apple TV's Dialogue Clarity - Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-and-insights-for-successful-spotify-marketing/"><u>In 2024, Tips and Insights for Successful Spotify Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-whatsapps-call-conversations/"><u>In 2024, Unveiling WhatsApp's Call Conversations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-without-xinput13dll-solutions-and-alternatives/"><u>Navigating Without XINPUT1_3.dll: Solutions & Alternatives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/playful-symbols-or-financial-sense/"><u>Playful Symbols or Financial Sense?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-your-interactive-dialogues-with-openais-tools/"><u>Safeguarding Your Interactive Dialogues with OpenAI's Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-5-reasons-ai-cannt-fulfill-creative-writing-demands/"><u>The 5 Reasons AI Cann't Fulfill Creative Writing Demands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-macbook-pro-enhancers-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MacBook Pro Enhancers : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-your-potential-with-gpts-my-bots-in-board-games-and-creation/"><u>Unleash Your Potential with GPT's My Bots in Board Games & Creation</u></a></li>
+</ul></div>
 

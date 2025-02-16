@@ -1,7 +1,7 @@
 ---
 title: "Bridging Creativity and Technology: AI Image Making with GPT"
-date: 2025-01-28T07:02:47.569Z
-updated: 2025-01-31T21:40:26.770Z
+date: 2025-01-30T22:20:44.635Z
+updated: 2025-02-02T16:00:50.709Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/2749ec4be60f0504bc654efda73e1c73772893136
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Understanding How ChatGPT Works
@@ -44,18 +44,18 @@ thumbnail: https://thmb.techidaily.com/2749ec4be60f0504bc654efda73e1c73772893136
 
  The short answer is no. ChatGPT is not an image generation system and cannot directly output images. However, it can help create text-based descriptions of images that can then be used as input into other image generation systems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Workarounds for Generating AI Images With ChatGPT
 
 ![chatgpt as a prompt generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-as-a-prompt-generator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There are two main ways to generate AI images using ChatGPT: using it as a prompt generator for your favorite AI image generator, and using OpenAI's DALL-E.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Use ChatGPT as a Prompt Generator
@@ -73,7 +73,7 @@ You will now act as a prompt generator. I will describe an image to you, and you
 Create an image of a tranquil beach scene at sunset. The sun is just touching the horizon, casting warm orange and pink hues across the sky. The water is calm and reflective, with gentle waves lapping against the shore. In the distance, you can see silhouettes of palm trees against the colorful sky. The beach is deserted except for a few seagulls wandering along the shoreline. Capture the peacefulness and serenity of this moment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use OpenAI's DALL-E
@@ -87,7 +87,7 @@ Create an image of a tranquil beach scene at sunset. The sun is just touching th
  ChatGPT is not currently able to generate images directly, and it is unlikely that this capability will be added soon. The telltale sign of this is the existence of DALL-E, which provides this ability. For the foreseeable future, it is best to think of ChatGPT as a tool for generating text and use other models like DALL-E for image generation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Better Image Generation Prompts With ChatGPT
@@ -115,18 +115,24 @@ Create an image of a tranquil beach scene at sunset. The sun is just touching th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-x50iplus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor X50i+ Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-design-chatgpts-role/"><u>AI-Driven Content Design: ChatGPT's Role</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-news-apple-eyeing-camera-integration-into-airpods-by-2026-says-zdnet-report/"><u>Breaking News - Apple Eyeing Camera Integration Into AirPods by 2026, Says ZDNET Report</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expanding-horizons-how-apple-empowers-its-community-with-ai-training-for-students-and-alumni-featured-on-zdnet/"><u>Expanding Horizons: How Apple Empowers Its Community with AI Training for Students and Alumni, Featured on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpt-the-vanguard-of-intelligent-content-creation/"><u>Exploring ChatGPT: The Vanguard of Intelligent Content Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fear-not-save-your-chatgpt-conversations-forever/"><u>Fear Not! Save Your ChatGPT Conversations Forever</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-15-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 15 Pro or iPad?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-achieving-professional-hdr-images-with-adobe-ps/"><u>In 2024, Achieving Professional HDR Images with Adobe PS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/integration-into-google-meet-participants-for-2024/"><u>Integration Into Google Meet Participants for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/protect-your-data-a-step-by-step-guide-to-tracking-application-interactions-with-your-clipboard-on-android-devices/"><u>Protect Your Data: A Step-by-Step Guide to Tracking Application Interactions with Your Clipboard on Android Devices</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/rapid-results-with-a-speedy-printer-expert-techniques-for-faster-printing-from-yl-software-solutions/"><u>Rapid Results with a Speedy Printer: Expert Techniques for Faster Printing From YL Software Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-hugs-chat-the-open-source-twin-to-chatgpts-world/"><u>What Hugs Chat? - The Open Source Twin to ChatGPT's World</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-5-choice-of-online-meeting-recorder-gadgets-for-2024/"><u>[Updated] Ultimate 5 Choice of Online Meeting Recorder Gadgets for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-exploring-advanced-gameplay-with-kinemaster-on-android/"><u>2024 Approved Exploring Advanced Gameplay with KineMaster on Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/back-to-school-essentials-discovering-7-freebie-educational-apps/"><u>Back-To-School Essentials: Discovering 7 Freebie Educational Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-personalized-secure-fitness-plans/"><u>ChatGPT's Role in Personalized, Secure Fitness Plans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-your-path-to-fitness-ai-assisted-strategy/"><u>Crafting Your Path to Fitness: AI-Assisted Strategy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-essence-of-gptzero-in-ai-detection/"><u>Dissecting the Essence of GPTZero in AI Detection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exit-dialogue-with-chatgpt-quickly/"><u>Exit Dialogue with ChatGPT Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-chat-and-whisper-api-release-a-game-changer-for-companies/"><u>GPT-Chat and Whisper API Release - A Game Changer for Companies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comparing-core-titles-oculus-htc-vive-and-ps-vr-in-gaming/"><u>In 2024, Comparing Core Titles Oculus, HTC Vive & PS VR in Gaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/linguistic-legends-ai-translation-faceoff/"><u>Linguistic Legends: AI Translation Faceoff</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-excel-macros-streamline-your-workflow-and-eliminate-repetitive-chores/"><u>Mastering Excel Macros: Streamline Your Workflow and Eliminate Repetitive Chores</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-dialogue-engines-creating-your-own-ai/"><u>Personalized Dialogue Engines: Creating Your Own AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-steps-implementing-bavarder-on-linux/"><u>Simple Steps: Implementing Bavarder on Linux</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-a2-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo A2 Location | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-air-protectors-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Rated iPad Air Protectors : Comprehensive Reviews and Ratings by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-presentations-with-chatgpt-expertise/"><u>Transform Your Presentations with ChatGPT Expertise</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-free-screen-cast-tools-for-windows-ranked-1-5/"><u>Ultimate Free Screen Cast Tools for Windows, Ranked #1-5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-pick-for-macbook-upgrades-and-addons-of-24-fully-inspected-by-specialists-zdnet/"><u>Ultimate Pick for MacBook Upgrades & Addons of '24, Fully Inspected by Specialists | ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/your-screens-guide-to-smart-stocks-for-2024/"><u>Your Screen's Guide to Smart Stocks for 2024</u></a></li>
 </ul></div>
 

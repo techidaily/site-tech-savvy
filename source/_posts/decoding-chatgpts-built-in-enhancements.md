@@ -1,7 +1,7 @@
 ---
 title: Decoding ChatGPT's Built-In Enhancements
-date: 2024-08-25T17:35:27.071Z
-updated: 2024-08-26T17:35:27.071Z
+date: 2025-01-27T23:33:19.947Z
+updated: 2025-02-02T21:01:03.828Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 ---
 
 ## Decoding ChatGPT's Built-In Enhancements
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -48,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
  When you open your ChatGPT Plus account, each of these plugins will be active by default, meaning you don't need to activate anything manually to use them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use ChatGPT's Standard Plugins
 
  If you don't have a ChatGPT Plus account, you won't be able to access these plugins. So, consider signing up for the $20 monthly premium plan if you want to overcome this barrier.
@@ -83,20 +88,19 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 ![chatgpt-dalle output mouse next to river](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-output-mouse-next-to-river.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, we ask for changes.
 
 ![chatgpt-dalle mouse next to river changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-mouse-next-to-river-changed-colour.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Though we asked ChatGPT to keep the image identical aside from one change, it made the change but also changed almost everything else about the image. Keep this downside in mind when using this plugin.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Code Interpreter
 
  If you want to write, run, or be provided with code in the Python language, [ChatGPT's Code Interpreter](https://www.makeuseof.com/chatgpt-code-interpreter-uses/) can help. With this plugin, you can request code excerpts, have ChatGPT analyze and execute code, and enjoy the option to upload files within the chat for review.
@@ -118,8 +122,9 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
  Make sure you run whatever code is provided through a dedicated Python execution tool before implementing it. ChatGPT can make mistakes, so it's always best to run some checks on any data it gives you.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use ChatGPT's Plugins on Mobile
 
  The process of using any of these standard plugins is the same on the [ChatGPT mobile app](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) as it is on your desktop. Make your request in your prompt, and as long as you're signed in to your ChatGPT Plus account, the relevant plugin should work automatically.
@@ -127,18 +132,13 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 ![screenshot of chatgpt web search result in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-search.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![screenshot of ChatGPT mobile app dall-e response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-dalle.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot of ChatGPT python interpreter in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-python.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 Close
 
  You can use your ChatGPT Plus account on both your desktop and mobile simultaneously.
@@ -155,8 +155,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +162,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-non-profit-gaming-soundtrack-sources/"><u>[New] 2024 Approved Non-Profit Gaming Soundtrack Sources</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-photography-refinement-removing-backgrounds-and-blurring-effectively/"><u>[Updated] Photography Refinement Removing Backgrounds & Blurring Effectively</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-utilize-youtubes-prominent-slot-a-compreenhensive-strategy-guide/"><u>[Updated] Utilize YouTube's Prominent Slot A Compreenhensive Strategy Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/behind-the-scenes-of-carminatis-youtube-earnings/"><u>Behind the Scenes of Carminati’s YouTube Earnings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-continuous-chats-refine-chatgpts-ai-abilities/"><u>Can Continuous Chats Refine ChatGPT’s AI Abilities?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-superior-communication-with-the-user-friendly-clearstream-eclipse-antenna-top-reviewed/"><u>Experience Superior Communication with the User-Friendly ClearStream Eclipse Antenna - Top Reviewed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-wonders-and-worries-of-artificial-intelligence/"><u>Exploring the Wonders and Worries of Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-theory-to-action-implementing-chatgpt-api/"><u>From Theory to Action: Implementing ChatGPT API</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-foray-into-next-gen-language-processing-with-palm-2/"><u>Google's Foray Into Next-Gen Language Processing with PaLM 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-13t-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi 13T?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-facetune-review-transform-your-image-quality/"><u>In 2024, Ultimate Facetune Review Transform Your Image Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installation-of-codegpt-in-visual-studio-code/"><u>Installation of CodeGPT in Visual Studio Code</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-dxgi-errordeviceremoved-windows/"><u>Resolving DXGI: ERROR_DEVICE_REMOVED Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unhappy-with-sony-vegas-here-are-the-best-windows-alternatives-to-consider/"><u>Updated 2024 Approved Unhappy with Sony Vegas? Here Are the Best Windows Alternatives to Consider</u></a></li>
+</ul></div>
 

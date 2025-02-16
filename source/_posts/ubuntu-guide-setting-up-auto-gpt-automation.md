@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Guide: Setting up Auto-GPT Automation"
-date: 2025-01-26T23:22:30.550Z
-updated: 2025-01-31T22:13:06.544Z
+date: 2025-01-28T20:12:14.578Z
+updated: 2025-02-02T21:27:52.294Z
 tags:
   - chatgpt
   - open-ai
@@ -63,10 +63,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `cd Auto-GPT`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 1: Configure Auto-GPT on Ubuntu
 
  Now that you've correctly set up the environment for Auto-GPT, you need to configure your OpenAI API key as an environment variable.
@@ -88,6 +84,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  To locate the OpenAI API key variable, hold **CTRL + W**, search for “**OPEN\_API\_KEY=**”, and then hit **Enter**.
 
 ![Insert API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/paste-api-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Replace the placeholder with your API key by pressing **Ctrl +V** and hitting **Ctrl + S** to save. You can exit the nano text editor by pressing **Ctrl + X**.
 
@@ -111,6 +111,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
 
 ## How to Use Auto-GPT on Ubuntu
@@ -118,6 +122,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  With Auto-GPT installed, you can now make your own AI assistant. There are two modes when it comes to using Auto-GPT. In the default mode, you only need to provide a task. Based on the specified task, Auto-GPT will automatically generate your AI assistant's name, its role, and its goals.
 
 ![Auto-GPT auto mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-auto.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In manual mode, Auto-GPT will ask you to specify a name, a goal, and up to five goals you want the AI assistant to follow while doing its task. This mode allows you to be in control of how your AI assistant will function.
 
@@ -128,10 +136,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  In this example, we've named our AI assistant, and given it a role to look for product promos, and a few goals on the quality of the promo.
 
 ![Auto-GPT manual mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-manual.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the name, goals, and role have been provided, your AI assistant will immediately activate and start looping through its thinking and execution process.
 
@@ -148,22 +152,14 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Providing human feedback to Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Limitations of Auto-GPT
 
@@ -172,6 +168,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  A big part of this problem was the AI’s inability to handle website ads, cookies, log-in pages, and pop-ups. It was likely caused by the fact that Auto-GPT is still in its early development phase.
 
  So for now, you should only use Auto-GPT as a way to play and experiment with AI assistants.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Auto-GPT Will Keep Getting Better and Better
 
@@ -198,22 +198,19 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-final-step-delete-your-youtube-shorts-link/"><u>[Updated] In 2024, The Final Step Delete Your YouTube Shorts Link</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-captivating-viewers-an-experts-guide-to-youtube-banners-for-2024/"><u>[Updated] The Art of Captivating Viewers An Expert's Guide to YouTube Banners for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-google-pixel-8-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Google Pixel 8 Pro Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1728472995911-cmd/"><u>使用CMD技能从坏记忆条中修复文件的全面指南</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/aligning-apple-android-and-computer-schedules-for-zoom-syncing/"><u>Aligning Apple, Android, and Computer Schedules for Zoom Syncing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-addons-compromising-gpt-platform-integrity/"><u>Are Addons Compromising GPT Platform Integrity?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-turmoil-italys-sudden-ban-reasoning/"><u>ChatGPT in Turmoil: Italy's Sudden Ban Reasoning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-evolution-of-ai-with-googles-gemini-compared-to-chatgpt/"><u>Exploring the Evolution of AI with Google's Gemini Compared to ChatGPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/first-impressions-matter-discover-the-polarizing-world-of-benqs-curved-gaming-displays/"><u>First Impressions Matter: Discover the Polarizing World of BenQ's Curved Gaming Displays</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/google-pixel-watch-2-up-against-apple-watch-series-nine-a-comprehensive-review-for-your-smart-choice-zdnet-insights/"><u>Google Pixel Watch 2 Up Against Apple Watch Series Nine: A Comprehensive Review for Your Smart Choice | ZDNET Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-multiple-excel-files-by-stellar-guide/"><u>How to Repair Multiple Excel Files</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-stream-in-superior-quality-on-facebook-network/"><u>In 2024, How To Stream in Superior Quality on Facebook Network</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/influential-voices-shaping-the-future-of-artificial-intelligence/"><u>Influential Voices: Shaping the Future of Artificial Intelligence</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/learning-the-ropes-of-telegram-promotion-for-beginners/"><u>Learning the Ropes of Telegram Promotion for Beginners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-mechanics-of-ai-prompts-and-their-influence-on-career-longevity/"><u>The Mechanics of AI Prompts & Their Influence on Career Longevity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-ai-advancements-for-enterprise-leaders/"><u>The Ultimate List of AI Advancements for Enterprise Leaders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-5-cutting-edge-bots-in-psychiatry-support/"><u>Unleashing 5 Cutting-Edge Bots in Psychiatry Support</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-metaverses-most-social-spaces-for-friends/"><u>[New] Metaverse's Most Social Spaces for Friends</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tiktok-to-facebook-social-media-linking-guide-for-2024/"><u>[New] TikTok-to-Facebook Social Media Linking Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-top-agri-themed-titles-friendship-and-fun-in-the-countryside/"><u>[Updated] In 2024, The Top Agri-Themed Titles Friendship & Fun in the Countryside</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-concealed-viewing-of-instagrams-private-content-on-devices/"><u>2024 Approved Concealed Viewing of Instagram's Private Content on Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-pioneers-compared-from-gpt-to-bings-bot-and-bard/"><u>AI Pioneers Compared: From GPT to Bing's Bot and Bard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-data-theft-expose-fraudulent-chatgpt-sites-now/"><u>Avoid Data Theft: Expose Fraudulent ChatGPT Sites Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-language-with-precision-using-openai-apis/"><u>Crafting Language with Precision Using OpenAI APIs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cumuluspro-anti-fatigue-standing-desk-pad-assessment-your-ideal-comfort-zone/"><u>CumulusPRO Anti-Fatigue Standing Desk Pad Assessment: Your Ideal Comfort Zone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-screenplays-to-screens-youtubes-filmmaker-training/"><u>In 2024, From Screenplays to Screens YouTube's Filmmaker Training</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-decades-guide-to-superior-social-media-management-smm/"><u>The Decade's Guide to Superior Social Media Management (SMM)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trading-techniques-tested-gpts-impact-on-digital-assets/"><u>Trading Techniques Tested: GPT's Impact on Digital Assets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-mirage-in-machine-learning-spotting-pretend-predictions/"><u>Unveiling the Mirage in Machine Learning: Spotting Pretend Predictions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-sony-vegas-alternatives-for-windows-top-picks-for-2024/"><u>Updated Sony Vegas Alternatives for Windows Top Picks for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/your-pathway-to-instagram-stardom-top-video-strategies/"><u>Your Pathway to Instagram Stardom Top Video Strategies</u></a></li>
 </ul></div>
 

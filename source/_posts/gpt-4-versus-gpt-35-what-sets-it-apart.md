@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 Versus GPT-3.5: What Sets It Apart?"
-date: 2025-01-25T03:41:57.259Z
-updated: 2025-02-01T08:38:42.558Z
+date: 2025-01-31T22:41:54.031Z
+updated: 2025-02-02T20:50:27.791Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
@@ -42,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem, [ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
@@ -72,15 +72,15 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
  ​​​​​​
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
@@ -121,24 +121,21 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-embarking-on-a-listening-odyssey-adding-podcasts-to-itunes-via-ios/"><u>[New] Embarking on a Listening Odyssey Adding Podcasts to iTunes via iOS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-guide-to-mastering-snapchats-zoom-feature/"><u>[New] In 2024, The Ultimate Guide to Mastering Snapchat's Zoom Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-premier-list-visionary-audiovideo-makers-web/"><u>[New] The Premier List Visionary Audio/Video Makers Web</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-smile-spark-planner/"><u>[Updated] Smile Spark Planner</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-webcam-and-monitor-recording-how-to-combine/"><u>[Updated] Webcam & Monitor Recording How to Combine</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-to-subtitles-subc-practical-steps-for-conversion/"><u>2024 Approved SRT to Subtitles (SUBC) Practical Steps for Conversion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/access-exclusive-previews-of-upcoming-apple-vision-pro-features-through-testflight-a-step-by-step-guide/"><u>Access Exclusive Previews of Upcoming Apple Vision Pro Features Through TestFlight: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-literary-gems-the-leading-5-ai-powered-reader-sites-and-apps/"><u>Discover Literary Gems: The Leading 5 AI-Powered Reader Sites and Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973405175-get-your-qualcomm-chipset-compatible-usb-drivers-now-download-for-windows-10-11-and-earlier-versions/"><u>Get Your [Qualcomm Chipset Compatible] USB Drivers Now – Download for Windows 10, 11 & Earlier Versions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-maximize-your-anthropics-ai-experience/"><u>How to Maximize Your Anthropic's AI Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-nord-ce-3-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus Nord CE 3 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/phrase-predicament-ai-vs-algorithm-for-fluency/"><u>Phrase Predicament: AI Vs. Algorithm for Fluency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/puzzle-your-way-to-justice-enter-into-4-ai-crime-games/"><u>Puzzle Your Way to Justice: Enter Into 4 AI Crime Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-remedies-to-resolve-six-common-gpt-vehicle-problems/"><u>Quick Remedies to Resolve Six Common GPT Vehicle Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailored-ai-by-nvidia-how-it-works-and-who-benefits/"><u>Tailored AI by NVIDIA: How It Works & Who Benefits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-essential-guide-for-proficiently-playing-games-with-switch-pro-in-steam/"><u>The Essential Guide for Proficiently Playing Games with Switch Pro in Steam</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-mystery-behind-apples-no-exclamation-policy-insights-from-a-design-perspective-tech-analysis/"><u>The Mystery Behind Apple's No-Exclamation Policy: Insights From a Design Perspective | Tech Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-new-ios-18-innovations-unveiled-at-wwdc-2024-a-glimpse-into-apples-future-with-ai/"><u>Top 5 New iOS 18 Innovations Unveiled at WWDC 2024: A Glimpse Into Apple's Future with AI</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-channel-honor-roll-play-button-and-follower-awards/"><u>[New] Channel Honor Roll - Play Button & Follower Awards</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-recovering-lost-linkages-restore-facebook-video-suggestions-for-2024/"><u>[New] Recovering Lost Linkages Restore Facebook Video Suggestions for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-captivating-crafts-trending-instagram-filters/"><u>[Updated] 2024 Approved Captivating Crafts Trending Instagram Filters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/14-chatgpt-and-summarize-inbox-ai-driven-email-assistance/"><u>14 ChatGPT & Summarize Inbox: AI-Driven Email Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/31-maximizing-email-potential-with-chatgpt-and-inbox-summarizers/"><u>31 Maximizing Email Potential with ChatGPT & Inbox Summarizers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ingenious-ways-to-leverage-chatgpt-for-employment/"><u>5 Ingenious Ways to Leverage ChatGPT for Employment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ai-powered-pdf-tools-unveiled-by-gpt/"><u>6 AI Powered PDF Tools Unveiled by GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-to-utilizing-openais-language-power/"><u>A Step-by-Step Guide to Utilizing OpenAI’s Language Power</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721431369176-chatgpt-evolved-discover-the-features-that-matter-most/"><u>ChatGPT Evolved: Discover the Features That Matter Most</u></a></li>
+<li><a href="https://win-web.techidaily.com/diagnosing-slow-graphics-card-issues-expert-advice-by-yl-computing-and-yl-software/"><u>Diagnosing Slow Graphics Card Issues: Expert Advice by YL Computing & YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-x50i-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor X50i</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-the-art-of-preventing-vr-sickness-for-2024/"><u>Mastering the Art of Preventing VR Sickness for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/roku-device-face-off-express-edition-versus-original-stick/"><u>Roku Device Face-Off: Express Edition Versus Original Stick</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721419017133-unlock-the-full-potential-of-your-smartphone-with-bing-ai-search/"><u>Unlock the Full Potential of Your Smartphone: With Bing AI Search.</u></a></li>
 </ul></div>
 

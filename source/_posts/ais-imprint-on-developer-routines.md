@@ -1,7 +1,7 @@
 ---
 title: AI's Imprint on Developer Routines
-date: 2025-01-26T20:58:27.132Z
-updated: 2025-01-31T23:09:52.833Z
+date: 2025-01-28T20:39:15.233Z
+updated: 2025-02-02T21:04:34.887Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overall Sentiments of Developers Towards AI
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  As mentioned, AI is growing in popularity among developers. According to the [Stack Overflow 2023 survey](https://survey.stackoverflow.co/2023/), 70% are already using or plan to use AI tools in their development process with 44% already using the tools now and 26% planning to.
 
  The views on AI differ based on the profession and the level of experience of the developer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Profession
 
@@ -52,15 +48,15 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Experience
 
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
 
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Countries
 
@@ -76,9 +72,17 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Benefits of AI for Developers
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
 
@@ -91,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Popular AI Tools That Developers Are Using in 2023
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  As a software developer, you can get started with AI by incorporating code generation and editing tools in your development process. [Tools like GitHub Copilot](https://www.makeuseof.com/how-github-copilot-helps-you-code/) and Tabnine suggest code snippets based on the context as you type which can significantly cut down on development time. Additionally, ChatGPT is very useful for generating utility functions, UI components, and debugging code. With the right prompts, you can even [use ChatGPT to create web apps](https://www.makeuseof.com/chatgpt-how-build-web-app/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Future of AI-Assisted Software Development
 
  Although many developers agree AI is a beneficial tool in their workflow, only a few are ready to fully trust AI tools to code their entire application. However, AI is certainly changing how developers build applications. By leveraging AI tools, developers can streamline different stages of development including writing code, testing, debugging, and code review. As a result, they can significantly optimize the development life cycle.
@@ -139,16 +139,22 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-essential-windows-tips-for-efficient-live-tv-saving/"><u>[New] In 2024, Essential Windows Tips for Efficient Live TV Saving</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-zippyzoom-pauseframe-playback/"><u>[Updated] 2024 Approved ZippyZoom PauseFrame Playback</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-optimal-mp4-extractor-from-tiktok-videos/"><u>[Updated] In 2024, Optimal MP4 Extractor From TikTok Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-rookies-guide-to-youtube-entrepreneurship-and-earnings/"><u>[Updated] In 2024, The Rookie's Guide to YouTube Entrepreneurship and Earnings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-veracity-in-the-limelight/"><u>ChatGPT's Veracity in the Limelight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-change-responsible-application-of-artificial-intelligence-in-writing-and-editing/"><u>Embracing Change: Responsible Application of Artificial Intelligence in Writing and Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-vs-gpt-35-unpacking-distinctions/"><u>GPT-4 Vs. GPT-3.5: Unpacking Distinctions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/proven-techniques-securely-archive-your-instagram-story-for-2024/"><u>Proven Techniques Securely Archive Your Instagram Story for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swiftly-move-all-your-macbook-files-with-these-simple-steps-discover-the-ultimate-guide/"><u>Swiftly Move All Your MacBook Files with These Simple Steps - Discover the Ultimate Guide!</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-capturing-the-world-from-every-angle-best-practices-9-rules/"><u>[Updated] In 2024, Capturing the World From Every Angle Best Practices (9 Rules)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-ways-chatgpt-could-help-you-land-a-job-on-linkedin/"><u>10 Ways ChatGPT Could Help You Land a Job on LinkedIn</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-reasons-excluding-gpt-from-cryptographic-research/"><u>5 Reasons: Excluding GPT From Cryptographic Research</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-openai-sora-alternatives-you-can-try-for-free/"><u>6 OpenAI Sora Alternatives You Can Try for Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-cybersecurity-trends-and-predictions/"><u>7 Cybersecurity Trends and Predictions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-developers-guide-top-10-chatgpt-enhancements-in-vs-code/"><u>A Developer's Guide: Top 10 ChatGPT Enhancements in VS Code</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-digital-marketing-game-with-cutting-edge-cookiebot-features/"><u>Elevate Your Digital Marketing Game with Cutting-Edge Cookiebot Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expanding-horizons-with-two-screens-on-your-mac-setup-tips/"><u>Expanding Horizons with Two Screens on Your Mac - Setup Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-slow-instagram-loading-times-a-comprehensive-guide-for-android-and-iphone-users/"><u>Fixing Slow Instagram Loading Times: A Comprehensive Guide for Android & iPhone Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-lava-yuva-3-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Lava Yuva 3 Pro Devices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-premier-stop-motion-works-the-ultimate-15-selection/"><u>In 2024, Premier Stop-Motion Works The Ultimate 15 Selection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721408721327-intuitive-talking-to-ai-try-this-chrome-tool/"><u>Intuitive Talking to AI? Try This Chrome Tool!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-updates-improving-your-dells-system-management-bus-controller/"><u>Latest Updates: Improving Your Dell's System Management Bus Controller</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721391750232-revolutionary-chatgpt-tweaks-youll-love/"><u>Revolutionary ChatGPT Tweaks You'll Love</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-earphone-troubles-a-modern-fixers-guide-for-your-jabra-headset-2024-edition/"><u>Say Goodbye to Earphone Troubles: A Modern Fixer's Guide for Your Jabra Headset - 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/take-control-comprehensive-walkthrough-of-the-newly-released-apple-iphone/"><u>Take Control: Comprehensive Walkthrough of the Newly Released Apple iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721411226505-terminate-chatgpt-connection-now/"><u>Terminate ChatGPT Connection Now!</u></a></li>
 </ul></div>
 

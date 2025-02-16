@@ -1,7 +1,7 @@
 ---
 title: "Ordinary Operations: Which Bot Leads the Charge?"
-date: 2024-08-25T17:31:55.656Z
-updated: 2024-08-26T17:31:55.656Z
+date: 2025-01-31T22:25:56.799Z
+updated: 2025-02-02T20:01:57.344Z
 tags:
   - chatgpt
   - open-ai
@@ -93,13 +93,18 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  Lastly, ChatGPT does not support use via a VPN, which can be tricky if you're a regular VPN user or want to get around your region's geo-restrictions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Claude's Pros and Cons
 
  So, how does Claude compare to ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Claude's Pros
 
  There are some [ways in which Claude outshines ChatGPT](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/), which we'll get into here.
@@ -116,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Claude's Cons
 
  Claude's biggest limitation is geographical availability. At the time of writing, Claude is only available to US and UK residents, while ChatGPT is available in most countries worldwide.
@@ -124,16 +133,10 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Creative Abilities
 
  First, we asked both Claude and ChatGPT to provide us with a poem using the same prompt each time.
@@ -143,15 +146,13 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
 ### 2\. Mathematical Abilities
@@ -166,11 +167,12 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Translation
 
  Lastly, we asked ChatGPT and Claude to translate a paragraph of Japanese into English. The original paragraph reads:
@@ -188,27 +190,20 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT and Claude May Become Close Rivals
 
  While ChatGPT is almost a household name nowadays, competitors like Claude have a lot of potential to knock it from its number-one spot. Who knows, Claude could one day become ChatGPT's biggest competitor!
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -217,4 +212,26 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-ten-capture-hardware-rankings-for-professional-streamers/"><u>[New] Top Ten Capture Hardware Rankings for Professional Streamers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unveiling-the-hidden-accessing-youtube-video-comments-for-2024/"><u>[New] Unveiling the Hidden Accessing YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-leveraging-costless-methods-for-integrating-videos-into-writing/"><u>[Updated] 2024 Approved Leveraging Costless Methods for Integrating Videos Into Writing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-sync-your-screen-time-concurrent-youtube-content-consumption/"><u>[Updated] Sync Your Screen Time Concurrent YouTube Content Consumption</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-innovation-in-sound-deciding-between-homepod-and-homepod-mini-for-ultimate-audio-experience-zdnet/"><u>Apple's Innovation in Sound: Deciding Between HomePod & HomePod Mini for Ultimate Audio Experience | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-campaign-creatives-through-chatgpt-insights/"><u>Boosting Campaign Creatives Through ChatGPT Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-turings-evaluation-chances-of-victory/"><u>Demystifying Turing's Evaluation: Chances of Victory?</u></a></li>
+<li><a href="https://win-lab.techidaily.com/exploring-latest-innovations-in-ai-my-complete-review-of-new-copilotplus-pc-enhancements-am-i-convinced/"><u>Exploring Latest Innovations in AI: My Complete Review of New Copilot+ PC Enhancements - Am I Convinced?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-versus-gpt-35-what-sets-it-apart/"><u>GPT-4 Versus GPT-3.5: What Sets It Apart?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-broadcoms-official-bluetooth-driver-on-windows-1187-systems/"><u>How to Install Broadcom's Official Bluetooth Driver on Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-brief-cinematic-story-outline/"><u>In 2024, Brief Cinematic Story Outline</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-finding-lost-airpods-and-avoiding-future-misplacement-tips-by-zdnet/"><u>Master the Art of Finding Lost AirPods & Avoiding Future Misplacement - Tips by ZDNet</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mastering-garageband-a-comprehensive-tutorial-for-recording-music-for-2024/"><u>New Mastering GarageBand A Comprehensive Tutorial for Recording Music for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-customer-service-8-ways-to-use-chatgpt-effectively/"><u>Revolutionizing Customer Service: 8 Ways to Use ChatGPT Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/switching-to-iphone-easy-steps-to-move-your-whatsapp-messages-from-android/"><u>Switching to iPhone? Easy Steps to Move Your WhatsApp Messages From Android!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-exciting-innovations-in-the-new-iphone-16-pro-a-tech-lovers-dream-come-true-zdnet/"><u>Top 5 Exciting Innovations in the New iPhone 16 Pro: A Tech Lover's Dream Come True! - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-wallet-picks-reviewed-by-experts-find-your-perfect-match/"><u>Top-Rated AirTag Wallet Picks Reviewed by Experts - Find Your Perfect Match!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Tecno Pop 8 | Dr.fone</u></a></li>
+</ul></div>
 

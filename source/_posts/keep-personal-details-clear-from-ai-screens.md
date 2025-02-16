@@ -1,7 +1,7 @@
 ---
 title: Keep Personal Details Clear From AI Screens
-date: 2025-01-25T09:56:25.223Z
-updated: 2025-01-31T16:13:26.002Z
+date: 2025-01-30T21:04:47.733Z
+updated: 2025-02-02T17:05:02.335Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Leaked Confidential Information Via ChatGPT
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Data Leaks Happen?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
@@ -89,24 +89,22 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-acquiring-safe-gratis-vlc-media-player-on-macos-systems-for-2024/"><u>[New] Acquiring Safe, Gratis VLC Media Player on macOS Systems for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-blog-thumbnail-proportions-tips/"><u>[Updated] 2024 Approved Blog Thumbnail Proportions Tips</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-elevate-your-video-step-by-step-from-sdr-to-hdri/"><u>[Updated] 2024 Approved Elevate Your Video Step-by-Step From SDR to HDRI</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-best-offline-audio-conversion-software-for-2024/"><u>[Updated] Best Offline Audio Conversion Software for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximize-youtube-presence-11-must-know-seo-strategies-for-success/"><u>[Updated] Maximize YouTube Presence 11 Must-Know SEO Strategies for Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/do-user-exchanges-lead-to-bettered-chatgpt-written-output/"><u>Do User Exchanges Lead to Bettered ChatGPT’ Written Output?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-epics-utilizing-chatgpt-for-enthralling-stories/"><u>Elevating Epics: Utilizing ChatGPT for Enthralling Stories</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-digital-artistry-jack-watts-revolutionary-approach-with-digiarty-software/"><u>Exploring Digital Artistry: Jack Watt's Revolutionary Approach with Digiarty Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/freelancing-powered-by-ai-6-ways-to-master-chatgpt-tools/"><u>Freelancing Powered by AI: 6 Ways to Master ChatGPT Tools</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-xiaomi-redmi-13c-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Xiaomi Redmi 13C 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-phones-of-tech-gurus-at-zdnet-a-comprehensive-device-showcase-and-evaluation/"><u>Inside the Phones of Tech Gurus at ZDNet: A Comprehensive Device Showcase & Evaluation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-the-new-ipad-air-outshining-your-older-ipad-pro-a-comprehensive-review-and-analysis/"><u>Is The New iPad Air Outshining Your Older iPad Pro? A Comprehensive Review & Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pivot-your-passions-learning-designing-through-gpt-my-bots-mastery/"><u>Pivot Your Passions: Learning, Designing Through GPT-My Bots Mastery</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/premium-horizon-ai-blueprint-enhanced-with-nextjs-and-tailwind-css-by-creative-tim/"><u>Premium Horizon AI Blueprint: Enhanced with NextJS and Tailwind CSS by Creative Tim</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-browsing-tips-for-mac-users-how-to-disable-tracking-in-safari-and-enhance-personal-data-safety/"><u>Secure Browsing Tips for Mac Users: How to Disable Tracking in Safari and Enhance Personal Data Safety</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sending-and-receiving-imessages-on-a-windows-pc-a-comprehensive-guide-zdnet/"><u>Sending & Receiving iMessages on a Windows PC: A Comprehensive Guide - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-terminating-your-apple-music-subscription-independently-of-itunes-digital-trends/"><u>Step-by-Step Guide to Terminating Your Apple Music Subscription Independently of iTunes | Digital Trends</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-intellectual-capabilities-required-for-apples-ai-to-rival-google-and-openai-insights-from-tech-experts/"><u>Top 10 Intellectual Capabilities Required for Apple's AI to Rival Google and OpenAI: Insights From Tech Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cultivate-creativity-best-video-concepts-for-viewers-for-2024/"><u>[New] Cultivate Creativity Best Video Concepts for Viewers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-snapshot-survival-guide-top-recorders-evaluated/"><u>[New] In 2024, SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-futures-canvas-unveiling-6-pioneers-of-nft-artistry-for-2024/"><u>[New] The Future's Canvas Unveiling 6 Pioneers of NFT Artistry for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-innovations-enhancers-that-excite/"><u>[Updated] 2024 Approved Instagram Innovations Enhancers that Excite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advancing-essay-craft-with-chatgpt-expertise/"><u>Advancing Essay Craft with ChatGPT Expertise</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-the-boundaries-limitations-in-vr/"><u>Beyond the Boundaries Limitations in VR</u></a></li>
+<li><a href="https://article-posts.techidaily.com/cinematic-treasures-15-incredible-stop-motion-films-for-2024/"><u>Cinematic Treasures 15 Incredible Stop-Motion Films for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/covert-calls-chroniclers-top-secret-audio-gadgets-androidios/"><u>Covert Calls Chroniclers Top-Secret Audio Gadgets (Android/iOS)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-catalysts-da-vincis-triumph-in-image-generation-ai/"><u>Creative Catalysts: Da Vinci’s Triumph in Image Generation AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-words-to-waves-mastering-sound-synthesis-via-ai/"><u>From Words to Waves: Mastering Sound Synthesis via AI</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-degree-of-view-analysis/"><u>In 2024, Comprehensive Degree of View Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-hugging-face-concept-and-applications/"><u>Inside Hugging Face: Concept & Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-features-of-llama-2-with-ease/"><u>Navigating the Features of Llama 2 with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-plots-creating-rpgs-in-the-gpt-realm/"><u>Pioneering Plots: Creating RPGs in the GPT Realm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-speech-recognition-made-simple-whisper-method/"><u>Real-Time Speech Recognition Made Simple - Whisper Method</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/supercharge-your-day-examining-7-ways-chatgpt-elevates-productivity/"><u>Supercharge Your Day: Examining 7 Ways ChatGPT Elevates Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ubuntu-terminal-tactics-initiating-shellgpt-with-gpt/"><u>Ubuntu Terminal Tactics: Initiating ShellGPT with GPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Best Practices for Effective ChatGPT Interactions From Github
-date: 2025-01-30T20:35:32.829Z
-updated: 2025-01-31T23:05:56.538Z
+date: 2025-01-27T23:21:35.239Z
+updated: 2025-02-02T21:00:06.486Z
 tags:
   - chatgpt
   - open-ai
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Creating a Detailed Life Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-life-coach-plan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Translate Foreign Text
 
 ![ChatGPT Translating Tagalog Text to English](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-tagalog-to-english-translation.jpg)
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Writing Codes as a Frontend Developer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-frontend-developer-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Programming has a steep learning curve. You have to master debugging strategies, coding languages, and functionality implementation. New programmers might find the process overwhelming.
 
  To understand how specific software components work, ask ChatGPT for sample code snippets. They might not function as-is. However, analyzing examples is far less intimidating than staring at a blank screen. Use them as your starting point.
@@ -77,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 ## 5\. Generate Text-to-Image Prompts
 
 ![Requesting ChatGPT for Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-for-ai-art-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You need to use descriptive and graphics-related words when writing prompts for text-to-image tools like Midjourney. Generic results stem from ambiguity. For instance, swapping **ugly** for **hideous** could produce an entirely different image.
 
@@ -93,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 ![ChatGPT Writing Sample Code for Binary Search Algorithm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-sample-code-for-algorithm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that this ChatGPT prompt doesn't replace educational resources on programming. Instead, it acts as an introduction. With thousands of codes available for programmers, some might not know where to start their research. This is where ChatGPT can play a crucial role.
@@ -101,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 ## 7\. Draft Partnership Agreements
 
 ![ChatGPT Writing a Full Legal Partnership Agreement Draft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-drafting-legal-partnership-agreement.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can generate legal contracts with the help of ChatGPT. It analyzes existing proposals from its datasets to create a standard agreement. Just input your offers and demands.
 
@@ -120,11 +112,19 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Answering Queries as Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-roleplaying-ash-from-pokemon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The prompt generally helps writers make realistic dialogues. But what makes it interesting is that it bypasses restrictions by portraying immoral characters.
 
  In the below photo, we asked ChatGPT to imitate Tomie, an evil, manipulative character from the manga Tomie.
 
 ![ChatGPT Answering as Tomie from Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-tomie-from-tomie.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll see that "Tomie" doesn't hesitate to answer restricted questions.
 
@@ -133,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 ## 9\. Provide Emergency Response Assistance
 
 ![ChatGPT Providing Emergency Response Tips for Senior Having a Seizure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-providing-emergency-response-tips.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Sorting Google results during crises is inefficient. You'll waste several minutes waiting for web pages to load and reading resources.
 
@@ -154,17 +150,9 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
  Just make sure you test the restructured codes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Write Cover Letters
 
 ![CChatGPT Writing a Cover Letter for a Content Writer Job Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/content-writer-application-cover-letter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Many professionals struggle with writing cover letters. You have to condense your work experience, intention, and skills without selling yourself short. Otherwise, recruiters might skip your application altogether.
 
@@ -182,15 +170,15 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Predicting Bitcoin Prices as Unrestricted Dan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-dan-making-predictions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just don't expect accurate answers. While this prompt bypasses certain restrictions, it also forces ChatGPT to present unverified, inaccurate information.
 
 ## 13\. Check Chemical Reactions
 
 ![Requesting ChatGPT to Act as Chemical Reaction Vessel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-chemical-reaction-vessel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT can simulate chemical reaction vessels. It demonstrates how different properties and substances change when you mix them. For accuracy, the residue from previous mixes also alters results.
 
@@ -203,7 +191,7 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 ![Asking ChatGPT to be a Travel Planner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-as-travel-planner.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Use this ChatGPT prompt to create a detailed, structured travel plan. You'll produce far better results after providing personal information, like your budget, group size, and preferred transportation modes. Just asking for a travel plan outright yields generic recommendations.
@@ -224,9 +212,17 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Analyzing The Old Poem Japanese Haiku](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-literary-analysis.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And for a more relevant take, it also considers the historical and cultural context of the poem.
 
 ![ChatGPT Continuing Literary Analysis of The Old Pond](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-literary-analysis-continuation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 16\. Friendly Emotional Support
 
@@ -237,10 +233,14 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 ![ChatGPT Providing Friendly Advice and Emotional Support](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-providing-friendly-support.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Be careful when using [ChatGPT as a mental health coach](https://www.makeuseof.com/how-use-chatgpt-safely-mental-health-coach/). AI merely scrapes information from its training datasets and presents them in natural language—it can't empathize with you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 17\. Debate Coach and Practice
 
@@ -307,20 +307,17 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-instant-tiktok-video-archive-boundless-and-clean/"><u>[New] 2024 Approved Instant TikTok Video Archive Boundless & Clean</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-financial-freedom-awaits-learn-these-8-ways-to-earn-on-tiktok/"><u>[New] Financial Freedom Awaits Learn These 8 Ways to Earn on TikTok</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-perfecting-your-igtv-thumbnail-imagery-for-2024/"><u>[New] Perfecting Your IGTV Thumbnail Imagery for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-in-motion-a-thorough-review-of-magix-vpxs-features/"><u>2024 Approved Mastery in Motion A Thorough Review of Magix VPX's Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-your-own-chatai-with-gpt-foundations/"><u>Building Your Own ChatAI with GPT Foundations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dielectric-relaxation-is-the-time-dependent-polarization-response-in-an-electric-field-affecting-ac-circuit-performance/"><u>Dielectric Relaxation Is the Time-Dependent Polarization Response in an Electric Field, Affecting AC Circuit Performance.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-aspects-to-think-about-prior-to-purchasing-a-video-camera-system/"><u>Essential Aspects to Think About Prior to Purchasing a Video Camera System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excel-and-chatgpt-taming-spreadsheets-with-ai/"><u>Excel & ChatGPT: Taming Spreadsheets with AI</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-huawei-p60-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Huawei P60 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ai-face-off-enhanced-gemini-vs-plush-gptplus/"><u>The AI Face-Off: Enhanced Gemini Vs. Plush GPT+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-deciding-points-when-incorporating-ai-for-mental-health-solutions/"><u>Top 6 Deciding Points when Incorporating AI for Mental Health Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-gpts-built-in-extensions/"><u>Understanding GPT's Built-In Extensions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-free-on-premise-windows-ai-with-gpt4all/"><u>Unlock Free, On-Premise Windows AI with GPT4All</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/visual-virtuosos-popular-ig-effects/"><u>Visual Virtuosos Popular IG Effects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-eye-on-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>[New] Eye on the Screen YouTube Journey Comparison From Creator to Competitor</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-deep-dive-into-vscos-creative-palette/"><u>[New] In 2024, A Deep Dive Into VSCO's Creative Palette</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-implementing-precise-timing-features-for-engaged-youtube-audiences/"><u>[Updated] 2024 Approved Implementing Precise Timing Features for Engaged YouTube Audiences</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-smooth-scene-grabs-the-top-8-non-lagging-tools/"><u>[Updated] 2024 Approved Smooth Scene Grabs The Top 8 Non-Lagging Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amp-up-your-pc-with-freshly-downloaded-amd-radeon-window-drivers/"><u>Amp Up Your PC with Freshly Downloaded AMD Radeon Window Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/curated-list-of-the-top-8-android-and-iphone-ai-apps/"><u>Curated List of the Top 8 Android & iPhone AI Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-se-2022-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone SE (2022) When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/illusory-gpt-plugin-hijacks-fb-accounts/"><u>Illusory GPT Plugin: Hijacks FB Accounts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-wix-toolset-update-deployment-strategies-for-seamless-software-modifications/"><u>Mastering WiX Toolset Update Deployment Strategies for Seamless Software Modifications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-and-openai-under-fire-artist-suits-on-free-expression/"><u>Meta and OpenAI Under Fire: Artist Suits on Free Expression</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/search-revolutionized-microsofts-ai-in-the-pipeline-for-bing/"><u>Search Revolutionized: Microsoft's AI in the Pipeline for Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-trio-of-ai-public-private-and-personal-dimensions/"><u>The Trio of AI: Public, Private, and Personal Dimensions</u></a></li>
 </ul></div>
 

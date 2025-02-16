@@ -1,7 +1,7 @@
 ---
 title: The Six Essential Qualities That Set Snapchat's My AI Apart
-date: 2025-01-26T23:28:59.952Z
-updated: 2025-02-01T03:10:10.530Z
+date: 2025-01-28T18:21:20.163Z
+updated: 2025-02-02T17:26:16.634Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. My AI Runs on GPT-3.5
 
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Snapchat uses the same [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
 
@@ -49,7 +49,7 @@ Close
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Conversations Retain the Last 3,000 Words
@@ -65,14 +65,10 @@ Close
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. My AI Can Pull Real-Time Information
 
@@ -88,6 +84,10 @@ Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
 
  Snapchat offers helpful location-based services. It can tell you which establishments and landmarks are near your current location.
@@ -95,7 +95,7 @@ Close
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
@@ -104,10 +104,6 @@ Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to > **Settings** \> **Privacy Controls** \> **My Location**. Toggle the Ghost Mode button to hide your location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
  A [side-by-side comparison of ChatGPT, Bard AI, and Bing Chat](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) shows that AI chatbots struggle with math questions. ChatGPT answers intermediate to advanced math problems better than competitors.
@@ -115,6 +111,10 @@ Close
  While Bard AI and Bing Chat use more advanced LLMs than Snapchat, My AI surprisingly does well in Math.
 
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
@@ -155,24 +155,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/0x80073712/"><u>如何修复文件错误 0X80073712：升级失败和遗失挂载点问题解决指南</u></a></li>
-<li><a href="https://discover-data.techidaily.com/clonezilla/"><u>Clonezilla 操作中に '宛先ディスク容量不足' エラーを解決しよう</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/creating-a-clickable-thumbnail-enhancing-video-visibility-without-costs-for-2024/"><u>Creating a Clickable Thumbnail Enhancing Video Visibility without Costs for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deconstructing-vpn-raids-on-privacy-tools/"><u>Deconstructing VPN Raids on Privacy Tools</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dual-linguistic-learning-pathway/"><u>Dual Linguistic Learning Pathway</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-x50i-messages-recovery-recover-deleted-messages-from-honor-x50i-by-fonelab-android-recover-messages/"><u>Honor X50i Messages Recovery - Recover Deleted Messages from Honor X50i</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-secrets-to-excellent-screen-recordings-on-lenovo/"><u>In 2024, Secrets to Excellent Screen Recordings on Lenovo</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-swiftly-craft-custom-thumbnails-for-youtube-shorts-with-these-hacks/"><u>In 2024, Swiftly Craft Custom Thumbnails for YouTube Shorts with These Hacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-conversations-easily-the-chrome-gpt-extension/"><u>Navigate Conversations Easily - The Chrome GPT Extension</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-boss-for-ai-predicted-impact-on-chatgpt/"><u>New Boss for AI, Predicted Impact on ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-photography-apple-unveils-ai-powered-editing-tool-responding-to-user-text-descriptions-insights/"><u>Revolutionizing Photography: Apple Unveils AI-Powered Editing Tool Responding to User Text Descriptions - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategic-personas-design-using-advanced-chatgpt-techniques/"><u>Strategic Personas Design Using Advanced ChatGPT Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/teaching-techniques-with-youtube-a-practical-approach-for-2024/"><u>Teaching Techniques with YouTube A Practical Approach for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-smartphone-with-chatgpt-and-android/"><u>Transform Your Smartphone with ChatGPT & Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unbeatable-presidents-day-offer-save-300-on-the-202-cuet-m2-macbook-air-shop-now-at-zdnet/"><u>Unbeatable Presidents' Day Offer: Save $300 on the 202 Cuet M2 MacBook Air - Shop Now at ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-your-office-writing-word-and-gpt-synergy-unveiled/"><u>Upgrade Your Office Writing: Word and GPT Synergy Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/video-voyage-beginnings-from-storyboard-to-screenplay-via-chatgpt/"><u>Video Voyage Beginnings - From Storyboard to Screenplay via ChatGPT</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-learn-to-activate-picture-in-picture-viewing-on-iphones-youtube-app/"><u>[New] 2024 Approved Learn to Activate Picture-in-Picture Viewing on iPhone's Youtube App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-visual-stories-the-art-of-using-gopro-for-time-lapses/"><u>[Updated] Crafting Visual Stories The Art of Using GoPro for Time-Lapses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-a-unique-experience-with-chatgpts-directive-capabilities/"><u>Crafting a Unique Experience with ChatGPT's Directive Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-claude-3s-features-and-potential/"><u>Decoding Claude 3'S Features & Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empathetic-algorithms-the-next-step-in-human-computer-interaction/"><u>Empathetic Algorithms: The Next Step in Human-Computer Interaction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-destinations-a-complete-overview/"><u>Exploring Tom's Hardware Destinations: A Complete Overview</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-the-future-of-personal-handiwork/"><u>GPT-4: The Future of Personal Handiwork</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-complete-guide-to-shooting-with-a-green-screen/"><u>In 2024, The Complete Guide to Shooting with a Green Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interacting-with-gpt-3-nonresponsive-inquiry-guide/"><u>Interacting With GPT-3: Nonresponsive Inquiry Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/latest-information-accessibility-for-everyone/"><u>Latest Information Accessibility for Everyone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mac-users-ultimate-solution-unblocking-and-streaming-h265-hevc-videos-smoothly/"><u>Mac Users' Ultimate Solution: Unblocking & Streaming H.265 (HEVC) Videos Smoothly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-measures-to-disable-chatgpts-memory-storage/"><u>Privacy Measures to Disable ChatGPT's Memory Storage</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/semanas-completas-conoce-todos-los-dias-del-mes/"><u>Semanas Completas: Conoce Todos Los Dias Del Mes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/streamline-your-binge-sessions-leveraging-the-power-of-pip-on-netflix-for-2024/"><u>Streamline Your Binge Sessions Leveraging the Power of PIP on Netflix for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-in-demand-coding-languages-of-today-comprehensive-learning-resources/"><u>Top 5 In-Demand Coding Languages of Today: Comprehensive Learning Resources</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-superior-search-with-perplexity-ai/"><u>Unlock Superior Search with Perplexity AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gpts-inner-workings-the-code-decipherer-explained/"><u>Unveiling GPT's Inner Workings: The Code Decipherer Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winos-tricks-for-program-stability/"><u>WinOS Tricks for Program Stability</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-data-recovery-recover-lost-data-from-xiaomi-redmi-note-12-pro-4g-by-fonelab-android-recover-data/"><u>Xiaomi Data Recovery – recover lost data from Xiaomi Redmi Note 12 Pro 4G</u></a></li>
 </ul></div>
 

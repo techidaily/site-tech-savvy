@@ -1,7 +1,7 @@
 ---
 title: Top 6 Unhelpful GPT-3 Extensions Reconsidered
-date: 2025-01-24T18:22:48.180Z
-updated: 2025-01-31T18:09:26.599Z
+date: 2025-01-30T21:00:50.698Z
+updated: 2025-02-02T20:01:12.291Z
 tags:
   - chatgpt
   - open-ai
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. I Am Rich
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -47,16 +43,24 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Aaron Web Browser
 
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to [scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/)? Maybe ChatGPT plugins are not the right tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. AppyPie App Builder
 
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
@@ -96,16 +100,12 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly [to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/). By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. ABC Website Maker
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
@@ -139,16 +139,22 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-free-fx-library-to-enhance-youtube-productions/"><u>[New] Free FX Library to Enhance YouTube Productions!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-partner-selection-for-youtube-joint-ventures/"><u>[Updated] 2024 Approved Navigating Partner Selection for YouTube Joint Ventures</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-securing-sponsorships-amidst-content-creation-for-2024/"><u>[Updated] Mastering Instagram Securing Sponsorships Amidst Content Creation for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-introduces-enhanced-airpods-4-with-innovative-find-my-functionality-and-modern-usb-c-interface-insights-from-zdnet/"><u>Apple Introduces Enhanced AirPods 4 with Innovative Find My Functionality and Modern USB-C Interface - Insights From ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-stop-error-in-hamachi-service-a-step-by-step-guide-to-restoration/"><u>Bypassing the Stop Error in Hamachi Service - A Step-by-Step Guide to Restoration</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-versatile-cameras-panasonics-fz80-review/"><u>Discover Versatile Cameras: Panasonic's FZ80 Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dont-trust-unverified-ai-services-spot-the-fakes/"><u>Don't Trust Unverified AI Services - Spot the Fakes</u></a></li>
-<li><a href="https://fox-info.techidaily.com/elevate-design-15-must-have-plugins-for-after-effects/"><u>Elevate Design 15 Must-Have Plugins for After Effects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/presidents-day-sale-alert-get-the-new-macbook-pro-with-advanced-m3-pro-chip-at-a-discounted-price-of-200-less-exclusive-deal/"><u>President's Day Sale Alert! Get the New MacBook Pro with Advanced M3 Pro Chip at a Discounted Price of $200 Less Exclusive Deal</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-idevices-currently-worth-reconsidering-insights-from-zdnet/"><u>Top 4 iDevices Currently Worth Reconsidering: Insights From ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-which-video-player-wins-vlc-or-mx-in-2024/"><u>[New] Which Video Player Wins, VLC or MX, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-streamlined-process-for-hassle-free-hdr-shots/"><u>[Updated] In 2024, Streamlined Process for Hassle-Free HDR Shots</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-polishing-your-youtube-projects-the-premiere-pro-way-for-2024/"><u>[Updated] Polishing Your YouTube Projects The Premiere Pro Way for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-driving-view-counts-upward-on-youtube-6-proven-techniques/"><u>2024 Approved Driving View Counts Upward on YouTube 6 Proven Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/archiving-made-simple-saving-chatgpt-talks/"><u>Archiving Made Simple: Saving ChatGPT Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-6-rise-of-creative-tools/"><u>Artificial Intelligence: 6 Rise of Creative Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-creativity-in-3-bot-systems/"><u>Comparing Creativity in 3 Bot Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-on-lifting-your-chatgpt-ban/"><u>Expert Advice on Lifting Your ChatGPT Ban</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-generative-ai-fails-in-humanized-text-conversations/"><u>How Generative AI Fails in Humanized Text Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ignite-creativity-unique-ai-art-with-the-power-of-microsofts-copilot/"><u>Ignite Creativity: Unique AI Art with the Power of Microsoft's Copilot</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/immersion-tools-top-ten-innovative-vr-accessories/"><u>Immersion Tools Top Ten Innovative VR Accessories</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reality-assurance-no-gpt-windows-isnt-harmful-app/"><u>Reality Assurance: No, GPT-Windows Isn't Harmful App</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-samsung-galaxy-s24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Samsung Galaxy S24</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-alternative-ai-chat-platforms-free-and-premium-options-beyond-chatgpt/"><u>Top 8 Alternative AI Chat Platforms: Free & Premium Options Beyond ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-written-work-with-gpt-4/"><u>Transform Written Work with GPT-4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-non-functional-nvidia-gaming-features/"><u>Troubleshooting Steps for Non-Functional Nvidia Gaming Features</u></a></li>
 </ul></div>
 

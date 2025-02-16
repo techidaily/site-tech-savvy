@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Memories, Safely Store 'Em!
-date: 2025-01-29T00:08:20.007Z
-updated: 2025-02-01T04:54:03.850Z
+date: 2025-01-29T22:36:18.968Z
+updated: 2025-02-02T21:17:15.597Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Natively Save a ChatGPT Conversation
 
  Whenever you write a prompt in the ChatGPT chat platform, it automatically saves your chat using a name adapted from your prompt. In order to help you remember saved chats easily, you might want to edit their title using a more concise and descriptive short text. To do this:
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 3. Once on the last text, press **Ctrl + C** or **Cmd + C** on your keyboard or right-click and select **Copy** to copy the chat to your clipboard.
 4. Open the Notepad or any text editor on your computer and paste this conversation into it. Then save the file with a TXT extension.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Save Your ChatGPT Chat to HTML or PDF Files Using Browser Extensions
 
 [Export ChatGPT Conversation](https://chrome.google.com/webstore/detail/export-chatgpt-conversati/clgidpflecgaaabfcmdmkcgebpbadgoc/) is a Chrome extension that lets you copy your entire chat thread to your clipboard or download it to your local drive as HTML. You can also use this extension to export chats to your Notion workspace.
@@ -67,25 +59,30 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 2. Go to the extension icon in the top-right corner of your Chrome browser and click the **Export ChatGPT Conversation** extension.  
 ![Export ChatGPT extension in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/export-chatgpt-extension-in-chrome.jpg)
 3. Select the appropriate option to **Copy to Clipboard**, **Export to Notion**, or **Download as Images**.  
-![ChatGPT conversation saving options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-saving-options.jpg)
-4. If you've copied it to the clipboard, paste the text into a plain textfile on your local drive and save it as a **.txt**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ChatGPT conversation saving options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-saving-options.jpg)
+4. If you've copied it to the clipboard, paste the text into a plain textfile on your local drive and save it as a **.txt**.
 
 5. **To download each conversation as an image**, select **Download as Images.** The extension opens a new browser tab containing images of the chosen conversation. Click the download icon in the top-right corner of an image to save it as a PNG.  
 ![ChatGPT conversation as image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-as-image.jpg)
 6. **To download the entire conversation as HTML** instead, select **Download as Images.** Once the new tab loads with your chat images, right-click the page and select **Save as**. Select a preferred location on your local drive and click **Save**. You can open the downloaded HTML using any web browser.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT conversation as HTML](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-as-html.jpg)
 7. **For PDF**, select **Download as Images.** Right-click the page and click **Print** this time. Click **Print** and select a destination folder. Then click **Save** to download the chat as a PDF.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT conversation as PDF](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-as-pdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Export Your ChatGPT Conversation History to Your Computer
 
@@ -96,13 +93,13 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 ![ChatGPT settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-settings-option.jpg)
 3. Click **Data Controls**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **Export** to the right of **Export data**.  
 ![ChatGPT settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-settings-menu.jpg)
 5. From the pop-up, click **Confirm export**; this sends a download link to your registered email address.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Export confirmation modal in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/export-confirmation-modal-in-chatgpt.jpg)
 6. Check your email for the download link and click **Download data export** to download your ChatGPT conversation history to your device's local storage as a zipped folder.  
@@ -113,11 +110,11 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 ![ChatGPT history unzipped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-history-unzipped.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Clear ChatGPT Conversations
@@ -128,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
 1. Click your profile icon at the bottom left of the ChatGPT chat menu.
 2. Select **Clear conversations** \> **Confirm clear conversations**. This clears your entire conversation history, and you can start afresh.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avoid Losing Your ChatGPT Conversations
 
@@ -150,18 +151,22 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-advanced-accessories-for-immersive-gaming-worlds/"><u>[New] Advanced Accessories for Immersive Gaming Worlds</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/astering-youtube-adjust-your-video-privacy-settings-for-2024/"><u>[New] Mastering YouTube Adjust Your Video Privacy Settings for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-effortless-youtube-video-to-text-conversion-at-no-cost/"><u>[Updated] In 2024, Effortless YouTube Video to Text Conversion at No Cost</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-unlocking-financial-flows-youtube-affiliates-for-modest-channels/"><u>2024 Approved Unlocking Financial Flows YouTube Affiliates for Modest Channels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-peak-health-integrating-top-7-ai-enhancements/"><u>Achieve Peak Health: Integrating Top 7 AI Enhancements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-screen-choices-utilizing-chatgpt-in-movie-selection/"><u>AI-Powered Screen Choices: Utilizing ChatGPT in Movie Selection</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-to-downloading-insignia-ns-pcy5bma2-driver-on-pcs-with-windows-os/"><u>Complete Guide to Downloading Insignia NS-PCY5BMA2 Driver on PCs with Windows OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-the-vitality-of-apple-pages-discover-5-compelling-reasons/"><u>Explore the Vitality of Apple Pages: Discover 5 Compelling Reasons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/galaxy-vs-genius-choosing-between-samsung-and-apples-ultra-smartwatches-expert-insights-for-your-purchase-decision/"><u>Galaxy Vs. Genius: Choosing Between Samsung and Apple's Ultra Smartwatches - Expert Insights for Your Purchase Decision!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-superior-ai-crafting-a-fair-exchange-for-dollars/"><u>Is Superior AI Crafting a Fair Exchange for Dollars?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/macbook-users-upgrade-with-the-satechi-pro-hub-max-a-game-changing-case-cover-and-charging-dock-unveiled/"><u>MacBook Users, Upgrade with the Satechi Pro Hub Max - A Game-Changing Case Cover & Charging Dock Unveiled</u></a></li>
-<li><a href="https://fox-links.techidaily.com/spectacular-14-text-animation-art-pieces-for-2024/"><u>Spectacular 14 Text Animation Art Pieces for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-openais-shap-explainer/"><u>Understanding OpenAI's SHAP Explainer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-windows-video-conferencing-excellence-8-1/"><u>[New] Windows Video Conferencing Excellence #8-1</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-critical-examination-of-lg-bp350-screen-size-and-viewing-distance/"><u>[Updated] In 2024, Critical Examination of LG BP350 Screen Size & Viewing Distance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-content-savings-top-5-techniques-to-download-igtv-videos/"><u>[Updated] In 2024, Navigating Content Savings Top 5 Techniques to Download IGTV Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-guide-to-asmr-for-sleep-enthusiasts/"><u>[Updated] The Essential Guide to ASMR for Sleep Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-ways-chatgpt-can-help-you-build-a-website/"><u>4 Ways ChatGPT Can Help You Build a Website</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-essential-tools-for-sharing-gpt-3-conversations/"><u>7 Essential Tools for Sharing GPT-3 Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-unconventional-ai-assistants-for-self-programmable-coding/"><u>7 Unconventional AI Assistants for Self-Programmable Coding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-ways-to-use-chatgpt-vision/"><u>8 Ways to Use ChatGPT Vision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-strategies-harnessing-gpt-for-novel-drafting/"><u>9 Strategies: Harnessing GPT for Novel Drafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-gpts-security-landscape/"><u>A Deep Dive Into GPT’s Security Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-developers-companion-10-innovative-uses-of-chatgpt-in-vs-code/"><u>A Developer's Companion: 10 Innovative Uses of ChatGPT in VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721401085807-discover-personalized-language-powerhouses-at-openais-store/"><u>Discover Personalized Language Powerhouses at OpenAI's Store</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/essential-tactics-for-dramatizing-success-stories-through-testimonials/"><u>Essential Tactics for Dramatizing Success Stories Through Testimonials</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 7? | Stellar</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-honor-magic-5-lite-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Honor Magic 5 Lite Phone? Unlock It Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-and-easy-winx-platinum-dvd-ripping-software-hd-h264hevc-mp4-conversion-for-home-cinema/"><u>Quick & Easy WinX Platinum DVD Ripping Software - HD H.264/HEVC MP4 Conversion for Home Cinema</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862734532-unleash-ultimate-gaming-potential-with-the-budget-friendly-16-inch-dell-g16-just-949-awaits-you/"><u>Unleash Ultimate Gaming Potential with the Budget-Friendly 16-Inch Dell G16 - Just $949 Awaits You!</u></a></li>
 </ul></div>
 

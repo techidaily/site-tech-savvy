@@ -1,7 +1,7 @@
 ---
 title: "Revisiting Technology History: An Expert's Journey in Crafting a Clone of the 1986 Macintosh+"
-date: 2024-08-25T17:35:09.436Z
-updated: 2024-08-26T17:35:09.436Z
+date: 2025-01-27T21:22:31.944Z
+updated: 2025-02-02T21:57:17.692Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,8 +57,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +64,22 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-integrating-youtube-media-into-instagram-experience/"><u>[New] Integrating YouTube Media Into Instagram Experience</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-chuckling-chronicles-the-best-tiktok-joke-and-prank-compilation/"><u>[Updated] 2024 Approved Chuckling Chronicles The Best TikTok Joke & Prank Compilation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-classic-quests-to-complex-escapades-for-2024/"><u>[Updated] From Classic Quests to Complex Escapades for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/bring-your-video-to-life-from-standard-to-hdri-excellence/"><u>Bring Your Video to Life From Standard to HDRI Excellence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-imagination-uniting-advanced-tech-and-fantasy-creativity-for-dandd-characters/"><u>Elevating Imagination: Uniting Advanced Tech & Fantasy Creativity for D&D Characters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engineering-chatbot-genius-crafting-custom-via-gpt-techniques/"><u>Engineering ChatBot Genius: Crafting Custom via GPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finding-lost-airpods-made-easy-expert-strategies-for-retrieval-and-future-protection/"><u>Finding Lost AirPods Made Easy! Expert Strategies for Retrieval and Future Protection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-advantage-with-current-chatgpt-info/"><u>Global Advantage with Current ChatGPT Info</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-the-illusion-iphone-tricks-for-reflection-photography/"><u>In 2024, Capturing the Illusion IPhone Tricks for Reflection Photography</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-game-on-gopro-top-tips-for-high-quality-gameplay-videoing/"><u>In 2024, Game on, GoPro! Top Tips for High-Quality Gameplay Videoing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimize-media-storage-tips-and-tricks-for-mov-on-windows-pcs-for-2024/"><u>Optimize Media Storage Tips & Tricks for .mov on Windows PCs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-your-writing-with-chatgpt-techniques/"><u>Optimizing Your Writing with ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-halting-haldll-errors-in-windows-operating-systems/"><u>Step-by-Step Guide: Halting hal.dll Errors in Windows Operating Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-school-work-with-a-new-ipad-or-mac-claim-your-free-150-apple-gift-card-now/"><u>Transform School Work With a New iPad or Mac - Claim Your Free $150 Apple Gift Card Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secret-how-apples-hidden-savings-on-ipad-pro-make-it-a-must-have-before-prime-day-insights-from-zdnet/"><u>Unlocking the Secret: How Apple's Hidden Savings on iPad Pro Make It a Must-Have Before Prime Day - Insights From ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

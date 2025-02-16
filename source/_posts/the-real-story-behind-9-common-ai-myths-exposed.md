@@ -1,7 +1,7 @@
 ---
 title: The Real Story Behind 9 Common AI Myths Exposed
-date: 2025-01-30T17:33:49.445Z
-updated: 2025-01-31T23:53:54.002Z
+date: 2025-01-31T23:36:32.121Z
+updated: 2025-02-02T20:02:02.884Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. AI Chatbots are Sentient
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
  Chatbots like ChatGPT and Bing Chat may be able to generate human-like responses, but they are far from sentient. This ability is mimicry and not sentience. These tools use huge databases of text and images to create responses that mimic human responses.
 
  It is complex, it is clever, and to some extent, you could argue the presence of intelligence—but not sentience. Any “intelligence” present in these tools is created by training them on massive amounts of data. In this sense, they are more akin to an incredibly powerful and flexible database than a sentient being.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Chatbots Can Handle Any Type of Task or Request
 
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, just to be clear, there are known limitations to ChatGPT and the age of the data it can reference. That question was deliberately set up to expose this. However, we asked Bard the same question when [comparing Google Bard vs. ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/), and it got it wrong too:
@@ -70,11 +74,11 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![Screenshot of ChatGPT answering threat to humanity question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-threat-to-humanity-question.jpg)
 
- But it would say that. Wouldn't it?
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ But it would say that. Wouldn't it?
 
 ## 4\. AI Chatbots Are Infallible
 
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
  The speed at which these tools are developing is part of the reason behind this myth. The boundaries of what this technology can do are being pushed at a rapid pace and the initial iterations that were primarily text-based are already considered old-fashioned.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Chatbots Will Always Provide Unbiased Responses
 
  Unfortunately, this is not the case. The potential for biased responses is always there with AI chatbots. The root of the problem can be traced back to the LLMs. The vast amount of data that chatbots reference does, inevitably, contain bias. These biases can include gender, race, nationality, and broader societal biases.
@@ -110,13 +110,13 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
  However, for the moment at least, the potential for biased responses is an unresolved issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Chatbots Are Actually Real Humans
 
 ![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Perhaps the most ludicrous myth is that behind every AI chatbot is a real human. This one is treading a delicate line between conspiracy theory and myth, we won’t dwell on this one other than to say that it's nonsense.
 
@@ -155,18 +155,21 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-the-art-of-high-quality-video-production-in-obs/"><u>[Updated] 2024 Approved Mastering the Art of High-Quality Video Production in OBS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-the-digital-age-6-pathways-to-career-excellence-with-ai/"><u>Conquer the Digital Age: 6 Pathways to Career Excellence with AI</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-x-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-acquainted-with-langchain-technology/"><u>Getting Acquainted with LangChain Technology</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-14-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 14 Pro without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-server-stumbled-microsoft-store-error-in-windows-11-and-11/"><u>How to Fix the “Server Stumbled” Microsoft Store Error in Windows 11 & 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipad-pro-tools-to-supercharge-your-productivity-a-comprehensive-guide-by-digital-trends/"><u>IPad Pro Tools to Supercharge Your Productivity - A Comprehensive Guide by Digital Trends</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/key-elements-of-attractive-fb-video-commercials/"><u>Key Elements of Attractive FB Video Commercials</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-game-interruptions-fix-nba-2k2n-pc-crashes-with-these-7-proven-tips-and-tricks/"><u>Overcome Game Interruptions: Fix NBA 2K2n PC Crashes with These 7 Proven Tips & Tricks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-corner-in-depth-reviews-and-comparisons/"><u>Tom's Tech Corner: In-Depth Reviews and Comparisons</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/transform-your-videos-first-impression-with-these-fonts/"><u>Transform Your Video's First Impression with These Fonts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-story-potential-with-11-powerful-chatgpt-strategies/"><u>Unleashing Story Potential with 11 Powerful ChatGPT Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-craft-your-definitive-step-by-step-macos-document-tool-tutorial/"><u>Unlock the Full Potential of Craft - Your Definitive Step-by-Step macOS Document Tool Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-geforce-rtx-3060-ti-driver-for-windows-1011/"><u>[Download] GeForce RTX 3060 Ti Driver for Windows 10/11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-key-online-repositories-for-rich-text-visualization/"><u>[Updated] Key Online Repositories for Rich Text Visualization</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-taking-control-your-comprehensive-yt-studio-manual/"><u>2024 Approved Taking Control Your Comprehensive YT Studio Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-prompts-for-expediting-mundane-hr-tasks/"><u>5 ChatGPT Prompts for Expediting Mundane HR Tasks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-vital-avenues-how-ai-strengthens-illegal-cyberspace-operations/"><u>5 Vital Avenues: How AI Strengthens Illegal Cyberspace Operations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-cautionary-tales-of-reliance-on-artificial-brains/"><u>6 Cautionary Tales of Reliance on Artificial Brains</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-chatgpt-apps-to-analyze-and-chat-with-your-documents-and-pdfs/"><u>6 ChatGPT Apps to Analyze and Chat With Your Documents and PDFs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-free-alternatives-to-openais-sora-an-overview/"><u>6 Free Alternatives To OpenAI's Sora: An Overview</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accelerate-your-gaming-experience-with-top-extensions/"><u>Accelerate Your Gaming Experience with Top Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721422286358-checkmarks-cleared-on-tweet-linus-hacks-revealed-trojans-deciphered-and-ai-conundrums-in-chatgpt/"><u>Checkmarks Cleared on Tweet, Linus Hacks Revealed, Trojans Deciphered, & AI Conundrums in ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721433077915-comparing-giants-gemini-and-chatgpt-unite/"><u>Comparing Giants: Gemini and ChatGPT Unite!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-prescription-sunglasses-fighting-digital-screen-hazards/"><u>Comprehensive Analysis: Prescription Sunglasses Fighting Digital Screen Hazards</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/innovative-integration-select-the-top-6-editing-apps-post-snow-leopard-for-2024/"><u>Innovative Integration Select the Top 6 Editing Apps Post-Snow Leopard for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-your-cmd-window-set-as-default/"><u>Personalize Your CMD Window: Set as Default</u></a></li>
+<li><a href="https://games-able.techidaily.com/stellar-sculptors-guide-to-next-level-gaming/"><u>Stellar Sculptor's Guide to Next-Level Gaming</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-infinix-hot-30i-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Infinix Hot 30i Phone Hassle-Free</u></a></li>
 </ul></div>
 

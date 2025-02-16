@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School"
-date: 2025-01-25T11:02:19.047Z
-updated: 2025-01-31T20:28:34.414Z
+date: 2025-01-28T19:21:41.981Z
+updated: 2025-02-02T19:03:36.686Z
 tags:
   - chatgpt
   - open-ai
@@ -36,23 +36,19 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 ![ChatgGPT prompt for crash study plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatggpt-prompt-for-crash-study-plan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We prompted ChatGPT to make a study plan for an "Introduction to JavaScript programming" course, and here's the result:
 
 ![ChatGPT crash course plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-crash-course-plan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The resulting study plan is crude yet efficient. But there's room for modifications. You can use follow-up prompts to refine the results better. For instance, you can ask ChatGPT to:
 
 * Refine the plan to place \[more/less\] emphasis on certain topics.
 * Refine the plan to add \[minutes/hours\] breaks during study hours.
 * Refine the plan to allocate \[more/less\] time to practical sessions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Identify Shortcuts or Tricks for Complex Course Problems
 
@@ -66,11 +62,19 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 ![shortcut for solving arithemetic series](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/shortcut-for-solving-arithemetic-series.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When asking ChatGPT for shortcuts to solve a problem, always ask it to clarify whether the shortcut applies to all cases of a problem.
 
  You can go even further in some STEM problems by asking ChatGPT to provide a shortcut to solving a problem through visual representation. This could be particularly useful for visual learners who process and retain information better when presented visually rather than through text. For example, here's ChatGPT's response when we prompted it to solve the same problem using a visual representation:
 
 ![arithmetic series Visual representation shortcut by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/visual-reprentation-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have a preferred way that makes it easy for you to learn, ChatGPT can help present complex problems in that way to make it easier for you to understand.
 
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
  After using the prompt, split the text you wish to summarize into bits and feed the entirety of it to ChatGPT. After you've provided the entire text, prompt it to extract the key point or create a summary of a certain length from the text you've provided.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Improve or Review Creative Writing
 
 [ChatGPT is very impressive in generating creative work](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) like letters, essays, and academic writing. Although some students have chosen the rather unethical part of outsourcing the entire writing process to ChatGPT, the tool can be utilized for reviewing and improving something you wrote rather than asking the chatbot to write it from scratch.
@@ -104,13 +104,13 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 ![Essay for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/essay-for-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We put together a short story in a haphazard manner, as shown in the screenshot above, and asked ChatGPT to clean it up. Here's the result:
 
 ![complete story by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/complete-story-by-chatgp.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Rather than outright asking ChatGPT to write an essay, you can write yours and use the following prompts to improve your work:
 
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 * Suggests some improvements that would make the text suitable for a \[target audience\].
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use ChatGPT Cautiously In Education
@@ -144,19 +144,24 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-ideal-changing-voices-for-online-influencers/"><u>[New] Ideal Changing Voices for Online Influencers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-perfecting-date-placement-on-visual-memories/"><u>[New] In 2024, Perfecting Date Placement on Visual Memories</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-audiorecorder-examination-for-2024/"><u>[Updated] Audiorecorder Examination for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-workday-efficiency-using-gpt-technology/"><u>Boost Your Workday Efficiency Using GPT Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-digital-echoes-understanding-whos-listening-in-cyberspace/"><u>Decoding Digital Echoes: Understanding Who's Listening in Cyberspace</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enabling-chatgpt-on-everyday-pcs/"><u>Enabling ChatGPT on Everyday PCs</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-12-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-canvas-clearance-techniques-for-uncluttered-image-frames/"><u>In 2024, Canvas Clearance Techniques for Uncluttered Image Frames</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-depth-look-mycam-cams-performance-for-2024/"><u>In-Depth Look MyCam Cam's Performance for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personal-fitness-revolution-8-pioneering-gpt-tools/"><u>Personal Fitness Revolution: 8 Pioneering GPT Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/plot-cohesion-achieving-continuity-with-9-chatgpt-aids/"><u>Plot Cohesion: Achieving Continuity With 9 ChatGPT Aids</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-spark-20-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Spark 20</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-i-prefer-my-iphone-n-gen-to-the-new-iphone-16-pro-insights-and-perspectives-zdnet/"><u>Why I Prefer My iPhone N-Gen to the New iPhone 16 Pro - Insights and Perspectives | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-the-new-iphone-10-which-is-a-perfect-score-and-reflects-high-mastery-of-content-knowledge/"><u>Why the New iPhone 10, Which Is a Perfect Score and Reflects High Mastery of Content Knowledge.</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-make-thumbnails/"><u>[Updated] How to Make Thumbnails</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-streamline-animated-subscribe-buttons-in-filmora-for-youtube-success-for-2024/"><u>[Updated] Streamline Animated Subscribe Buttons in Filmora for YouTube Success for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-focused-frame-capture-leading-cams-for-slow-movement-recording/"><u>2024 Approved Focused Frame Capture Leading Cams for Slow Movement Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-avenues-for-state-intervention-in-ai-technologies/"><u>4 Avenues for State Intervention in AI Technologies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-face-off-determining-which-is-superior-gpt-plus-or-perplexity/"><u>AI Face-Off: Determining Which Is Superior, GPT Plus Or Perplexity?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/authenticity-alert-separating-real-from-fake-bincrypt-tokens/"><u>Authenticity Alert: Separating Real From Fake BinCrypt Tokens</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-the-confusion-five-windows-cures-to-unsupported-boots/"><u>Clearing Up the Confusion: Five Windows Cures to Unsupported Boots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-digital-defenses-foreseeing-7-security-trajectories/"><u>Decoding Digital Defenses: Foreseeing 7 Security Trajectories</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-setup-get-the-pioneer-dj-ddj-sx2-controller-firmware-now/"><u>Effortless Setup: Get the Pioneer DJ DDJ-SX2 Controller Firmware Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-gamers-revealed-free-pc-gaming-secrets/"><u>Elite Gamers Revealed: Free PC Gaming Secrets</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-techniques-boosting-gameplay-experience-on-a-mac/"><u>Essential Techniques: Boosting Gameplay Experience on a Mac</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/liberate-your-conversations-with-windows-freegpt/"><u>Liberate Your Conversations with Windows FreeGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-away-from-gpt-on-smartphones/"><u>Navigating Away From GPT on Smartphones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pivotal-video-moments-secrets-to-stellar-text-enhancements/"><u>Pivotal Video Moments Secrets to Stellar Text Enhancements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/six-must-have-study-tools-innovative-apps-to-aid-student-achievement-and-assist-caregivers/"><u>Six Must-Have Study Tools: Innovative Apps to Aid Student Achievement and Assist Caregivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-media-smarts-picking-between-snapchats-ai-and-gpt/"><u>Social Media Smarts: Picking Between Snapchat’s AI and GPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/timed-tales-modifying-video-playback-speed/"><u>Timed Tales Modifying Video Playback Speed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-the-basics-of-transfer-learning/"><u>Understanding AI: The Basics of Transfer Learning</u></a></li>
 </ul></div>
 

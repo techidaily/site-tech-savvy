@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest and Greatest: Unveiling iOS 18'S Best New Additions - Spotlight"
-date: 2025-01-25T20:24:57.452Z
-updated: 2025-02-01T07:49:41.062Z
+date: 2025-01-29T23:34:27.958Z
+updated: 2025-02-02T16:33:18.676Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,17 +146,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-from-basic-to-breathtaking-elevating-your-instagram-edits/"><u>[New] From Basic to Breathtaking Elevating Your Instagram Edits</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-engage-in-enlightening-youtube-exchanges/"><u>[Updated] Engage in Enlightening YouTube Exchanges</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-android-moba-game-series-countdown-10/"><u>[Updated] In 2024, The Ultimate Android MOBA Game Series Countdown (#10)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-youtube-revenue-the-unfavorable-guidelines-for-2024/"><u>[Updated] YouTube Revenue The Unfavorable Guidelines for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-ultimate-guide-achieving-an-immaculate-desktop-computer-setup/"><u>1. Ultimate Guide: Achieving an Immaculate Desktop Computer Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accelerated-written-communication-with-ais-help/"><u>Accelerated Written Communication: With AI's Help</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-dynamics-top-20-font-choices-for-youtube-success-for-2024/"><u>Design Dynamics Top 20 Font Choices for YouTube Success for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/level-up-gaming-skills-with-these-top-chatgpt-games/"><u>Level Up Gaming Skills with These Top ChatGPT Games</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-mobile-apps-for-slow-motion-video-iosandroid-for-2024/"><u>Premium Mobile Apps for Slow Motion Video iOS/Android for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/by-step-process-to-crafting-impressive-youtube-shorts-templates-for-2024/"><u>Step-By-Step Process to Crafting Impressive YouTube Shorts Templates for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chronicle-of-chaos-tracing-back-to-the-origins-of-crowdstrike-induced-windows-meltdown-crisis-as-revealed-by-zdnet/"><u>The Chronicle of Chaos: Tracing Back to the Origins of CrowdStrike-Induced Windows Meltdown Crisis , as Revealed by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unobtrusive-retention-shielded-storing-of-ai-exchange/"><u>Unobtrusive Retention: Shielded Storing of AI Exchange</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-journey-into-the-enigma-discovering-hidden-emoji-messages/"><u>[Updated] Journey Into the Enigma Discovering Hidden Emoji Messages</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-becoming-an-expert-in-video-capturing-streamlabs-obs-guide/"><u>2024 Approved Becoming an Expert in Video Capturing Streamlabs OBS Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-plots-and-dialogues-for-radios/"><u>2024 Approved Pinnacle Plots & Dialogues for Radios</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/backup-plans-for-elusive-chatgpt-exchanges/"><u>Backup Plans for Elusive ChatGPT Exchanges</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/big-news-for-creators-filmora-x-now-runs-on-arm-devices/"><u>Big News for Creators Filmora X Now Runs on ARM Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-open-gpt-a-step-by-step-window-guide/"><u>Embracing Open GPT: A Step-by-Step Window Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-to-rectify-askew-gridlines-on-your-samsung-tv-display/"><u>Expert Tips to Rectify Askew Gridlines on Your Samsung TV Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-palm-2-next-gen-big-data-language-processing-by-google/"><u>Exploring PaLM 2: Next-Gen Big Data Language Processing by Google</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launching-gpt-on-windows/"><u>Launching GPT on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-employment-landscape-via-chatgpt/"><u>Mastering the Employment Landscape via ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-dxgierrordevice-in-win-11-and-11/"><u>Overcoming DXGI_ERROR_DEVICE in Win 11 & 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-the-dilemma-of-non-functional-macbook-pro-keys-a-guide/"><u>Solving the Dilemma of Non-Functional MacBook Pro Keys – A Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-installing-new-surface-book-2-device-drivers-without-hassle/"><u>Step-by-Step Tutorial: Installing New Surface Book 2 Device Drivers Without Hassle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-words-into-adventures-with-chatgpt-rpgs/"><u>Transforming Words Into Adventures with ChatGPT RPGs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trustful-talkers-integrating-chatgpt-safely/"><u>Trustful Talkers: Integrating ChatGPT Safely</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-discover-the-best-free-animation-software-for-windows-and-mac/"><u>Updated 2024 Approved Discover the Best Free Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wiping-past-conversations-a-guide-to-a-neat-chatgpt-history/"><u>Wiping Past Conversations: A Guide to a Neat ChatGPT History</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/your-signature-starts-here-free-modifiable-logos-to-define-brands-for-2024/"><u>Your Signature Starts Here Free, Modifiable Logos to Define Brands for 2024</u></a></li>
 </ul></div>
 

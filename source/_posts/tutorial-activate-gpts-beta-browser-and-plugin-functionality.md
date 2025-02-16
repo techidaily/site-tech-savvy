@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Activate GPT's Beta Browser & Plugin Functionality"
-date: 2025-01-26T03:04:17.574Z
-updated: 2025-01-31T17:37:30.311Z
+date: 2025-01-30T22:48:47.336Z
+updated: 2025-02-02T16:49:04.528Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,10 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are internet-connected tools specifically designed to extend ChatGPT's functionality.
@@ -45,10 +49,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
  For example, when you gain access to ChatGPT Plugins, you'll be able to use the ChatGPT Kayak Plugin to search for and streamline holiday ideas, find the best deals, and create unique holiday ideas, all from the warm embrace of the ChatGPT interface.
 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Can Browse the Web
 
@@ -62,21 +62,13 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -91,7 +83,7 @@ Close
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable ChatGPT Plugins and Web Browsing
@@ -99,6 +91,10 @@ Close
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Head to your **Settings** in the bottom left-hand corner of the ChatGPT screen
 2. Select **Settings**
@@ -108,6 +104,10 @@ Close
  After enabling both settings, you'll find new options from the ChatGPT model switcher (where you'd normally switch between GPT-3.5 and GPT-4). You'll now find an option for Web Browsing and one for Plugins.
 
  From here, you can select either Web Browsing to enable web-connected search or select **Plugin Store** to begin installing and enabling Plugins.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Finally Connected to the Internet
 
@@ -134,19 +134,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-essential-tips-for-ordering-photos-on-iphone-with-icloud-backup/"><u>[New] 2024 Approved Essential Tips for Ordering Photos on iPhone, With iCloud Backup</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-secrets-for-skillful-extraction-of-superior-quality-videos-for-2024/"><u>[New] Secrets for Skillful Extraction of Superior Quality Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/connecting-through-nvidias-advanced-rtx-chat-bot/"><u>Connecting Through Nvidia's Advanced RTX Chat Bot</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-biometrics-a-complete-introduction-to-identity-verification-methods/"><u>Demystifying Biometrics: A Complete Introduction to Identity Verification Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-lingo-understanding-the-basics/"><u>Dissecting AI Lingo: Understanding the Basics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-ai-conversations-with-9-key-pluses-advantages/"><u>Elevate AI Conversations with 9 Key Pluses Advantages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-opinion-on-the-iphone-15-compelling-reasons-to-choose-this-model-over-others-zdnet/"><u>Expert Opinion on the iPhone 15: Compelling Reasons to Choose This Model Over Others | ZDNet</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-embracing-total-perspectives-in-filmmaking/"><u>In 2024, Embracing Total Perspectives in Filmmaking</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-harnessing-word-writers-potential-voice-driven-document-creation/"><u>In 2024, Harnessing Word’ Writers' Potential Voice-Driven Document Creation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-google-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Google?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/optimize-in-minutes-7-key-strategies-for-rapid-computer-speed-improvement/"><u>Optimize in Minutes: 7 Key Strategies for Rapid Computer Speed Improvement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visualization-excellence-in-excel-gpt-struggles-to-match/"><u>Visualization Excellence in Excel, GPT Struggles To Match</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/will-chatbots-undermine-se-keywords-strategy/"><u>Will Chatbots Undermine SE Keywords Strategy?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winx-dvd-ripper-sur-demande-le-top-choix-en-ligne-pour-telecharger-et-utiliser-le-meilleur-programme-rip-video-pour-mac/"><u>WinX DVD Ripper Sur Demande : Le Top Choix en Ligne Pour Télécharger Et Utiliser Le Meilleur Programme Rip Vidéo Pour Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-elevate-your-earnings-on-social-media-youtube-mastery-on-the-networking-powerhouse/"><u>[New] 2024 Approved Elevate Your Earnings on Social Media YouTube Mastery on the Networking Powerhouse</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cartooncanvas-comprehensive-review-and-guidebook-24/"><u>[New] CartoonCanvas Comprehensive Review & Guidebook '24</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-facebooks-potential-in-health-marketing/"><u>[New] Mastering Facebook's Potential in Health Marketing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-editor-showdown-filmora-vs-democracy-creator/"><u>[Updated] 2024 Approved The Ultimate Editor Showdown Filmora Vs. Democracy Creator</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-key-tips-to-capture-youtube-streams-effectively-for-2024/"><u>[Updated] Key Tips to Capture YouTube Streams Effectively for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-articulation-arcade-who-takes-the-victory-spotlight/"><u>AI Articulation Arcade: Who Takes the Victory Spotlight?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-illustrate-effortlessly-prime-ios-design-software/"><u>In 2024, Illustrate Effortlessly Prime iOS Design Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-generative-ais-textual-landscape-for-business-use/"><u>Navigating Generative AI's Textual Landscape for Business Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-privacy-waters-with-gpt-technology/"><u>Navigating Privacy Waters with GPT Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-transformers-bert-vs-gpt-comparison/"><u>Understanding Transformers: BERT vs GPT Comparison</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-potential-with-ai-chatgpt-for-lifestyle-transformation/"><u>Unlock Potential with AI: ChatGPT for Lifestyle Transformation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-determines-the-length-of-texts-from-chatgpt-ai/"><u>What Determines the Length of Texts From ChatGPT AI?</u></a></li>
 </ul></div>
 

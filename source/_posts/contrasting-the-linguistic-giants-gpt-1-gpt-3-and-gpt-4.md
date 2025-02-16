@@ -1,7 +1,7 @@
 ---
 title: "Contrasting the Linguistic Giants: GPT-1, GPT-3 & GPT-4"
-date: 2025-01-25T12:42:38.086Z
-updated: 2025-02-01T01:24:01.622Z
+date: 2025-02-01T17:02:27.568Z
+updated: 2025-02-02T21:16:49.486Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are Generative Pre-Trained Transformers?
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 ![Art of an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rup-ai-chatgpt4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  GPT-1 was released in 2018 by OpenAI as their first iteration of a language model using the Transformer architecture. It had 117 million parameters, significantly improving previous state-of-the-art language models.
 
  One of the strengths of GPT-1 was its ability to generate fluent and coherent language when given a prompt or context. The model was trained on a combination of two datasets: the [Common Crawl](https://commoncrawl.org/), a massive dataset of web pages with billions of words, and the BookCorpus dataset, a collection of over 11,000 books on a variety of genres. The use of these diverse datasets allowed GPT-1 to develop strong language modeling abilities.
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 ![gpt 3 featured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/gpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  GPT-2 was released in 2019 by OpenAI as a successor to GPT-1\. It contained a staggering 1.5 billion parameters, considerably larger than GPT-1\. The model was trained on a much larger and more diverse dataset, combining Common Crawl and WebText.
 
  One of the strengths of GPT-2 was its ability to generate coherent and realistic sequences of text. In addition, it could generate human-like responses, making it a valuable tool for various natural language processing tasks, such as content creation and translation.
@@ -69,12 +69,16 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
  These limitations paved the way for the development of the next iteration of GPT models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-3
 
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Natural language processing models made exponential leaps with the release of GPT-3 in 2020\. With 175 billion parameters, GPT-3 is over 100 times larger than GPT-1 and over ten times larger than GPT-2\.
 
@@ -88,13 +92,13 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
  OpenAI also released an improved version of GPT-3, GPT-3.5, before officially launching GPT-4\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## GPT-4
 
 ![openai gpt4 model chatgpt upgrade](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-gpt4-model-chatgpt-upgrade.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  GPT-4 is the latest model in the GPT series, launched on March 14, 2023\. It's a significant step up from its previous model, GPT-3, which was already impressive. While the specifics of the model's training data and architecture are not officially announced, it certainly builds upon the strengths of GPT-3 and overcomes some of its limitations.
 
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 | GPT-2 | February 2019 | Common Crawl, BookCorpus, WebText                              | 1.5 billion                  | 2048                 |
 | GPT-3 | June 2020     | Common Crawl, BookCorpus, Wikipedia, Books, Articles, and more | 175 billion                  | 4096                 |
 | GPT-4 | March 2023    | Unknown                                                        | Estimated to be in trillions | Unknown              |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Journey Through GPT Language Models
 
@@ -144,14 +144,16 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-tips.techidaily.com/customizing-your-computers-look-a-step-by-step-guide-through-the-control-panel-tips-by-yl-computing/"><u>Customizing Your Computer's Look: A Step-by-Step Guide Through the Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-campfire-fun-infusing-dandd-with-gpts-creative-guidance/"><u>Elevate Campfire Fun: Infusing D&D with GPT's Creative Guidance</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elevate-your-drawings-top-artistic-tools-on-chrome-os-for-2024/"><u>Elevate Your Drawings Top Artistic Tools on Chrome OS for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-advice-on-airpods-reboot-procedures-optimal-times-to-perform-a-factory-reset-insights/"><u>Expert Advice on AirPods Reboot Procedures - Optimal Times to Perform a Factory Reset | Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-apples-upgraded-mac-studio-how-the-mac-mini-evolves/"><u>Introducing Apple's Upgraded Mac Studio: How the Mac Mini Evolves</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-spark-20-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Spark 20 Pro Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/my-impulsive-prime-day-deal-a-detailed-look-at-the-affordable-apple-17-earpods-with-usb-c-exclusive-coverage-by-zdnet/"><u>My Impulsive Prime Day Deal: A Detailed Look at the Affordable Apple $17 EarPods with USB-C | Exclusive Coverage by ZDNET</u></a></li>
-<li><a href="https://article-posts.techidaily.com/redefining-visual-standards-hdr-vs-standard-sdr-for-2024/"><u>Redefining Visual Standards HDR Vs. Standard SDR for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamlessly-pairing-your-wireless-keyboard-instructions-included/"><u>Seamlessly Pairing Your Wireless Keyboard - Instructions Included</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hide-your-identity-share-your-life-instagram-live-secrets/"><u>[New] Hide Your Identity, Share Your Life - Instagram Live Secrets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-updated-query-catalog-to-connect-with-podcast-loyalists/"><u>[New] Updated Query Catalog to Connect with Podcast Loyalists</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-adjust-macs-screenshot-stash-location/"><u>[Updated] 2024 Approved Adjust Mac's Screenshot Stash Location</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-essential-call-customization-applications-ranked/"><u>[Updated] 2024 Approved Essential Call Customization Applications Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificinas-and-labor-the-converging-pathways/"><u>Artificinas and Labor: The Converging Pathways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-boundaries-next-gen-ai-discussions/"><u>Beyond Boundaries: Next Gen AI Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploiting-chatgpts-link-to-wolframalpha-in-3-ways/"><u>Exploiting ChatGPT's Link to WolframAlpha in 3 Ways</u></a></li>
+<li><a href="https://facebook.techidaily.com/fostering-tech-growth-facebook-and-rust-team-up-for-code-language-expansion/"><u>Fostering Tech Growth: Facebook & Rust Team Up for Code Language Expansion</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/pengumpulan-data-alat-cekalan-5tb-harga-seagate-paling-rmb/"><u>Pengumpulan Data Alat Cekalan 5TB, Harga Seagate Paling RMB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/power-up-your-design-process-large-scale-techniques-in-canva-plus-gpt/"><u>Power Up Your Design Process: Large Scale Techniques in Canva + GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sifting-through-virtual-realities-identifying-inauthentic-ai-responses/"><u>Sifting Through Virtual Realities: Identifying Inauthentic AI Responses</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Support: Bonding ChatGPT with WhatsApp"
-date: 2024-08-25T17:33:29.957Z
-updated: 2024-08-26T17:33:29.957Z
+date: 2025-02-01T19:03:59.275Z
+updated: 2025-02-02T18:47:13.488Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/f2d9a0df990eba4814a4cbbd3bd0e18b69c14ac68
 
  Copy and store the key in a secure place for future use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setting Up a WhatsApp Business Account
 
  To integrate ChatGPT with WhatsApp, you must set up a WhatsApp Business account. Note that [WhatsApp Business is different from regular WhatsApp](https://www.makeuseof.com/whatsapp-vs-whatsapp-business/). This account will allow you to access the [WhatsApp Business API](https://business.whatsapp.com/developers/developer-hub), which you will integrate with the ChatGPT API.
@@ -54,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/f2d9a0df990eba4814a4cbbd3bd0e18b69c14ac68
  You can use a third-party service like Kommunicate, a WhatsApp chatbot, or a Python script to integrate ChatGPT with WhatsApp. This tutorial’s focus will be on integrating ChatGPT using a Python script. It will then give you an overview of integration using a WhatsApp chatbot.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using Python Script to Integrate WhatsApp With ChatGPT API
 
  Before you start the development, create a virtual environment for your application using **Pipenv** as follows:
@@ -139,8 +144,9 @@ python manage.py runserver`
 ![API endpoint test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-endpoint.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, install [Go](https://go.dev/doc/install) if it is not already installed on your machine.
 
  Clone the **Whatsmeow** client using the command below:
@@ -168,9 +174,6 @@ python manage.py runserver`
 
 ![Application QR code prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-qr-code.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  Move to your WhatsApp mobile app and navigate to **Settings > QR code > Scan code** to add a new linked device and scan the popped QR code on your terminal.
 
  After logging in, the application will start listening to incoming messages. If someone sends a message, the received message will make a GET request to API with the message as a query parameter and send the response back to the sender on WhatsApp.
@@ -180,16 +183,18 @@ python manage.py runserver`
 ![Output of integrating chatgpt and WhatsApp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-output.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Using WhatsApp Chatbot to Integrate WhatsApp With ChatGPT API
 
  Another way to integrate ChatGPT into WhatsApp messages is by using a WhatsApp chatbot.
 
  Once you register your WhatsApp Business API, use a chat builder like OpenDialog to create a flow for the chat. You will then test your chatbot and add it to your mobile phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Integrate OpenAI API With Your WhatsApp Chatbot
 
@@ -203,6 +208,10 @@ python manage.py runserver`
 
  To get better customer service, configure automated responses to provide fast and accurate responses to customer messages. These responses will personalize the customer by name and provide relevant responses to customer queries.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Testing Your WhatsApp Chatbot
 
  Like all AI API systems, testing is key before you deploy your WhatsApp chatbot. This is to ensure that it works as expected. API testing tools like Postman and Curl can help to test your chatbot’s responses.
@@ -213,9 +222,6 @@ python manage.py runserver`
 
  Once your WhatsApp chatbot is in deployment, it is crucial to measure its success and usage over time. This will help with fine-tuning it accordingly. Analytics tools like OpenDialog and Rasa can help to track metrics such as response time, retention rate, and customer satisfaction.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Streamline Customer Support on WhatsApp With ChatGPT Integration
 
  OpenAI’s GPT-3.5 or GPT-4 models can handle large volumes of inquiries, provide instant responses, and use advanced language processing, making it a better solution for customer service interactions. By integrating ChatGPT with WhatsApp, you can save time, improve customer satisfaction, and streamline communication. Several other large language models could also improve your chatbot’s performance.
@@ -230,8 +236,6 @@ python manage.py runserver`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +243,26 @@ python manage.py runserver`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/14-for-your-next-purchase-insights-from-zdnet/"><u>14 for Your Next Purchase - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-challenges-leading-web-browser-with-unsettling-marketing-campaign-discover-more-on-zdnet/"><u>Apple Challenges Leading Web Browser with Unsettling Marketing Campaign: Discover More on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-smartwatch-a-comprehensive-guide-comparing-the-google-pixel-watch-and-apple-watch-series-8/"><u>Choosing Your Smartwatch: A Comprehensive Guide Comparing the Google Pixel Watch and Apple Watch Series 8</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-a15-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy A15 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-dysons-latest-ontrac-wireless-headphones-pose-a-threat-to-the-dominance-of-airpod-max-reviews/"><u>How Dyson's Latest OnTrac Wireless Headphones Pose a Threat to the Dominance of AirPod Max Reviews</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 15 Plus with a Mask On</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/job-search-revolution-with-chatgpt-insights/"><u>Job Search Revolution with ChatGPT Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-uses-of-llama-2-for-maximum-efficiency/"><u>Mastering the Uses of Llama 2 for Maximum Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/public-bathroom-visit-turns-into-surprising-health-screening-experience-insights/"><u>Public Bathroom Visit Turns Into Surprising Health Screening Experience - Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-great-debate-clarifying-the-distinctive-characteristics-of-an-ipad-compared-to-other-tablets/"><u>The Great Debate: Clarifying the Distinctive Characteristics of an iPad Compared to Other Tablets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pros-and-cons-of-chatgpt-plus/"><u>The Pros and Cons of ChatGPT Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-using-obs-and-streamlabs-together-mac-for-2024/"><u>The Ultimate Guide to Using OBS and Streamlabs Together (Mac) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-dvd-to-avi-converter-software-for-windows-10-and-11/"><u>Top-Rated DVD to AVI Converter Software for Windows 10 & 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-typists-into-document-genies-in-word/"><u>Transforming Typists Into Document Genies in Word</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-restoring-standby-functionality-on-iphones/"><u>Troubleshooting Tips - Restoring Standby Functionality on iPhones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-stealthy-star-how-apples-349-ipad-outshone-others-at-the-exciting-let-loose-showcase-insights/"><u>Unveiling the Stealthy Star: How Apple’s $349 iPad Outshone Others at the Exciting ‘Let Loose’ Showcase - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-scansnap-s1300i-software-with-these-simple-tips/"><u>Update Your ScanSnap S1300i Software with These Simple Tips!</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager in Windows 10</u></a></li>
+</ul></div>
 

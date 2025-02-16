@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Updates: Dive Into the Best of Apple's iOS 18 Public Beta Highlights"
-date: 2025-01-28T23:58:13.120Z
-updated: 2025-02-01T09:30:56.369Z
+date: 2025-01-26T23:03:34.026Z
+updated: 2025-02-02T18:04:27.082Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. AI all around
@@ -55,7 +55,7 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -65,7 +65,7 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -77,7 +77,7 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -87,7 +87,7 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -128,22 +128,20 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-budget-screen-grabber-for-smartphones/"><u>[New] Best Budget Screen Grabber for Smartphones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-secrets-to-successful-twitpicingvideo-edition/"><u>[New] Secrets to Successful Twitpicing—Video Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-streamlined-subscription-links-for-video-channels/"><u>[Updated] In 2024, Guide to Streamlined Subscription Links for Video Channels</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-visual-mastery-navigating-through-imagery-with-ease/"><u>ChatGPT Visual Mastery: Navigating Through Imagery with Ease</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-choice-criteria-for-an-effective-conversational-bot/"><u>Critical Choice Criteria for an Effective Conversational Bot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-release-upcoming-benefits-for-select-apple-airpod-variants-this-autumn-insider-guide-by-techcrunch/"><u>Exclusive Release: Upcoming Benefits for Select Apple AirPod Variants This Autumn - Insider Guide by TechCrunch</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-chatbot-assistance-with-cognitive-behavioral-therapy-methods/"><u>Integrating Chatbot Assistance with Cognitive Behavioral Therapy Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-personalized-language-ai-with-openais-store/"><u>Master Personalized Language AI with OpenAI’s Store</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-why-todays-teachers-must-adapt/"><u>Mastering AI: Why Today's Teachers Must Adapt</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-affordable-tablets-comprehensive-reviews-by-industry-experts-techradar/"><u>Top Affordable Tablets : Comprehensive Reviews by Industry Experts | TechRadar</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-huawei-nova-y71-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Huawei Nova Y71 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-new-potential-in-content-generation-on-iphone-14-using-ios-18-exclusive-tips-from-zdnet/"><u>Unlocking New Potential in Content Generation on iPhone 14 Using iOS 18 - Exclusive Tips From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-play-8t-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor Play 8T</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-the-ipad-air-exceeds-expectations-and-challenges-loyalty-to-the-ipad-pro-a-detailed-review-tech-analysis-on-zdnet/"><u>Why the iPad Air Exceeds Expectations and Challenges Loyalty to the iPad Pro - A Detailed Review | Tech Analysis on ZDNET</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-designs-in-syma-x8c/"><u>[Updated] Innovative Designs in Syma X8C</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-maximizing-profile-visibility-in-snapchat-spotlights-for-2024/"><u>[Updated] Maximizing Profile Visibility in Snapchat Spotlights for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-crafting-engaging-haul-vids-a-step-by-step-guide/"><u>2024 Approved Crafting Engaging Haul Vids A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-examples-that-show-you-cannot-trust-zerogpt-and-other-ai-detection-tools/"><u>4 Examples That Show You Cannot Trust ZeroGPT and Other AI Detection Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-critical-shortcomings-of-using-chatgpt-for-crypto-studies/"><u>5 Critical Shortcomings of Using ChatGPT for Crypto Studies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-typical-trips-in-the-terrain-of-tech-tools/"><u>7 Typical Trips in the Terrain of Tech Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726221405424-mp3/"><u>網路上任何影片 MP3 格式免費轉換工具列表</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1728479674124-windows-11/"><u>已验证功能：如何在Windows 11中恢复缺失的桌面文件图标</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-closer-look-at-chatgpts-built-in-add-ons/"><u>A Closer Look at ChatGPT's Built-In Add-Ons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abandoning-gpt-conversation-steps-here/"><u>Abandoning GPT Conversation: Steps Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721416987624-enhanced-mobile-experience-with-bings-ai-search-feature/"><u>Enhanced Mobile Experience with Bing's AI Search Feature.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/shave-minutes-off-your-workday-with-these-plugins/"><u>Shave Minutes Off Your Workday With These Plugins</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/stars-quick-visibility-check/"><u>Star's Quick Visibility Check</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-full-screen-customization-in-win11/"><u>Unlocking Full Screen Customization in Win11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211392011-9781782744542-witches-spells-magic/"><u>Witches, Spells & Magic | Free Book</u></a></li>
 </ul></div>
 

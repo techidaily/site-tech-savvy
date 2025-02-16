@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Health Screening Unveiled: From Restroom Entry to Instant Diagnosis - Insights From ZDNet"
-date: 2025-01-27T03:10:37.694Z
-updated: 2025-02-01T04:56:54.539Z
+date: 2025-01-27T21:16:44.365Z
+updated: 2025-02-02T18:09:43.721Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Apple Intelligence will bring to the company's operating system platforms
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
@@ -60,6 +56,10 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Embracing third-party AI providers
 
 Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration, indicating a willingness to integrate third-party services and partner with multiple AI providers. During [the keynote](https://www.zdnet.com/article/live-updates-everything-apple-announced-at-wwdc-2024-including-ios-18-siri-ai-more/), Apple said it would partner to allow third-party large language models (LLM) in addition to OpenAI ChatGPT (free, [Plus](https://www.zdnet.com/article/how-to-subscribe-to-chatgpt-plus-and-why/), and presumably Enterprise) but did not name those models. Potential models include [Microsoft Copilot](https://www.zdnet.com/article/build-2024-microsoft-enhances-productivity-with-new-copilot-transforming-teamwork-and-projects/), [Google Gemini](https://www.zdnet.com/article/what-is-google-gemini/), Meta Llama 3, Amazon Titan, and Hugging Face, among many others.
@@ -69,7 +69,7 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
@@ -79,6 +79,10 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI image generation and Genmoji
 
@@ -100,10 +104,6 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### AI capabilities across Apple products
 
 Lastly, enhancing AI capabilities across all Apple products, including Siri, Apple Music, Apple News, Health, Fitness+, TV, and HomeKit, was a major recommendation. While Apple's AI features are integrated across devices, the specific enhancements for services like Apple Music and HomeKit were limited, at least as addressed in the WWDC keynote.
@@ -113,7 +113,7 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The developer story
@@ -180,18 +180,24 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/breaking-down-why-syma-x5c-is-top-notch-for-new-dronists-for-2024/"><u>Breaking Down Why Syma X5C Is Top-Notch for New Dronists for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emergency-response-from-ai-in-the-great-outdoors/"><u>Emergency Response From AI: In the Great Outdoors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expertly-selected-top-magsafe-wallet-picks-featuring-in-depth-reviews/"><u>Expertly Selected Top MagSafe Wallet Picks Featuring In-Depth Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-latest-on-ios-18-release-for-your-iphone-download-steps-and-supported-devices-ios-update-coverage/"><u>Get the Latest on IOS 18 Release for Your iPhone: Download Steps & Supported Devices iOS Update Coverage</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-xr-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone XR Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-record-your-iphone-or-ipad-screen-for-youtube/"><u>How to Record Your iPhone or iPad Screen for YouTube</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-xr-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone XR to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-troubleshooting-common-issues-when-uploading-to-apple/"><u>In 2024, Troubleshooting Common Issues When Uploading to Apple</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-microsoft-copilot-a-comprehensive-install-guide-for-apple-computers/"><u>Mastering Microsoft Copilot: A Comprehensive Install Guide for Apple Computers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/myth-vs-fact-co2-doesnt-equal-global-warming/"><u>Myth vs Fact: CO2 Doesn't Equal Global Warming</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722880582237-roku-tv-wont-start-heres-how-you-can-turn-the-situation-around/"><u>Roku TV Won't Start? Here's How You Can Turn the Situation Around</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-most-effective-ai-driven-presentation-devices/"><u>The Most Effective AI-Driven Presentation Devices</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/time-travel-themed-tech-artistry-jurassic-scenes-for-screensavers-by-yl-computing-wallpaper-wonders/"><u>Time-Travel Themed Tech Artistry: Jurassic Scenes for Screensavers by YL Computing | Wallpaper Wonders</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unlocking-the-full-potential-top-9-methods-in-vr-cinematography/"><u>[New] 2024 Approved Unlocking the Full Potential Top 9 Methods in VR Cinematography</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-straightforward-route-scrolling-through-popular-youtube-feedbacks/"><u>[New] In 2024, The Straightforward Route Scrolling Through Popular YouTube Feedbacks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-panoramic-photo-showdown-deciding-360-supremacy/"><u>[New] Panoramic Photo Showdown Deciding 360 Supremacy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-12-video-hourly-livestream-service/"><u>2024 Approved Exclusive 12 Video Hourly Livestream Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-machine-bonds-with-sentiment-analysis/"><u>Bridging Human-Machine Bonds with Sentiment Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extreme-sports-face-off-comparing-hero5-black-to-session-for-2024/"><u>Extreme Sports Face-Off Comparing Hero5 Black to Session for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-windows-spotlight-picture-whenever-you-want/"><u>How to Change the Windows Spotlight Picture Whenever You Want</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-integrate-network-storage-solutions-with-your-mac-computer/"><u>How-To: Integrate Network Storage Solutions with Your Mac Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-14-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 14 With or Without Password</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlock-the-secret-of-social-media-impact/"><u>In 2024, Unlock the Secret of Social Media Impact</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-at-claude-pro-versus-enhanced-chatgptplus/"><u>Inside Look at Claude Pro Versus Enhanced ChatGPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instantly-unplug-from-gpt-powered-dialogue/"><u>Instantly Unplug From GPT-Powered Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-pc-communication-leveraging-rtx-ai-assistant/"><u>Optimize PC Communication: Leveraging RTX AI Assistant</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-rely-on-bing-chat-or-gpt-3-as-a-freelancer-9-essentials/"><u>Should You Rely on Bing Chat or GPT-3 as a Freelancer? 9 Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sports-nutritionists-guide-to-ai-interactions/"><u>Sports Nutritionists' Guide to AI Interactions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-best-gopro-accessories-for-beginners/"><u>The Best GoPro Accessories for Beginners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/triumph-of-thought-three-bots-with-singular-inspiration/"><u>Triumph of Thought: Three Bots with Singular Inspiration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-ai-essential-uses-of-chatgpt-for-companies/"><u>Unlocking Potential with AI: Essential Uses of ChatGPT for Companies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verifying-cgp-as-a-trustworthy-health-scribe/"><u>Verifying CGP as a Trustworthy Health Scribe?</u></a></li>
 </ul></div>
 

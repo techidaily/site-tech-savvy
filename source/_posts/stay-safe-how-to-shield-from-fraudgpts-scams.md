@@ -1,7 +1,7 @@
 ---
 title: Stay Safe! How to Shield From FraudGPT's Scams
-date: 2025-01-27T20:43:38.771Z
-updated: 2025-02-01T12:42:03.105Z
+date: 2025-01-28T22:43:01.357Z
+updated: 2025-02-02T17:23:58.624Z
 tags:
   - chatgpt
   - open-ai
@@ -32,22 +32,22 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![A scammer using a fishing rod to steal data from a person’s laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scammer-using-a-fishing-rod-to-steal-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  FraudGPT is an AI tool powered by a large language model that is particularly fine-tuned to help cyber criminals commit cybercrime. The subscription-based AI tool allows threat actors to facilitate their criminal activities like carding, phishing, and malware creation.
 
  Although details about the tool remain very limited, researchers from Netenrich, a security research firm, have uncovered several ads on the dark web advertising the tool. According to the [research report from Netenrich](https://netenrich.com/blog/fraudgpt-the-villain-avatar-of-chatgpt), the subscription fees range between $200 per month to $1,700 yearly.
 
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Does FraudGPT Work?
 
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
@@ -65,7 +65,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can You Protect Yourself From FraudGPT?
@@ -73,7 +73,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
@@ -90,7 +90,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay Informed to Protect Yourself
@@ -118,16 +118,19 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-pushing-boundaries-top-virtual-reality-game-development-tools/"><u>[New] Pushing Boundaries Top Virtual Reality Game Development Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-tips-for-using-switch-pro-controller-with-steam/"><u>[Updated] Essential Tips for Using Switch Pro Controller with Steam</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unmasking-the-scope-of-non-google-augmented-reality-accessories/"><u>[Updated] Unmasking the Scope of Non-Google Augmented Reality Accessories</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-embellish-videos-and-stories-with-charts-notes-and-more/"><u>2024 Approved Embellish Videos & Stories with Charts, Notes & More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/europes-ai-directive-unveiled-implications-for-chatgpt-systems/"><u>Europe's AI Directive Unveiled: Implications for ChatGPT Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guarding-against-unintended-data-leakage-in-custom-gpts/"><u>Guarding Against Unintended Data Leakage in Custom GPTs</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-tecno-spark-20-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Tecno Spark 20 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/key-factors-for-effective-and-reliable-bot-assisted-platforms/"><u>Key Factors for Effective and Reliable Bot-Assisted Platforms</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-5-omnidirectional-recording-gadgets-for-2024/"><u>Top 5 Omnidirectional Recording Gadgets for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1727787426029-top-rated-smartwatches-comprehensive-reviews-by-tech-experts/"><u>Top Rated Smartwatches : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-your-youtube-presence-with-personalized-annotations-and-card-integration-for-2024/"><u>[Updated] Boost Your YouTube Presence with Personalized Annotations and Card Integration for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-earning-by-critiquing-goodies-a-youtube-guide-for-2024/"><u>[Updated] Earning by Critiquing Goodies A YouTube Guide for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-maximizing-clarity-4-steps-to-perfectly-capture-fb-video-calls-for-2024/"><u>[Updated] Maximizing Clarity 4 Steps to Perfectly Capture FB Video Calls for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-sound-enhancing-fb-video-posts-a-comprehensive-guide/"><u>2024 Approved Sound-Enhancing FB Video Posts A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-4-superior-no-cost-online-scheduling-tools-available-today/"><u>Discover the 4 Superior No-Cost Online Scheduling Tools Available Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-ai-erode-search-engine-role/"><u>Does AI Erode Search Engine Role?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-task-completion-discovering-7-key-benefits-of-chatgpt-in-daily-routine/"><u>Elevate Task Completion: Discovering 7 Key Benefits of ChatGPT in Daily Routine</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/geminis-milestone-redefining-value-at-1m-tokens/"><u>Gemini's Milestone: Redefining Value at $1M Tokens</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-tecno-spark-20c-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Tecno Spark 20C via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovate-your-imaginary-realms-chatgpts-sixfold-path-to-mastery/"><u>Innovate Your Imaginary Realms: ChatGPT's Sixfold Path to Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/self-awareness-and-social-cognition-via-gpt/"><u>Self-Awareness and Social Cognition via GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergistic-ai-chatgpt-for-smart-google-sheet-use/"><u>Synergistic AI: ChatGPT for Smart Google Sheet Use</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-secrets-to-10-music-video-fame-on-facebook-for-2024/"><u>The Secrets to #10 Music Video Fame on Facebook for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tweet-no-more-emojis-linuss-leaks-trojan-breakdown-and-chatgpt-woes/"><u>Tweet No More Emojis, Linus's Leaks, Trojan Breakdown, & ChatGPT Woes</u></a></li>
 </ul></div>
 

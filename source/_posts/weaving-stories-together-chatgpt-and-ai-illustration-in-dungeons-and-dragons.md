@@ -1,7 +1,7 @@
 ---
 title: "Weaving Stories Together: ChatGPT & AI Illustration in Dungeons & Dragons"
-date: 2024-08-25T17:35:25.862Z
-updated: 2024-08-26T17:35:25.862Z
+date: 2025-01-26T21:53:45.897Z
+updated: 2025-02-02T20:12:42.955Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
  In our example, we’ll be creating a two-handed weapon-wielding Dragonborn Paladin for the Lost Mine of Phandelver adventure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### For Background and Backstory
 
  Since ChatGPT is familiar with any popular D&D 5e module or adventure, you can save a lot of time by asking your questions directly to the chat instead of googling it. This way, you have a good lore-friendly way to tie in your new character. In our case, we asked it to briefly describe the Lost Mine of Phandelver and the lore surrounding the Sword Coast.
@@ -42,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
  If you’re playing a homebrew campaign, type in as much as you know about the lore for ChatGPT and ask it to generate a relevant backstory and background for your character. You can keep prompting it till you find something you like.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### For Character Description
 
  Now that you have a race, name, class, backstory, and background for your character, it’s time to get ChatGPT to cook up a detailed description. When typing this prompt, mention everything you want it to consider when creating the description, like unique characteristics such as scars, clothing, weapons, etc.
@@ -53,11 +58,9 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 ![D&D character Anomander Rake's physical description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/d-d-character-anomander-rake-s-physical-description.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### To Determine Character Traits and NPC Attributes
 
  As an extension of the character’s description, you can ask ChatGPT to create your character’s traits and then use them as is or as inspiration for how your character would behave. Anomander Rake, as a Dragonborn Paladin of Justice, is a determined devout with a strong sense of righteousness with the fatal flaw of being adamantly stubborn. ChatGPT helped us come up with that.
@@ -66,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
  However, while generating attributes for an NPC, you should remember to tell ChatGPT to balance it according to the level of the players who will be facing the NPC. As the dungeon master, you should still make sure it’s balanced, but it would do a fairly decent job of trying to balance it.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use DALL-E 2 to Create D&D Characters
 
 [DALL-E is a Generative Pre-Trained (GPT) AI](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) developed by OpenAI that changes your text to images. Combined with all the information you have curated from ChatGPT, you can string together a very detailed description of your D&D character. Tell ChatGPT to create a prompt you can give to DALL-E.
@@ -78,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
  And here is the result: "Create an image of a male Chromatic Dragonborn Paladin named Anomander Rake. He stands tall at 6 and a half feet with a strong and muscular build. His scales are obsidian black, with occasional iridescent sheen. He has piercing gold-colored eyes and a prominent brow ridge. A pair of curving horns extend from the sides of his head, shimmering with a dark bronze to fiery red gradient. Between the horns, there is a crest of shorter spines. He wears a suit of polished plate armor with engravings representing his devotion to Bahamut. A flowing crimson cape, emblazoned with the emblem of the Order of the Silver Wing, trails behind him. He wields a mighty warhammer with a polished steel head and a leather-wrapped grip. Show him emanating an aura of strength, righteousness, and determination."
 
  The prompt might be too long for DALL-E 2, but you can still ask ChatGPT to shorten it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### To Create a Character Image
 
@@ -90,15 +94,13 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 ![DALL-E 2's results from the prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dall-e-2-s-results-from-the-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're unhappy with the results, you can keep clicking**Generate** to create more images. If there’s an image close to what you want, click it and select**Variations** so that DALL-E can create more like that. If you find something you like, select it and click the**Download** button (represented by a download arrow) on the top right of the image. All your previously generated images are saved on the right menu, so don’t worry about losing them.
 
 All images you download from DALL-E have watermarks.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Use AI to Enhance All Facets of Your Game
 
  It doesn’t have to stop at characters; you can use AI to enhance all parts of your game. ChatGPT can be immensely useful for descriptions, loot, rule lawyering, and all the other time-consuming things that a Dungeon Master has to juggle during a game.
@@ -111,8 +113,6 @@ All images you download from DALL-E have watermarks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +120,24 @@ All images you download from DALL-E have watermarks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-uncover-and-revive-inaudible-fb-video-posts-the-ultimate-list-of-12-fixes-for-2024/"><u>[Updated] Uncover & Revive Inaudible FB Video Posts – The Ultimate List of 12 Fixes for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-perfecting-sound-integrating-music-into-vimeo-video-projects/"><u>2024 Approved Perfecting Sound Integrating Music Into Vimeo Video Projects</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-tiktok-legalities-ensuring-video-compliance-pre-upload/"><u>2024 Approved TikTok Legalities Ensuring Video Compliance Pre-Upload</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-mpos-powered-macs-updated-fedora-linux-support-with-one-exception-details-inside-techdigest/"><u>All mPOS-Powered Macs Updated: Fedora Linux Support, With One Exception – Details Inside | TechDigest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-exclusive-ipad-pro-pricing-perks-pre-prime-day-the-ultimate-tech-bargain-on-zdnet/"><u>Apple's Exclusive iPad Pro Pricing Perks Pre-Prime Day – The Ultimate Tech Bargain on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversione-gratuita-da-3gp-a-wav-con-movavi-servizi-online/"><u>Conversione Gratuita Da 3GP a WAV Con Movavi - Servizi Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-approach-ending-your-apple-music-membership-without-using-itunes-tips-experts/"><u>DIY Approach: Ending Your Apple Music Membership Without Using iTunes – Tips Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-why-every-iphone-16-owner-should-consider-using-a-protective-case-insights-and-tips-for-first-time-users-zdnet/"><u>Essential Guide: Why Every iPhone 16 Owner Should Consider Using a Protective Case - Insights and Tips for First-Time Users | ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-itel-s23plus-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Itel S23+</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-back-to-normal-goodbye-ghost-bars/"><u>HP Printer Back to Normal: Goodbye, Ghost Bars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-quest-3-and-apple-vision-pro-face-off-unpacking-zuckerbergs-insightful-review-analysis/"><u>Meta Quest 3 and Apple Vision Pro Face-Off: Unpacking Zuckerberg's Insightful Review Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-quest-3-versus-apple-vision-pro-evaluating-the-accuracy-of-zuckerbergs-review-deep-dive-with-zdnet/"><u>Meta Quest 3 Versus Apple Vision Pro: Evaluating the Accuracy of Zuckerberg's Review | Deep Dive with ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-data-protection-in-ai-personalization-landscape/"><u>Navigating Data Protection in AI-Personalization Landscape</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-using-inshot-software-effectively/"><u>Step-by-Step Using Inshot Software Effectively</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/stunning-nissan-prisejpg-the-400z-top-picks-for-images-and-desktop-wallpapers-from-yl-computing/"><u>Stunning Nissan prise.jpg the 400Z: Top Picks for Images and Desktop Wallpapers From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-right-tablet-expert-evaluations-and-ratings-zdnet/"><u>Ultimate Guide to Choosing the Right Tablet : Expert Evaluations and Ratings | ZDNet</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/windows-11-defender/"><u>Windows 11 予想外トラブル:Defender機能不調時の解決策三点</u></a></li>
+</ul></div>
 

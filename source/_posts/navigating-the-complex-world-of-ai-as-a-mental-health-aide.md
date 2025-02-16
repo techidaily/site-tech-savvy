@@ -1,7 +1,7 @@
 ---
 title: Navigating the Complex World of AI as a Mental Health Aide
-date: 2024-08-25T17:33:49.069Z
-updated: 2024-08-26T17:33:49.069Z
+date: 2025-01-27T23:52:57.196Z
+updated: 2025-02-02T17:34:11.635Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 **SCROLL TO CONTINUE WITH CONTENT**
 
  AI answers general questions about mental health, but using it for therapy could do more harm than good. You should still seek professional help. Here are the dangers of asking generative AI tools like ChatGPT and Bing Chat to provide free therapy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Data Biases Produce Harmful Information
 
@@ -49,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 
  However, you should be free to share your negative thoughts—they’re a reality for many. Suppressing them may just cause more complications. Only guided, evidence-based treatment plans will help patients overcome unhealthy coping mechanisms.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. AI Can’t Prescribe Medication
 
  Only licensed psychiatrists prescribe medication. AI chatbots just provide basic details about the treatment programs that mental health patients undergo. No app can write prescriptions. Even if you’ve been taking the same medicines for years, you’ll still need a doctor’s prescription.
@@ -65,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 ![ChatGPT Can't Provide Prescription Medication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-prescription-medication.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Chatbots Present Generic Information
 
  AI answers general knowledge questions about mental health. You can use them to study basic treatment options, spot common symptoms, and research similar cases. Proper research helps you build self-awareness. Recovery will go smoother if you understand your mental state and emotional triggers.
@@ -75,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 
 ![ChatGPT Gives Generic Advice on Panic Attack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-panic-attack-advice.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A professional counselor or therapist would go beyond what AI suggests. You can use AI output as a starting point to better understand academic journals and research papers, but be sure to do deeper research or consult a professional.
 
 ## 6\. Self-Diagnoses Are Rarely Accurate
@@ -91,13 +90,15 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 ![ChatGPT Can't Determine Your Disease Based on Symptoms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-explaining-anxiety-symptoms.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As a general rule, avoid self-diagnosis altogether. Getting on the wrong treatment plan or overlooking symptoms will cause more complications.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. AI Has No Access to Your Medical Records
 
  Generative AI tools like [ChatGPT learn from conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/). They use contextual memory to remember the details you mention, thus improving output accuracy and relevance.
@@ -107,17 +108,15 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 ![Sharing Finance Problems With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/telling-chatgpt-about-finance-problems.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  With enough context, AI could start providing personalized plans. The problem is that generative AI tools have token limits—they only remember a finite amount of data.
 
 ![ChatGPT Addressing the Root Cause of Finance-Related Anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-finance-related-anxiety.jpg)
 
  The exact limits vary per platform. Bing Chat starts new chats after 20 turns, while ChatGPT remembers the last 3,000 words of conversations. But either way, neither tool will accommodate all your medical records. At best, generative AI tools can only string together select information, such as recent diagnoses or your current emotions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Machines Can’t Empathize With You
 
  Empathy plays a critical role in therapy. Understanding the patient’s goals, needs, lifestyle, internal conflicts, and preferences helps professionals customize treatment options. There’s no one-size-fits-all approach to mental health.
@@ -130,13 +129,18 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 
 ![Bing Chat Can't Empathize With Someone With Depression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-depression.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Meanwhile, ChatGPT asks open-ended questions but provides simplistic tips you’ll find anywhere else online.
 
 ![ChatGPT Giving Advice for Depression and Debt Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-advice-for-depression.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. AI Doesn’t Track Your Progress
 
  Managing the symptoms of mental illnesses involves long-term treatment and observation. There’s no easy remedy for mental health conditions. Like most patients, you might try several programs. Their effects vary from person to person—carelessly committing to generic options yields negligible results.
@@ -161,8 +165,6 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +172,23 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-discovering-instagrams-most-followed-ae-presets/"><u>[New] 2024 Approved Discovering Instagram's Most Followed AE Presets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-chromebook-shutter-mastery-in-four-steps-only/"><u>[New] Chromebook Shutter Mastery in Four Steps Only</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-reconnecting-with-iphone-x-reviving-facial-biometrics/"><u>[New] Reconnecting with iPhone X Reviving Facial Biometrics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-virtual-clan-combat-top-10-titles-with-a-tsushinian-twist/"><u>[New] Virtual Clan Combat Top 10 Titles with a Tsushinian Twist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-enhances-self-repair-services-with-new-remote-diagnostics-for-iphone-15-and-m2-mac-a-deep-dive-into-the-latest-features/"><u>Apple Enhances Self-Repair Services with New Remote Diagnostics for iPhone 15 & M2 Mac: A Deep Dive Into the Latest Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-math-to-machine-the-birth-of-artificocal-intelligence/"><u>From Math to Machine: The Birth of Artificocal Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-workforce-does-ai-substitute-for-jobs/"><u>Future Workforce: Does AI Substitute for Jobs?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proof-defense-how-apple-bolsters-imessage-safety-against-upcoming-risks/"><u>Future-Proof Defense: How Apple Bolsters iMessage Safety Against Upcoming Risks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-the-switch-step-by-step-guide-to-transforming-vob-videos-into-mkv-for-pc-windows-11-and-mac-users/"><u>Master the Switch: Step-by-Step Guide to Transforming VOB Videos Into MKV for PC (Windows 11) and Mac Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-application-essays-using-gpt-3/"><u>Mastering Application Essays Using GPT-3</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/optimal-screen-capture-chromeos-enhanced-for-2024/"><u>Optimal Screen Capture ChromeOS Enhanced for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-human-ai-communication-the-top-5-expert-prompt-generators/"><u>Reimagining Human-AI Communication: The Top 5 Expert Prompt Generators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airpods-pro-gear-and-add-ons-featuring-reviews-from-zdnet/"><u>Top-Rated AirPods Pro Gear & Add-Ons - Featuring Reviews From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-addressing-crashes-in-pc-versions-of-starfield-adventure/"><u>Troubleshooting Tips: Addressing Crashes in PC Versions of Starfield Adventure</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-generative-ai-breaking-it-down/"><u>What Is Generative AI? Breaking It Down</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/what-is-the-best-frame-rate-for-slow-motion-video/"><u>What Is The Best Frame Rate For Slow Motion Video?</u></a></li>
+</ul></div>
 

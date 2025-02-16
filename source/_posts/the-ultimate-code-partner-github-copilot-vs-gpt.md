@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Code Partner? GitHub Copilot Vs. GPT
-date: 2025-01-25T08:35:26.739Z
-updated: 2025-02-01T00:17:10.334Z
+date: 2025-01-30T20:37:42.950Z
+updated: 2025-02-02T17:34:01.505Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is GitHub Copilot?](https://bluettide.pxf.io/ekmjb2)
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 * [There Are Alternatives](https://thefitville.pxf.io/qyo4yy)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -56,15 +52,15 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
  GitHub Copilot is an AI-powered code completion tool developed by GitHub in collaboration with OpenAI. With the power of GPT-4, it provides real-time code suggestions as you type, helping to streamline the coding process. It is a paid service that you can easily use with most popular environments, including Visual Studio, Visual Studio Code, Vim/Neovim, Azure Data Studio, and JetBrains.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is ChatGPT?
 
  ChatGPT is OpenAI's chat-optimized AI chatbot. While not specifically designed for programming assistance like GitHub Copilot, ChatGPT’s strength lies in its ability to comprehend and generate text in a manner that closely mimics human language.
 
  This makes it a good programming tool as it can help clarify concepts, provide explanations, and even generate pseudocode based on user input. ChatGPT is a versatile tool. You can use it for non-coding tasks like planning, brainstorming, and problem-solving, all of which are useful in software development.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparing GitHub Copilot and ChatGPT
 
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 ![Advanced Code Completion with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/github-copilot-adavanced-code-suggestions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Aside from advanced code completion, you can also use GitHub Copilot for refactoring, helping you [write cleaner and better code](https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/). And since it’s integrated into your programming environment, it’s more quickly available than a web app like ChatGPT. This saves you time and concentration, especially over long coding sessions.
 
  To make a request, simply highlight your code, click on the “twinkle/star” icon, and provide your instructions:
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 ![Customized code generation with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/generate-code-with-github-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your primary focus is on programming, and you're looking for a tool to help you with writing, debugging, and refactoring code, GitHub Copilot is the clear choice. Its ability to generate accurate and contextually relevant code snippets can significantly speed up development workflows and reduce coding errors.
@@ -113,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 ![Asking development related questions with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/asking-developer-questions.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re learning to code, you can prompt ChatGPT to generate pseudocode to help you explore different solutions for a specific problem.
 
  Here’s how ChatGPT provided a way to query the minimum, maximum, and average price of products within a collection class:
@@ -127,9 +123,17 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 ![Reverse engineering code snippet with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-explaining-code.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When it comes to understanding concepts or getting a detailed explanation of a coding topic, ChatGPT excels. Its ability to generate human-like responses makes it an ideal learning tool that any programmer can use. Whether it's a complex algorithm or a programming principle you're trying to grasp, ChatGPT can break it down into understandable parts.
 
  What’s great about ChatGPT is that it offers a completely free version that you can use throughout your learning process. Of course, a paid subscription does have extra benefits like better response quality and plugins. But overall, as long as you [employ prompting techniques](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/), the free version should work fine as a learning tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You Can Always Use Both
 
@@ -142,10 +146,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
  If you’re a student, you can benefit from free access to GitHub Copilot. Combine that with OpenAI’s already free ChatGPT-3.5 Turbo, and you’ll have both tools without paying a cent!
 
  A monthly GitHub Copilot subscription and the freely available ChatGPT-3.5 should provide enough assistance for both personal and professional projects. If you still feel like you need that slight edge, then shelling out extra for [useful ChatGPT plugins](https://www.makeuseof.com/best-chatgpt-plugins/) may also be worth the investment.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## There Are Alternatives
 
@@ -170,15 +170,16 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-beyond-binary-boundaries-unveiling-metaverse-vs-multiverse/"><u>[New] In 2024, Beyond Binary Boundaries Unveiling Metaverse V/S Multiverse</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-viral-videos-not-pricey-twitter-video-to-gif-conversion-for-2024/"><u>[New] Viral Videos, Not Pricey Twitter Video to GIF Conversion for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-10-best-practices-for-boosting-srt-on-pc-and-macos/"><u>[Updated] 10 Best Practices for Boosting SRT on PC & macOS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-a-guide-to-homemade-film-crafting-youtube-and-beyond/"><u>[Updated] In 2024, A Guide to Homemade Film Crafting, YouTube & Beyond</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-value-how-much-would-consumers-pay-for-advanced-ai-features-from-apple-insights-into-potential-subscription-models/"><u>Exploring the Value: How Much Would Consumers Pay for Advanced AI Features From Apple? Insights Into Potential Subscription Models</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mpc-hc-blu-ray/"><u>MPC-HC Blu-Ray再生失敗時の専門的対策方法 - スムーズな視聴へ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/palm-2-unpacked-googles-leap-forward-in-ai-linguistics/"><u>PaLM 2 Unpacked: Google's Leap Forward in AI Linguistics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/setting-up-real-time-notifications-from-slack-on-your-apple-smartwatch-techtips/"><u>Setting Up Real-Time Notifications From Slack on Your Apple Smartwatch | TechTips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-non-apple-rechargeable-alternatives-to-the-apple-airtag-save-more-on-your-wallet-tracking-device/"><u>Top Non-Apple, Rechargeable Alternatives to the Apple AirTag: Save More on Your Wallet Tracking Device!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-dual-approaches-to-audio-fades-in-final-cut-pro-a-step-by-step-guide/"><u>Updated 2024 Approved Dual Approaches to Audio Fades in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-stardews-best-guide-to-ginger-island/"><u>[Updated] In 2024, Stardew's Best Guide to Ginger Island</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-navigating-the-net-top-tags-for-eye-catching-gamer-content/"><u>2024 Approved Navigating the Net Top Tags for Eye-Catching Gamer Content</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-6-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 6 Plus/iPad/iPod</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-enhancement-installation-of-plugins-step-by-step/"><u>ChatGPT Enhancement: Installation of Plugins Step by Step</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-chatgpt-to-digest-pdf-data-efficiently/"><u>Empower ChatGPT to Digest PDF Data Efficiently</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/goal-achievement-made-easy-chatgpts-health-blueprint/"><u>Goal Achievement Made Easy: ChatGPT's Health Blueprint</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grok-ai-revelations-understanding-its-significance-and-financial-implications-by-musk/"><u>Grok AI Revelations: Understanding Its Significance & Financial Implications by Musk</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-fix-for-an-invisible-logging-window-on-win1011/"><u>Mastering the Fix for an Invisible Logging Window on WIN10/11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/skaldic-epic-odins-final-stand-for-2024/"><u>Skaldic Epic Odin's Final Stand for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/493292-9781416575535-the-orb-project/"><u>The Orb Project | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/write-magic-utilizing-chatgpt-for-original-tales/"><u>Write Magic: Utilizing ChatGPT for Original Tales</u></a></li>
 </ul></div>
 
