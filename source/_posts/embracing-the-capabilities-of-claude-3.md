@@ -1,7 +1,7 @@
 ---
 title: Embracing the Capabilities of Claude 3
-date: 2025-02-08T18:03:15.842Z
-updated: 2025-02-15T23:14:58.104Z
+date: 2025-02-27T02:11:53.558Z
+updated: 2025-03-04T20:37:36.462Z
 tags:
   - chatgpt
   - open-ai
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
  Anthropic has announced the release of Claude 3—a family of AI models with the potential to upset GPT-4\. It has outstanding potential, but is it ready to take ChatGPT's crown?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Claude 3?
 
  Claude 3 is a family of three multimodal AI models developed by Anthropic to [replace its Claude 2 series of AI models](http://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/). You could say Claude 3 is Anthropic's answer to [Google's Gemini and OpenAI's GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/). Released in three versions, Haiku, Sonnet, and Opus, in their increasing order of intelligence, Claude 3 is Anthropic's first multimodal AI model and represents a significant leap from the Claude 2 series.
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
  All three issues have now been completely or at least partly addressed with the release of Claude 3\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Can You Do With Claude 3?
 
 ![Claude AI chatbot interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-image-1.jpg)
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
  The answer is simple; Claude 3 isn't just another AI model that is good at these tasks, it is the most advanced freely available multimodal AI model you can get anywhere on the internet. Yes, there is Gemini, Google's much-hyped, supposed GPT-4-killer that performs impressively in benchmark tests. However, Anthropic claims Claude 3 outperforms it by an impressive margin on several tasks. While benchmark results are something we should often take with a grain of salt, I put both AI models to the test, and the superiority of the Claude 3 model in several important use cases was very clear.
 
  So, Claude 3 lets you do most of the things you can do with Gemini and GPT-4 (minus image generation) without having to pay the $20 subscription fee for ChatGPT premium.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Claude 3 vs. ChatGPT
 
@@ -89,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
  With the latest release, Claude 3 produced a better-performance to-do list app in all three instances we tested. Here is GPT-4's result when prompted to create a to-do list app.
 
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And here is Claude 3's result when asked to do the same.
 
@@ -110,17 +94,9 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![ChatGPT answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-answers-trick-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT answered correctly even without GPT-4\. If you are wondering the reason for the choice of question, well, chatbots have historically failed woefully at this sort of questioning line. Up next was Claude's turn to answer.
 
 ![testing Claude 3 on commonsense reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/testing-claude-3-on-commonsense-reasoning.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Claude's response wasn't exactly a definitive answer, but it was able to identify the key information; you don't bury survivors. It's important to note that the last time we asked Claude 2 the same question, it wasn't able to see through the common sense trap.
 
@@ -169,18 +145,18 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-win10-screen-grabbing-top-quality-captures/"><u>[New] 2024 Approved Win10 Screen Grabbing - Top Quality Captures</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-lite-video-downloading-made-easy-top-6-tools-of-2023/"><u>[Updated] 2024 Approved Facebook Lite Video Downloading Made Easy Top 6 Tools of 2023</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-lava-yuva-3-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Lava Yuva 3 Pro Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bot-phenomenon-uncovered-insights-into-chatbot-popularity/"><u>Bot Phenomenon Uncovered: Insights Into Chatbot Popularity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/examining-the-usefulness-of-artificial-intelligence-for-savings-tips/"><u>Examining the Usefulness of Artificial Intelligence for Savings Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-new-legal-landscape-with-gpt/"><u>Exploring New Legal Landscape with GPT</u></a></li>
-<li><a href="https://fox-info.techidaily.com/groundbreaking-photo-editor-photonshift-tech/"><u>Groundbreaking Photo Editor PhotonShift Tech</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-saving-the-best-from-fb-in-high-definition/"><u>In 2024, Saving the Best From FB in High Definition</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-12-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 12 i Do? Get Answers here</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastery-in-making-the-perfect-match-of-drones-and-propellers/"><u>Mastery in Making the Perfect Match of Drones and Propellers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/palm-2-to-supercharge-bard-ai-7-key-advances/"><u>PaLM 2 to Supercharge Bard AI: 7 Key Advances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securing-your-artistic-identity-using-nightshade-against-generative-ai/"><u>Securing Your Artistic Identity: Using Nightshade Against Generative AI</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726029165132-youtube/"><u>YouTube ショートビデオフォーマットで推奨される解像度とコンテンツサイズ</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-sprucing-up-photos-top-10-mobile-apps-list/"><u>[New] Expert Tips for Sprucing Up Photos Top 10 Mobile Apps List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-learning-leaders-expert-picks-of-10-best-classroom-recorders/"><u>[Updated] 2024 Approved Learning Leaders Expert Picks of 10 Best Classroom Recorders</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-checklist-important-considerations-when-shopping-for-vr-technology/"><u>A Checklist: Important Considerations When Shopping for VR Technology</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-your-home-entertainment-with-the-leading-karaoke-machines-on-the-market/"><u>Elevate Your Home Entertainment With the Leading Karaoke Machines on the Market!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-ai-tools-shaping-the-future-of-enterprise-management/"><u>Innovative AI Tools Shaping the Future of Enterprise Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-power-boards-compatible-with-ps5/"><u>Innovative Power Boards: Compatible with PS5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-10-free-video-editing-software-for-rotating-and-flipping-clips/"><u>New In 2024, Top 10 Free Video Editing Software for Rotating and Flipping Clips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-social-barriers-using-chatgpt-conversations/"><u>Overcoming Social Barriers Using ChatGPT Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dichotomy-of-reality-and-fantasy-through-ai/"><u>The Dichotomy of Reality & Fantasy Through AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-tech-talking-experience-with-chrome-and-ai/"><u>Transform Your Tech Talking Experience, With Chrome & AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-strengths-ios-vs-chatgpt-web-apps/"><u>Unveiling the Strengths: IOS Vs. ChatGPT Web Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-universal-gateway-to-anywheres-chatgpt/"><u>Your Universal Gateway to Anywhere's ChatGPT</u></a></li>
 </ul></div>
 

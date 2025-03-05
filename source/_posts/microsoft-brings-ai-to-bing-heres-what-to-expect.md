@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Brings AI to Bing: Here's What to Expect"
-date: 2025-02-09T02:36:35.711Z
-updated: 2025-02-15T22:56:14.057Z
+date: 2025-02-26T01:55:04.302Z
+updated: 2025-03-04T23:38:37.365Z
 tags:
   - chatgpt
   - open-ai
@@ -34,27 +34,15 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
 
  According to [Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's New in Bing?
 
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
 
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
@@ -64,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
@@ -75,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
  Once you’ve configured the Microsoft Edge on your device, you can directly engage with its AI capabilities, including two core features,**Chat** and**Compose** , that will be integrated into a new version of the Edge sidebar.
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
@@ -105,20 +85,18 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-comic-crafting-mastering-7-cheeky-content-strategies/"><u>[New] Comic Crafting Mastering 7 Cheeky Content Strategies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-overcome-oversaturated-tiktok-drafters-through-savvy-edits/"><u>[New] Overcome Oversaturated TikTok Drafters Through Savvy Edits</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-exploring-vidas-capabilities-in-digital-film-production/"><u>[Updated] Exploring Vida's Capabilities in Digital Film Production</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-efficiently-managing-homes/"><u>AI's Impact on Efficiently Managing Homes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-productivity-with-chatgpt-9-business-ideas-to-try/"><u>Boost Productivity with ChatGPT: 9 Business Ideas to Try</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-next-gen-web-interfaces-the-gpt-way/"><u>Crafting Next-Gen Web Interfaces: The GPT Way</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/cutting-edge-tips-for-game-capture-in-obs-for-2024/"><u>Cutting-Edge Tips for Game Capture in OBS for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/cing-content-quality-with-advanced-video-editing/"><u>Enhancing Content Quality with Advanced Video Editing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-c51-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme C51</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-netgear-ac750-ex3700-wireless-range-extender-performance-and-coverage/"><u>In-Depth Analysis of Netgear AC750 EX3700 Wireless Range Extender: Performance and Coverage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/llama-2-the-next-level-in-automation-tools/"><u>Llama 2: The Next Level in Automation Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-seas-without-interruptions-five-quick-ways-to-stop-world-of-warships-from-crashing-on-your-computer/"><u>Master the Seas without Interruptions: Five Quick Ways to Stop World of Warships From Crashing on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/no-more-distractions-a-step-by-step-guide-to-blocking-unwanted-sms-on-iphone/"><u>No More Distractions: A Step-By-Step Guide to Blocking Unwanted SMS on iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-your-workflow-best-ai-pdf-apps-unveiled/"><u>Streamline Your Workflow: Best AI PDF Apps Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quest-for-ownership-in-the-age-of-ai-creations/"><u>The Quest for Ownership in the Age of AI Creations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-video-inversion-step-by-step-strategy/"><u>[New] 2024 Approved Instagram Video Inversion Step-by-Step Strategy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-ios-tools-for-psp-gaming-top-5/"><u>[New] In 2024, Best iOS Tools for PSP Gaming, Top 5</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fb-video-audio-extraction-made-simple-for-mp3-lovers/"><u>[Updated] In 2024, FB Video Audio Extraction Made Simple for MP3 Lovers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/audiophiles-guide-to-optimal-vinyl-sound-professional-picks-and-tips-from-zdnet/"><u>Audiophile's Guide to Optimal Vinyl Sound: Professional Picks and Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-high-quality-sound-without-breaking-your-budget-discover-our-top-pick-for-affordable-bluetooth-speakers/"><u>Experience High-Quality Sound Without Breaking Your Budget: Discover Our Top Pick for Affordable Bluetooth Speakers!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-superior-sound-at-only-18-grab-your-echo-pop-smart-speaker-during-amazons-biggest-sale-of-the-year/"><u>Experience Superior Sound at Only $18: Grab Your Echo Pop Smart Speaker During Amazon's Biggest Sale of the Year!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-baldurs-gate-3-pc-game-crash-issues/"><u>Fixes and Solutions: Resolving Baldur's Gate 3 PC Game Crash Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/homepod-vs-homepod-mini-a-comprehensive-sound-quality-showdown-by-zdnet/"><u>HomePod Vs. HomePod Mini: A Comprehensive Sound Quality Showdown by ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-10-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 10 5G Phones with/without a PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/jitsi-meet/"><u>Jitsi Meetでウェブミーティングを記録するための最善策</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/singapore-stock-exchange-starts-the-week-stronger-as-top-stocks-lead-gains-jardine-candc-dips-full-report-by-yl-computing/"><u>Singapore Stock Exchange Starts the Week Stronger as Top Stocks Lead Gains, Jardine C&C Dips - Full Report by YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/spurring-instagram-audience-for-more-vids-for-2024/"><u>Spurring Instagram Audience for More Vids for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-audio-experience-top-non-bosenon-sonos-speakers-triumph-techreview/"><u>Unbeatable Audio Experience: Top Non-Bose/Non-Sonos Speakers Triumph! | TechReview</u></a></li>
 </ul></div>
 

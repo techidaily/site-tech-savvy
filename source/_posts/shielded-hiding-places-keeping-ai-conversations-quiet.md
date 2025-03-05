@@ -1,7 +1,7 @@
 ---
 title: "Shielded Hiding Places: Keeping AI Conversations Quiet"
-date: 2024-08-21T15:35:51.230Z
-updated: 2024-08-22T15:35:51.230Z
+date: 2025-03-02T22:28:46.810Z
+updated: 2025-03-04T22:18:10.463Z
 tags:
   - chatgpt
   - open-ai
@@ -42,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
 ![Archiving chat in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archiving-chat-in-chatgpt-web.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
 ### How to View Your Hidden ChatGPT Chats on the Web
@@ -62,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Hide ChatGPT Chats on Your iPhone
 
  ChatGPT's mobile app also lets you archive chats, but for now, the feature is limited to the iOS version of the app. However, [OpenAI confirmed on X (formerly Twitter)](https://twitter.com/OpenAI/status/1737517702766633063) that the feature will make it to Android soon. Here's how to hide your ChatGPT chats on iOS:
@@ -80,16 +74,10 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  If you don't see the **Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How to View Your Hidden Chats in the ChatGPT App
 
  Like the web version of ChatGPT, you need to head to ChatGPT's settings menu to access your archived chats. Here's what you need to do:
@@ -101,16 +89,10 @@ Close
 
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 Close
 
  As you can see, archiving your conversations is much more convenient than [deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) if all you want to do is quickly hide specific chats.
@@ -127,8 +109,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +116,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-selfie-verification-everything-you-need-to-know/"><u>[New] In 2024, Instagram Selfie Verification - Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-maximize-learning-free-tools-for-online-video-texts/"><u>[New] In 2024, Maximize Learning Free Tools for Online Video Texts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-masterclass-emulation-best-ps3-clones-on-your-computer/"><u>[Updated] 2024 Approved Masterclass Emulation Best PS3 Clones on Your Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-and-science-of-enhancing-visual-appeal-with-adobes-look-up-tables-luts/"><u>[Updated] The Art and Science of Enhancing Visual Appeal with Adobe's Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-gratis-online-dpx-zu-jpg-konvertieren-mit-movavi-bildbearbeitungs-tool/"><u>1. Gratis Online: DPX Zu JPG Konvertieren Mit Movavi - Bildbearbeitungs-Tool</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/5yaz55yf44gu44gn44km44ge44gq6z2s56m644g4ic0g44gf44gh44gplus44gh44cm5pif44gu5lplusu5b6p5rov44cn5ywl5oml5pa55rov/"><u>写真のきれいな青空へ - たちまち「星の修復法」入手方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crea-slideshow-con-di-movavi-scarica-ora-e-inizia/"><u>Crea Slideshow Con Di Movavi - Scarica Ora E Inizia!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descubra-as-maiores-ferramentas-de-estrategia-video-o-guia-definitivo-para-especialistas-em-conteudo-softwares/"><u>Descubra as Maiores Ferramentas De Estratégia Vídeo: O Guia Definitivo Para Especialistas Em Conteúdo Softwares</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-initial-video-setbacks-in-zoom-sessions/"><u>Expert Tips to Overcome Initial Video Setbacks in Zoom Sessions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavimp3-online-asfmp3/"><u>Movaviの無料アクセス型MP3フォーマット変換 - Online ASFからMP3へ</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/officially-unveiled-full-roster-of-ps-vr2-titles-announced/"><u>Officially Unveiled: Full Roster of PS VR2 Titles Announced</u></a></li>
+</ul></div>
 

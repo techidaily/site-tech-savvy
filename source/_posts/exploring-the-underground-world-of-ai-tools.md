@@ -1,7 +1,7 @@
 ---
 title: Exploring the Underground World of AI Tools
-date: 2024-08-21T15:36:22.442Z
-updated: 2024-08-22T15:36:22.442Z
+date: 2025-02-26T16:49:04.538Z
+updated: 2025-03-04T23:15:10.984Z
 tags:
   - chatgpt
   - open-ai
@@ -51,9 +51,6 @@ Close
 
 ![Screenshot of Merlin opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-merlin-opening-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Merlin is a browser extension that'savailable for Google Chrome and Microsoft Edge. Once installed, it integrates into the browser and acts as a virtual assistant. Among the functions it can perform are:
 
 * **Assisting with emails**: Merlin can help you respond to emails or compose promotional emails.
@@ -62,23 +59,14 @@ Close
 
 ![Screenshot of Merlin Google integration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-merlin-google-integration.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Installing this is simple, although you will need to sign up for a Merlin account. This is slightly more restrictive than standalone chatbots, but it is a good premise and works well.
 
 **Download**: Merlin for [Google Chrome/Microsoft Edge](https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec) (Free, in-app purchases available).
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. ChatGPT Writer
 
 ![Screenshot ChatGPT Writer home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-writer-home.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  This is very similar to the Merlin Chat extension. It works by embedding itself within your chosen browser (Chrome or Edge) and from here it can be called up to perform a variety of tasks.
 
  Before we could use the extension, it prompted us to visit the OpenAI website for Cloudflare authentication. Once we did this (without creating an account), we could use the tool with no problems.
@@ -91,16 +79,10 @@ Close
 
 **Download**: ChatGPT Writer for [Google Chrome/Microsoft Edge](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/related) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Forefront.AI
 
 ![forefront ai chatgpt prompt output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/forefront-ai-chatgpt-prompt-output.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Forefront.ai](http://chat.forefront.ai) is a multi-use generative AI tool that allows you to use ChatGPT-3.5, ChatGPT-4, Claude Instant 1.2, and Claude 2 from the same web app. You'll have to subscribe to use ChatGPT-4, Claude Instant 1.2, and Claude 2 (all with limited messaging rates), but you can sign-up and use ChatGPT-3.5 for free.
 
  Forefront.AI's ChatGPT-3.5 output matches (or is extremely similar to) what you'll find on OpenAI's ChatGPT, so you can be assured you're getting the same responses.
@@ -121,8 +103,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +110,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-building-an-engaging-listenership-through-rss-crafting/"><u>[New] 2024 Approved Building an Engaging Listenership Through RSS Crafting</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-asmtxhcisys-blue-screen-of-death-error/"><u>[SOLVED] asmtxhci.sys Blue Screen Of Death Error</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-crafting-customized-clips-on-iphone-3-free-music-integration-techniques/"><u>[Updated] In 2024, Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mozilla-screen-recording-hacks/"><u>[Updated] Mozilla Screen Recording Hacks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-how-to-erase-photographic-backgrounds/"><u>2024 Approved Step-by-Step How to Erase Photographic Backgrounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-orf-movavi/"><u>専用Webコンバーターでのオンライン移行 - ORFファイル無料変換: Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descargar-y-convertir-archivos-m4b-a-mp3-sin-coste-guia-completa-de-conversion-en-movavi/"><u>Descargar Y Convertir Archivos M4B a MP3 Sin Coste: Guía Completa De Conversión en Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-driver-refresh-for-dell-xps-laptop-in-windows-operating-system/"><u>Easy Tutorial: Driver Refresh for Dell XPS Laptop in Windows Operating System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/i-6-capi-piu-promettenti-che-ti-aiuteranno-a-convertire-p7m-in-un-pdf-gratuito-online-entro-il-2024/"><u>I 6 Capi Più Promettenti Che Ti Aiuteranno a Convertire P7M in Un PDF Gratuito Online Entro Il 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/immediate-visuals-the-fastest-4-ways-to-snip-on-chrome-os-for-2024/"><u>Immediate Visuals The Fastest 4 Ways To Snip on Chrome OS for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Phantom V Flip</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-itel-p55t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Itel P55T to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-acquiring-free-picture-frame-videos/"><u>In 2024, Guide to Acquiring Free Picture Frame Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/learn-how-to-make-an-effective-screen-capture-with-your-iphone-11-top-4-techniques-revealed-by-movavi/"><u>Learn How to Make an Effective Screen Capture with Your iPhone 11: Top 4 Techniques Revealed by Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/por-que-choose-movavi-uma-exploracao-na-vantagem-da-inovacao-em-software-multimedia/"><u>Por Que Choose Movavi? Uma Exploração Na Vantagem Da Inovação Em Software Multimedia</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolve-obs-buffering-issues-instantly-with-these-12-tips-expert-advice-from-movavi/"><u>Resolve OBS Buffering Issues Instantly with These 12 Tips - Expert Advice From Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tu-animacion-gif-en-formato-de-video-mpeg-gratuito-mediante-movavi-web/"><u>Transforma Tu Animación GIF en Formato De Video MPEG Gratuito Mediante Movavi Web</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wav-mp3-0-online-movavi/"><u>WAV 파일을 MP3로 전환하는 비용 0원의 Online 도구 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wmv-ogv/"><u>오토바이오그래피를 가장 좋아하는 비용 없이 WMV에서 OGV로 원활한 교대 - 무브바이</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maintaining Discretion and Trust in AI Conversations
-date: 2024-08-21T15:38:23.454Z
-updated: 2024-08-22T15:38:23.454Z
+date: 2025-03-01T17:04:16.448Z
+updated: 2025-03-05T01:59:12.488Z
 tags:
   - chatgpt
   - open-ai
@@ -56,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
 
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
 
  Exercise caution and refrain from providing ChatGPT with sensitive work-related information. One of the [most common online privacy myths](https://www.makeuseof.com/online-privacy-myths-debunked/) is that companies will protect your data just because a general statement in their terms of service says so.
@@ -69,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
 
  Limit interactions with ChatGPT to non-confidential queries and avoid sharing proprietary details. Moreover, apply good password hygiene and enable two-factor authentication to prevent compromising your account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 4\. Use Data Anonymization Techniques
 
  Data anonymization techniques help protect individual privacy while retaining insights from datasets. When using ChatGPT for work, apply these techniques to prevent any direct or indirect identification of individuals in the data.
@@ -86,27 +80,18 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
 
  Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Limit Access to Sensitive Data
 
  Limiting access to sensitive work data is crucial when workers are allowed to use ChatGPT. If you’re working in a leadership role, restrict access to sensitive information to authorized personnel who require it for their specific roles.
 
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 6\. Be Wary of Third-Party Apps
 
 [Whether third-party ChatGPT apps and browser extensions are safe](https://www.makeuseof.com/third-party-chatgpt-apps-browser-extensions-safe/) is an important question to ask. Before using any of these apps for work, carefully vet and scrutinize them. Make sure that they’re not collecting and retaining information for questionable purposes.
 
  Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Use ChatGPT Responsibly for Work
 
  Maintaining privacy while using ChatGPT for work is tricky. If you absolutely must use ChatGPT to do your job, understand the privacy risks involved. There’s no fail-safe method to protect your data once you hand them over to an AI tool. But you can take steps to cut the chances of data leaks.
@@ -115,14 +100,11 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +113,23 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-the-best-strategies-for-saving-igtv-videos-mobilely-for-2024/"><u>[New] The Best Strategies for Saving IGTV Videos Mobilely for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-transforming-raw-footage-into-polished-youtube-videos-with-finalcut/"><u>[Updated] Transforming Raw Footage Into Polished YouTube Videos with FinalCut</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-staying-within-the-limits-key-youtube-policies/"><u>2024 Approved Staying Within the Limits Key YouTube Policies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-pricier-prompts-merely-premium-fluff/"><u>Are Pricier Prompts Merely Premium Fluff?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breathing-life-into-banished-dialogues/"><u>Breathing Life Into Banished Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-child-privacy-with-chatgpt-top-5-measures/"><u>Ensuring Child Privacy with ChatGPT: Top 5 Measures</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mastering-onedrive-data-resurrection-a-comprehensive-tutorial-for-easy-file-recovery-processes/"><u>Mastering OneDrive Data Resurrection: A Comprehensive Tutorial for Easy File Recovery Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastery-in-masking-and-retaining-digital-discussions/"><u>Mastery in Masking & Retaining Digital Discussions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-evaluations-from-toms-electronic-expertise/"><u>Pioneering Hardware Evaluations From Tom's Electronic Expertise</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-htc-u23-pro-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after HTC U23 Pro has been deleted</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-solutions-for-chatgpt-issues-on-apple-devices/"><u>Swift Solutions for ChatGPT Issues on Apple Devices</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-your-malfunctional-antivirus-insights-from-yl-computings-latest-guide/"><u>Troubleshooting Your Malfunctional Antivirus: Insights From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://solve-help.techidaily.com/ultimate-tutorial-3-effective-techniques-to-eliminate-bandicam-branding-from-videos/"><u>Ultimate Tutorial: 3 Effective Techniques to Eliminate Bandicam Branding From Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-productivity-ai-integration-into-docs-and-spreadsheets/"><u>Unleashing Productivity: AI Integration Into Docs & Spreadsheets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-chatgpt-and-what-can-you-do-with-generative-ai/"><u>What Is ChatGPT and What Can You Do With Generative AI?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/yis-high-res-action-recorder-a-deep-dive-review/"><u>YI's High-Res Action Recorder A Deep Dive Review</u></a></li>
+</ul></div>
 

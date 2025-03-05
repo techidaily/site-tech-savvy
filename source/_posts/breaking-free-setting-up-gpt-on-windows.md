@@ -1,7 +1,7 @@
 ---
 title: "Breaking Free: Setting Up GPT on Windows"
-date: 2024-08-21T15:37:09.474Z
-updated: 2024-08-22T15:37:09.474Z
+date: 2025-02-28T17:59:47.195Z
+updated: 2025-03-04T20:32:18.446Z
 tags:
   - chatgpt
   - open-ai
@@ -67,17 +67,11 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 1. FreedomGPT will show you a list of available AI models. Unfortunately, it doesn't offer any details for any of them, so you'll have to search for more information online to decide which one(s) to choose. When you've decided, click on a model's **Download** button to download and install it.  
 ![FreedomGPT Available Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-available-model.jpg)
 2. You can store downloaded AI models anywhere. Still, saving them within FreedomGPT's folder or a subfolder is best to keep things tidy.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 3. Even the most compact AI models can be multiple gigabytes in size, so it may take a while to download your chosen model. Fortunately, FreedomGPT will show you a download progress bar.  
 ![FreedomGPT Downloading Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-downloading-model-1.jpg)
 4. Once you've downloaded an AI mode, a new button will appear on the left, allowing you to **Select** which downloaded AI model you'd like to use.  
 ![FreedomGPT AI Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-ai-model-selection-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Chat With FreedomGPT
 
  Fortunately, if you're familiar with ChatGPT, you'll notice that FreedomGPT's UI is very similar.
@@ -87,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 2. Press **Enter** after typing your prompt, and it will show up in FreedomGPT's conversation view. The AI model's response will appear below your prompt. If you don't like how it's going, you can cut a response short by clicking on the **Stop Responding** button, which appears while a reply is produced.  
 ![FreedomGPT Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-chatting-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## How to Switch Models in FreedomGPT
 
  If you want to try another AI model, you don't have to exit and rerun FreedomGPT. You can switch models from within the app.
@@ -97,17 +88,8 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 1. At the top left of FreedomGPT's window is the current AI model's name. Click on it to access the model management panel.  
 ![FreedomGPT Active Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-active-model-1.jpg)
 2. The model management panel is identical to the screen you saw when you first ran FreedomGPT. You can switch to another model from this panel by clicking on **Select** before its name or **Download** and install more models.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![FreedomGPT Switch Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-switch-models-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Talk to an AI Whenever You Like With FreedomGPT
 
  Although it's less feature-rich and advanced than ChatGPT, FreedomGPT has many pros going for it You don't share whatever you type with others, it's available while you're offline, it's easy to set up and use, and best of all, it's free to use.
@@ -116,14 +98,11 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 
  Unlike ChatGPT, which is only usable through your browser when connected to the internet, FreedomGPT is an alternative you can install on your computer. You can then chat with it about anything you want without sharing your data with others.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +111,26 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-tailoring-the-spectrum-of-light-in-windows-based-video-editing/"><u>[New] Tailoring the Spectrum of Light in Windows-Based Video Editing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-discover-the-top-6-android-music-video-platforms/"><u>[Updated] 2024 Approved Discover the Top 6 Android Music Video Platforms</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-leading-sound-transformation-tools-magic-edition-included-for-2024/"><u>[Updated] Leading Sound Transformation Tools, Magic Edition Included for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-craftsmanship-weaving-voiceovers-into-visual-tapestries/"><u>2024 Approved Audio Craftsmanship Weaving Voiceovers Into Visual Tapestries</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-fade-out-audio-in-logic-pro/"><u>2024 Approved How To Fade Out Audio In Logic Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flac-wav-movavi/"><u>免費線上FLAC-WAV對換服務 - Movavi轉換工具解決方案</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726220170956-gifogv-movavi/"><u>無料動画形式変換ツール：GIFとOGVのためのオンラインマガジン - Movaviの詳細</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267618003-act-fast-secure-state-of-the-art-photo-restoration-techniques-today/"><u>Act Fast: Secure State-of-the-Art Photo Restoration Techniques Today!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/are-m1-laptops-setting-the-standard-in-editing-studios-in-2024/"><u>Are M1 Laptops Setting the Standard in Editing Studios, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-video-formats-flawlessly-use-movavis-gratis-tool-for-mpegm1v-streaming/"><u>Convert Video Formats Flawlessly - Use Movavi's Gratis Tool for MPEG/M1V Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-converter-web-service-transform-wmv-files-into-asf-format/"><u>Free Converter Web Service - Transform WMV Files Into ASF Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-omzetten-en-herstellen-van-online-bestandsen-met-movavi-zonder-inzichten/"><u>Gratis Omzetten En Herstellen Van Online Bestandsen Met Movavi - Zonder Inzichten</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuito-conversione-da-mov-ad-avi-su-internet-servizi-di-movavi/"><u>Gratuito Conversione Da MOV Ad AVI Su Internet - Servizi Di Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-persistent-roblox-error-277-on-your-computer/"><u>How to Fix the Persistent Roblox Error 277 on Your Computer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-ricercati-siti-di-download-di-giochi-gratis-per-computer-ottobre-2024/"><u>Top 10 Ricercati Siti Di Download Di Giochi Gratis per Computer - Ottobre 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unbiased-review-of-portable-solar-generator-from-aeiusny-superb-pure-sine-wave-inverter-meant-for-important-health-equipment/"><u>Unbiased Review of Portable Solar Generator From Aeiusny - Superb Pure Sine Wave Inverter Meant for Important Health Equipment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vrije-en-gemakkelijke-conversie-van-mov-files-in-mp4-met-movavi-online-tool/"><u>Vrije en Gemakkelijke Conversie Van MOV Files in MP4 Met Movavi Online Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726220299174-wmvmp4-movavi/"><u>자이타리라인의 WMV/MP4 포맷터를 무료로 바꾸기: 최고 경품 Movavi</u></a></li>
+</ul></div>
 

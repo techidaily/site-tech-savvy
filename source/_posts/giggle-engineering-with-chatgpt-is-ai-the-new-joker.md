@@ -1,7 +1,7 @@
 ---
 title: "Giggle Engineering with ChatGPT: Is AI the New Joker?"
-date: 2024-08-21T15:36:36.632Z
-updated: 2024-08-22T15:36:36.632Z
+date: 2025-03-01T20:03:00.792Z
+updated: 2025-03-05T01:51:14.646Z
 tags:
   - chatgpt
   - open-ai
@@ -57,16 +57,10 @@ thumbnail: https://thmb.techidaily.com/67b23da48fe8834c53011ffd46dfbcfae0dcd1d4b
 * **Joke Three:** Knock, knock! _Who's there?_ May fourth. _May fourth who?_ May the fourth be with you.
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Can't ChatGPT Do?
 
 ![Screenshot ChatGPT Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-chatgpt-joke.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  When it comes to comedy and laughter, there is still plenty that AI can't do. For instance, human nature means that we often laugh at things that shouldn't be funny. A browse through "fail videos" on YouTube illustrates this point perfectly.
 
  This is the crux of the matter; there are still plenty of limitations when it comes to AI making us laugh. For example, would AI think someone crashing a tree down on their house was funny? Not yet, as there are contextual problems here that AI still hasn't overcome. Here are some of the laughter-related things that AI can't do.
@@ -80,17 +74,10 @@ thumbnail: https://thmb.techidaily.com/67b23da48fe8834c53011ffd46dfbcfae0dcd1d4b
 * **Joke Five:** Why don't scientists trust atoms? Because they make up everything!
 * **Joke Six:** I saw this advert in a window that said: "Television for sale, $1, volume stuck on full." I thought, "I can't turn that down."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## What Is the Future of AI In Comedy?
 
 ![Screenshot AI Joke about the future of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-ai-joke-about-the-future-of-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  There are moral and ethical implications to consider here. However, these fall outside the scope of the question that this article poses: Can AI make us laugh?
 
  AI is being used to create artwork, music, and text. Many of the limitations that AI is experiencing in these fields are magnified in comedy. Comedy has subtleties that perhaps a nice melody or a pretty picture doesn't. Granted, there is subtlety in all forms of artwork that determine the success or failure of the piece, but comedy requires a deeper understanding of humanity's response to situations.
@@ -104,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/67b23da48fe8834c53011ffd46dfbcfae0dcd1d4b
 * **Joke Seven:** There are 10 types of people in the world: Those that understand binary numbers and those that don't!
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## The Last Laugh
 
  AI is many things, but we struggled to get it to make us laugh. Getting it to generate jokes was no laughing matter! The humor was flat without the subtlety at the heart of much great comedy. For the record, joke numbers one, three, six, and seven were human-generated, and the others were AI-generated.
@@ -123,8 +107,6 @@ thumbnail: https://thmb.techidaily.com/67b23da48fe8834c53011ffd46dfbcfae0dcd1d4b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +114,16 @@ thumbnail: https://thmb.techidaily.com/67b23da48fe8834c53011ffd46dfbcfae0dcd1d4b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-post-share-a-video-from-youtube-on-instagram/"><u>[New] In 2024, How to Post /Share a Video From YouTube on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-collection-must-try-virtual-reality-games-for-google-cardboard/"><u>[Updated] Prime Collection Must-Try Virtual Reality Games for Google Cardboard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-uskalist-slovnikov-pokus-najit-svobodny-zvukovy-zapis-s-obrazem-s-pocitace-vaseho/"><u>5 Úskališť Slovníkov: Pokus Najít Svobodný Zvukový Zápis S Obrazem S Počítače Vašeho</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-de-fichiers-wma-au-format-wav-avec-movavi-guide-rapide-et-facile/"><u>Conversion Gratuite De Fichiers WMA Au Format WAV Avec Movavi – Guide Rapide Et Facile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-overlays-tips-and-techniques-for-enhanced-design/"><u>Mastering the Art of Overlays: Tips and Techniques for Enhanced Design</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-galaxy-s24-ultra-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Galaxy S24 Ultra, is it possible?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premiere-pro-exposure-corrections-to-fix-overlit-iphone-videos/"><u>Premiere Pro Exposure Corrections to Fix Overlit iPhone Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-restoring-sound-functionality-in-chromecast-devices/"><u>Step-by-Step Solutions: Restoring Sound Functionality in Chromecast Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-the-10-most-excellent-mobile-devices-for-high-quality-video-shooting/"><u>Ultimate Guide: The 10 Most Excellent Mobile Devices for High-Quality Video Shooting</u></a></li>
+</ul></div>
 

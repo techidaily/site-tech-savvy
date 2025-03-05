@@ -1,7 +1,7 @@
 ---
 title: Do You Need to Be Polite to AI Like ChatGPT, Alexa, and Siri?
-date: 2024-08-21T15:36:05.757Z
-updated: 2024-08-22T15:36:05.757Z
+date: 2025-03-01T18:41:06.343Z
+updated: 2025-03-04T22:36:59.626Z
 tags:
   - chatgpt
   - open-ai
@@ -47,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/cbf529e05dd3135fe67a52edb00f230c5ea151216
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
  AI chatbots can be rude to you, just like humans. For instance, a [Reddit user](https://www.reddit.com/r/bing/comments/110eagl/the%5Fcustomer%5Fservice%5Fof%5Fthe%5Fnew%5Fbing%5Fchat%5Fis/) shared a screenshot of Microsoft's Bing AI in beta mode, responding rudely and arguing during an interaction. An AI chatbot can also be rude if you jailbreak it to disobey its content policy, which is one reason [you shouldn't trust every generative AI screenshot](https://www.makeuseof.com/why-you-shouldnt-trust-ai-chatbot-conversation-screenshots/) you see. Someone may have specifically asked the AI to be rude, screen-capped it for the drama, and posted it online.
@@ -65,9 +59,6 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
  On the other hand, you can [set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Interact With AI How You Want
 
  AI cannot process emotions like humans, and you shouldn't feel obligated to say "thank you" or "please." Nevertheless, it doesn't hurt to be polite to AI, even if you know it's not sentient, but rather because you will feel better about yourself if you're polite.
@@ -78,14 +69,11 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
  But, if AI can talk and reply to your messages like a human, do you need to be polite to AI, as you would with a human?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,4 +82,20 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-image-clarity-reignited-exclusive-guide-to-top-10-photo-tools/"><u>[Updated] 2024 Approved Image Clarity Reignited Exclusive Guide to Top 10 Photo Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-troubleshooting-techniques-for-hub-port-voltage-overloads/"><u>Effective Troubleshooting Techniques for Hub Port Voltage Overloads</u></a></li>
+<li><a href="https://fox-links.techidaily.com/fast-fixes-syncing-iphone-photos-with-computer-for-2024/"><u>Fast Fixes Syncing iPhone Photos with Computer for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-image-conversion-easily-change-your-jpg-images-into-png-format-with-movavi/"><u>Free Image Conversion: Easily Change Your JPG Images Into PNG Format with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-m4awmv-audio-and-video-formats-with-movavi/"><u>Free Online Converter: Transform M4A/WMV Audio & Video Formats with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-gif-images-into-high-quality-tiff-format-with-ease/"><u>Free Online Converter: Transforming GIF Images Into High-Quality TIFF Format with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-online-konverteren-van-mod-naar-wma-proficient-takken-met-movavi/"><u>Gratuit Online Konverteren Van MOD Naar WMA: Proficiënt Takken Met Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-a59-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo A59 5G Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-fix-the-missing-startup-location-issue-on-your-fortnite-game/"><u>How to Fix the Missing Startup Location Issue on Your Fortnite Game</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/legjobb-osszesedesekben-legjobb-ocakkal-gyujtott-tv-sorozatok-letoltesehez-movavi/"><u>Legjobb Összesedesekben: Legjobb Ócakkal Gyűjtött TV Sorozatok Letöltéséhez - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-image-rotator-verschil-in-deelgenoten/"><u>Movavi Image Rotator - Verschil in Deelgenoten</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/quick-fixes-for-slow-file-scanning-with-yl-software-expertise/"><u>Quick Fixes for Slow File Scanning with YL Software Expertise</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/secrets-of-selecting-the-best-nba-live-feed/"><u>Secrets of Selecting the Best NBA Live Feed</u></a></li>
+</ul></div>
 

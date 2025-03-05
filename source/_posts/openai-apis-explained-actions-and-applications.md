@@ -1,7 +1,7 @@
 ---
 title: "OpenAI APIs Explained: Actions and Applications"
-date: 2024-08-21T15:36:52.364Z
-updated: 2024-08-22T15:36:52.364Z
+date: 2025-02-28T23:47:54.420Z
+updated: 2025-03-04T17:13:23.395Z
 tags:
   - chatgpt
   - open-ai
@@ -57,12 +57,6 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
 ![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Speech-to-Text
 
  You can transcribe and translate audio speech using the OpenAI transcription and translation endpoints. The speech-to-text endpoints are based on the Whisper v2-large model, developed through large-scale weak supervision.
@@ -79,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
  Although the OpenAI documentation says you can use the other first-generation embedding models, the former is better with a cheaper price point. However, OpenAI warns that the embedding model might show social bias towards certain people, as proven in tests.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Code Completion
 
  The code completion endpoint is built on the OpenAI Codex, a set of models trained using natural language and billions of code lines from public repositories.
@@ -96,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
 ![OpenAI code completion command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-code-completion-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Image Generation
 
  This is one of the most intuitive features of the OpenAI API. Based on the DALL.E image model, the OpenAI API's image functionality features endpoints for generating, editing, and creating image variations from natural language prompts.
@@ -113,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
 ![Image generation test for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/image-generation-test-for-openai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## How to Use the OpenAI API
 
 ![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
@@ -139,9 +124,6 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 5. Identify negative sentiments in your app using the OpenAI embedding model endpoint.
 6. Create programming language-specific code completion plugins for code editors and integrated development environments (IDEs).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Build Endlessly With the OpenAI APIs
 
  Our daily communication often involves the exchange of written content. The OpenAI API only extends its creative tendencies and potential, with seemingly limitless natural language use cases.
@@ -152,14 +134,11 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
  OpenAI's APIs feature many valuable endpoints that make AI integration easy. Let's explore the power of OpenAI APIs to see how they can benefit you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +147,17 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-future-shaped-by-quantum-hdr-tech/"><u>[New] In 2024, The Future Shaped by Quantum HDR Tech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-slack-filmora-duo-for-meeting-management-excellence/"><u>[Updated] In 2024, The Ultimate Slack-Filmora Duo for Meeting Management Excellence</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-subc-from-srt-efficient-actionable-paths/"><u>2024 Approved Crafting SUBC From SRT Efficient, Actionable Paths</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-mkv-splitting-tool-divide-your-video-files-into-halves-or-thirds-download-now/"><u>Best FREE MKV Splitting Tool: Divide Your Video Files Into Halves or Thirds – Download Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-convert-avi-videos-to-wav-audio-on-the-web-for-free-try-movavis-expert-service-now/"><u>Effortlessly Convert AVI Videos to WAV Audio on the Web for Free - Try Movavi's Expert Service Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002024009-lost-in-digital-battlefields-reboot-your-link-with-blizzard-gaming-servers-now/"><u>Lost in Digital Battlefields? Reboot Your Link with Blizzard Gaming Servers Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reinventer-votre-contenu-au-format-mp4-gratuitement-guide-simple-avec-movavi/"><u>Réinventer Votre Contenu Au Format MP4 Gratuitement: Guide Simple Avec Movavi!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-19-best-free-video-editing-software-replace-wondershare-filmora/"><u>Top 19 Best Free Video Editing Software: Replace Wondershare Filmora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-shrink-your-mov-videos-with-ease-windows-and-mac-tips-and-free-web-tools/"><u>Ultimate Guide: Shrink Your MOV Videos with Ease - Windows & Mac Tips and Free Web Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-microsoft-surface-go-how-this-cost-effective-tablet-balances-utility-and-confusion/"><u>Unveiling the Microsoft Surface Go: How This Cost-Effective Tablet Balances Utility and Confusion</u></a></li>
+</ul></div>
 

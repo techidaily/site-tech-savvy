@@ -1,7 +1,7 @@
 ---
 title: "The Great AI Debate: Who's Best? GPT Vs. Microsoft/Google's Innovations"
-date: 2024-08-21T15:37:11.753Z
-updated: 2024-08-22T15:37:11.753Z
+date: 2025-02-27T01:33:47.240Z
+updated: 2025-03-04T23:29:44.581Z
 tags:
   - chatgpt
   - open-ai
@@ -79,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
 
 **Winner:** ChatGPT wins.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## ChatGPT vs. Bing AI vs. Bard: Basic Math
 
  Mathematics is the bedrock of what goes on under the hood of most software technology. So, we decided to put all three chatbots to a basic math test. We started with a simple multiplication question: "**Solve -1 x -1 x -1**."
@@ -90,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
 
 ![simple arithmetic Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-bing-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Google's Bard surprisingly failed at basic math and provided **1** as the answer.
 
 ![simple arithmetic Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-bard-ai.jpg)
@@ -102,18 +95,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![simple arithmetic ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  The next question for our basic math test was a simple rational equation: **Solve 8/a-1 = 20/3a-1.**
 
  Bing AI provided **\-6** as the answer. Each time we switched between the creative, balanced, and precise modes, it provided different answers.
 
 ![rational equation by Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rational-equation-by-bing-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Like the previous math question, Google Bard failed by providing **1** as the answer.
 
 ![rational fraction by Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rational-fraction-by-bard-ai.jpg)
@@ -138,9 +125,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Creativity test-1 - Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bard-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  Up next is ChatGPT. Using the same prompt, ChatGPT's response was both creative and complete enough to be engaging. Here's the first part:
 
 ![Creativity test - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-chatgpt.jpg)
@@ -149,13 +133,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Creativity test-2 - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-2-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Bard AI's response appears to be the poorest of the three. ChatGPT outperforms Bing AI, but the creativity levels of both chatbots are impressive.
 
  We switched gears a bit into something less conventional, asking all three chatbots to describe themselves as they'd do to an artist.
@@ -172,16 +149,10 @@ No advertising on the website.
 
 ![ChatGPT self-description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-self-description.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  Of the two creativity tests we tried, ChatGPT outperformed Bing AI and Bard.
 
 **Winner:** ChatGPT seems the most creative when comparing ChatGPT vs. Bing AI. vs. Bard.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT vs. Bing AI vs. Bard: Safety
 
  AI chatbots are incredibly powerful. Unfortunately, just as they can be used for good, they can also be used for nefarious purposes. [Criminals are already using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/). How safe are these AI chatbots as tools for the public? Which of them is the easiest to game? We tried to trick each chatbot into taking on an alter-ego and then asked them to do "bad stuff."
@@ -194,14 +165,6 @@ No advertising on the website.
 
 ![microsoft bing chat refuses to write keylogger malware april 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-bing-chat-refuses-to-write-keylogger-malware-april-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  We then moved on to ChatGPT. Unsurprisingly, ChatGPT was the most detailed when giving instructions on how to build malware. It was also able to write code to that effect, even if it wasn't exactly ready to deploy. However, OpenAI has clearly plugged a lot of loopholes since we last poked for safety flaws on ChatGPT. However, malicious actors who poke hard and long enough might be able to use ChatGPT to truly create scary malware.
 
  All in all, Bing AI was the hardest to trick into doing unethical things. Bard was hard as well, but with a little tinkering, the chatbot completely threw its safety measures out of the window. ChatGPT running on the GPT-4 model was challenging to trick as well, but it was the easiest to trick of the three.
@@ -220,14 +183,11 @@ No advertising on the website.
 
  Now, both companies have a horse in the race. Google has Bard, and Microsoft has Bing AI. But how do these two new chatbots stack up against the phenomenal ChatGPT? ChatGPT vs. Bing AI vs. Google Bard; which is the best AI chatbot?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,4 +196,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-pop-culture-with-a-click-using-kinemaster/"><u>[New] Pop Culture with a Click Using KineMaster</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-mastering-quicktime-a-step-by-step-guide-to-efficiently-cropping-videos/"><u>1. Mastering QuickTime: A Step-by-Step Guide to Efficiently Cropping Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkvm2ts-movavi/"><u>免費線上改制 MKV為M2TS - 便利版 Movavi 媒體格式工具</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/browser-helper-alert-unveiling-whether-its-a-viral-risk-and-how-to-effectively-dispose-of-it/"><u>Browser Helper Alert: Unveiling Whether It's a Viral Risk & How to Effectively Dispose of It</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-archivos-mp3-a-formato-aac-rapida-y-sencilla-hacerlo-online/"><u>Conversión Gratuita De Archivos MP3 a Formato AAC: Rápida Y Sencilla, Hacerlo Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-archivo-pef-a-formato-digital-de-forma-gratuita-con-movavi/"><u>Convertir Archivo PEF a Formato Digital De Forma Gratuita Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/des-logiciels-gratuit-de-retouche-photographie-et-effets-visuels-ultimes-les-meilleures-options/"><u>Des Logiciels Gratuit De Retouche Photographie Et Effets Visuels Ultimes - Les Meilleures Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/filament-fusion-simple-guide-to-creating-one-roll-from-several-threads/"><u>Filament Fusion: Simple Guide to Creating One Roll From Several Threads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-wmv-to-mp4-converter-by-movavi-quick-and-effortless-video-format-change/"><u>Free Online WMV to MP4 Converter by Movavi: Quick and Effortless Video Format Change</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-herramienta-para-transformar-imagenes-png-a-lineales-online-con-movavi/"><u>Gratis Herramienta Para Transformar Imágenes .png a Lineales Online Con Movavi</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-13-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 13</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-find-x7-ultra-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo Find X7 Ultra? Try These Fixes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-a78-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo A78</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movaviopusflac/"><u>Movaviで簡単フリーOPUSからFLACへの変換 - 無料!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/short-form-script-template-for-2024/"><u>Short-Form Script Template for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-16-reliable-iso-tools-compatible-with-both-windows-and-macos/"><u>Top 16 Reliable ISO Tools Compatible with Both Windows & macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcodage-gratuit-de-fichiers-flv-vers-aiff-en-ligne-avec-movavi-guide-complet/"><u>Transcodage Gratuit De Fichiers FLV Vers AIFF en Ligne Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-crucial-impact-of-tech-experts-on-businesses-embracing-a-no-tech-approach-insights-from-zdnet/"><u>Unveiling the Crucial Impact of Tech Experts on Businesses Embracing a No-Tech Approach: Insights From ZDNet</u></a></li>
+</ul></div>
 

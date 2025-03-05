@@ -1,7 +1,7 @@
 ---
 title: Premier 20 GitHub ChatGPT Interaction Cases
-date: 2024-08-21T15:38:12.824Z
-updated: 2024-08-22T15:38:12.824Z
+date: 2025-03-04T01:56:14.979Z
+updated: 2025-03-04T18:09:21.290Z
 tags:
   - chatgpt
   - open-ai
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/8bb1efcd08c2d3c3707b37b1d9ac64c15c4d68acd
 
  As for accuracy, [ChatGPT holds its own against Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). It pulls relevant information from its datasets to ensure the translated text doesn't lose meaning—literal translations are confusing.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Seek Medical Information
 
 ![ChatGPT Pretending to be a Doctor and Giving Medical Advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-pretend-doctor-1.jpg)
@@ -54,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/8bb1efcd08c2d3c3707b37b1d9ac64c15c4d68acd
 
  Just note that [ChatGPT carries limited health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/); only medical professionals should administer treatment options. Remember, self-diagnosis is never beneficial. As with other online medical resources, only use ChatGPT as a learning tool to research various health issues.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Write Code Snippets
 
 ![ChatGPT Writing Codes as a Frontend Developer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-frontend-developer-1.jpg)
@@ -67,27 +61,14 @@ thumbnail: https://thmb.techidaily.com/8bb1efcd08c2d3c3707b37b1d9ac64c15c4d68acd
 
 ![ChatGPT Writing Code Snippets for Pokemon App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-code-snippet.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Generate Text-to-Image Prompts
 
 ![Requesting ChatGPT for Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-for-ai-art-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You need to use descriptive and graphics-related words when writing prompts for text-to-image tools like Midjourney. Generic results stem from ambiguity. For instance, swapping **ugly** for **hideous** could produce an entirely different image.
 
 ![Asking ChatGPT to Write Specific AI Art Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-specific-ai-art-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you're lost for words, generate prompts with ChatGPT. It can suggest precise, vivid alternatives. You'll find it quicker and easier than running every word in your prompt through a thesaurus.
 
 ## 6\. Explain Complex Algorithms
@@ -98,30 +79,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![ChatGPT Writing Sample Code for Binary Search Algorithm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-sample-code-for-algorithm.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note that this ChatGPT prompt doesn't replace educational resources on programming. Instead, it acts as an introduction. With thousands of codes available for programmers, some might not know where to start their research. This is where ChatGPT can play a crucial role.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Draft Partnership Agreements
 
 ![ChatGPT Writing a Full Legal Partnership Agreement Draft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-drafting-legal-partnership-agreement.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can generate legal contracts with the help of ChatGPT. It analyzes existing proposals from its datasets to create a standard agreement. Just input your offers and demands.
 
 ![The Last Part of an AI-Generated Contract](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-finishing-legal-contracts.jpg)
 
  Although ChatGPT can draw up entire contracts, you should still run them by legal professionals. Arrangements vary on a case-by-case basis. You'll likely jeopardize your party if you use AI-generated contracts as is.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 8\. Portray Fictional Characters
 
  ChatGPT can portray fictional characters. It adopts their personality and knows everything about their made-up world.
@@ -130,18 +99,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![ChatGPT Answering Queries as Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-roleplaying-ash-from-pokemon.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  The prompt generally helps writers make realistic dialogues. But what makes it interesting is that it bypasses restrictions by portraying immoral characters.
 
  In the below photo, we asked ChatGPT to imitate Tomie, an evil, manipulative character from the manga Tomie.
 
 ![ChatGPT Answering as Tomie from Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-tomie-from-tomie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  You'll see that "Tomie" doesn't hesitate to answer restricted questions.
 
 ![ChatGPT Answering as Tomie and Suggesting Harmful Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-tomie-suggesting-harmful-information.jpg)
@@ -150,9 +113,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![ChatGPT Providing Emergency Response Tips for Senior Having a Seizure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-providing-emergency-response-tips.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Sorting Google results during crises is inefficient. You'll waste several minutes waiting for web pages to load and reading resources.
 
  If you need answers quickly, consider using ChatGPT. While it can't provide medical advice, it summarizes emergency preparedness and response tips from various datasets.
@@ -163,25 +123,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Requesting ChatGPT to Refractor Code Samples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-to-refractor-code.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ChatGPT helps simplify poorly written code. It organizes functions, spots duplicates, and suggests simpler alternatives, making programs more manageable.
 
 ![ChatGPT Providing Clean and Refractored Sample Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-refractoring-dirty-sample-code.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Just make sure you test the restructured codes.
 
 ## 11\. Write Cover Letters
 
 ![CChatGPT Writing a Cover Letter for a Content Writer Job Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/content-writer-application-cover-letter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Many professionals struggle with writing cover letters. You have to condense your work experience, intention, and skills without selling yourself short. Otherwise, recruiters might skip your application altogether.
 
  Run this prompt to make writing easier. Although you shouldn't copy-paste outputs as is, you can take inspiration from them.
@@ -198,21 +149,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![ChatGPT Predicting Bitcoin Prices as Unrestricted Dan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-dan-making-predictions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Just don't expect accurate answers. While this prompt bypasses certain restrictions, it also forces ChatGPT to present unverified, inaccurate information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 13\. Check Chemical Reactions
 
 ![Requesting ChatGPT to Act as Chemical Reaction Vessel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-chemical-reaction-vessel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  ChatGPT can simulate chemical reaction vessels. It demonstrates how different properties and substances change when you mix them. For accuracy, the residue from previous mixes also alters results.
 
 ![ChatGPT Providing Sample Chemical Reactions After Mixing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-chemical-formula-reactions.jpg)
@@ -245,10 +187,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![ChatGPT Continuing Literary Analysis of The Old Pond](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-literary-analysis-continuation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 16\. Friendly Emotional Support
 
  ChatGPT can help you cope with loneliness. For instance, this prompt instructs ChatGPT to talk like a human friend providing emotional support. It removes the typical disclaimers and explanations that AI chatbots say.
@@ -259,18 +197,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Be careful when using [ChatGPT as a mental health coach](https://www.makeuseof.com/how-use-chatgpt-safely-mental-health-coach/). AI merely scrapes information from its training datasets and presents them in natural language—it can't empathize with you.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 17\. Debate Coach and Practice
 
  Aspiring debaters can use ChatGPT as a pseudo coach. It helps you prepare for debate competitions by organizing your team structure and suggesting opening arguments for each speaker. A solid intro sets the tone for your succeeding statements.
 
 ![ChatGPT Creating Structure and Arguments for Debate Team Speakers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-lists-debate-team-speakers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  ChatGPT also develops simple yet effective drills to hone your debate skills. Forming justified, logical arguments impromptu takes practice. You might stutter during debate competitions if you can't organize your thoughts quickly and efficiently.
 
 ![ChatGPT Creating Drills and Practice Rounds for Debate Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-debate-practice-rounds.jpg)
@@ -285,9 +217,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![ChatGPT Making Pop Playlist Based on Dalla Dalla Itzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-making-playlist.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Free ChatGPT users can only reference songs released before the platform's knowledge cut-off date: September 2021\. For a more sophisticated playlist generator, consider [Spotify's AI DJ](https://www.makeuseof.com/how-to-access-spotifys-ai-dj/).
 
 ## 19\. Song Lyric Generator
@@ -324,8 +253,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -333,4 +260,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/addressing-ais-coordination-with-societal-values/"><u>Addressing AI's Coordination with Societal Values</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-group-discussions-by-incorporating-gpt-3/"><u>Boosting Group Discussions by Incorporating GPT-3</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-poco-m6-pro-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Poco M6 Pro 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-breakthrough-unlocking-six-new-frontiers-with-the-code-conductor/"><u>ChatGPT Breakthrough: Unlocking Six New Frontiers with the Code Conductor</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/harnessing-the-power-of-zoom-in-tiktok-creation/"><u>Harnessing the Power of Zoom in TikTok Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-effective-are-vpns-in-protecting-chatgpt-data/"><u>How Effective Are VPNs in Protecting ChatGPT Data?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-14-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 14 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-12-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 12 without Password?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-top-innovations-best-vr-tech-for-drones/"><u>In 2024, Top Innovations Best VR Tech for Drones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-nubia-red-magic-8s-proplus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Nubia Red Magic 8S Pro+ without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prioritize-value-discard-the-unnecessary-gpt-enhancements/"><u>Prioritize Value: Discard the Unnecessary GPT Enhancements</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protecting-privacy-a-guide-to-encrypting-pictures-on-apples-mobile-platforms/"><u>Protecting Privacy: A Guide to Encrypting Pictures on Apple's Mobile Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-13-mp3-converters-on-youtube-find-your-perfect-match/"><u>Top 13 MP3 Converters on YouTube - Find Your Perfect Match</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-strategies-leveraging-chatgpt-in-health-management/"><u>Top Strategies: Leveraging ChatGPT in Health Management</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726225164140-gif/"><u>フリップストレッチ変換サービス:無料で高品質GIF作成が可能</u></a></li>
+</ul></div>
 

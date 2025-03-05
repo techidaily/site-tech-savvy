@@ -1,7 +1,7 @@
 ---
 title: "Decoding CodeGPT: Prospects in Automated Programming"
-date: 2025-02-12T18:51:40.073Z
-updated: 2025-02-15T16:13:13.646Z
+date: 2025-03-03T23:53:06.472Z
+updated: 2025-03-04T22:12:51.450Z
 tags:
   - chatgpt
   - open-ai
@@ -20,19 +20,11 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is CodeGPT?](https://zonlipartnershipprogram.pxf.io/b0rbxy)
 * [How Much Does CodeGPT Cost?](https://coinrule.sjv.io/rqzonv)
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -46,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is CodeGPT?
 
  CodeGPT is a dedicated extension that uses different artificial intelligence (AI) models to help programmers write and fix code. It includes various features geared towards faster and easier programming, including auto-completion, code explanation, refactoring, documentation, unit testing, error-checking, and bug-fixing. It also has a ChatGPT-like interface you can access from your code editor.
@@ -58,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Much Does CodeGPT Cost?
 
  You can download and install CodeGPT for free, but using the extension comes at a cost. CodeGPT offers various subscription packages that you can pay for if you need unlimited access.
@@ -69,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  CodeGPT Plus has three subscription plans. The Basic plan goes for $9.99/month, followed by Standard ($19.99/month) and Gold ($49.99/month). There's a free trial period available, which you can use to evaluate the extension. Each package gives you access to specific AI agents with unlimited interactions.
 
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can CodeGPT Really Write Code?
 
@@ -173,15 +153,22 @@ with open('output.csv', 'w', newline='') as output_file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-techniques-for-capturing-the-perfect-verbal-note/"><u>[New] In 2024, Techniques for Capturing the Perfect Verbal Note</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-through-io-screenshot-functionality/"><u>[Updated] Navigating Through IO Screenshot Functionality</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-common-auto-gpt-barriers-with-these-six-fixes/"><u>Bypassing Common Auto-GPT Barriers with These Six Fixes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-best-online-tv-shows-and-movies-apps-to-watch-this-year/"><u>Discover the Best Online TV Shows and Movies Apps to Watch This Year</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-chatgpt-prompts-to-enrich-your-novels-cast/"><u>Essential ChatGPT Prompts to Enrich Your Novel's Cast</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-acquainted-with-gptzero-for-detecting-ais/"><u>Getting Acquainted with GPTZero for Detecting AIs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphones-and-gifs-perfecting-your-visual-playlist/"><u>IPhones & GIFs Perfecting Your Visual Playlist</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-integrating-siri-and-chatgpt-in-ios/"><u>The Ultimate Guide to Integrating Siri & ChatGPT in iOS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-master-list-of-leading-free-screen-capture-programs-for-2024/"><u>[New] Master List of Leading Free Screen Capture Programs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-look-celebrating-15-outstanding-unboxing-vloggers/"><u>[Updated] A Comprehensive Look Celebrating 15 Outstanding Unboxing Vloggers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-compatibility-score-which-phones-work-with-gear-vr/"><u>2024 Approved Compatibility Score Which Phones Work with Gear VR?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-stellar-storytelling-elevating-posts-with-3-insta-highlight-ways/"><u>2024 Approved Stellar Storytelling Elevating Posts with 3 Insta Highlight Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-knowledge-exchange-the-fundamentals-of-transfer-learning/"><u>AI Knowledge Exchange: The Fundamentals of Transfer Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-crafting-healthful-eating/"><u>AI's Role in Crafting Healthful Eating</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artists-legal-battles-opposing-openai-and-meta-in-ai-controversy/"><u>Artists' Legal Battles: Opposing OpenAI & Meta in AI Controversy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bring-outrageous-adventures-to-life-in-dandd-using-gpt-tips/"><u>Bring Outrageous Adventures to Life in D&D Using GPT Tips</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/easy-tutorial-transforming-your-mp4-videos-into-playable-dvds-using-a-windows-computer/"><u>Easy Tutorial: Transforming Your MP4 Videos Into Playable DVDs Using a Windows Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-artificial-intelligence-with-ease-mastering-free-dall-e-3-on-microsofts-bing/"><u>Explore Artificial Intelligence with Ease: Mastering Free DALL-E 3 on Microsoft's Bing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-fix-startech-device-drivers-on-windows-11-8-and-7-comprehensive-guide/"><u>How to Fix StarTech Device Drivers on Windows 11, 8 & 7: Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-characters-with-11-best-in-class-chatgpt-queries-for-authors/"><u>Master Characters with 11 Best-In-Class ChatGPT Queries for Authors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/one-step-bavarder-setup-procedure-for-linux-users/"><u>One-Step Bavarder Setup Procedure for Linux Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-c51-messages-recovery-recover-deleted-messages-from-realme-c51-by-fonelab-android-recover-messages/"><u>Realme C51 Messages Recovery - Recover Deleted Messages from Realme C51</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-data-block-unauthorized-scrappers/"><u>Secure Data: Block Unauthorized Scrappers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/story-1-the-allergy-misconception-answer-a/"><u>Story 1: The Allergy Misconception (Answer A)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unparalleled-speech-conversion-via-google-platform-for-2024/"><u>Unparalleled Speech Conversion via Google Platform for 2024</u></a></li>
 </ul></div>
 

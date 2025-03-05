@@ -1,7 +1,7 @@
 ---
 title: "Immediate Effect: Why Does Italy Ban ChatGPT?"
-date: 2024-08-21T15:38:36.933Z
-updated: 2024-08-22T15:38:36.933Z
+date: 2025-02-28T21:54:45.291Z
+updated: 2025-03-04T21:11:38.457Z
 tags:
   - chatgpt
   - open-ai
@@ -39,39 +39,24 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
  The Italian regulator ensures data controllers follow the general obligations outlined in the EU's privacy law, and OpenAI falls short.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### 2\. Unjustified Collection of Personal Data
 
  Asides from the breach of its privacy laws, the GDPD claims that there is no legal justification for OpenAI's massive collection and processing of personal data to train ChatGPT's algorithms. According to the Italian regulator, ChatGPT's information doesn't always match factual circumstances, so OpenAI can use falsified personal data.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. A Lack of Easily-Accessible and Transparent Information
 
  In addition, the Italian regulator pointed out that OpenAI doesn't inform users whose data it collects. This is another clear violation of the EU's privacy laws.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Lack of Age Verification Systems
 
  The GDPD announced that ChatGPT exposes inappropriate information to users under 13 because it lacks appropriate age detection mechanisms. This underage exposure violates the EU's GDPR, which states that individuals must clearly consent to the processing of their personal data. As underage individuals, they are not to consent on their behalf.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Risk of Data Breaches
 
  While citing a data breach reported on March 20th, 2023, the Italian regulator raised concerns about the chatbot's risk of data breaches. [Europol's announcement](https://www.europol.europa.eu/publications-events/publications/chatgpt-impact-of-large-language-models-law-enforcement) of the potential of criminals using ChatGPT to commit fraud and cybercrime likely fostered these concerns.
 
  Data breaches also infringe on the country's privacy laws—all data processors must implement appropriate security measures.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Italy's ChatGPT Ban Could Be a Template for Other EU Countries
 
  The EU's GDPR is said to be the strictest privacy law in the world, and Italy's ban emphasizes the importance of data compliance in Europe. The Irish data authority has been reported to be studying the GDPD's actions with intentions to "coordinate" with the EU concerning the ban. Likewise, the UK's data regulator is said to have declared support for AI with the condition that it complies with data protection laws.
@@ -84,14 +69,11 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
  This means that if you're in Italy, you'll now be unable to use the AI chatbot. Here's why.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +82,22 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-backupbuddy-reviewers-thoughts/"><u>[New] In 2024, BackupBuddy Reviewers Thoughts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-perfecting-channel-art-a-step-by-step-instructional-manual/"><u>[New] In 2024, Perfecting Channel Art A Step-by-Step Instructional Manual</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-google-photos-essential-tips-and-tricks/"><u>[New] Mastering Google Photos Essential Tips and Tricks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obs-vs-modern-broadcasting-tools-a-comparison/"><u>2024 Approved OBS Vs. Modern Broadcasting Tools A Comparison</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-web-innovations-a-step-by-step-guide/"><u>ChatGPT Web Innovations: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dismantling-the-mysteries-of-big-ai-language-tools/"><u>Dismantling the Mysteries of Big AI Language Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-conceptualization-of-the-internet-as-a-ubiquitous-costless-knowledge-repository/"><u>Evaluating the Conceptualization of the Internet as a Ubiquitous, Costless Knowledge Repository</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-a-step-by-step-guide-to-playing-fb-videos-with-sound-on-laptopsdesktops/"><u>How to Restore Audio: A Step-by-Step Guide to Playing FB Videos with Sound on Laptops/Desktops</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-asus-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Asus Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instant-itineraries-top-7-ai-driven-free-travel-planner-tools/"><u>Instant Itineraries: Top 7 AI-Driven, Free Travel Planner Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-linux-and-gpt-the-ultimate-shellguide-to-chatgpt/"><u>Leveraging Linux & GPT: The Ultimate ShellGuide to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-craft-with-these-top-4-ai-story-weavers/"><u>Master Your Craft with These Top 4 AI Story Weavers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-your-guide-to-tactile-roleplay-games/"><u>Mastering ChatGPT: Your Guide to Tactile Roleplay Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-from-ios-to-a-pc-a-complete-guide-to-imessage/"><u>Transitioning From iOS to a PC: A Complete Guide to iMessage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726228274213-mpeg-asf-movavi/"><u>제공자가 아닌 웹사이트에서 무료 MPEG ASF 영상 데이터 교체 - Movavi</u></a></li>
+</ul></div>
 

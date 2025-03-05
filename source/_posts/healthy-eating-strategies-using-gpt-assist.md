@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Strategies Using GPT-Assist
-date: 2025-02-11T21:50:51.531Z
-updated: 2025-02-16T00:51:37.546Z
+date: 2025-03-03T23:30:01.976Z
+updated: 2025-03-04T20:47:58.303Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 
  ChatGPT can indeed help you create a healthy meal plan. In fact, it can help you create anything you’d like, even an unhealthy meal plan. But before you use ChatGPT to help you build your meal plan, there are several factors of your meal plan you need to figure out first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Meal Plan Preferences
 
  First, you have to decide on what your goals are. Are you meal planning to lose weight, maintain your weight, or [gain weight in a healthy way](https://www.makeuseof.com/weight-gain-apps/)? Secondly, do you have any specific food preferences, allergies, or restrictions?
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 
  BMR is the energy your body uses while at rest. Knowing these numbers is important to your particular goals. All you have to do is type "**How do I calculate my TDEE and BMR?**" into ChatGPT, and it automatically generates the needed equations and formulas.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use ChatGPT to Create a Healthy Meal Plan
 
  Now is the time you can start playing around with ChatGPT and see how it can help you come up with some healthy meal plan ideas. Remember to include all the details of your meal plan in your prompts. ChatGPT can give you a better response if you’re more in-depth about what you're asking for.
@@ -79,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 * Five-day vegan meal plan for weight loss that serves two adults with three meals per day, has a 30-minute cook time, costs $10 per meal, and contains 1800 calories per day.
 * Two-week vegetarian meal plan that caters to nut allergies, serves one, and includes three meals per day. No more than one hour of cooking time with an included grocery list.
 * One-week meal plan with three meals, one snack, and no dietary restrictions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Problems With ChatGPT Meal Plans
 
@@ -102,15 +90,7 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -155,15 +135,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-navigate-with-ease-mastering-ifunnys-meme-app/"><u>[New] Navigate with Ease Mastering iFunny's Meme App</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-top-notch-wrist-rest-reviews-for-enhanced-typing-comfort/"><u>2024'S Top-Notch Wrist Rest Reviews for Enhanced Typing Comfort</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/breaking-the-silence-crafting-powerful-film-dialogues/"><u>Breaking the Silence Crafting Powerful Film Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-chatgpt-capabilities/"><u>Demystifying ChatGPT Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-magic-of-unique-ai-design-microsofts-copilot-insights/"><u>Discover the Magic of Unique AI Design: Microsoft's Copilot Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-life-with-chatgpts-health-innovations/"><u>Enhancing Your Life with ChatGPT’s Health Innovations</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/guided-process-importing-snapchats-into-local-gallery/"><u>Guided Process Importing Snapchats Into Local Gallery</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-where-to-hunt-for-excellent-instagram-ringtones-and-perfect-alarm-crafts/"><u>In 2024, Where to Hunt for Excellent Instagram Ringtones and Perfect Alarm Crafts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/playtime-registration-and-logout-tutorials-for-2024/"><u>Playtime Registration & Logout Tutorials for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/text-improvement-with-chatgpt/"><u>Text Improvement with ChatGPT</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-eternal-void-a-complete-ban-on-youtube-short-video-feature/"><u>[New] In 2024, Eternal Void A Complete Ban on YouTube Short Video Feature</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-interpreting-the-significance-of-a-blue-image-on-fb-chat/"><u>[Updated] 2024 Approved Interpreting the Significance of a Blue Image on FB Chat</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-8-cost-free-android-video-recording-software/"><u>[Updated] 2024 Approved Top 8 Cost-Free Android Video Recording Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lock-and-load-effortless-profile-url-addition-on-tiktok/"><u>[Updated] Lock-and-Load Effortless Profile URL Addition on TikTok</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-understanding-the-streaming-landscape-twitch-vs-youtube-compared/"><u>[Updated] Understanding the Streaming Landscape Twitch Vs YouTube Compared</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-architects-at-work-exploring-the-skilled-professionals-shaping-tomorrows-technology-with-zdnet/"><u>AI Architects at Work: Exploring the Skilled Professionals Shaping Tomorrow's Technology with ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-employment-discovering-emerging-job-roles-with-ambiguous-titles-zdnet-insights/"><u>AI's Impact on Employment: Discovering Emerging Job Roles with Ambiguous Titles | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginning-your-career-in-technology-a-step-by-step-guide-for-newcomers-by-zdnet/"><u>Beginning Your Career in Technology: A Step-by-Step Guide for Newcomers by ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-recording-devices-for-livestream-producers-for-2024/"><u>Elite Recording Devices for Livestream Producers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ethical-engagement-chatgpt-for-emotional-support/"><u>Ethical Engagement: ChatGPT for Emotional Support</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/frame-by-frame-verbalizer-for-2024/"><u>Frame by Frame Verbalizer for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-view-spider-man-no-way-home-streaming-tips-and-tricks/"><u>How to View Spider-Man: No Way Home Streaming – Tips & Tricks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-remote-work-proven-strategies-for-maintaining-sharp-focus-at-home-insights-from-zdnet-experts/"><u>Mastering the Art of Remote Work: Proven Strategies for Maintaining Sharp Focus at Home, Insights From ZDNET Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-career-choices-why-picking-computer-science-can-lead-to-fewer-regrets-zdnet/"><u>Navigating Career Choices: Why Picking Computer Science Can Lead to Fewer Regrets | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-first-month-of-your-remote-position-a-step-by-step-weekly-breakdown/"><u>Navigating the First Month of Your Remote Position - A Step-by-Step Weekly Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-how-generative-ai-creates-new-software-executive-positions-analysis-by-zdnet/"><u>Navigating the Future: How Generative AI Creates New Software Executive Positions | Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/negotiation-tactics-for-improved-job-benefits-and-remote-working-options-expert-advice-by-zdnet/"><u>Negotiation Tactics for Improved Job Benefits and Remote Working Options – Expert Advice by ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-implementing-chromes-pip-multiscreen-functionality-for-2024/"><u>Step-by-Step Implementing Chrome’s PIP Multiscreen Functionality for 2024</u></a></li>
 </ul></div>
 

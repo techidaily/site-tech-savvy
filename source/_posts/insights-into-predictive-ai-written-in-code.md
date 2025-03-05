@@ -1,7 +1,7 @@
 ---
 title: Insights Into Predictive AI' Written in Code
-date: 2024-08-21T15:37:53.696Z
-updated: 2024-08-22T15:37:53.696Z
+date: 2025-02-26T00:32:39.188Z
+updated: 2025-03-04T21:07:35.957Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/bf1aa2624ef83ca4793045372b8a4d65e582b5345
 
  You've probably heard of generative AI, but how much do you know about predictive AI? They sound similar, but have some key differences, along with a heap of ways you're probably already using it!
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Predictive AI, and How Does It Work?
 
  Predictive AI uses information from things that have already happened to make predictions and projections for what might happen in the future. To be used successfully, it requires access to high-quality data and subject matter expertise from humans to correctly identify trends.
@@ -58,9 +55,6 @@ Close
 
  Besides analyzing your past typing habits, predictive text can also use the context of your conversations or documents to provide better typing and spelling recommendations. You can [disable inline predictive text on your Mac](https://www.makeuseof.com/disable-inline-predictive-text-on-mac/) if you own an Apple computer, and it's also possible to [turn on predictive text suggestions on Android](https://www.makeuseof.com/how-to-turn-on-predictive-text-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Identifying Potential Security Threats
 
 ![facebook unusual login email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/facebook-unusual-login.jpg)
@@ -73,34 +67,22 @@ Close
 
 ![Spotify's niche mixes are playlists made for you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/spotify-niche-mixes-desktop.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your smartphones and apps are becoming much better at offering recommendations, largely because of predictive AI. For example, if you use Google Drive, you may see a "You often open around this time" message on your main documents. You'll also see "Based on past activity" or "You've opened frequently."
 
  If you use your smartphone, you'll often see that recommendations for opening apps and other actions change depending on your habits at each time of the day. Apps also use your consumption behaviors to deliver better recommendations; for example, [Spotify uses AI](https://www.makeuseof.com/how-spotify-uses-ai/) to recommend (and create) playlists.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Economic Projections
 
  Predictive AI is also prominent in the world of finance, and it can help economists consider how financial markets will change over time. For example, based on historical data and current global affairs, predictive AI can determine whether certain currency exchange rates will increase or decrease. Since predictive AI is also good at identifying consumer behaviors, it's possible to use the tool to determine how industry trends will change.
 
  This technology can also predict stock market movements and cryptocurrency price changes. If you plan on trading with AI, it's worth checking out these [AI-based crypto tools](https://www.makeuseof.com/top-ai-based-crypto-tools/) as a starting point.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Weather Forecasts
 
  Predicting the weather has always been difficult, but meteorologists will likely be able to lean on AI for more assistance in the future. Although the tool is relatively new in this space, Google AI Research Program Manager Abdoulaye Diack suggests that GraphCast can predict the weather up to 10 days in advance better than standard forecasting methods.
 
  Predictive AI can measure more weather data in shorter periods. Being able to better predict the weather in the short term is nice on a personal level, as it means you'll know exactly what to wear outside. But if we zoom out and look at the bigger picture, predictive AI could also be a valuable tool for helping to innovate in climate change initiatives and predict major storms.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. Business Decisions
 
  Companies use predictive AI to make better decisions and projections for the coming year. Since predictive AI is very good at measuring consumer behaviors, businesses can accurately determine the success of their current products and offerings over 6-12 months. To fill gaps in the market, they can also use the information they gather to launch and test new products.
@@ -123,8 +105,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +112,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-entry-level-expenditure-cost-effective-platforms-for-youtube-purchases/"><u>[Updated] Entry-Level Expenditure Cost-Effective Platforms for YouTube Purchases</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-the-musical-maze-copyright-rules-for-insta-users/"><u>[Updated] In 2024, Navigating the Musical Maze Copyright Rules for Insta Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-transform-your-channel-into-a-revenue-powerhouse-with-impactful-trailers/"><u>2024 Approved Transform Your Channel Into a Revenue Powerhouse with Impactful Trailers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-2-unpacked-how-it-can-benefit-you/"><u>Claude 2 Unpacked: How It Can Benefit You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-myths-gpt-pc-app-wrongly-categorized/"><u>Debunking Myths: GPT PC App Wrongly Categorized</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-variances-between-standard-hulu-and-its-plus-version/"><u>Exploring The Variances Between Standard Hulu and Its Plus Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-crashes-and-lag-expert-solutions-for-smooth-play/"><u>Fix Your Game Crashes and Lag - Expert Solutions for Smooth Play</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-digital-sticky-notes-a-comprehensive-tutorial-for-microsoft-edge-users/"><u>Mastering Digital Sticky Notes: A Comprehensive Tutorial for Microsoft Edge Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-and-ai-merge-for-next-gen-bing-searches/"><u>Microsoft and AI Merge for Next-Gen Bing Searches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-efficiently-mastering-rtx-ai-for-chatting/"><u>Navigate Efficiently: Mastering RTX AI for Chatting</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-secure-guide-to-downloading-the-canon-mg3620-printing-driver/"><u>Quick & Secure Guide to Downloading the Canon MG3620 Printing Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210782325-resolving-the-unknown-issuer-error-in-mozilla-firefox-quick-solutions/"><u>Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-decade-of-defenses-top-cybersecurity-forecasts/"><u>The Next Decade of Defenses: Top Cybersecurity Forecasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unchecked-faith-in-ai-consider-these-6-reasons-instead/"><u>Unchecked Faith in AI? Consider These 6 Reasons Instead</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Surfez Sur La Vague De Changement - L'Impact Accélérateur Des Crises Sur Les Relations Bancaires
-date: 2024-08-21T15:28:28.712Z
-updated: 2024-08-22T15:28:28.712Z
+date: 2025-02-28T20:13:03.968Z
+updated: 2025-03-04T16:43:59.468Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b070e6743a1524b127e144e2.jpg
@@ -21,9 +21,6 @@ French
 
 ![04 Lindaameur 198X198](https://static4.abbyy.com/abbyycommedia/25106/04-lindaameur-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Linda Ameur
 
 Directrice Commerciale, **ABBYY**
@@ -32,10 +29,6 @@ Directrice Commerciale, **ABBYY**
 
 ![12 Hugueslebret 198X198](https://static4.abbyy.com/abbyycommedia/25475/12-hugueslebret-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Hugues Le Bret
 
 Fondateur et Président du Comité de Surveillance, **Nickel**
@@ -56,19 +49,10 @@ CIO/Directeur des Systèmes d’information, **Franfinance Fap**
 
 ![63 Barrerejean 198X198](https://static4.abbyy.com/abbyycommedia/30428/63-barrerejean-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Jean Barrère
 
 Associé Data Intelligence, **PwC France et Maghreb**
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### En quoi la data, l’IA et les nouvelles technologies sont des pivots essentiels de la stratégie des entreprises ?
 
 Le secteur bancaire est en plein bouleversement: les impacts sociétaux et économiques de la crise du COVID, les changements de comportements des clients ainsi que l’arrivée des nouveaux concurrents entraînent une forte dynamique de changement sur le marché. Si les banques ont initié leur transformation numérique, elles se retrouvent face à de nombreux obstacles.
@@ -91,38 +75,17 @@ Par la suite nous avons montré différents cas clients ainsi qu’une démonstr
 
 ### Regardez maintenant
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Merci et bon webinaire !
 
 [![La crise, un accélérateur de la transformation de la relation bancaire](https://static2.abbyy.com/abbyycommedia/31563/placeholder-general.png)](https://www.youtube.com/watch?v=635kW4PveOI) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #### Vous avez des questions ? [Contactez ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -179,8 +142,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +149,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-video-freedom-top-8-tools-transforming-youtube-into-avis/"><u>[New] In 2024, Video Freedom Top 8 Tools Transforming YouTube Into Avis</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-step-by-step-guide-mastering-zoom-on-a-windows-10-device-for-2024/"><u>[New] Step-by-Step Guide Mastering Zoom on a Windows 10 Device for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-expert-picks-top-6-fb-lite-extractors/"><u>[Updated] In 2024, Expert Picks Top 6 FB Lite Extractors</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-top-7-innovative-mobile-apps-for-professional-resume-photography-androidios/"><u>1. Top 7 Innovative Mobile Apps for Professional Resume Photography (Android/iOS)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-all-platform-guide-to-best-value-zero-cost-live-broadcast-technology/"><u>2024 Approved All Platform Guide to Best Value, Zero-Cost Live Broadcast Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aeroco-pilots-essential-distinctions-between-models/"><u>AeroCo-Pilots: Essential Distinctions Between Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-tools-4-writers-elevating-the-editorial-experience/"><u>AI Tools 4 Writers: Elevating the Editorial Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-mapping-the-landscape-of-openai/"><u>Comprehensive Mapping: The Landscape of OpenAI</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-engaging-titlescaptions-with-microsofts-photos-app-win-11-for-2024/"><u>Craft Engaging Titles/Captions with Microsoft's Photos App (Win 11) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/culinary-creativity-unlocked-7-innovative-chatgpt-tips/"><u>Culinary Creativity Unlocked: 7 Innovative ChatGPT Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4s-global-footprint-simplified/"><u>GPT-4's Global Footprint, Simplified</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-reno-10-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo Reno 10 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-ps4-game-capture-via-obs-studio/"><u>In 2024, Mastering PS4 Game Capture via OBS Studio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/newcomers-guide-to-langchain-tech/"><u>Newcomers' Guide to LangChain Tech</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/optimizing-video-content-for-igtv-uploading-strategies-revealed/"><u>Optimizing Video Content for IGTV Uploading Strategies Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pivoting-from-chatgpt-a-guide-to-superior-options/"><u>Pivoting From ChatGPT: A Guide to Superior Options</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-motorola-edge-40-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-doesnt-strike-the-gpt-core/"><u>What Doesn't Strike the GPT Core?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-snapchats-my-ai-stands-out-beyond-toys-and-games/"><u>Why Snapchat’s My AI Stands Out Beyond Toys and Games</u></a></li>
+</ul></div>
 

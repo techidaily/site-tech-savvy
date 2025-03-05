@@ -1,7 +1,7 @@
 ---
 title: "Cautionary Voice: The Dangers of ChatGPT Data Exchanges"
-date: 2025-02-10T21:07:40.505Z
-updated: 2025-02-15T23:23:24.799Z
+date: 2025-02-26T16:42:48.956Z
+updated: 2025-03-04T16:35:37.756Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Leaked Confidential Information Via ChatGPT
 
  According to [Gizmodo](https://gizmodo.com/chatgpt-ai-samsung-employees-leak-data-1850307376), Samsung's employees mistakenly leaked confidential information via ChatGPT on three separate occasions in the span of 20 days. This is just one example of how easy it is for companies to compromise private information.
@@ -42,27 +38,15 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Do ChatGPT Data Leaks Happen?
 
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
 
  It is highly unlikely that the employees have done this on purpose, but that’s the scary part. [Most data breaches are caused by human error](https://www.makeuseof.com/people-weakest-link-in-cybersecurity/). Often, this is because the company has failed to educate its staff about the privacy risks of using tools like AI.
 
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
 
@@ -89,20 +73,15 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-tips-for-zoom-engagement-building-stronger-remote-relationships/"><u>[New] 2024 Approved Expert Tips for Zoom Engagement Building Stronger Remote Relationships</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-adventure-the-best-6-gopro-mounts-revealed/"><u>[New] 2024 Approved Mastering Adventure The Best 6 GoPro Mounts Revealed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-kazam-screen-recorder-features-guide-review-for-2024/"><u>[New] Kazam Screen Recorder Features| Guide| Review for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-obs-glitch-fix-stop-frames-from-dropping-for-2024/"><u>[New] OBS Glitch Fix Stop Frames From Dropping for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600433832-stellar-data-recovery-windows/"><u>「Stellar Data Recovery: Windows版無料、完全修復機能付き」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/behind-the-scenes-of-truthgpt-uncover-police-crackdown-on-mullvad-vpn-ultimate-free-pc-game-picks-and-comprehensive-guide-to-mechanical-keyboards/"><u>Behind the Scenes of TruthGPT: Uncover Police Crackdown on Mullvad VPN; Ultimate Free PC Game Picks & Comprehensive Guide to Mechanical Keyboards</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-ai-communicator-showdown-gpt-or-bing-leads/"><u>Best AI Communicator Showdown - GPT or Bing Leads?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-chatgpt-for-enhanced-emotional-health-and-wellness/"><u>Choosing ChatGPT for Enhanced Emotional Health and Wellness</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-insights-into-advantages-threats/"><u>Dissecting AI: Insights Into Advantages, Threats</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-workout-design-with-generative-ai/"><u>Revolutionizing Workout Design with Generative AI</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-smart-7-hd-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Smart 7 HD</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-of-stories-top-4-innovative-ai-narrators/"><u>Unveiling the Future of Stories: Top 4 Innovative AI Narrators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-chatgpt-with-extensions/"><u>Unveiling the Power of ChatGPT with Extensions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/write-less-achieve-more-with-ai-assistants/"><u>Write Less, Achieve More with AI Assistants</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-3d-media-player-for-android-users/"><u>[New] Advanced 3D Media Player for Android Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>[Updated] Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/can-adobe-shake-control-enhance-creative-process-in-photoshop-in-2024/"><u>Can Adobe Shake Control Enhance Creative Process in Photoshop, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-combo-marvels-what-if-for-your-apple-vision-pro-absolutely-free/"><u>Discover the Ultimate Combo: Marvel's What If...? For Your Apple Vision Pro – Absolutely Free!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-virtual-office-universe-a-deep-dive-into-full-time-remote-work-with-vr-technology-zdnet-insights/"><u>Exploring the Virtual Office Universe: A Deep Dive Into Full-Time Remote Work with VR Technology | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-work-done-efficiently-with-three-virtual-monitors-using-xr-glasses-at-a-20-off-sale-exclusive-prime-day-deal-insights-by-zdnet/"><u>Get Work Done Efficiently with Three Virtual Monitors Using XR Glasses at a 20% Off Sale, Exclusive Prime Day Deal | Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-chick-fil-a-brews-sunday-success-unlocking-weekend-profits-with-innovative-strategies-techinsight/"><u>How Chick-Fil-A Brews Sunday Success: Unlocking Weekend Profits with Innovative Strategies | TechInsight</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-elevate-your-online-presence-making-exceptional-facebook-reels/"><u>In 2024, Elevate Your Online Presence Making Exceptional Facebook Reels</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-get-every-moment-of-fb-lives-top-5-video-capture-apps/"><u>In 2024, Get Every Moment of Fb Lives Top 5 Video Capture Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/keep-your-media-casting-perfect-with-these-simple-chromecast-update-instructions/"><u>Keep Your Media Casting Perfect with These Simple Chromecast Update Instructions</u></a></li>
 </ul></div>
 

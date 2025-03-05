@@ -1,7 +1,7 @@
 ---
 title: Discover How to Leverage OpenAI's APIs Effectively
-date: 2025-02-10T17:15:26.344Z
-updated: 2025-02-16T02:28:31.273Z
+date: 2025-03-03T01:28:16.065Z
+updated: 2025-03-04T19:25:32.105Z
 tags:
   - chatgpt
   - open-ai
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 ![Chat completion chat CLI logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chat-completion-chat-cli-logs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can even improve the model's performance by supplying parameters like temperature, presence-penalty, frequency-penalty, and more. If you've ever used ChatGPT, you already know how OpenAI's chat completion model work.
 
 ### Text Completion
@@ -66,14 +62,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 ![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Speech-to-Text
 
  You can transcribe and translate audio speech using the OpenAI transcription and translation endpoints. The speech-to-text endpoints are based on the Whisper v2-large model, developed through large-scale weak supervision.
@@ -89,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  The embedding endpoint features text clustering, differences, relevance, recommendations, sentiments, and classification. Plus, it charges per token volume.
 
  Although the OpenAI documentation says you can use the other first-generation embedding models, the former is better with a cheaper price point. However, OpenAI warns that the embedding model might show social bias towards certain people, as proven in tests.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Code Completion
 
@@ -122,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 ![Image generation test for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/image-generation-test-for-openai.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use the OpenAI API
 
 ![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
@@ -137,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 3. Make API calls to your chosen model endpoints via a server-side language like Python or JavaScript (Node). Feed these to your custom APIs and test your endpoints.
 4. Then [fetch custom APIs via JavaScript](http://www.makeuseof.com/how-to-consume-apis-in-react-using-fetch-and-axios/) frameworks like React, Vue, or Angular.
 5. Present data (user requests and model responses) in a visually appealing UI, and your app is ready for real-world use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Can You Create With the OpenAI API?
 
@@ -178,22 +154,19 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-the-world-of-youtube-live-visual-representations/"><u>[New] Navigating the World of YouTube Live Visual Representations</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-boosting-video-management-creating-an-effective-youtube-watch-later-list/"><u>[Updated] Boosting Video Management Creating an Effective YouTube Watch Later List</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-12-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 12 5G Fingerprint Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-effective-instructions-for-bespoke-chatgpt-experience/"><u>Crafting Effective Instructions for Bespoke ChatGPT Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creating-custom-workout-plans-gpts-safe-approach/"><u>Creating Custom Workout Plans: GPT's Safe Approach</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-techniques-generating-sfx-archives-on-win11/"><u>Cutting Edge Techniques: Generating SFX Archives on Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-the-veracity-of-truthgpt-crypto/"><u>Dissecting the Veracity of TruthGPT Crypto</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/erfahren-sie-wie-sie-verlorene-bilder-wiederherstellen-konnen-picsart-wiederholungsempfehlung-geloschte-fotos-zuruckbringen/"><u>Erfahren Sie, Wie Sie Verlorene Bilder Wiederherstellen Können! PicsArt Wiederholungsempfehlung - Gelöschte Fotos Zurückbringen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-change-what-jobs-are-at-risk/"><u>Generative Change: What Jobs Are at Risk?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/improving-emotional-perception-via-chatgpt/"><u>Improving Emotional Perception via ChatGPT</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-huawei-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Huawei Pattern Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-e13-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto E13 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-interactive-media-adding-audio-to-visual-narratives/"><u>In 2024, Interactive Media Adding Audio to Visual Narratives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-ai-to-automate-your-typistits-in-microsoft-word/"><u>Leverage AI to Automate Your Typist'its in Microsoft Word</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/remote-chatgpt-entry-worldwide-accessibility-guide/"><u>Remote ChatGPT Entry: Worldwide Accessibility Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seizing-opportunities-with-ai-in-the-realm-of-psychological-support/"><u>Seizing Opportunities with AI in the Realm of Psychological Support</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/warum-sind-alle-bildschirmaufnahmen-auf-windows-10-plotzlich-verschwunden/"><u>Warum Sind Alle Bildschirmaufnahmen Auf Windows 10 Plötzlich Verschwunden?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-ultimate-step-by-step-on-instagram-filter-usage-2023/"><u>[Updated] 2024 Approved The Ultimate Step-by-Step on Instagram Filter Usage 2023</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-compre-web-resources-for-effortless-youtube-template-access/"><u>[Updated] Compre-Web Resources for Effortless YouTube Template Access</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-content-with-advanced-vsco-techniques/"><u>[Updated] Elevate Your Content with Advanced VSCO Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-perfecting-your-recording-setup-pc-and-macs-best-software/"><u>[Updated] In 2024, Perfecting Your Recording Setup PC and Mac's Best Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clear-communication-throughout-negotiations-helps-prevent-misunderstandings-and-builds-trust-between-unions-and-employers/"><u>Clear Communication Throughout Negotiations Helps Prevent Misunderstandings and Builds Trust Between Unions and Employers.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/delving-deep-into-vidma-writescreen-recorder-details-for-2024/"><u>Delving Deep Into Vidma’ Writescreen Recorder Details for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/innovative-seascape-display-real-time-water-animation-with-yl-software/"><u>Innovative Seascape Display - Real-Time Water Animation with YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/switching-up-my-audio-game-how-i-traded-in-my-premium-soundbar-for-a-jbl-a-pleasant-surprise-zdnet/"><u>Switching Up My Audio Game: How I Traded In My Premium Soundbar for a JBL - A Pleasant Surprise! | ZDNET</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/thorough-examination-capturing-life-in-full-with-gear-360/"><u>Thorough Examination Capturing Life in Full with Gear 360</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-gaming-headsets-comprehensive-reviews-by-tech-experts-techadvisor/"><u>Top-Ranked Gaming Headsets : Comprehensive Reviews by Tech Experts | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-audio-experience-discover-the-ultimate-non-vizio-non-jbl-soundbar-insights-from-a-tech-expert/"><u>Top-Ranking Audio Experience: Discover the Ultimate Non-Vizio, Non-JBL Soundbar - Insights From a Tech Expert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tested-soundbar-ranking-beyond-vizio-and-jbl-discover-the-ultimate-audio-experience/"><u>Top-Tested Soundbar Ranking: Beyond Vizio and JBL - Discover the Ultimate Audio Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-starcraft-2-end-game-crashes-and-how-to-fix-them/"><u>Troubleshooting Guide for Starcraft 2 - End Game Crashes & How to Fix Them</u></a></li>
 </ul></div>
 

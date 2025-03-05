@@ -1,7 +1,7 @@
 ---
 title: CodeGPT Setup Tutorial for VS Code Users
-date: 2024-08-21T15:36:41.260Z
-updated: 2024-08-22T15:36:41.260Z
+date: 2025-03-01T00:35:02.795Z
+updated: 2025-03-04T22:56:26.163Z
 tags:
   - chatgpt
   - open-ai
@@ -112,32 +112,20 @@ else:
 
  When you run the code it works correctly. With just a single prompt, you were able to create a simple calculator.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Refactoring Your Code With CodeGPT
 
  To refactor your code, select the code that you want to refactor, then right-click on it and select **Refactor CodeGPT**. In the **Refactor CodeGPT** dialog box, enter your prompt describing the refactoring that you want to perform. For example, you could enter "refactor this code to use [a for loop](https://www.makeuseof.com/learn-for-loops-in-python/) instead of [a while loop](https://www.makeuseof.com/learn-while-loop-in-python/)".
 
  CodeGPT will generate new code that implements the requested refactoring.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Explaining Your Code With CodeGPT
 
  To explain your code, select the code that you want CodeGPT to explain. Then right-click on the highlighted code and select the **Explain CodeGPT** option.
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  CodeGPT will explain what the code does on the chat window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Documenting Your Code Using CodeGPT
 
 [Documenting your code](https://www.makeuseof.com/python-code-document-using-docstrings/) helps other developers read and understand your code. It can also help you understand your code in the future.
@@ -164,9 +152,6 @@ def divide(x, y):
 
  These are clear and correct inline comments.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Understanding How Generative AI Works
 
  CodeGPT utilizes the power of generative AI for all its features. It may not always provide the correct information. Hence, you need to counter-check whether its results are correct. Understanding how generative AI works will help you become familiar with its strengths and weaknesses.
@@ -181,8 +166,6 @@ def divide(x, y):
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +173,16 @@ def divide(x, y):
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streamer-struggle-navigating-the-waters-between-obs-and-twitch/"><u>[New] In 2024, Streamer Struggle Navigating the Waters Between OBS & Twitch</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-overcoming-the-hurdle-of-non-uploading-facebook-story-videos-for-2024/"><u>[New] Overcoming the Hurdle of Non-Uploading Facebook Story Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comment-changer-un-fichier-video-au-format-quicktime-et-inversement-guide-complet/"><u>Comment Changer Un Fichier Vidéo Au Format QuickTime Et Inversement - Guide Complet</u></a></li>
+<li><a href="https://tools.techidaily.com/dgtsoft/products/"><u>Dgtsoft's Products</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/elite-8-video-transformations-for-virtual-events/"><u>Elite 8 Video Transformations for Virtual Events</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-konverteren-van-mkv-naar-m4a-online-movavi/"><u>Gratuit Konverteren Van MKV Naar M4A Online - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-ogg-format-converter-online-opus-naar-ogg-omzetten-met-gratis-movavi-service/"><u>Gratuit Ogg-Format Converter: Online OPUS Naar Ogg Omzetten Met Gratis Movavi Service</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y78t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transfiere-archivo-pgm-a-formato-png-sin-coste-metodo-online-de-convertir-imagenes/"><u>Transfiere Archivo PGM a Formato PNG Sin Coste: Método Online De Convertir Imágenes</u></a></li>
+</ul></div>
 

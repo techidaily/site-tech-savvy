@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Connectivity: Discover the Perks of Apple Enabling iPhone NFC for External Apps | CNET News"
-date: 2025-02-10T02:57:22.147Z
-updated: 2025-02-15T23:39:12.498Z
+date: 2025-02-26T00:47:01.780Z
+updated: 2025-03-04T22:57:00.808Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ Satechi 8-in-1 USB-C Multiport Adapter V3 with 8K
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ZDNET's key takeaways
 
 * The [Satechi 8-in-1 USB-C Multiport Adapter V3 with 8K](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSatechi-Multiport-Adapter-Charging-Ethernet%2Fdp%2FB0CVR26895%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17bf4aa3-20ff-40f7-b71a-46e419ff0efb%7Cdtp&dtb=1) is available on Amazon for just $100.
@@ -41,10 +37,6 @@ Thin and light laptops have spearheaded the shift towards USB-C ports, making th
 Premium accessory maker Satechi has been at the top of my list of favorite hardware makers, and this company has once again knocked it out of the park with its new [8-in-1 USB-C Multiport Adapter V3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSatechi-Multiport-Adapter-Charging-Ethernet%2Fdp%2FB0CVR26895%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17bf4aa3-20ff-40f7-b71a-46e419ff0efb%7Cdtp&dtb=1), a compact adapter that's absolutely brimming with powerful ports.
 
 [ZDNET RECOMMENDS Satechi 8-in-1 USB-C Multiport Adapter V3 with 8K Encased in a sleek aluminum enclosure, this 8-in-1 adapter comes with a tangle-free braided USB-C cable. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSatechi-Multiport-Adapter-Charging-Ethernet%2Fdp%2FB0CVR26895%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17bf4aa3-20ff-40f7-b71a-46e419ff0efb%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Satechi 8-in-1 USB-C Multiport Adapter V3 with 8K features
 
@@ -92,10 +84,6 @@ Adrian Kingsley-Hughes/ZDNET
 
 One thing to bear in mind about this adapter is that it's a modern design, and as such doesn't have what we now considered to be legacy ports such as USB-A and 3.5mm headphones jack. If you need those, there are [other adapters that are better suited](https://www.zdnet.com/article/the-ultimate-laptop-accessory-the-satechi-usb-4-multiport-adapter/) to your needs. But if you can do without these ports, this is as close to being a perfect adapter as you can get.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ZDNET's buying advice
 
 The [Satechi 8-in-1 USB-C Multiport Adapter V3 with 8K](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSatechi-Multiport-Adapter-Charging-Ethernet%2Fdp%2FB0CVR26895%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17bf4aa3-20ff-40f7-b71a-46e419ff0efb%7Cdtp&dtb=1) is a logical upgrade to Satechi's previous offering. It adds high-resolution 8K/30Hz support along with support for the latest USB 3.2 Gen 2 standard, delivering a blazing-fast data transfer rate of up to 10Gbps. 
@@ -132,20 +120,24 @@ Throw in the UHS-II SDcard reader, which is capable of transferring files three 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-blackout-blitz-premiere-pro-60s/"><u>[New] Blackout Blitz Premiere Pro 60S</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-youtube-presence-strategic-tagging-and-titling-techniques-for-2024/"><u>[New] Elevate Your YouTube Presence Strategic Tagging and Titling Techniques for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leading-edge-webcams-insiders-choice-in-windows-11/"><u>[Updated] 2024 Approved Leading Edge Webcams Insider's Choice in Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-ultimate-guide-to-streaming-google-meet-on-youtube/"><u>2024 Approved Your Ultimate Guide to Streaming Google Meet on YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-performance-lags-and-stuttering-in-playstation-4-gameplay-for-ac-valhalla/"><u>Addressing Performance Lags & Stuttering in PlayStation 4 Gameplay for AC Valhalla</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-your-next-chapter-top-5-ai-powered-sites-and-apps-for-reading-selection/"><u>Craft Your Next Chapter: Top 5 AI-Powered Sites & Apps for Reading Selection</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-chatgpt-experience-with-strategic-organization/"><u>Enhancing Your ChatGPT Experience with Strategic Organization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evolution-of-ai-systems-anticipating-gpt-5s-debut/"><u>Evolution of AI Systems: Anticipating GPT-5's Debut?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/key-aspects-opting-for-ai-assisted-therapy-via-chatgpt/"><u>Key Aspects: Opting for AI-Assisted Therapy via ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nine-essential-considerations-for-chatbot-subscription-success/"><u>Nine Essential Considerations for Chatbot Subscription Success</u></a></li>
-<li><a href="https://fox-info.techidaily.com/snapshot-sharpening-affinitys-bg-exclusion/"><u>Snapshot Sharpening - Affinity's Bg Exclusion</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-rated-video-compression-software-optimisez-et-diminuez-la-taille-de-vos-fichiers/"><u>Top-Rated Video Compression Software - Optimisez Et Diminuez La Taille De Vos Fichiers</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-outlook-mail-how-to-fix-cannot-open-errors-on-windows-11/"><u>Troubleshooting Outlook Mail: How to Fix 'Cannot Open' Errors on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-7-benefits-ai-driven-health-consults/"><u>Unveiling 7 Benefits: AI-Driven Health Consults</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rom-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos/"><u>[New] From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-screenplay-treasures-for-each-movie-division/"><u>[New] Ultimate Screenplay Treasures for Each Movie Division</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhancing-video-performance-in-instagram-reels-mobile/"><u>[Updated] 2024 Approved Enhancing Video Performance in Instagram Reels (Mobile)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-elevating-your-viewing-experience-with-benq-sw320-monitor/"><u>[Updated] In 2024, Elevating Your Viewing Experience with BenQ SW320 Monitor</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-going-against-the-flow-youtube-video-opposites/"><u>2024 Approved Going Against the Flow YouTube Video Opposites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pictorial-chuckles-kapwings-memetic-composer/"><u>2024 Approved Pictorial Chuckles Kapwing’s Memetic Composer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-redefining-human-experience/"><u>AI's Role in Redefining Human Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/amplify-your-iphone-films-with-free-audio-additions-discover-three-ways-for-2024/"><u>Amplify Your iPhone Films with Free Audio Additions – Discover Three Ways for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/athletic-advocates-mastering-machine-dialogue/"><u>Athletic Advocates, Mastering Machine Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-writers-slump-with-our-top-5-ai-helpers/"><u>Conquer Writer's Slump with Our Top 5 AI Helpers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-bot-face-off-deciding-ai-conversation-leader/"><u>Generative Bot Face-Off - Deciding AI Conversation Leader</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-trips-effortlessly-7-cost-free-intelligent-itinerary-aides/"><u>Navigate Trips Effortlessly - 7 Cost-Free, Intelligent Itinerary Aides</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-error-addressed-driver-returns-to-form/"><u>Nvidia Error Addressed - Driver Returns to Form</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-nutrition-strategies-using-chatgpt/"><u>Personalized Nutrition Strategies Using ChatGPT</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/purchase-your-perfect-iphone-companion-the-ultimate-stellar-eraser/"><u>Purchase Your Perfect iPhone Companion: The Ultimate Stellar Eraser</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionary-additions-to-windows-11/"><u>Revolutionary Additions to Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-showdown-for-writers-notion-ai-vs-openai/"><u>The Ultimate Showdown for Writers: Notion AI Vs. OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-interpretability-shap-e-explained/"><u>Understanding AI Interpretability: SHAP E Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-ai-potential-for-enhanced-wellbeing-with-chatgpt/"><u>Unlocking AI Potential for Enhanced Wellbeing with ChatGPT</u></a></li>
 </ul></div>
 

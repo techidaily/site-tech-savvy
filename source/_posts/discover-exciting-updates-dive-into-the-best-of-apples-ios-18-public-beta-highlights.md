@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Updates: Dive Into the Best of Apple's iOS 18 Public Beta Highlights"
-date: 2025-02-12T19:35:02.871Z
-updated: 2025-02-15T23:29:03.423Z
+date: 2025-02-28T00:44:50.838Z
+updated: 2025-03-05T02:15:01.561Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. AI all around
 
 Apple is planning to [fully bake AI into iOS 18](https://www.zdnet.com/article/3-ai-features-ios-18-needs-to-catch-up-with-android/), according to several reports.
@@ -54,19 +50,11 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Serious customization
 
 One of the hallmarks of Apple's design philosophy over the years has centered on not allowing you to customize its operating system experience all that much. That's now changing.
 
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. RCS
 
@@ -76,19 +64,11 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. An Apple Maps boost
 
 According to several reports, Apple is planning a pretty big update to Apple Maps in iOS 18, and I'm all for it.
 
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
 
@@ -128,19 +108,24 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-prime-tools-for-pro-video-creation-on-android-windows-for-2024/"><u>[New] Prime Tools for Pro Video Creation on Android, Windows for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-crafting-compelling-spotify-ads/"><u>[Updated] The Art of Crafting Compelling Spotify Ads</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-in-clarity-best-tools-for-quality-4k-conversion/"><u>2024 Approved Capture in Clarity Best Tools for Quality 4K Conversion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adaptable-assistants-launch-your-own-8-ai-experieninas/"><u>Adaptable Assistants: Launch Your Own 8 AI Experieninas</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-java-not-installing-a-windows-fixers-manual/"><u>Addressing Java Not Installing: A Windows Fixer's Manual</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-tutorial-on-utilizing-the-driver-easy-for-smartphones/"><u>Comprehensive Tutorial on Utilizing the Driver Easy for Smartphones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-cryptocurrency-topics-for-chatai/"><u>Leading Cryptocurrency Topics for ChatAI</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-windows-10s-file-explorer-with-ease-helpful-hints-inside/"><u>Navigating Windows 10'S File Explorer with Ease – Helpful Hints Inside!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/professional-audit-chatgpts-ai-precision-examined/"><u>Professional Audit: ChatGPT's AI Precision Examined</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-nvidia-shield-malfunction/"><u>Resolved Nvidia Shield Malfunction</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/step-up-your-content-learn-how-to-make-captivating-youtube-shorts-for-2024/"><u>Step Up Your Content Learn How to Make Captivating YouTube Shorts for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-underground-guide-5-unauthorized-uses-of-ai/"><u>The Underground Guide: 5 Unauthorized Uses of AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-vehicle-through-chatgpts-creative-assistance/"><u>Transform Your Vehicle Through ChatGPT's Creative Assistance</u></a></li>
-<li><a href="https://techidaily.com/why-the-new-galaxy-buds-da3-resemble-apples-popular-airpods/"><u>Why the New Galaxy Buds 지칭브이ड스3 Resemble Apple's Popular AirPods</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-learn-to-produce-must-see-fb-music-videos-today/"><u>[New] 2024 Approved Learn to Produce Must-See FB Music Videos Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-become-a-digital-native-in-the-metaverse-now/"><u>[New] Become a Digital Native in the Metaverse Now</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-motion-setting-up-a-timelapse-on-an-ipad-for-2024/"><u>[New] Capturing Motion Setting up a Timelapse on an iPad for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2022s-ultimate-selection-top-5-floatation-devices-for-pool-enthusiasts-pcmag/"><u>2022'S Ultimate Selection: Top 5 Floatation Devices for Pool Enthusiasts | PCMag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2023s-leading-electric-scooters-reviewed-find-the-perfect-match-for-you-cnet/"><u>2023'S Leading Electric Scooters Reviewed: Find the Perfect Match for You | CNET</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-from-twitter-to-snaps-a-guide-to-cross-platform-posting/"><u>2024 Approved From Twitter to Snaps A Guide to Cross-Platform Posting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-pivotal-ways-ai-enhances-digital-deceit-operations/"><u>5 Pivotal Ways AI Enhances Digital Deceit Operations</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/casting-brilliance-in-final-fragments/"><u>Broadcasting Brilliance in Final Fragments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-suv-of-bikes-challenge-traditional-cars-on-the-road-explore-unexpected-benefits-with-zdnet/"><u>Can 'SUV of Bikes' Challenge Traditional Cars on the Road? Explore Unexpected Benefits with ZDNET.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cost-effective-camping-gear-review-the-economical-power-station-that-revolutionized-road-trips-zdnets-guide/"><u>Cost-Effective Camping Gear Review: The Economical Power Station That Revolutionized Road Trips - ZDNET's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-your-own-diy-camera-obscura-a-step-by-step-guide-for-safe-solar-eclipse-viewing-techblog/"><u>Creating Your Own DIY Camera Obscura: A Step-by-Step Guide for Safe Solar Eclipse Viewing | TechBlog</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-expenses-capture-quality-your-guide-to-saving-big-on-the-gopro-hero-11-camera-zdnet-insights/"><u>Cut Expenses, Capture Quality: Your Guide to Saving Big on the GoPro Hero 11 Camera | ZDNET Insights</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/enhancing-heads-in-tiktok-videos-3-efficient-techniques-for-2024/"><u>Enhancing Heads in TikTok Videos 3 Efficient Techniques for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-intuitive-audio-fading-strategies-with-garageband/"><u>In 2024, Intuitive Audio Fading Strategies with Garageband</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/police-strike-down-vpns-upholding-cyber-law/"><u>Police Strike Down VPNs, Upholding Cyber Law</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-apple-watch-screensaver-a-comprehensive-review/"><u>Top-Rated Apple Watch Screensaver : A Comprehensive Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-garden-top-notch-new-govee-permanent-outdoor-lighting-shine-bright-with-these-latest-innovations/"><u>Upgrade Your Garden: Top-Notch New Govee Permanent Outdoor Lighting - Shine Bright with These Latest Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reviews-cutting-edge-bird-feeder-designed-to-take-stunning-photos-of-hummingbirds-in-action/"><u>ZDNet Reviews Cutting-Edge Bird Feeder Designed to Take Stunning Photos of Hummingbirds in Action</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reviews-the-groundbreaking-three-lens-drone-launch-understanding-its-impact-on-tech-and-media/"><u>ZDNet Reviews: The Groundbreaking Three-Lens Drone Launch – Understanding Its Impact on Tech and Media</u></a></li>
 </ul></div>
 

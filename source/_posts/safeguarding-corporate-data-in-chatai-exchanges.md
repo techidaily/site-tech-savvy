@@ -1,7 +1,7 @@
 ---
 title: Safeguarding Corporate Data in ChatAI Exchanges
-date: 2025-02-14T18:56:49.900Z
-updated: 2025-02-15T18:44:59.531Z
+date: 2025-03-01T23:37:41.972Z
+updated: 2025-03-04T21:46:42.312Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Don’t Save Your Chat History
 
  One of the simplest yet effective steps to protect your privacy is to avoid saving your chat history. ChatGPT, by default, stores all interactions between users and the chatbot. These conversations are collected to train OpenAI’s systems and are subject to inspection by moderators.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 4. Toggle off **Chat history and training**.
 
 ![ChatGPT showing options to disable chat history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-32.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note that [OpenAI](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) says that even with this setting enabled, conversations are retained for 30 days with the option for moderators to review them for abuse before permanent deletion. Still, disabling chat history is one of the best things you can do if you want to continue using ChatGPT.
 
@@ -68,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
 
@@ -97,19 +85,11 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
  Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Limit Access to Sensitive Data
 
  Limiting access to sensitive work data is crucial when workers are allowed to use ChatGPT. If you’re working in a leadership role, restrict access to sensitive information to authorized personnel who require it for their specific roles.
 
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Be Wary of Third-Party Apps
 
@@ -140,22 +120,16 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/erfecting-your-youtube-video-blueprint/"><u>[New] Perfecting Your YouTube Video Blueprint</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-complete-checklist-for-uploading-videos-on-twitpic-for-2024/"><u>[New] The Complete Checklist for Uploading Videos on Twitpic for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-voiceover-vitality-energizing-your-powerpoint-presentations/"><u>2024 Approved Voiceover Vitality Energizing Your PowerPoint Presentations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-beliefs-9-chatbot-claims-we-need-to-debunk-right-now/"><u>Beyond Beliefs: 9 Chatbot Claims We Need to Debunk Right Now</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/cosette-schneider-themed-graphics-and-digital-decor-unique-designs-by-yl-computing/"><u>Cosette Schneider Themed Graphics & Digital Decor – Unique Designs by YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-romance-chatgpts-role-in-dating/"><u>Crafting Romance: ChatGPT's Role in Dating</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-ai-dominance-generative-chatbot-showdown/"><u>Discovering AI Dominance - Generative Chatbot Showdown</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/fraps-your-go-to-screen-recorder/"><u>Fraps Your Go-To Screen Recorder?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-xls-document-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to add your digital signature to a .xls document</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-sony-xperia-10-v-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Sony Xperia 10 V to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-your-online-research-choose-perplexity-ai/"><u>Innovate Your Online Research – Choose Perplexity AI</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/inspiration-for-individuality-on-snapchat-a-resource-of-over-120-private-story-concepts-for-2024/"><u>Inspiration for Individuality on Snapchat A Resource of Over 120 Private Story Concepts for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-chatgpt-dialogue-proven-tactics-to-elevate-responses/"><u>Master ChatGPT Dialogue: Proven Tactics to Elevate Responses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-cyberspace-quest-hackers-and-chatgpt/"><u>The Cyberspace Quest: Hackers and ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-sudden-italian-decree-against-ai-language-tools-like-chatgpt/"><u>The Sudden Italian Decree Against AI Language Tools Like ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-or-fiction-top-free-ppc-games-reviewed/"><u>Truth or Fiction? Top Free PPC Games Reviewed</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-cdn-comprehensive-guide-with-seo-optimization-techniques/"><u>Understanding CDN - Comprehensive Guide with SEO Optimization Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-guide-to-superior-free-lut-options/"><u>[New] The Ultimate Guide to Superior, Free LUT Options</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-mastering-youtube-to-mp4-the-ultimate-guide/"><u>[Updated] Mastering YouTube to MP4 The Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-innovation-examining-the-search-and-output-processes/"><u>AI Innovation: Examining the Search and Output Processes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/finding-missing-memos-on-ios-devices-expert-techniques-for-retrieval/"><u>Finding Missing Memos on iOS Devices: Expert Techniques for Retrieval</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-chatgpt/"><u>Harnessing the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hone-in-on-ai-excellence-the-ultimate-guide-to-crafting-winning-prompts/"><u>Hone In On AI Excellence: The Ultimate Guide To Crafting Winning Prompts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y17s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y17s Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-banter-bonanza-the-funniest-content-on-the-internet/"><u>In 2024, Banter Bonanza The Funniest Content on the Internet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergistic-computing-chatgpt-and-the-apple-ecosystem/"><u>Synergistic Computing: ChatGPT and the Apple Ecosystem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-13-inch-laptops-ideal-for-business-trips-beyond-dell-xps-and-macbook-expert-picks/"><u>Top-Rated 13-Inch Laptops Ideal for Business Trips, Beyond Dell XPS and MacBook - Expert Picks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme Narzo 60 5G? | Dr.fone</u></a></li>
 </ul></div>
 

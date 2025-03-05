@@ -1,7 +1,7 @@
 ---
 title: "Behind the Scenes: How LLMs Transform Data"
-date: 2025-02-13T22:13:17.771Z
-updated: 2025-02-15T17:22:11.412Z
+date: 2025-02-25T17:50:19.790Z
+updated: 2025-03-04T18:37:54.668Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is a Large Language Model?
 
  In its simplest terms, an LLM is a massive database of text data that can be referenced to generate human-like responses to your prompts. The text comes from a range of sources and can amount to billions of words.
@@ -57,17 +53,9 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
@@ -78,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
  But LLMs go deeper than this. They can also tailor replies to suit the emotional tone of the input. When combined with contextual understanding, the two facets are the main drivers that allow LLMs to create human-like responses.
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are the Limitations of LLMs?
 
@@ -95,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 4. **An LLM is only as good as its training data:** Accuracy can never be guaranteed. The old computer adage of "Garbage In, Garbage Out" sums this limitation up perfectly. LLMs are only as good as the quality and quantity of their training data allow them to be.
 
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Examples of Popular LLMs
 
@@ -158,22 +138,19 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-crafting-flawless-virtual-reality-gaming-archives-for-2024/"><u>[Updated] Crafting Flawless Virtual Reality Gaming Archives for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/activate-your-echo-dot-quick-guide-to-configuration/"><u>Activate Your Echo Dot - Quick Guide to Configuration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-new-launch-apple-watch-series-9-and-ultra-availability-restored-after-legal-hiatus/"><u>Apple's New Launch: Apple Watch Series 9 & Ultra Availability Restored After Legal Hiatus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-creativity-and-ai-for-do-it-yourselfers/"><u>Bridging Creativity and AI for Do-It-Yourselfers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/courteous-conversations-with-voice-controlled-tech-siri-gpt/"><u>Courteous Conversations with Voice-Controlled Tech (Siri, GPT)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-the-art-of-poetry-with-chatgpt-expertise/"><u>Enhancing the Art of Poetry with ChatGPT Expertise</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/eradicating-warped-imagery-a-complete-guide-to-fixing-gopro-fish-eye/"><u>Eradicating Warped Imagery A Complete Guide to Fixing GoPro Fish Eye</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-one-on-one-to-global-how-does-gemini-challenge-chatgpt/"><u>From One-on-One to Global: How Does Gemini Challenge ChatGPT?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-elite-adventurers-playground-top-10-games-revealed/"><u>In 2024, Elite Adventurers' Playground – Top 10 Games Revealed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/innovative-layouts-for-virtual-minecraft-abodes/"><u>Innovative Layouts for Virtual Minecraft Abodes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/must-see-80s-films-every-movie-enthusiast-should-catch-this-moment/"><u>Must-See '80S Films Every Movie Enthusiast Should Catch This Moment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pause-in-venu-live-sports-broadcasts-understanding-the-temporary-suspension/"><u>Pause in Venu Live Sports Broadcasts - Understanding the Temporary Suspension</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proactive-tips-to-utilize-chatgpt-plugins-effectively/"><u>Proactive Tips to Utilize ChatGPT Plugins Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-clinical-practice-with-chatgpt-technology/"><u>Redefining Clinical Practice with ChatGPT Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-ai-driven-website-evolution/"><u>Unleashing Potential: AI-Driven Website Evolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-crypto-trading-aided-by-chatgpt/"><u>Unlocking Potential: Crypto Trading Aided by ChatGPT</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-foobar2000-wave-router/"><u>[New] Foobar2000 Wave Router</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-worlds-premier-content-creators-ranked-by-subscriber-count/"><u>[Updated] In 2024, World's Premier Content Creators Ranked By Subscriber Count</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/dodgingdullnessaftermycam/"><u>DodgingDullnessAfterMyCam</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hesaplilasma-daha-kolaylu-olarak-videolerini-movaviye-ayiran-lazimiz-100-guvenli-sozlesiyle-kullanabilir-ve-sonucta-indirimi/"><u>Hesaplılaşma Daha Kolaylu Olarak Video'lerini Movavi'ye Ayıran Lazimiz: 100% Güvenli, Sözlesiyle Kullanabilir Ve Sonuçta Indirimi</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nostalgia-frame-portraits-on-the-x-phone/"><u>In 2024, Nostalgia Frame Portraits on the X Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-tecno-phantom-v-flip-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Tecno Phantom V Flip Phone Network-Ready</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-surfing-with-vpn-mastering-iphone-connection-settings-for-privacy-protection/"><u>Secure Surfing with VPN: Mastering iPhone Connection Settings for Privacy Protection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-ios-devices-with-our-picked-best-vpn-services-for-iphoneipad-expert-analysis-and-ratings-zdnet/"><u>Secure Your iOS Devices with Our Picked Best VPN Services for iPhone/iPad - Expert Analysis and Ratings | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-online-privacy-60-savings-on-5-year-vpn-membership-learn-more-inside/"><u>Secure Your Online Privacy: 60% Savings on 5-Year VPN Membership - Learn More Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-up-a-windows-10-vpn-connection-step-by-step-guide/"><u>Setting Up a Windows 10 VPN Connection - Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/social-media-excellence-a-practical-approach/"><u>Social Media Excellence A Practical Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-vpn-services-for-uninterrupted-watching-of-the-summer-games-a-comprehensive-review/"><u>Top 3 VPN Services for Uninterrupted Watching of the Summer Games - A Comprehensive Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unveiling-the-purpose-of-watermarks-in-fb-media-for-2024/"><u>Unveiling the Purpose of Watermarks in Fb Media for 2024</u></a></li>
 </ul></div>
 

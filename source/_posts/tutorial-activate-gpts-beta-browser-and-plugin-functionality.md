@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Activate GPT's Beta Browser & Plugin Functionality"
-date: 2025-02-10T21:10:47.255Z
-updated: 2025-02-15T20:15:48.877Z
+date: 2025-03-03T18:32:02.343Z
+updated: 2025-03-04T19:24:39.894Z
 tags:
   - chatgpt
   - open-ai
@@ -25,10 +25,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
@@ -62,10 +58,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
@@ -82,19 +74,11 @@ Close
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Head to your **Settings** in the bottom left-hand corner of the ChatGPT screen
 2. Select **Settings**
@@ -104,10 +88,6 @@ Close
  After enabling both settings, you'll find new options from the ChatGPT model switcher (where you'd normally switch between GPT-3.5 and GPT-4). You'll now find an option for Web Browsing and one for Plugins.
 
  From here, you can select either Web Browsing to enable web-connected search or select **Plugin Store** to begin installing and enabling Plugins.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Finally Connected to the Internet
 
@@ -134,18 +114,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-fresh-talents-guide-to-2024s-entry-level-cams/"><u>[Updated] Fresh Talent's Guide to 2024’S Entry-Level Cams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-cv-written-skills-the-chatgpt-method/"><u>Enhancing Your CV' Written Skills: The ChatGPT Method</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-fearful-to-flourishing-embracing-the-ai-economic-shift/"><u>From Fearful to Flourishing: Embracing the AI Economic Shift</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-ai-simplified-core-ideas-exposed/"><u>Generative AI Simplified: Core Ideas Exposed</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/guide-complet-pour-recuperer-votre-video-supprimee-de-la-camera/"><u>Guide Complet Pour Récuperer Votre Vidéo Supprimée De La Caméra</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-a05-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy A05 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mastering-audio-prime-9-mic-recording-solutions/"><u>Mastering Audio Prime 9 Mic Recording Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mfc42ddll-error-expert-tips-to-find-and-repair-the-missing-file/"><u>mfc42d.dll Error: Expert Tips to Find and Repair the Missing File</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-team-communication-through-artificial-assistance/"><u>Revolutionizing Team Communication Through Artificial Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-claude-pros-unique-offerings-compared-to-gptplus/"><u>Understanding Claude Pro's Unique Offerings Compared to GPT+</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unleash-epic-fun-with-these-top-8-google-play-pass-gems/"><u>Unleash Epic Fun with These Top 8 Google Play Pass Gems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-world-discovery-selecting-the-finest-7-free-ai-itinerary-tools/"><u>Unlock World Discovery: Selecting the Finest 7 FREE AI Itinerary Tools</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/unlocking-the-secrets-of-high-efficiency-video-coding-hevch265-enable-smooth-x265-media-playback-on-windows-10-systems/"><u>Unlocking the Secrets of High-Efficiency Video Coding (HEVC/H.265): Enable Smooth X265 Media Playback on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-android-tutorial-reversed-video-display/"><u>[Updated] Android Tutorial Reversed Video Display</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-explore-affordable-cross-platform-video-chat-platforms-for-windowsmac-for-2024/"><u>[Updated] Explore Affordable, Cross-Platform Video Chat Platforms for Windows/Mac for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-insiders-manual-posting-youtube-videos-on-yourfb-page/"><u>2024 Approved The Insider's Manual Posting YouTube Videos on YourFB Page</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-efficiency-in-chrome-the-best-8-ai-powered-extensions/"><u>Boosting Efficiency in Chrome: The Best 8 AI Powered Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-your-ai-ally-chatgpt-is-up-and-at-em/"><u>Ensuring Your AI Ally, ChatGPT, Is Up and At 'Em</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-co-pilot-extension-for-chatgpt-impactful-functionalities/"><u>Exploring the Co-Pilot Extension for ChatGPT: Impactful Functionalities</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-comprehensive-insights-into-polarr-photo-enhancer/"><u>In 2024, Comprehensive Insights Into Polarr Photo Enhancer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-video-excellence-upgrade-visuals-with-winxvideo-ais-cutting-edge-technology/"><u>Maximize Video Excellence: Upgrade Visuals with Winxvideo AI's Cutting-Edge Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-digital-marketplace-the-power-of-chatgpt-in-freelance-work/"><u>Navigating the Digital Marketplace: The Power of ChatGPT in Freelance Work</u></a></li>
+<li><a href="https://article-tips.techidaily.com/optimal-zooctorial-design-arrays-for-2024/"><u>Optimal Zooctorial Design Arrays for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-30-innovative-point-of-sale-systems-excluding-gpt/"><u>The Top 30 Innovative Point-of-Sale Systems, Excluding GPT</u></a></li>
 </ul></div>
 

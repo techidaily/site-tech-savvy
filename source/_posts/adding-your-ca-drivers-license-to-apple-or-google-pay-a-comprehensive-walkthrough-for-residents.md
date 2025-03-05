@@ -1,7 +1,7 @@
 ---
 title: "Adding Your CA Driver’s License to Apple or Google Pay: A Comprehensive Walkthrough for Residents"
-date: 2025-02-15T02:18:13.684Z
-updated: 2025-02-16T01:55:16.453Z
+date: 2025-03-01T21:47:59.916Z
+updated: 2025-03-05T01:03:26.496Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
 From the Wallet app, tap on the + (plus) sign at the top right of your screen to add a card. Then, choose the type of card you're adding; if it's a payment method, select Debit or Credit Card. The other options are for Transit Cards and [Driver's License](https://www.zdnet.com/article/how-to-add-your-drivers-license-to-the-apple-wallet-app/) or [State ID](https://www.zdnet.com/article/apple-adds-drivers-licenses-state-ids-to-apple-wallet/), and are limited to a few states within the US.
@@ -74,10 +70,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -85,10 +77,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -115,10 +103,6 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -144,10 +128,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -197,18 +177,20 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-cash-flow-maximizing-income-through-content-marketing-for-2024/"><u>[New] Vimeo Cash Flow Maximizing Income Through Content Marketing for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-frame-perfect-our-top-10-photo-lenses-list-for-2024/"><u>[Updated] Frame Perfect Our Top 10 Photo Lenses List for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-elevate-your-social-score-best-tools-for-post-and-engagement/"><u>[Updated] In 2024, Elevate Your Social Score Best Tools for Post and Engagement</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/boost-creativity-and-performance-with-these-top-10-free-tiktok-editors-for-mac-for-2024/"><u>Boost Creativity and Performance with These Top 10 FREE TikTok Editors for Mac for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/defining-intelligence-will-ai-beat-human-judges/"><u>Defining Intelligence: Will AI Beat Human Judges?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/echoing-futures-next-generation-of-ai-talks/"><u>Echoing Futures: Next Generation of AI Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-llama-2s-features-and-applications/"><u>Exploring Llama 2'S Features and Applications</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme Narzo N53? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tech-showdown-pixel-9-pro-xl-vs-iphone-15-pro-camera-face-off-who-won-and-whats-the-hidden-twist-analysis/"><u>Tech Showdown: Pixel 9 Pro XL Vs. IPhone 15 Pro Camera Face-Off | Who Won and What's the Hidden Twist? - Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-picks-unleash-creativity-with-free-text-visualizers-online-for-2024/"><u>Top Picks Unleash Creativity with Free Text Visualizers Online for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-how-to-recover-or-locate-d3dx928dll-when-lost/"><u>Troubleshooting: How to Recover or Locate d3dx9_28.dll When Lost</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-intrinsic-intelligence-implementations-in-hardware/"><u>Unraveling Intrinsic Intelligence Implementations in Hardware</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-easy-recording-tips-for-your-hp-laptops-camera/"><u>[New] 2024 Approved Easy Recording Tips for Your HP Laptop's Camera</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-streamline-video-shoot-excellent-camera-tripods-reviewed/"><u>[New] In 2024, Streamline Video Shoot Excellent Camera Tripods Reviewed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-link-it-up-sharing-youtube-on-ig-snapshots-for-2024/"><u>[New] Link It Up! Sharing YouTube on IG Snapshots for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-fixing-blank-sequences-during-obs-recording/"><u>[Updated] In 2024, Fixing Blank Sequences During OBS Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-mastering-the-open-source-proton-vpn-add-on-on-your-web-browser-insights-from-zdnet/"><u>A Step-by-Step Guide: Mastering the Open-Source Proton VPN Add-On on Your Web Browser - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-and-robust-privacy-protection-in-depth-analysis-of-private-internet-access-the-top-open-source-vpn-solutions-on-zdnet/"><u>Affordable and Robust Privacy Protection: In-Depth Analysis of Private Internet Access - The Top Open Source VPN Solutions on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-evaluation-of-private-internet-access-affordable-and-robust-open-source-vpn-revealed-on-zdnet/"><u>Comprehensive Evaluation of Private Internet Access: Affordable and Robust Open-Source VPN Revealed on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/disabling-your-vpn-a-comprehensive-guide-for-various-gadgets-tech-insights-by-zdnet/"><u>Disabling Your VPN: A Comprehensive Guide for Various Gadgets | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-best-lightworks-substitutes-and-easy-downloads-for-video-editing-enthusiasts/"><u>Discover the Best Lightworks Substitutes & Easy Downloads for Video Editing Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-vpn-routers-for-optimal-privacy-and-security-tech-insights-by-zdnet/"><u>Discover the Leading VPN Routers for Optimal Privacy and Security | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-of-zero-cost-iphone-vpn-applications-enhanced-privacy-and-security-insights/"><u>Discover the Ultimate Selection of Zero-Cost iPhone VPN Applications – Enhanced Privacy and Security Insights!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-the-depth-of-photography-with-polarrs-advanced-editing/"><u>Exploring the Depth of Photography with Polarr’s Advanced Editing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-for-crafting-top-tier-memes-on-9gag-for-2024/"><u>Step-By-Step for Crafting Top-Tier Memes on 9GAG for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-overcome-stuttering-in-serious-sam-4-on-your-computer/"><u>Troubleshooting Guide: How To Overcome Stuttering in Serious Sam 4 on Your Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stash GPT Chats: A Step-by-Step Guide"
-date: 2024-08-21T15:36:56.353Z
-updated: 2024-08-22T15:36:56.353Z
+date: 2025-02-25T19:24:48.534Z
+updated: 2025-03-04T22:53:33.051Z
 tags:
   - chatgpt
   - open-ai
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/ece2bc720a8bffcaadf07cecfb821d8b916ae290e
 3. Once on the last text, press **Ctrl + C** or **Cmd + C** on your keyboard or right-click and select **Copy** to copy the chat to your clipboard.
 4. Open the Notepad or any text editor on your computer and paste this conversation into it. Then save the file with a TXT extension.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save Your ChatGPT Chat to HTML or PDF Files Using Browser Extensions
 
 [Export ChatGPT Conversation](https://chrome.google.com/webstore/detail/export-chatgpt-conversati/clgidpflecgaaabfcmdmkcgebpbadgoc/) is a Chrome extension that lets you copy your entire chat thread to your clipboard or download it to your local drive as HTML. You can also use this extension to export chats to your Notion workspace.
@@ -57,16 +54,8 @@ thumbnail: https://thmb.techidaily.com/ece2bc720a8bffcaadf07cecfb821d8b916ae290e
 2. Go to the extension icon in the top-right corner of your Chrome browser and click the **Export ChatGPT Conversation** extension.  
 ![Export ChatGPT extension in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/export-chatgpt-extension-in-chrome.jpg)
 3. Select the appropriate option to **Copy to Clipboard**, **Export to Notion**, or **Download as Images**.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT conversation saving options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-saving-options.jpg)
 4. If you've copied it to the clipboard, paste the text into a plain textfile on your local drive and save it as a **.txt**.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 5. **To download each conversation as an image**, select **Download as Images.** The extension opens a new browser tab containing images of the chosen conversation. Click the download icon in the top-right corner of an image to save it as a PNG.  
 ![ChatGPT conversation as image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-as-image.jpg)
 6. **To download the entire conversation as HTML** instead, select **Download as Images.** Once the new tab loads with your chat images, right-click the page and select **Save as**. Select a preferred location on your local drive and click **Save**. You can open the downloaded HTML using any web browser.  
@@ -82,27 +71,15 @@ The powerful video editing program for your Windows PC</a>
 2. Go to **Settings**.  
 ![ChatGPT settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-settings-option.jpg)
 3. Click **Data Controls**.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 4. Click **Export** to the right of **Export data**.  
 ![ChatGPT settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-settings-menu.jpg)
 5. From the pop-up, click **Confirm export**; this sends a download link to your registered email address.  
 ![Export confirmation modal in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/export-confirmation-modal-in-chatgpt.jpg)
 6. Check your email for the download link and click **Download data export** to download your ChatGPT conversation history to your device's local storage as a zipped folder.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![OpenAI email download data export](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/openai-email-download-data-export.jpg)
 7. Once you [unzip the file](https://www.makeuseof.com/unzip-files-windows-10/), you can view a human-readable format of your conversation history by opening the HTML version in the browser. For more technical use cases, you can open the JSON formats.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ChatGPT history unzipped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-history-unzipped.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Clear ChatGPT Conversations
 
  Your purpose for backing up your conversations with ChatGPT might be to clear existing conversations. To do this:
@@ -118,14 +95,11 @@ The powerful video editing program for your Windows PC</a>
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +108,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-guide-to-selecting-best-video-grabber-tools-for-2024/"><u>[New] Essential Guide to Selecting Best Video Grabber Tools for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-navigating-background-extraction-in-figma-designs-easily/"><u>[Updated] 2024 Approved Navigating Background Extraction in Figma Designs Easily</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-journey-to-mastery-discovering-the-quintessential-5-online-title-makers/"><u>[Updated] In 2024, Journey to Mastery Discovering the Quintessential 5 Online Title Makers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-leading-20-anime-theme-anthems-for-2024/"><u>[Updated] Leading 20 Anime Theme Anthems for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-the-art-of-instagrams-musical-emoji-use/"><u>[Updated] Mastering the Art of Instagram's Musical Emoji Use</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-perfecting-slide-deck-sharing-how-to-use-your-webcam-for-2024/"><u>[Updated] Perfecting Slide Deck Sharing How to Use Your Webcam for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>2024 Approved Unlocking Full Potential In-Depth Review of LG's Monitor Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wav-avi-movavi/"><u>無需花錢的在線 WAV 至 AVI 格式改變 - 利用 Movavi 翻譯器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertendo-arquivos-mmf-de-graca-o-solucao-mais-simplificada-do-movavi/"><u>Convertendo Arquivos MMF De Graça: O Solução Mais Simplificada Do Movavi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-13-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 13 If Youve Tried Everything</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-x-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone X iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mycam-reviewed-does-it-deliver-on-performance-promises/"><u>In 2024, MyCam Reviewed Does It Deliver on Performance Promises?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkv-to-mp4-conversion-guide-easy-tutorial-with-movavi/"><u>MKV to MP4 Conversion Guide - Easy Tutorial with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726224271579-movavi-mkv-3gp/"><u>Movavi 提供：免費在網路上讓 MKV 影片轉成 3GP格式的服務</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/passo-a-passo-como-transformar-arquivos-nef-em-jpeg-usando-o-windows-ou-mac/"><u>Passo a Passo: Como Transformar Arquivos NEF Em JPEG Usando O Windows Ou Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/telechargement-gratuit-convertissez-votre-fichier-rmvb-en-version-m4v-via-le-service-de-movavi/"><u>Téléchargement Gratuit : Convertissez Votre Fichier RMVB en Version M4V via Le Service De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformar-tu-musica-aac-en-calidad-wav-con-la-herramienta-gratuita-de-movavi-online/"><u>Transformar Tu Música AAC en Calidad WAV Con La Herramienta Gratuita De Movavi Online.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-file-mxf-in-mp3-senza-costi-con-il-servizio-di-conversione-online-di-movavi/"><u>Trasforma I File MXF in MP3 Senza Costi Con Il Servizio Di Conversione Online Di Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726227347193-cr2-png-movavi/"><u>오늘날의 CR2 이미지를 PNG로 자유성 원격 변환에 액세스 - Movavi</u></a></li>
+</ul></div>
 

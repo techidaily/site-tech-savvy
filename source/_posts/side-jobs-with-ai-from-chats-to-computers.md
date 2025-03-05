@@ -1,7 +1,7 @@
 ---
 title: "Side Jobs with AI: From Chats to Computers"
-date: 2025-02-13T02:17:09.396Z
-updated: 2025-02-16T00:20:55.500Z
+date: 2025-03-01T00:33:12.561Z
+updated: 2025-03-04T20:31:43.865Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,25 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+## Shownotes
+
+ This week, we've got the following tech news:
+
+* [Zoom Chief Says Video Calling Is Bad for Creativity](https://www.msn.com/en-us/money/companies/video-calling-is-bad-for-creativity-says-zoom-chief/ar-AA1fIP69)
+* [Did Cyber Attack Cause UK Air Traffic Control Chaos?](https://www.msn.com/en-gb/news/other/government-can-t-rule-out-cyber-attack-caused-air-traffic-chaos/ar-AA1fTpa8)
+
+ We've also got these tips and explainers:
+
+* [Reasons Why Gamers Should Buy a Retro Handheld](https://www.makeuseof.com/gamers-should-buy-a-retro-handheld-reasons-why/)
+* [Are ChatGPT Side Gigs Legit Money-Making Opportunities?](https://www.makeuseof.com/chatgpt-side-gigs-are-they-legit/)
+* [How to Use DOSBox to Play Retro PC Games on Any Device](https://www.makeuseof.com/tag/play-retro-games-dosbox/)
+* [Ways to Check If Your PC Parts Are Compatible Before You Buy](https://www.makeuseof.com/ways-check-pc-parts-compatible-before-buy/)
+
+ Christian Cawley, Gavin Phillips, and Ben Stegner host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey), [@gavinspavin](https://twitter.com/gavinspavin), and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 ## Shownotes
 
@@ -52,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Shownotes
 
  This week, we've got the following tech news:
@@ -75,34 +87,6 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 **SCROLL TO CONTINUE WITH CONTENT**
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Shownotes
-
- This week, we've got the following tech news:
-
-* [Zoom Chief Says Video Calling Is Bad for Creativity](https://www.msn.com/en-us/money/companies/video-calling-is-bad-for-creativity-says-zoom-chief/ar-AA1fIP69)
-* [Did Cyber Attack Cause UK Air Traffic Control Chaos?](https://www.msn.com/en-gb/news/other/government-can-t-rule-out-cyber-attack-caused-air-traffic-chaos/ar-AA1fTpa8)
-
- We've also got these tips and explainers:
-
-* [Reasons Why Gamers Should Buy a Retro Handheld](https://www.makeuseof.com/gamers-should-buy-a-retro-handheld-reasons-why/)
-* [Are ChatGPT Side Gigs Legit Money-Making Opportunities?](https://www.makeuseof.com/chatgpt-side-gigs-are-they-legit/)
-* [How to Use DOSBox to Play Retro PC Games on Any Device](https://www.makeuseof.com/tag/play-retro-games-dosbox/)
-* [Ways to Check If Your PC Parts Are Compatible Before You Buy](https://www.makeuseof.com/ways-check-pc-parts-compatible-before-buy/)
-
- Christian Cawley, Gavin Phillips, and Ben Stegner host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey), [@gavinspavin](https://twitter.com/gavinspavin), and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -135,22 +119,17 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length/"><u>[New] 2024 Approved Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-top-ringtones-for-pixel-devices/"><u>[New] Explore Top Ringtones for Pixel Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-boost-your-photo-workflow-in-windows-11-for-2024/"><u>[Updated] Boost Your Photo Workflow in Windows 11 for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enriching-video-storytelling-implement-3-vital-description-methods-on-instagram/"><u>2024 Approved Enriching Video Storytelling Implement 3 Vital Description Methods on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/art-of-ai-interaction-top-tutorials-for-commanders/"><u>Art of AI Interaction: Top Tutorials for Commanders</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-the-course-for-success-via-chatgpt-and-whisper-apis/"><u>Charting the Course for Success via ChatGPT & Whisper APIs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-user-data-safety-assessed/"><u>ChatGPT: User Data Safety Assessed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevate-your-home-cinema-with-our-picks-for-the-15-greatest-dolby-atmos-equipped-movies/"><u>Elevate Your Home Cinema with Our Picks for the 15 Greatest Dolby Atmos-Equipped Movies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fact-seeker-no-windows-gpt-client-is-not-malware/"><u>Fact Seeker: No, Windows GPT Client Is Not Malware</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/learn-to-bring-text-alive-free-animation-for-vids-for-2024/"><u>Learn to Bring Text Alive Free Animation for Vids for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-usb-c-dock-swift-driver-update-guide/"><u>Lenovo USB-C Dock: Swift Driver Update Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-premier-5-ai-prompt-generators-reviewed/"><u>The Premier 5 AI Prompt Generators Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ai-companion-chatgpt-for-a-healthier-happier-you/"><u>The Ultimate AI Companion: ChatGPT for a Healthier, Happier You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-free-easy-to-use-artificial-intelligence-tools/"><u>Top 6 Free, Easy-to-Use Artificial Intelligence Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-impostor-gpts-with-strategic-acknowledgments/"><u>Unmasking Impostor GPTs with Strategic Acknowledgments</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-14-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 14 Plus? How to Fix</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-hashtags-that-elevate-your-channels-visibility-and-value/"><u>[Updated] 2024 Approved Hashtags that Elevate Your Channels' Visibility & Value</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-filmmaking-top-choices-in-camera-lenses/"><u>[Updated] In 2024, Enhancing Filmmaking Top Choices in Camera Lenses</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-poco-m6-pro-4g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Poco M6 Pro 4G</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-c300-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia C300 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-factors-decide-on-integrating-ai-like-chatgpt-into-therapy/"><u>Critical Factors: Decide on Integrating AI Like ChatGPT Into Therapy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-stop-chatgpt-from-saving-your-conversations/"><u>How to Stop ChatGPT From Saving Your Conversations</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-cons-and-predictions-ai-in-your-budget-strategies/"><u>Pros, Cons, and Predictions: AI in Your Budget Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-silence-expert-techniques-to-restore-ringtones-on-iphones/"><u>Unlock Silence: Expert Techniques to Restore Ringtones on iPhones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-chatgpt-fails-to-review-its-own-words/"><u>Why ChatGPT Fails to Review Its Own Words</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winerror-unhandled-exception-wdf-blue-screen/"><u>WinError: Unhandled Exception, WDF Blue Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-on-the-edge-8-pioneering-ai-software-choices/"><u>Writing on the Edge: 8 Pioneering AI Software Choices</u></a></li>
 </ul></div>
 

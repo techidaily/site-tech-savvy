@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT: Cultivating Daily Mindfulness Practice"
-date: 2025-02-13T16:56:24.603Z
-updated: 2025-02-15T20:28:04.091Z
+date: 2025-02-27T02:21:55.600Z
+updated: 2025-03-04T22:28:45.910Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 
 ![Screenshot of a ChatGPT response to meditation setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-setup.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Ask ChatGPT Initial Questions About Meditation
 
  A great way to familiarize yourself with ChatGPT is to ask questions about any aspects of meditation that you want to learn more about. For example, you could use prompts such as:
@@ -58,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 
 ![Screenshot of a ChatGPT response to asking questions about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-asking-questions-about-meditation.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Of course, you must exercise caution when interacting with ChatGPT about such issues. When I asked about depression and meditation, the first line of the ChatGPT answer was, “I'm not a mental health professional, but I can provide some general information about the potential benefits of meditation for mental health.” Here’s [how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
 ## 3\. Use ChatGPT to Help Identify Your Intentions for the Meditation Session
@@ -79,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 
  It can be helpful to write down any useful suggestions you receive for future reference.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Start Your Meditation Session Using ChatGPT
 
  Now that you have defined your intentions, direct ChatGPT to prompt your meditation session in a way that reflects your needs. Use prompts like:
@@ -93,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 
 ![Screenshot of a ChatGPT response to meditation session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-session.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Because ChatGPT is a text-based service, it won’t lead you through a session as you would expect from a [meditation app like Insight Timer](https://www.makeuseof.com/deep-dive-into-insight-timer-meditation-app/), the [meditation and mindfulness app Calm](https://www.makeuseof.com/meditating-calm-app-improve-mindfulness/), or even a teacher. Instead, you’ll receive a list of ideas to work with, and you can consider which approaches might work best for you.
 
 ## 5\. Reflect Mindfully on Responses and Ask Further Questions for Clarity
@@ -106,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
  From the list of meditations I received, I asked for further guidance on my favorite suggestion, posing a more specific question: “I like the idea of Loving-Kindness (Metta) Meditation. Can you explain how to practice this in a 10-minute meditation session?” ChatGPT provided a step-by-step timed outline for my whole practice.
 
 ![Screenshot of a ChatGPT response refining answers about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-refining-answers-about-meditation.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Apply the ChatGPT Advice in Your Meditation Session
 
@@ -137,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 
  Of course, you can combine these answers with advice from other sources, such as our list of [meditation apps to help you pause for a mindful moment on the go](https://www.makeuseof.com/meditation-apps-mindful-moment-on-go/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT Can Be a Useful Tool to Help You Develop a Regular Meditation Habit
 
  Although ChatGPT can’t take the place of an experienced meditation guide or teacher, it can provide many valuable insights into how to meditate and even provide step-by-step guidance for your session.
@@ -166,21 +142,15 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/xploring-the-legal-aspects-of-youtube-content-capture-for-2024/"><u>[New] Exploring the Legal Aspects of YouTube Content Capture for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-blueprint-of-dynamic-dialogue-in-scripts/"><u>[Updated] The Blueprint of Dynamic Dialogue in Scripts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-15-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 15 Pro Max in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ace-your-queries-transformative-power-of-perplexity-ai/"><u>Ace Your Queries: Transformative Power of Perplexity AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bringing-voice-to-mobile-androids-chatgpt-revolution/"><u>Bringing Voice to Mobile: Android's ChatGPT Revolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emoji-free-tweet-space-linuss-revelations-shared-trojans-analyzed-and-chatgpt-critique/"><u>Emoji-Free Tweet Space, Linus's Revelations Shared, Trojans Analyzed, & ChatGPT Critique.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-high-frame-rate-filming-with-yi-for-2024/"><u>Exploring High Frame Rate Filming with YI for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/foremost-20-github-sourced-chatgpt-conversation-ideas/"><u>Foremost 20 Github-Sourced ChatGPT Conversation Ideas</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-14-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi 14 Pro Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a1x-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo A1x 5G Phone without PIN</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-6-devices-for-flawless-film-translation/"><u>In 2024, Ultimate 6 Devices for Flawless Film Translation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-dialogue-via-android-widget/"><u>Leveraging ChatGPT Dialogue via Android Widget</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-free-video-editors-for-32-bit-windows-computers-for-2024/"><u>New Top Free Video Editors for 32-Bit Windows Computers for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securing-chatgpt-does-it-need-improvement/"><u>Securing ChatGPT: Does It Need Improvement?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-11-pro-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 11 Pro Before the Plan Expires</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-are-we-enamored-with-ai-powered-chatbot-experiences/"><u>Why Are We Enamored with AI-Powered Chatbot Experiences?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-art-of-video-symbolism-6-websites-where-creativity-thrives-for-2024/"><u>[New] The Art of Video Symbolism 6 Websites Where Creativity Thrives for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-5-best-racing-simulator-games/"><u>[Updated] In 2024, 5 Best Racing Simulator Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpts-independence-a-valid-argument/"><u>Auto-GPT's Independence: A Valid Argument?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-legality-of-firing-over-chatgpt-usage-a-detailed-analysis/"><u>Exploring the Legality of Firing Over ChatGPT Usage: A Detailed Analysis</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-poco-c55-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Poco C55 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-10-pro-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo Reno 10 Pro 5G FRP Locks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/is-av1-the-clear-winner-against-vp9-in-2024/"><u>Is AV1 The Clear Winner Against VP9, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-text-exceedance-in-chatgpt/"><u>Mastering Text Exceedance in ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-tech-adoption-tips-harnessing-the-power-of-chatgpt/"><u>Top 6 Tech Adoption Tips: Harnessing the Power of ChatGPT</u></a></li>
 </ul></div>
 

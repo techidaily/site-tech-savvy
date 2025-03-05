@@ -1,7 +1,7 @@
 ---
 title: "Experts' Pick: The Ultimate Collection of iPhone 16 and iPhone 16 Pro Cases Featuring Maximum Durability & Style | ZDNET"
-date: 2025-02-08T23:13:13.012Z
-updated: 2025-02-15T21:00:14.535Z
+date: 2025-03-02T02:40:38.137Z
+updated: 2025-03-04T17:36:38.548Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0509377c-aff5-4392-b390-4dc69f37cc38%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best iPhone 16 cases of 2024
 
 Show less 
@@ -46,10 +42,6 @@ Cons
 * Only available for iPhone 16 Pro models
 
 ## Nomad Sport Case
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best iPhone 16 case overall
 
@@ -104,10 +96,6 @@ Cons
 
 ## Pitaka Ultra Slim case
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best thin iPhone 16 case
 
 Bulky phone cases are annoying, especially if you prefer the Plus version of iPhones. Many protective cases have this problem, making them hard to grasp and stick in your pocket. A Pitaka Ultra phone case will fix this problem.
@@ -131,10 +119,6 @@ Pros
 
 Cons 
 * Low drop protection
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Smartish Gripmunk case
 
@@ -161,10 +145,6 @@ Pros
 
 Cons 
 * Pricier
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Mous Limitless 6.0
 
@@ -223,10 +203,6 @@ Cons
 
 ## Moft Snap Case Movas
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best vegan-leather iPhone 16 case
 
 Leather is always a stylish option to keep around your phone, but sustainably sourcing it can always be questionable. Moft's Snap Case Movas is our solution to that problem.
@@ -253,10 +229,6 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Nomad Modern Leather Case
 
 ### Best leather case for iPhone 16
@@ -270,10 +242,6 @@ That being said, leather is not everybody's thing. But, if you are in the market
 **Nomad Modern Leather case features:** 8 feet drop protection | Sustainably sourced leather | MagSafe and magnetic back
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case?
 
@@ -299,10 +267,6 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -321,10 +285,6 @@ To choose these iPhone 16 cases, we performed extensive research over every corn
 On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the most protective for their drop protection and protective features. 
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best phone case brand?
 
@@ -392,22 +352,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-use-zoom-breakout-rooms/"><u>[New] In 2024, How to Use Zoom Breakout Rooms</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-premium-displays-the-ultimate-guide-for-xbox-s-series-x/"><u>[Updated] Unveiling Premium Displays The Ultimate Guide for Xbox S Series X</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-building-your-own-studiopc-an-all-inclusive-guide-for-4k-editors/"><u>2024 Approved Building Your Own StudioPC An All-Inclusive Guide for 4K Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024-gifmp4/"><u>2024年に人気! 高速で簡単な GIFからMP4への変換ツールを無料でご提案します</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6laf44k344oz44ox44or/"><u>超シンプル</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030109700-dvd/"><u>最新オファー! 国際標準の日本語DVDコピーツールを含む、リーズナブルなソフト選び方 - 今すぐダウンロード</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bulk-mp4-conversion-for-mpg-mp3-files-without-cost-quick-steps-on-windows/"><u>Bulk MP4 Conversion for MPG, MP3 Files Without Cost – Quick Steps On Windows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-razer-video-feedback-for-2024/"><u>Comprehensive Razer Video Feedback for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-list-of-no-cost-mp3-tags-software-for-streamlined-song-organization-in-2n4/"><u>Discover the Ultimate List of No-Cost MP3 Tags Software for Streamlined Song Organization in 2N4!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-to-stop-starcraft-2-from-hanging-or-crashing-on-your-computer/"><u>Expert Advice to Stop Starcraft 2 From Hanging or Crashing on Your Computer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-unexpected-how-ai-is-shaping-unprecedented-job-roles-and-their-mysterious-titles-zdnet-analysis/"><u>Exploring the Unexpected: How AI Is Shaping Unprecedented Job Roles and Their Mysterious Titles | ZDNET Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030344163-gopro/"><u>GoPro映像上下反転技術：ステップバイステップで学ぶ</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-views-through-effective-youtube-thumbnail-selection/"><u>In 2024, Boost Views Through Effective YouTube Thumbnail Selection</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unraveling-the-mystery-of-online-video-sharing/"><u>In 2024, Unraveling the Mystery of Online Video Sharing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029646716-iphoneyoutube/"><u>ステップバイステップ: IPhoneにYouTube音楽コンテンツをダウンロードする方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44or44k944kz44oz55s76z2i6kiy6yyy44gr5asx5pwx44gz44kl5li744gq55cg55sx44go44oi44op44ow44or44k344ol44o844og44kj44oz44kw5oml6acg/"><u>パソコン画面記録に失敗する主な理由とトラブルシューティング手順</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mmediate-mastery-skilled-thumbnails-for-valorants-highlights/"><u>[New] Immediate Mastery - Skilled Thumbnails for Valorant's Highlights</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-streamline-your-podcasts-effective-editing-tips-for-garageband-users-for-2024/"><u>[New] Streamline Your Podcasts Effective Editing Tips for GarageBand Users for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unlock-audience-attention-top-6-video-styles-for-2024/"><u>[New] Unlock Audience Attention Top 6 Video Styles for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-reinstating-windows-photo-viewer-on-windows-10-a-twin-strategy/"><u>2024 Approved Reinstating Windows Photo Viewer on Windows 10 A Twin Strategy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-engagement-charting-the-10-paths-to-better-gpt/"><u>Enhanced Engagement: Charting the 10 Paths to Better GPT</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/experience-fast-performance-with-motorola-mg7700-an-expert-review/"><u>Experience Fast Performance with Motorola MG7700 - An Expert Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/first-look-at-langchains-large-language-models/"><u>First Look at LangChain's Large Language Models</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-multi-operating-systems-with-macbook-run-ubuntu-in-xcode-and-expand-your-tools-arsenal-guides-by-zdnet/"><u>Master Multi-Operating Systems with MacBook: Run Ubuntu in XCode and Expand Your Tools Arsenal | Guides by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ios-screen-capture-a-detailed-walkthrough-for-iphone-users/"><u>Mastering iOS Screen Capture: A Detailed Walkthrough for iPhone Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-motorola-moto-g-stylus-5g-2023-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Motorola Moto G Stylus 5G (2023) has been deleted</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design-for-2024/"><u>Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-technology-discover-6-new-avenues-with-chatgpts-code-conductor/"><u>Transformative Technology - Discover 6 New Avenues with ChatGPT's Code Conductor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-possible-vulnerabilities-in-chatgpt/"><u>Unveiling Possible Vulnerabilities in ChatGPT</u></a></li>
 </ul></div>
 

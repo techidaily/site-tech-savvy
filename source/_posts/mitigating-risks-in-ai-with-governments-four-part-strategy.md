@@ -1,7 +1,7 @@
 ---
 title: Mitigating Risks in AI with Government's Four-Part Strategy
-date: 2024-08-21T15:35:44.260Z
-updated: 2024-08-22T15:35:44.260Z
+date: 2025-02-27T23:23:43.217Z
+updated: 2025-03-04T23:03:09.390Z
 tags:
   - chatgpt
   - open-ai
@@ -56,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 * That humans retain ultimate control of AI systems and their decision-making transparently.
 * AI systems are intentionally limited in ways that are advantageous to humans.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Dedicated Regulatory Agency
 
 ![engineer monitoring ssh logins on linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/engineer_monitoring_ssh_logins.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Owing to its potential impact on human civilization, discussion around AI safety typically draws parallel to the risk of a health crisis or a nuclear disaster. Avoiding potential nuclear incidents necessitates a dedicated agency like the US's NRC (Nuclear Regulatory Commission). Avoiding the risk of dangerous health crises necessitates the establishment of the FDA (Food and Drug Administration)
 
  Similarly, to ensure that things don't go wrong in the AI space, a dedicated agency akin to the FDA and the NRC is necessary as AI continues to make aggressive inroads into all areas of our life. Unfortunately, the issue of in-country AI regulation is a tricky one. The work of any dedicated regulatory agency is likely to be agonizingly hard without cross-border cooperation. Just like the US's NRC (Nuclear Regulatory Commission) needs to work hand in hand with the International Atomic Energy Agency (IAEA) to be at its best, any dedicated in-country AI regulatory agency would also need an international analog.
@@ -77,16 +71,10 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 * Overseeing the ethical review process of AI projects
 * Collaboration and cross-country cooperation on AI safety and ethics
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Addressing Copyright and Intellectual Property Concerns
 
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
 
  How? Well, many of today's AI systems are trained using copyrighted materials. You know, copyrighted articles, copyrighted songs, copyrighted images, etc. That's how tools like [ChatGPT, Bing AI, and Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) can do the awesome things they do.
@@ -102,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 * To ensure innovation in the AI space while safeguarding the rights of original creators, AI regulations should redefine the concepts of fair use and transformative work in the context of AI-generated content. Clearer definitions and guidelines are needed to ensure that AI space can continue to improve while respecting copyright boundaries. It is essential to strike a balance between innovation and preserving the rights of content creators.
 * Clear pathways for collaboration with right holders. If AI systems are going to use people's intellectual property anyway, there should be clear pathways or frameworks for AI developers and rights-owners to collaborate, especially in terms of financial compensations, if the derivative work of such intellectual properties is commercialized.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## AI Regulation Is a Desperately Needed Fix
 
  While artificial intelligence has emerged as a promising fix to many of our societal problems, AI itself is rapidly becoming a problem needing an urgent fix. It's time to take a step back, reflect, and make the necessary fixes to ensure AI's positive impact on society. We desperately need an urgent recalibration of our approach to building and using AI systems.
@@ -119,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +111,26 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-instagrams-filter-features-for-high-quality-images/"><u>[New] In 2024, Navigating Instagram's Filter Features for High-Quality Images</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-stand-out-in-a-sea-of-content-our-offer-includes-50-free-banners/"><u>[Updated] 2024 Approved Stand Out in a Sea of Content - Our Offer Includes 50 Free Banners!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-writers-journey-through-podcast-production/"><u>[Updated] The Writer's Journey Through Podcast Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webmogv-moveavey/"><u>無償でWebmへの変換が可能なオンラインOGVコンバータ: Moveaveyの使用ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cambiar-tu-video-de-tipo-mpeg-al-contenedor-m4a-gratis-con-el-servicio-online-rapido-y-facil-de-movavi/"><u>Cambiar Tu Video De Tipo MPEG Al Contenedor M4A Gratis Con El Servicio Online Rápido Y Fácil De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertissez-vos-chansons-au-format-aiff-sans-frais-logiciel-wma-a-aiff-movavi-online/"><u>Convertissez Vos Chansons Au Format AIFF Sans Frais - Logiciel WMA À AIFF Movavi Online.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-s17e-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo S17e to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-defy-2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Defy 2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/inside-look-at-youtubes-creator-studio-interface/"><u>Inside Look at YouTube's Creator Studio Interface</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-video-production-tools-by-trygg-discover-movavis-capabilities/"><u>Professional Video Production Tools by Trygg - Discover Movavi's Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-phantom-device-mistake-in-windows-1011/"><u>Resolving Phantom Device Mistake in Windows 10/11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spark-interest-fast-unique-bios-and-hashtags-for-tinder-success/"><u>Spark Interest Fast Unique Bios and Hashtags for Tinder Success</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stanleys-j5c09-reviewed-big-capacity-efficient-performance/"><u>Stanley's J5C09 Reviewed: Big Capacity, Efficient Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-implementing-ai-for-advanced-object-tracking-techniques/"><u>Step-by-Step Tutorial on Implementing AI for Advanced Object Tracking Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/titel-webm-conversiepunten-begrijpen-verwerking-en-gebruik-van-webm-formaat-documenten/"><u>Titel: WebM-Conversiepunten Begrijpen: Verwerking en Gebruik Van WebM-Formaat Documenten</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-18-free-film-editing-software-options-for-windows-11-8-and-7-users/"><u>Top 18 Free Film Editing Software Options for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/topamazing-les-logiciels-de-retouche-photo-les-plus-efficaces-pour-macos-selection-de-movavi/"><u>Topamazing: Les Logiciels De Retouche Photo Les Plus Efficaces Pour macOS - Sélection De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasformare-i-file-webp-in-formato-tiff-online-gratuitamente-con-movavi/"><u>Trasformare I File WebP in Formato TIFF Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>Unlocking Zoom's Potential Learn How to Use Video Filters</u></a></li>
+</ul></div>
 

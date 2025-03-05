@@ -1,7 +1,7 @@
 ---
 title: "Discovering AI: Insights From 9 Expert Community Sessions"
-date: 2024-08-21T15:36:58.256Z
-updated: 2024-08-22T15:36:58.256Z
+date: 2025-02-27T18:47:36.838Z
+updated: 2025-03-04T16:33:10.200Z
 tags:
   - chatgpt
   - open-ai
@@ -45,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/3835b5c9324135a25937f991ea8300cd53ce37fdc
 
  Let’s say you’re interested in ChatGPT. While you can’t train LLMs with other users, you can search for [effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/).
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. r/ChatGPTJailbreak
 
 ![ChatGPT Jailbreak Prompts on Reddit Communities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-for-chatgpt-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ChatGPT has less rigid restrictions than other chatbots. For instance, Bing Chat automatically terminates conversations that go against its guidelines, while ChatGPT still responds. You can generate different outputs by rephrasing your prompts.
 
  The below image shows ChatGPT rejecting a request to portray a manga character.
@@ -65,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/3835b5c9324135a25937f991ea8300cd53ce37fdc
 
 ![ChatGPT Accepts Roleplay Request and Starts Acting Like Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepts-roleplay-request-as-tomie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
 
 ## 4\. ChatGPT Prompt Engineers
@@ -94,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/3835b5c9324135a25937f991ea8300cd53ce37fdc
 
 ![A Reddit Community for Sharing Prompt Design Tricks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-prompt-design.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  r/PromptDesign is a good place to master prompt engineering. Instead of sharing model-specific prompts, the group discusses ways users communicate with AI tools. Its members test various platforms regularly.
 
  Note that this subreddit covers relatively advanced topics compared to other groups. The members don’t just share prompts. Expect most techniques, tools, and methods discussed to have steep learning curves.
@@ -116,30 +103,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  r/StableDiffusion is the largest subreddit dedicated to Stable Diffusion. The community allows sharing workflows. However, it primarily encourages users to post outputs and discuss relevant AI news—prompt engineering is merely a part of generating AI art.
 
  The group might be helpful if you prefer Stable Diffusion over Midjourney and Dall-E models. Study the system’s limits and capabilities. Users post various media forms, including 3D images, 2D portraits, and animations.
 
  Meanwhile, artists who prefer other text-to-image models could use the group for comparisons. See which system provides the best outputs. You might even find Stable Diffusion users testing your preferred art styles frequently.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Sales, Marketing, Social Media, Artificial Intelligence (AI), ChatGPT Technology Innovation Network
 
 ![LinkedIn Group to Share AI Tips for Salespeople and Marketers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/linkedin-ai-group.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’s currently the largest AI community on LinkedIn. The group has around a million members worldwide, many of whom post regularly. It gets status updates every few minutes.
 
  As its name suggests, the community focuses on the applications of AI in sales, marketing, and social media ads. Most just share prompts. But you’ll also find engaging discussions about [automating work tasks](https://www.makeuseof.com/tasks-freelancers-should-automate/), like lead generation, appointment setting, and client management.
@@ -148,9 +121,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Perhaps the only downside is the group gets plenty of spam. You might have to scroll through aggressive ads and campaigns before finding valuable content.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Connect With Fellow Professionals in the AI Industry
 
  AI is constantly evolving. No individual can keep up with every AI-driven platform, model, or method that global tech leaders release. You’d do well to join communities instead. Connect with like-minded professionals, discuss AI’s real-life applications, and gain reliable insights into new systems. You can only test so many tools yourself, after all.
@@ -167,8 +137,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +144,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/web-movavi-wtv-converter/"><u>«無償WEB上の動画形式変換ツール - Movavi WTV Converter»</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-defending-your-youtube-profile-for-2024/"><u>[New] Defending Your YouTube Profile for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-first-rate-biodegradable-filming-gear-tutorials/"><u>[New] In 2024, First-Rate Biodegradable Filming Gear Tutorials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-mpeg-avs-movavi/"><u>1. 網路版無料移動電話影片 MPEG-AVS 改編：Movavi 轉頻器指南</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-find-the-best-and-easy-guide-to-use/"><u>7 : Find the Best and Easy Guide to Use!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpegifmovavi/"><u>簡単なステップでMPE画像を自由にGIFに変換：Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversor-libre-en-linea-3gpp-para-formato-m4a-por-movavi/"><u>Conversor Libre en Línea 3GPP Para Formato M4A Por Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/entendendo-o-contraste-de-mov-e-mp4-qual-tem-as-vantagens/"><u>Entendendo O Contraste De MOV E MP4: Qual Tem as Vantagens?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-selection-top-5-free-tools-for-extracting-pin-videos-for-2024/"><u>Expert Selection Top 5 Free Tools for Extracting Pin Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-veuillez-convertir-votre-fichier-caf-en-format-ogg-conversion-video-professionnelle-avec-movavi/"><u>Gratuit Veuillez Convertir Votre Fichier CAF en Format OGG - Conversion Vidéo Professionnelle Avec Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-generate-a-portion-of-your-screen-as-an-image-in-windows-10-easily/"><u>How to Generate a Portion of Your Screen as an Image in Windows 10 Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-s23plus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy S23+ Data? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-reels-crafted-by-a-true-creative-genius/"><u>Instagram Reels Crafted by a True Creative Genius</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-beveled-video-format-converter-m4v-to-aac-free-download-at-movavi/"><u>Online Beveled Video Format Converter M4V to AAC Free Download at Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/sky-high-drone-competition-guide-plus-5-innovative-fpv-systems-for-2024/"><u>Sky High Drone Competition Guide + 5 Innovative FPV Systems for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategie-avanzate-per-la-compressione-dei-file-video-mp4-utilizzando-il-software-di-movavi-tutorial-completo-e-facile-da-seguire/"><u>Strategie Avanzate per La Compressione Dei File Video MP4 Utilizzando Il Software Di Movavi: Tutorial Completo E Facile Da Seguire</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-graphical-errors-in-windows-a-comprehensive-guide-from-yl-software-experts/"><u>Troubleshooting Graphical Errors in Windows: A Comprehensive Guide From YL Software Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-guide-to-shopping-for-phones-at-prime-retailers/"><u>Your Guide to Shopping for Phones at Prime Retailers</u></a></li>
+</ul></div>
 

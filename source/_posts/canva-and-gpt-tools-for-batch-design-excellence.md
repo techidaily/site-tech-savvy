@@ -1,7 +1,7 @@
 ---
 title: "Canva & GPT: Tools for Batch Design Excellence"
-date: 2025-02-08T19:57:39.676Z
-updated: 2025-02-16T01:11:54.560Z
+date: 2025-02-27T01:44:57.285Z
+updated: 2025-03-04T18:19:46.282Z
 tags:
   - chatgpt
   - open-ai
@@ -28,17 +28,9 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Write a Prompt in ChatGPT
 
 ![ChatGPT prompt results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-prompt-results.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you struggle to generate ideas for content, ChatGPT can save you some brain power and provide all the content for you. If you don’t know how the chatbot works, see our [guide for how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/). Sign up on the [OpenAI](https://openai.com/blog/chatgpt) website and create a free account. In periods of high demand, it may take longer to create an account or even receive chatbot results.
 
@@ -51,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
  After ChatGPT generates your prompts, read over them. One of the [issues with using ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is occasionally it generates inaccurate information. If you’re making content that informs people, you should ensure that it is correct.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Copy the Text Into a Spreadsheet
 
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
@@ -64,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
  Highlight all the text from ChatGPT and copy it using **Cmd** \+ **C** on Mac or **Ctrl** \+ **V** on Windows. Back on your spreadsheet, select box **A2**. Leave the top row empty for now, you’re going to add labels to it later.
 
  Paste your content into A2 by using **Cmd** \+ **V** on Mac or **Ctrl** \+ **V** on Windows. Despite selecting only one box, each line of text will be input into a new row.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Tidy Up the Content
 
@@ -101,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Head to [Canva](https://www.canva.com) and choose a size for your bulk designs. Whether you’re using a pre-made template, or designing from a blank page, make sure your design isn’t overcrowded and that there will be enough space for your text.
 
  If you’ve already [made and published Canva templates](https://www.makeuseof.com/canva-how-to-create-publish-templates/), choose one of those, or if you’re designing from scratch, you could [use Canva’s Brand Kit feature](https://www.makeuseof.com/canva-how-to-use-brand-kit-feature/) to incorporate your branding into your design. Both of those features require a Canva Pro subscription or the free trial.
@@ -113,17 +93,9 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Add Text Placeholders
 
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Select the **Text** tool and write placeholders for your labels. Place them where your text will go on the design. Remember to give yourself space to accommodate different lengths of content.
 
@@ -143,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 ![Canva CSV input.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/curly-brackets.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select your Quotes placeholder text, then right-click > **Connect Data** \> **\[QUOTES\]**. This inputs your data into Canva, shown by your label now written in curly brackets. Do this again for your second set of content, and any others you’re adding. Select **Continue**.
 
 ![Canva's Bulk Create checkboxes.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apply-data-canva-bulk-create.jpg)
@@ -156,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 ## 9\. Review and Edit Your Designs
 
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After generation, your designs appear on their own page in a new tab. Scroll to view them all. If you applied Bulk Create to more than one design, you’ll have alternate designs for each set of text.
 
@@ -200,21 +164,21 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-internet-based-live-audio-capture-5-key-strategies/"><u>[Updated] Mastering Internet-Based Live Audio Capture 5 Key Strategies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-optimize-clarity-mastering-close-up-techniques-in-videoleap/"><u>[Updated] Optimize Clarity Mastering Close-Up Techniques in Videoleap</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/correcting-contact-details-in-protonvpn-extension/"><u>Correcting Contact Details in ProtonVPN Extension</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-a2-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Xiaomi Redmi A2 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nokia-c12-plus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nokia C12 Plus Phone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-windows-compatible-brother-l27n40dw-driver-software-downloads/"><u>Latest Windows Compatible Brother L27n40DW Driver Software Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-through-idea-stagnation-with-these-5-ai-assistants/"><u>Navigate Through Idea Stagnation With These 5 AI Assistants</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722988233117-no-more-interruptions-back-4-blood-stops-crashing-on-your-computer/"><u>No More Interruptions: Back 4 Blood Stops Crashing on Your Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-interviewing-techniques-with-chatgpt/"><u>Optimize Your Interviewing Techniques with ChatGPT</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/passos-faceis-para-solucionar-problemas-de-overcarga-no-software-obs-tutoriais-detalhados/"><u>Passos Fáceis Para Solucionar Problemas De Overcarga No Software OBS: Tutoriais Detalhados</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quit-juxtaposing-ai-pros-and-cons-insightful-observations/"><u>Quit Juxtaposing AI Pros & Cons: Insightful Observations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-tasks-top-7-dynamic-ai-methods/"><u>Revolutionizing Tasks: Top 7 Dynamic AI Methods</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simple-steps-to-reveal-hidden-colors-in-an-asus-device/"><u>Simple Steps to Reveal Hidden Colors in an Asus Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-workplace-evolved-embracing-ai-for-personal-success/"><u>The Workplace Evolved: Embracing AI for Personal Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/to-use-or-not-to-use-local-llm-heres-why/"><u>To Use or Not to Use Local LLM? Here's Why</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vlc-media-player-review-and-alternatives/"><u>VLC Media Player Review and Alternatives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-tech-mac-screenshoting-basics/"><u>[New] 2024 Approved Essential Tech Mac Screenshoting Basics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-do-reviewers-monetize-their-goods-analysis-vlogs-in-2024/"><u>[New] Do Reviewers Monetize Their Goods Analysis Vlogs, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-bring-your-spotify-mixes-online-5-top-playlist-conversion-apps-for-youtube/"><u>[Updated] 2024 Approved Bring Your Spotify Mixes Online 5 Top Playlist Conversion Apps for YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-list-10-empowering-flicks/"><u>[Updated] The Ultimate List 10 Empowering Flicks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-chrome-extensions-ranked-for-maximum-productivity/"><u>AI-Driven Chrome Extensions Ranked for Maximum Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-dramas-weaving-tales-with-chatgpt-rpgs/"><u>AI-Driven Dramas: Weaving Tales with ChatGPT RPGs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/an-in-depth-look-at-huawei-p10s-audio-experience-for-2024/"><u>An In-Depth Look at Huawei P10's Audio Experience for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-gpt-assist-in-finalizing-writings/"><u>Can GPT Assist in Finalizing Writings?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-mixology-mastery-showcase/"><u>ChatGPT's Mixology Mastery Showcase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-ai-minds-gpt-4-vs-gpt-35-analysis/"><u>Comparing AI Minds: GPT-4 Vs. GPT-3.5 Analysis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-x50-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor X50</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-your-3d-printing-routine/"><u>Integrating ChatGPT Into Your 3D Printing Routine</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-not-delivered-errors-a-comprehensive-guide-for-iphone-imessage/"><u>Solving 'Not Delivered' Errors: A Comprehensive Guide for iPhone iMessage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-journeying-in-chatgpt-inspired-rpgs/"><u>Step by Step: Journeying in ChatGPT-Inspired RPGs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tooninnovate-master-review-year-2024-edition/"><u>ToonInnovate Master Review - Year 2024 Edition</u></a></li>
 </ul></div>
 

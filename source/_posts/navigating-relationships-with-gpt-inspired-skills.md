@@ -1,7 +1,7 @@
 ---
 title: Navigating Relationships with GPT-Inspired Skills
-date: 2025-02-14T19:28:30.976Z
-updated: 2025-02-15T22:28:31.850Z
+date: 2025-03-03T01:27:59.862Z
+updated: 2025-03-05T00:31:10.907Z
 tags:
   - chatgpt
   - open-ai
@@ -52,15 +52,7 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 
 ![Screenshot of ChatGPT providing EQ advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-16-at-8-50-37-am.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Suddenly, you're not just "feeling bad." You've got a more acute description of how you're feeling: tension and guilt. This articulation is the first step towards understanding and managing your emotions, which are crucial parts of EQ.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enhancing Empathy
 
@@ -69,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
  ChatGPT might respond with something like, "As a person overlooked for a promotion, you might feel disappointed, underappreciated, or even question your competence." You've just gained a peek into your co-worker's potential emotional landscape.
 
  This exercise of considering diverse emotional perspectives doesn't just help in understanding others better—it's also a fantastic way to nurture empathy. Each time you do this, your EQ will get a little boost.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Practicing Emotional Self-Regulation
 
@@ -83,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
  ChatGPT might offer something like, "You could say, 'I value our collaborative spirit and feel frustrated when my ideas aren't considered. Could we discuss how to ensure everyone's thoughts are taken into account?'"
 
  And with a simple AI interaction, you've just taken a feeling of frustration and crafted a constructive response—one that is not reactive or overly emotional. That is emotional self-regulation at its finest.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT and Relationship Skills
 
@@ -107,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 * "What might I be feeling if I'm anxious about an upcoming presentation?" With this one, you're diving deep into self-awareness.
 
 ![Screenshot of ChatGPT providing follow up response regarding anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-2-anxiety-preso.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also ask follow-up questions for advice on how to regulate your anxiety. For example, ask, "How can I respond constructively when I'm criticized?" This prompt is like having a personal tutor for dealing with criticism—a key aspect of emotional self-regulation. Of course, you can always learn [how to write your own effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/).
 
@@ -141,19 +121,19 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-pro-choice-top-picks-of-10-premium-vimeo-video-download-tools-for-2024/"><u>[New] Pro Choice Top Picks of 10 Premium Vimeo Video Download Tools for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-art-of-low-volume-playback-system-guide/"><u>[New] The Art of Low-Volume Playback System Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-professional-screen-capture-using-adobe-captive-software/"><u>[Updated] 2024 Approved The Ultimate Guide to Professional Screen Capture Using Adobe Captive Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beneath-the-surface-of-ai-exploring-black-boxes/"><u>Beneath the Surface of AI: Exploring Black Boxes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-and-content-the-next-frontier-in-media-design/"><u>Chatbots and Content: The Next Frontier in Media Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envision-thinking-mindmappings-plus-chatgpt-synergy/"><u>Envision Thinking: Mindmappings + ChatGPT Synergy</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-recommendation-best-websites-to-download-game-of-thrones-ringtones/"><u>In 2024, Recommendation Best Websites to Download Game of Thrones Ringtones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/perfecting-picture-in-picture-setup-with-youtube-on-ios-for-2024/"><u>Perfecting Picture-in-Picture Setup with YouTube on iOS for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-speaker-fixing-a-nonfunctional-front-port/"><u>Revive Your Speaker: Fixing a Nonfunctional Front Port</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-401-unauthorized-mistake-a-step-by-step-guide/"><u>Solving the 401 Unauthorized Mistake: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-flour-factor-choosing-your-cookie-foundation/"><u>The Flour Factor: Choosing Your Cookie Foundation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-homeowners-manual-to-ai-and-chatgpt/"><u>The Homeowner's Manual to AI & ChatGPT</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-meizu-21-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Meizu 21 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-chatgpt-dialogues-expert-techniques-unveiled/"><u>Transform ChatGPT Dialogues: Expert Techniques Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-walkthrough-using-every-feature-in-macs-preview-software/"><u>[New] Comprehensive Walkthrough Using Every Feature in Mac's Preview Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-diving-deep-into-vidmas-screen-recording-features-for-2024/"><u>[Updated] Diving Deep Into Vidma's Screen Recording Features for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-youtube-creating-a-stellar-new-chanel/"><u>[Updated] In 2024, From Zero to YouTube Creating a Stellar New Chanel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debating-the-ethical-use-of-ai-for-security-risks/"><u>Debating the Ethical Use of AI for Security Risks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/first-steps-in-the-field-of-prompt-creation/"><u>First Steps in the Field of Prompt Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-device-freeze-code-0x887a0006-in-windows/"><u>Fixing Device Freeze - Code 0X887A0006 in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-excel-surpasses-gpt-based-interaction/"><u>How Excel Surpasses GPT-Based Interaction</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-se-2020-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone SE (2020) Without a Home Button</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-writing-with-ai-chatgpts-6-approaches/"><u>Innovative Writing with AI: ChatGPT's 6 Approaches</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewing-the-cyberpower-cp685avrg-an-effective-and-efficient-uninterruptible-power-supply-for-everyday-needs/"><u>Reviewing the Cyberpower CP685AVRG: An Effective and Efficient Uninterruptible Power Supply for Everyday Needs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secrets-unveiled-gaining-access-to-amazon-prime-at-student-rates-a-comprehensive-walkthrough/"><u>Secrets Unveiled: Gaining Access to Amazon Prime at Student Rates - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-msvcr100dll-file-cannot-be-found/"><u>Solutions for Resolving 'MSVCR100.DLL' File Cannot Be Found</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-innovation-unveiled-transfer-learning-in-artificial-intelligence/"><u>Tech Innovation Unveiled: Transfer Learning in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-path-to-ai-mastery-creating-a-unique-chatgpt/"><u>The Path to AI Mastery: Creating a Unique ChatGPT</u></a></li>
 </ul></div>
 

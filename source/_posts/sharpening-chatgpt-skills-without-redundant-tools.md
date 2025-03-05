@@ -1,7 +1,7 @@
 ---
 title: Sharpening ChatGPT Skills without Redundant Tools
-date: 2024-08-21T15:38:06.218Z
-updated: 2024-08-22T15:38:06.218Z
+date: 2025-03-02T23:49:41.577Z
+updated: 2025-03-04T20:41:36.496Z
 tags:
   - chatgpt
   - open-ai
@@ -49,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
 
  Considering such a reputation, when AppyPie's plugin popped up in the ChatGPT plugins store, it seemed like you'd be able to build apps on demand by simply describing what you want in plain language. Just type in a prompt describing the kind of app you want and have the plugin build it immediately.
@@ -66,26 +63,16 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
 
  It, at least in theory, is supposed to be able to do something akin to [what AutoGPT does](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/). Unfortunately, irrespective of the complexity of the task we set for it, the plugin couldn't deliver anything.
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
  Once you've provided a description of the kind of movie you want, the plugin only ever recommends movies that are available on Amazon's Prime streaming service. If you have a niche taste in movies, you'll find the recommendations to be mediocre at best.
@@ -96,16 +83,10 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
  Rather than hastening progress, the "quantity over quality" trajectory that the ChatGPT plugin store seems to be towing is promoting lacklustre plugins that clutter the store. These plugins divert attention from other more promising tools that could truly push ChatGPT to new heights. Nonetheless, we hope that as the plugin store matures, higher-quality offerings will surface.
@@ -118,14 +99,11 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +112,22 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-top-10-sound-enhancers-across-multiple-platforms/"><u>[New] In 2024, Top 10 Sound Enhancers Across Multiple Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-windows-10-capture-apps-ultimate-guide/"><u>[Updated] 2024 Approved Top Windows 10 Capture Apps Ultimate Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-effortlessly-edit-images-using-snapseed-tips/"><u>[Updated] Effortlessly Edit Images Using Snapseed Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-dandd-characters-with-chatgpt-and-ai-artistry-tools/"><u>Crafting D&D Characters with ChatGPT and AI Artistry Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-high-tech-gear-with-tom-innovations-in-computer-hardware/"><u>Exploring High-Tech Gear with Tom: Innovations in Computer Hardware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-artificial-intelligence-endeavors-the-pioneering-project-gemini/"><u>Google's Artificial Intelligence Endeavors – The Pioneering Project Gemini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-long-should-my-question-be-to-stay-within-chatgpts-range/"><u>How Long Should My Question Be to Stay Within ChatGPT's Range?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-13-mini-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 13 mini using macOS finder</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g23withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G23with/without a PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leadership-transition-in-openai-raises-gpt-concerns/"><u>Leadership Transition in OpenAI Raises GPT Concerns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mental-health-horizons-with-the-help-of-ai-innovations/"><u>Mental Health Horizons with the Help of AI Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-sunrise-simulation-alarms-expert-reviews-by-zdnet/"><u>Top-Rated Sunrise Simulation Alarms - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trust-issues-with-independent-gpt-tools/"><u>Trust Issues with Independent GPT Tools?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visual-synergy-how-to-integrate-chatgpts-image-analysis-into-your-workflow/"><u>Visual Synergy: How to Integrate ChatGPT's Image Analysis Into Your Workflow</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-helldivers-ii-wont-start-on-steam-and-how-to-successfully-fix-it/"><u>Why Helldivers II Won't Start on Steam and How to Successfully Fix It</u></a></li>
+</ul></div>
 

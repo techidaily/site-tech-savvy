@@ -1,7 +1,7 @@
 ---
 title: "Ensuring the Legacy of Classics: How ABBYY Brought Tolstoy Into the Digital Age"
-date: 2024-08-21T15:28:24.353Z
-updated: 2024-08-22T15:28:24.353Z
+date: 2025-03-01T23:34:26.014Z
+updated: 2025-03-05T00:35:52.237Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f53e109e380d118d9fb18d3fe.jpg
@@ -27,9 +27,6 @@ Apart from the finished works of fiction - prose, poetry, drama - these volumes 
 
 However, by the turn of the 21st century, the great writer’s works were turning into a bibliographic rarity. Unless preserved, it would have been a huge loss not only to millions of the writer's admirers, but also for universities, historians, and modern writers.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Tolstoy fans used technologies
 
 When Leo Tolstoy State Museum in Moscow, Russia, decided to digitize complete works of Tolstoy, they turned to ABBYY, aware of the company’s similar projects with European universities and libraries. The company’s text recognition technologies have already been successfully used to digitize works for Project Gutenberg digital library, [IMPACT](http://www.frakturschrift.com/en:projects:impact), [METAe](http://www.frakturschrift.com/en:projects:metae) and [Southampton University library](https://www.theguardian.com/higher-education-network/blog/2012/jul/09/university-of-southampton-library-digitising-resources) to name a few.
@@ -44,9 +41,6 @@ The work of volunteers was organized through a dedicated website – [readingtol
 
 As a result, the entire 46,820 pages and 14.5 million words were recognized and proofread within 14 days at the rate of 8.5 book volumes per day.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## From archive digitization to a trendsetting project
 
 Once all 90 volumes went online, ABBYY specialists joined efforts with tablet-maker Wexler to create 761 electronic books: one for each volume and for each piece of work. Now all of them are accessible at www.tolstoy.ru, the official Internet portal dedicated to the writer’s life and writings, developed by the Tolstoy Museum and the Tolstoy’s Estate-Museum in Yasnaya Polyana.
@@ -59,13 +53,6 @@ _By Daria Kertsenbaum_
 
 [OCR](https://tools.techidaily.com/abbyy/products/) [PDF](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -82,8 +69,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +76,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-tips-enhancing-focus-in-your-youtube-video-for-2024/"><u>[New] Essential Tips Enhancing Focus in Your YouTube Video for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-innovating-your-reality-essential-vr-peripherals-guide/"><u>[New] Innovating Your Reality Essential VR Peripherals Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-perfect-your-profile-easy-guide-for-instagram-videos-from-desktop-for-2024/"><u>[New] Perfect Your Profile Easy Guide for Instagram Videos From Desktop for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fbs-viral-hits-decoded-crafting-your-number-one-song-video-for-2024/"><u>[Updated] FB's Viral Hits Decoded Crafting Your Number One Song Video for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-iphone-xs-identity-verification-face-id-repair/"><u>[Updated] Mastering iPhone X's Identity Verification Face ID Repair</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-these-sham-ai-tools-risky-for-data-security/"><u>Beware: These Sham AI Tools Risky for Data Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chaatgpt-in-action-6-techniques-transforming-remote-work/"><u>ChaatGPT in Action: 6 Techniques Transforming Remote Work</u></a></li>
+<li><a href="https://win-hot.techidaily.com/extended-lifespan-and-enhanced-security-paying-for-continued-microsoft-windows-n-10-maintenance/"><u>Extended Lifespan and Enhanced Security: Paying for Continued Microsoft Windows N 10 Maintenance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/go-anywhere-stay-connected-understanding-metro-by-t-mobiles-unlimited-data-and-roaming-terms/"><u>Go Anywhere, Stay Connected: Understanding Metro by T-Mobile's Unlimited Data and Roaming Terms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-exploring-vidmas-screen-capture-tool/"><u>In 2024, Exploring Vidma's Screen Capture Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-for-dynamic-and-informative-presentations/"><u>Integrating ChatGPT for Dynamic and Informative Presentations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-anthropics-prompt-potential-via-claude-3/"><u>Maximizing Anthropic's Prompt Potential via Claude 3</u></a></li>
+<li><a href="https://extra-support.techidaily.com/save-big-top-6-inexpensive-action-cams-under-100-deals-for-2024/"><u>Save Big Top 6 Inexpensive Action Cams Under $100 Deals for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/separating-sentence-of-science-from-online-healers-claims/"><u>Separating Sentence of Science From Online Healers' Claims</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uniting-customer-care-chatgpt-meets-whatsapp/"><u>Uniting Customer Care: ChatGPT Meets WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whats-the-max-length-for-chatgpts-text-output/"><u>What's the Max Length for ChatGPT's Text Output?</u></a></li>
+</ul></div>
 

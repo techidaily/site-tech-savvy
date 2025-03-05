@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power of Conversational Computing: RTX Bot"
-date: 2024-08-21T15:34:18.017Z
-updated: 2024-08-22T15:34:18.017Z
+date: 2025-03-03T17:44:47.726Z
+updated: 2025-03-04T16:02:41.055Z
 tags:
   - chatgpt
   - open-ai
@@ -64,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
  The Chat with RTX installation will take some time to finish as it downloads and installs a large amount of data. After the installation process, hit **Close**, and you're done. Now, it's time for you to try out the app.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use Nvidia Chat with RTX
 
  Although you can use Chat with RTX like a regular online AI chatbot, I strongly suggest you check its RAG functionality, which enables you to customize its output based on the files you give access to.
@@ -81,51 +78,26 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
  Now your database is ready, you can set up Chat with RTX and start using it to answer your questions and queries.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Step 2: Set Up Environment
 
  Open Chat with RTX. It should look like the image below.
 
 ![Chat with RTX web interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chat-with-rtx-gui.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Under **Dataset**, make sure that the **Folder Path** option is selected. Now click on the edit icon below (the pen icon) and select the folder containing all the files you want Chat with RTX to read. You can also change the AI model if other options are available (at the time of writing, only Mistral 7B is available).
 
  You are now ready to use Chat with RTX.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Step 3: Ask Chat with RTX Your Questions
 
  There are several ways to query Chat with RTX. The first one is to use it like a regular AI chatbot. I asked Chat with RTX about the benefits of using a local LLM and was satisfied with its answer. It wasn't enormously in-depth, but accurate enough.
 
 ![Using Chat with RTX like a regular chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/2-using-chat-with-rtx-as-regular-chatbot.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But since Chat with RTX is capable of RAG, you can also use it as a personal AI assistant.
 
 ![Asking Chat with RTX personal questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/asking-personal-questions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Above, I've used Chat with RTX to ask about my schedule. The data came from a PDF file containing my schedule, calendar, events, work, and so on. In this case, Chat with RTX has pulled the correct calendar data from the data; you'll have to keep your data files and calendar dates updated for features like this to work properly until there are integrations with other apps.
 
  There are many ways you can use Chat with RTX's RAG to your advantage. For example, you can use it to read through legal papers and give a summary, generate code relevant to the program you're developing, get bulleted highlights about a video you're too busy to watch, and so much more!
@@ -140,9 +112,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Using Chat with RTX to summarize a YouTube video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/5-chat-with-rxt-summarizing-youtube-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  Chat with RTX's YouTube video analysis was pretty good and delivered accurate information, so it could be handy for research, quick analysis, and more.
 
 ## Is Nvidia's Chat with RTX Any Good?
@@ -157,9 +126,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  It is worth noting that the Chat with RTX version we are currently using is a demo. Later releases of Chat with RTX will likely become more optimized and deliver performance boosts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## What if I Don't Have an RTX 30 or 40 Series GPU?
 
  Chat with RTX is an easy, fast, and secure way of running an LLM locally without the need for an internet connection. If you're also interested in running an LLM or local but don't have an RTX 30 or 40 Series GPU, you can try other ways of running an LLM locally. Two of the most popular ones would be GPT4ALL and Text Gen WebUI. Try GPT4ALL if you want a plug-and-play experience locally running an LLM. But if you're a bit more technically inclined, running LLMs through Text Gen WebUI will provide better fine-tuning and flexibility.
@@ -172,8 +138,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +145,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-creativity-on-the-go-androidios-montages-top-8/"><u>[New] Seamless Creativity on the Go Android/iOS Montages Top 8</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premier-no-cost-screen-recorder-tool/"><u>[Updated] Premier No-Cost Screen Recorder Tool</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-your-vision-to-life-incorporating-free-lut-filters-into-obs-projects-for-2024/"><u>Bring Your Vision to Life Incorporating Free LUT Filters Into OBS Projects for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-simplified-communication-the-chrome-enhanced-gpt-tool/"><u>Experience Simplified Communication - The Chrome-Enhanced GPT Tool</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-low-res-to-hd-your-first-foray-into-frame-rates-for-2024/"><u>From Low-Res to HD Your First Foray Into Frame Rates for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hues-in-harmony-applying-color-principles-for-2024/"><u>Hues in Harmony Applying Color Principles for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-ios-17-should-you-update-or-stick-with-what-you-have/"><u>Navigating iOS 17: Should You Update or Stick With What You Have?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-effective-chatgpt-extensions-use/"><u>Strategies for Effective ChatGPT Extensions Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-unmasking-user-ids-a-guide-to-sids-in-windows-11/"><u>The Art of Unmasking User IDs: A Guide to SIDs in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-for-watches-unleashing-potential-via-chatgpt/"><u>The Future Is Now for Watches: Unleashing Potential via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tracing-the-lifeline-chatgpts-present-state/"><u>Tracing the Lifeline: ChatGPT’s Present State</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/uniting-visuals-the-art-of-video-sequence-composition/"><u>Uniting Visuals The Art of Video Sequence Composition</u></a></li>
+</ul></div>
 

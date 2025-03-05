@@ -1,7 +1,7 @@
 ---
 title: "Sham Tech Outsmarted: Keep Your Data Secure From Fakes!"
-date: 2024-08-21T15:38:01.423Z
-updated: 2024-08-22T15:38:01.423Z
+date: 2025-02-27T00:20:41.477Z
+updated: 2025-03-04T23:59:38.199Z
 tags:
   - chatgpt
   - open-ai
@@ -39,36 +39,20 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
@@ -83,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Trojan-PSW.Win64.Fobo
 
  Kaspersky researchers discovered that cybercriminals were using a fake ChatGPT desktop client for Windows to distribute a stealer Trojan. The Trojan, dubbed Trojan-PSW.Win64.Fobo, if installed on the user’s computer, can steal account details stored in various browsers, including Chrome, Edge, Firefox, and Brave.
@@ -108,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +102,22 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-structuring-a-significant-tiktok-close-up/"><u>[New] In 2024, Structuring a Significant TikTok Close-Up</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-melodic-mastery-top-15-educational-musician-oriented-vids-on-the-web/"><u>[Updated] In 2024, Melodic Mastery Top 15 Educational Musician-Oriented Vids on the Web</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-learn-how-to-create-compelling-youtube-closures-economically/"><u>2024 Approved Learn How To Create Compelling YouTube Closures Economically</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-preeminent-80s-effects-for-video-artistry/"><u>2024 Approved Preeminent 80S Effects for Video Artistry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-5s-transformation-4-future-features-we-anticipate/"><u>GPT-5's Transformation: 4 Future Features We Anticipate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-your-voice-to-direct-chatgpt-a-5-step-guide/"><u>Harness the Power of Your Voice to Direct ChatGPT: A 5-Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-balancing-volume-levels-in-obs-streaming/"><u>In 2024, Balancing Volume Levels in OBS Streaming</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-latest-version-of-amd-radeon-drivers-for-enhanced-gaming-on-windows-pcs/"><u>Install the Latest Version of AMD Radeon Drivers for Enhanced Gaming on Windows PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-timekeeping-redefined-by-chatgpt-for-smartwatchers/"><u>Intelligent Timekeeping Redefined by ChatGPT for Smartwatchers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-intelligence-exploring-ai-dialogues/"><u>Interactive Intelligence: Exploring AI Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/local-llm-advantages-and-drawbacks-a-quick-guide/"><u>Local LLM: Advantages & Drawbacks – A Quick Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-step-in-talking-machines-ai-breakthroughs/"><u>Next Step in Talking Machines: AI Breakthroughs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trusting-or-doubting-chatgpts-stance/"><u>Trusting or Doubting: ChatGPT's Stance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-messages-and-calls-while-using-iphonet-do-not-disturb-feature-a-guide-to-eight-key-solutions/"><u>Unlocking Messages & Calls While Using iPhone't Do Not Disturb Feature: A Guide to Eight Key Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-fraudgpt-proactive-steps-for-cyber-safety/"><u>Unmasking FraudGPT: Proactive Steps for Cyber Safety</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Battle for Brilliance: Is Advanced Gemini or Plush ChatGPT+ Better?"
-date: 2025-02-14T21:53:10.215Z
-updated: 2025-02-15T18:41:53.839Z
+date: 2025-03-04T01:14:04.924Z
+updated: 2025-03-04T17:44:09.183Z
 tags:
   - chatgpt
   - open-ai
@@ -164,10 +164,6 @@ Close
 
 ![Voice conversations introduction page in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Voice Conversation in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-2.png)
 
 Close
@@ -277,10 +273,6 @@ Close
 
  So, how do you choose between ChatGPT Plus and Google Gemini Advanced?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## User Interface
 
  Both have similar user interfaces, using a conversational style. Both entry-level and advanced users will find the UI easy and functional, and there is a striking resemblance between the two.
@@ -298,10 +290,6 @@ Close
  Also, Gemini has a few more ready-made controls for fine-grain control over the output. You can choose the answer to be shorter, longer, more casual, or more professional. Gemini will adjust the temperature setting and generate relevant output.
 
 ![Modify this response feature of Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/07.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can query both for the sources of the presented information. ChatGPT will show the sources at the end of each paragraph, whereas Gemini will display the information source immediately after each sentence. This practice is a good way to credit the original creator of the content.
 
@@ -355,10 +343,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mobile Apps Comparison
 
  Mobile phones, with their built-in cameras and microphones, allow for advanced functions within each chatbot's respective app. I am using a Google Pixel phone for these tests.
@@ -372,10 +356,6 @@ Close
 ![Question on the photo taken answered by Google Gemini on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-2.png)
 
 ![Photo related question answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Photo related question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-2.png)
 
@@ -398,10 +378,6 @@ Close
 ![Speech recording for conversion to text by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-1.png)
 
 ![Speech conversion to text in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Converted text from speech prompt answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-3.png)
 
@@ -626,10 +602,6 @@ Close
 
 ![Where to buy question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/29.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
 ### Speech Recognition
@@ -683,10 +655,6 @@ Close
  However, shortly after I finished writing this article and testing both tools, ChatGPT released the newer GPT-4 Turbo. It claims to be better at math, and it sure is. It got the answer right and got a point for that.
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tricky Question
 
@@ -770,10 +738,6 @@ Close
  However, choosing between ChatGPT and Google Gemini isn't easy, especially as GPT-4 and Gemini Advanced (the premium large language models powering the AI chatbots) perform similarly in several areas.
 
  So, how do you choose between ChatGPT Plus and Google Gemini Advanced?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## User Interface
 
@@ -930,10 +894,6 @@ Close
  How about a tricky question, then? My question was about the birds sitting on a wire, and I wanted to test the ability to assess real-world implications. ChatGPT got this right, but Gemini is still in class.
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Graphs
 
@@ -1017,20 +977,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-draw-eyes-to-your-subject-iphone-photo-tips-with-leading-lines/"><u>[New] Draw Eyes to Your Subject IPhone Photo Tips with Leading Lines</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-pioneering-tomorrow-visionary-developments-in-vr-for-2024/"><u>[New] Pioneering Tomorrow Visionary Developments in VR for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chagpt-for-smartphone-users-a-compreenasive-guide/"><u>ChaGPT for Smartphone Users: A Compreenasive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-2-explained-functions-and-features/"><u>Claude 2 Explained: Functions & Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-de-fichiers-aif-vers-m4r-en-ligne-guide-complet-par-movavi/"><u>Conversion Gratuite De Fichiers AIF Vers M4R en Ligne - Guide Complet Par Movavi</u></a></li>
-<li><a href="https://win-online.techidaily.com/effective-strategies-for-crafting-persuasive-sales-emails-with-massmail-tools/"><u>Effective Strategies for Crafting Persuasive Sales Emails with MassMail Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-write-your-resume/"><u>How to Use ChatGPT to Write Your Resume</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-poco-f5-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Poco F5 5G Through Google Earth?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/make-a-statement-with-free-profile-pics/"><u>Make a Statement With Free Profile Pics</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mophie-powerstation-ac-review/"><u>Mophie Powerstation AC Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paramount-8-chatgpt-directions-to-curtail-digital-diversion/"><u>Paramount 8 ChatGPT Directions to Curtail Digital Diversion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/replacing-roles-is-chatgpt-the-new-worker/"><u>Replacing Roles: Is ChatGPT the New Worker?</u></a></li>
-<li><a href="https://discover-data.techidaily.com/shaping-china-the-crucial-role-of-the-boxer-uprising-in-chinese-history-expert-analysis-from-yl-digital-innovations/"><u>Shaping China: The Crucial Role of the Boxer Uprising in Chinese History – Expert Analysis From YL Digital Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/starting-your-journey-with-langchain-llm/"><u>Starting Your Journey with LangChain LLM</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tapping-into-self-awareness-with-gpt-tech/"><u>Tapping Into Self-Awareness with GPT Tech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-advanced-workshop-naming-service-2023/"><u>[New] 2024 Approved Advanced Workshop Naming Service 2023</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-clear-facebook-broadcast-laptops-and-phones-included/"><u>[New] 2024 Approved Clear Facebook Broadcast Laptops and Phones Included</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eyond-the-leading-films-hidden-cinema-treasures-for-2024/"><u>[New] Beyond the Leading Films Hidden Cinema Treasures for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-can-you-broadcast-ontv-the-era-of-fb-videos-begins/"><u>[Updated] 2024 Approved Can You Broadcast OnTV The Era of FB Videos Begins?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-slow-motion-cameras-ranked/"><u>[Updated] Best Slow-Motion Cameras Ranked</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-exceptional-hd-video-documentation-gear/"><u>[Updated] In 2024, Exceptional HD Video Documentation Gear</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-how-to-create-an-awesome-valorant-thumbnail-for-youtube-videos/"><u>2024 Approved How To Create an Awesome Valorant Thumbnail for YouTube Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-future-of-technology-unveiling-apples-vision-pro-concept-prototype-and-its-staggering-possibilities-zdnet/"><u>Discovering the Future of Technology: Unveiling Apple's Vision Pro Concept Prototype and Its Staggering Possibilities | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-overcoming-the-challenge-of-non-detectable-bluetooth-gadgets-on-windows-11/"><u>Expert Advice: Overcoming the Challenge of Non-Detectable Bluetooth Gadgets on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-boundaries-of-mixed-reality-on-metas-quest-3-vr-insights-from-a-first-hand-experience-zdnet/"><u>Exploring the Boundaries of Mixed Reality on Meta's Quest 3 VR - Insights From a First-Hand Experience | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-future-of-apples-vision-pro-key-applications-excluding-top-competitors/"><u>Exploring the Future of Apple's Vision Pro: Key Applications Excluding Top Competitors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-galaxy-a25-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Galaxy A25 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-mastering-the-return-process-of-your-apple-vision-pro-zdnet/"><u>Step-by-Step Guide: Mastering the Return Process of Your Apple Vision Pro (ZDNet)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/struggling-with-the-apple-vision-pros-touchscreen-keyboard-discover-easier-typing-on-physical-hardware/"><u>Struggling with the Apple Vision Pro's Touchscreen Keyboard? Discover Easier Typing on Physical Hardware!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-giant-apple-faces-setback-as-vision-pro-smartglasses-overdue-for-market-introduction/"><u>Tech Giant Apple Faces Setback as Vision Pro Smartglasses Overdue for Market Introduction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unexpected-champion-how-meta-quest-3-became-zdnets-top-pick-for-best-product-in-202-cuck/"><u>The Unexpected Champion: How Meta Quest 3 Became ZDNet's Top Pick for Best Product in 202 Cuck</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/trasforma-video-mov-in-asf-senza-costi-con-il-servizio-online-di-moovavi/"><u>Trasforma Video MOV in ASF Senza Costi Con Il Servizio Online Di Moovavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-meta-quest-3-with-apples-cutting-edge-3d-spatial-video-content-learn-how-here/"><u>Unlock the Full Potential of Meta Quest 3 with Apple's Cutting-Edge 3D Spatial Video Content - Learn How Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-spatial-recording-with-the-iphone-15-pro-expert-tips-inside/"><u>Unlock the Full Potential of Spatial Recording with the iPhone 15 Pro - Expert Tips Inside!</u></a></li>
 </ul></div>
 

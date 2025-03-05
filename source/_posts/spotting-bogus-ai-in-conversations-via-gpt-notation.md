@@ -1,7 +1,7 @@
 ---
 title: Spotting Bogus AI in Conversations via GPT Notation
-date: 2024-08-21T15:37:01.159Z
-updated: 2024-08-22T15:37:01.159Z
+date: 2025-02-25T17:04:32.550Z
+updated: 2025-03-04T19:37:33.642Z
 tags:
   - chatgpt
   - open-ai
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is ChatGPT's GPT Mentions Feature?
 
  As a ChatGPT Plus member, you can [enjoy custom GPTs from the Custom GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/). These are versions of ChatGPT that are tailored to help with specific tasks. Some [popular custom GPTs](https://www.makeuseof.com/best-custom-gpts/) include...
@@ -51,18 +48,12 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
  So, how can you use this?
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
  Let's say you wanted to gather some key data and then create an infographic to introduce what you've found. To find the data, you start a chat with the Consensus GPT. Once Consensus gives you the relevant information, you mention Canva in your chat, and click on the Canva GPT option.
@@ -73,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
@@ -90,30 +78,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  Now, we have hotels, flights, and trails for our trip all in one chat!
 
  There's no end to what you can do with this new GPT Mentions feature, be it for work or play. If you're a ChatGPT Plus user, give this handy feature a try today to see what you can do when talking to two or more GPTs at once.
@@ -126,8 +94,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +101,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-the-next-big-thing-your-guide-to-youtubes-best-video-types-for-2024/"><u>[New] Crafting the Next Big Thing Your Guide to YouTube's Best Video Types for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-batteries-and-chargers-for-gopro-hero5-official-and-counterfeits-for-2024/"><u>[New] Top Batteries and Chargers for GoPro Hero5 – Official & Counterfeits for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210711609-9781402790836-12000-dreams-interpreted/"><u>12,000 Dreams Interpreted | Free Book</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pinnacle-editor-hub-immersive-pc-cutting-and-melodic-integration/"><u>2024 Approved Pinnacle Editor Hub Immersive PC Cutting & Melodic Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223477411-wmamp4-movavi/"><u>快速免費線上WMA至MP4變更: 經驗超群的Movavi音像檔轉換器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726222398645-avi/"><u>了解AVI文件: 詳細介紹、內容以及在多媒體設備上如何運行</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223253789-aac-movavi/"><u>AAC形式のオーディオ・ファイルを自由に変換する - 最新Movaviツール</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cambia-archivo-m4b-por-formato-aac-sin-costo-alguno-con-convertidor-online-de-movavi/"><u>Cambia Archivo M4B Por Formato AAC Sin Costo Alguno Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expert-tips-harnessing-full-capabilities-of-aiseesoft-screen-tech-for-2024/"><u>Expert Tips Harnessing Full Capabilities of Aiseesoft Screen Tech for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-completa-como-hacer-video-llamadas-con-skype-desde-telefonos-inteligentes-y-ordenadores/"><u>Guía Completa: Cómo Hacer Video Llamadas Con Skype Desde Teléfonos Inteligentes Y Ordenadores</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-pdf-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Insert signature in PDF</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4-format-change-made-easy-and-gratis-with-online-video-editor-discover-movavi-solutions/"><u>MP4 Format Change Made Easy and Gratis with Online Video Editor - Discover Movavi Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/open-itunes-on-your-computer-go-to-help-)-check-for-updates-for-windows-or-app-store-)-updates-for-macos-if-an-update-is-available-install-it-and-restart-th269/"><u>Open iTunes on Your Computer, Go to Help > Check for Updates (for Windows) or App Store > Updates (for macOS). If an Update Is Available, Install It and Restart the Application Afterward.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/slug-line-creation-techniques-for-online-copy/"><u>Slug Line Creation Techniques for Online Copy</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/solving-the-dilemma-of-missing-recycle-bin-in-windows-10-unveil-7-effective-fixes/"><u>Solving the Dilemma of Missing Recycle Bin in Windows 10: Unveil 7 Effective Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tu-archivo-mef-en-formato-diferente-sin-coste-soluciones-mejoradas-por-movavi/"><u>Transforma Tu Archivo MEF en Formato Diferente Sin Coste: Soluciones Mejoradas Por Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkvm4v-movavi/"><u>무료 제공: 인터넷을 통해 MKV/M4V 형식 전환, Movavi를 사용한 기술</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aif-mp4-movavi/"><u>コレクトフリーネット AIF 動画MP4変換ソフト - Movavi</u></a></li>
+</ul></div>
 

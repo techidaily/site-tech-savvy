@@ -1,7 +1,7 @@
 ---
 title: "Artificial Love: The Modern Hacker's Playbook"
-date: 2024-08-21T15:37:55.921Z
-updated: 2024-08-22T15:37:55.921Z
+date: 2025-03-01T00:06:30.489Z
+updated: 2025-03-04T17:20:56.720Z
 tags:
   - chatgpt
   - open-ai
@@ -47,14 +47,8 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
 
 ![Creating a Fake Profile With a Stolen Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fake-profile-on-bumble.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Using Stolen Images to Create a Profile on Bumble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uploading-stolen-images-on-bumble.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 [AI art generators](https://www.makeuseof.com/ai-text-to-art-generators/) manipulate images. Take the below demonstration as an example. We fed Playground AI a candid photograph of a famous singer—the platform produced three variations within seconds.
@@ -73,16 +67,10 @@ Close
 
 ![Asking ChatGPT to Write Hobbies for a Dating Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-suggesting-good-hobbies.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And here’s ChatGPT writing an entire biography for your dating profile.
 
 ![Asking ChatGPT to Create a Dating Profile for a Female](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-creating-dating-profile-bio.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Since this process consumes so much time, it also requires a bigger payoff. So, scammers tend to ask for more. Once they earn your trust, they’ll ask for help with various “problems,” like hospital bills, loan payments, or tuition fees. Some will even claim to visit you if you shoulder their ticket.
 
  These cybercriminals are skilled at manipulating victims. The best tactic is to avoid engaging with them right from the get-go. Don’t let them say anything. Otherwise, you might gradually fall for their deception and gaslighting methods.
@@ -99,9 +87,6 @@ Close
 
  Don’t cave in if you get targeted. Call 1-800-CALL-FBI, send an FBI tip, or visit your local FBI field office should you find yourself in this situation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Integrating AI Models With Brute-Force Hacking Systems
 
  While open-source language models support some AI advancements, they’re also prone to exploitation. Criminals will take advantage of anything. You can’t expect them to ignore the algorithm behind highly sophisticated language models like [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) and [OpenAssistant](https://huggingface.co/OpenAssistant).
@@ -110,9 +95,6 @@ Close
 
  You have no control over what scammers do. To protect your accounts, make sure you [create a truly secure password](https://www.makeuseof.com/what-makes-a-password-truly-secure/) comprising special characters, alphanumeric combinations, and 14+ characters.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Imitating Real People With Voice Cloning
 
  AI voice generators started as a cool toy. Users would turn sample tracks of their favorite artists into covers or even new songs. Take Heart on My Sleeve as an example. TikTok user [Ghostwriter977](https://www.tiktok.com/@ghostwriter977) made a super-realistic song imitating Drake and The Weeknd, although neither artist sang it.
@@ -131,14 +113,11 @@ Close
 
  And with the proliferation of generative AI tools, romance scams are becoming even easier to execute. They lower the barriers to entry. Here are seven common ways romance scammers exploit AI—plus how you can protect yourself.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +126,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ranked-top-picks-for-free-skype-tones/"><u>[Updated] 2024 Approved Ranked Top Picks for Free Skype Tones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-embracing-resilience-against-online-detractors/"><u>[Updated] Embracing Resilience Against Online Detractors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-premium-listings-where-to-download-snappy-tones-directly/"><u>[Updated] In 2024, Premium Listings Where to Download Snappy Tones Directly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-tech-savvy-show-saviors-advanced-tv-capture-tips-for-2024/"><u>[Updated] Tech-Savvy Show Saviors Advanced TV Capture Tips for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-for-everyone-automating-with-auto-gpt-on-ubuntu/"><u>AI for Everyone: Automating with Auto-GPT on Ubuntu</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-chatbots-and-risks-insight-into-the-top-3-privacy-hurdles/"><u>Cutting-Edge Chatbots & Risks: Insight Into the Top 3 Privacy Hurdles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-experience-with-freshly-updated-rtx-2080-super-nvidia-drivers-compatible-with-windows-1110/"><u>Enhance Your Experience with Freshly Updated RTX 2080 Super Nvidia Drivers - Compatible with Windows 11/10</u></a></li>
+<li><a href="https://article-posts.techidaily.com/premier-band-performances-web/"><u>Premier Band Performances Web</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scaling-up-intelligence-identifying-this-years-most-promising-ai-tech/"><u>Scaling Up Intelligence: Identifying This Year's Most Promising AI Tech</u></a></li>
+</ul></div>
 

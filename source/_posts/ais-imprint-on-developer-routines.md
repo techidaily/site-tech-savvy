@@ -1,7 +1,7 @@
 ---
 title: AI's Imprint on Developer Routines
-date: 2025-02-11T16:43:50.466Z
-updated: 2025-02-15T17:41:57.067Z
+date: 2025-02-27T19:18:34.658Z
+updated: 2025-03-04T18:50:51.912Z
 tags:
   - chatgpt
   - open-ai
@@ -50,17 +50,9 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Countries
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are the Tasks Developers Are Using AI For?
 
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  The survey revealed that 86% of professional developers are using AI tools to write code and 54% are using them to debug their code. They are also interested in using AI tools to test, commit and review code, deploy and monitor applications, and document code.
 
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Benefits of AI for Developers
 
@@ -90,17 +78,9 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Popular AI Tools That Developers Are Using in 2023
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
@@ -139,24 +119,21 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-master-pip-feature-while-consuming-youtube-videos-on-iphones-for-2024/"><u>[New] Master PIP Feature While Consuming YouTube Videos on iPhones for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/layback-in-reverse-the-ultimate-youtube-playlist-technique/"><u>[New] Playback in Reverse The Ultimate YouTube Playlist Technique</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-more-views-the-art-of-crafting-titles-and-tags-for-youtube/"><u>[New] Unlock More Views The Art of Crafting Titles & Tags for YouTube</u></a></li>
-<li><a href="https://blog-min.techidaily.com/12-effective-methods-for-downloading-youtube-audio-clips-on-your-mac/"><u>12 Effective Methods for Downloading YouTube Audio Clips on Your Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-innovating-sound-quality-top-6-recommendations-for-streamers/"><u>2024 Approved Innovating Sound Quality Top 6 Recommendations for Streamers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-directive-perfection-using-these-innovative-online-helpers/"><u>Boost Directive Perfection Using These Innovative Online Helpers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-ai-for-companionship-the-chatgpt-solution/"><u>Cutting-Edge AI for Companionship: The ChatGPT Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-generative-ai-the-basics-explained/"><u>Delving Into Generative AI: The Basics Explained</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-honor-x7b-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor X7b phone? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-celestial-wonders-at-your-fingertips-hd-sky-website-guide/"><u>In 2024, Celestial Wonders at Your Fingertips - HD Sky Website Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-from-zero-to-timer-hero-3-essential-fcpx-steps/"><u>In 2024, From Zero to Timer Hero 3 Essential FCPX Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/installing-chatgpt-as-a-windows-app/"><u>Installing ChatGPT as a Windows App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/language-lab-gpt-3-and-google-in-a-tug-of-war/"><u>Language Lab: GPT-3 and Google in a Tug of War</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-health-guidance-through-ai-with-chatgpt-in-7-steps/"><u>Seamless Health Guidance Through AI with ChatGPT, in 7 Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-unveiled-chatgpt-versus-astrological-prophecies/"><u>The Future Unveiled: ChatGPT Versus Astrological Prophecies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-free-tools-for-creating-iphone-ringtones-from-mp3-files-a-comprehensive-guide/"><u>Top Free Tools for Creating iPhone Ringtones From MP3 Files: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-chatgpt-inquiry-examples-on-github/"><u>Ultimate Guide to ChatGPT Inquiry Examples on GitHub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-shellgpt-for-efficient-chatgpt-experiences/"><u>Utilizing ShellGPT for Efficient ChatGPT Experiences</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dismantling-youtube-ranks-factors-and-their-effects/"><u>[New] Dismantling YouTube Ranks Factors and Their Effects</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-use-dslr-for-facebook-live-on-your-pc/"><u>[Updated] In 2024, How to Use DSLR for Facebook Live on Your PC?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-an-in-depth-look-at-video-apps-for-iphone-and-android-users/"><u>2024 Approved An In-Depth Look at Video Apps for iPhone & Android Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-from-hashtags-to-challenges-insta-meets-tiktok/"><u>2024 Approved From Hashtags to Challenges Insta Meets TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-vpn-nordvpn-vs-surfshark-a-detailed-comparison-for-optimal-privacy/"><u>Choosing the Right VPN: NordVPN Vs. Surfshark - A Detailed Comparison for Optimal Privacy</u></a></li>
+<li><a href="https://win11.techidaily.com/coherent-windows-icons-for-productivity-boost/"><u>Coherent Windows Icons for Productivity Boost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/current-most-affordable-and-effective-vpn-services-reviewed-for-your-peace-of-mind-online/"><u>Current Most Affordable and Effective VPN Services Reviewed for Your Peace of Mind Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-of-free-iphone-vpn-services-as-reviewed-by-zdnet/"><u>Discover the Ultimate Selection of Free iPhone VPN Services, as Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-hp-laserjet-pro-m402n-on-your-pc-with-windows-os/"><u>Easy Installation of HP LaserJet Pro M402n on Your PC with Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-instructions-installing-and-setting-up-router-vpn-services/"><u>Easy Instructions: Installing and Setting Up Router VPN Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-to-activate-vpn-on-windows-11-expert-advice-from-zdnet/"><u>Easy Steps to Activate VPN on Windows 11 - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-vpn-service-rankings-in-depth-reviews-and-performance-checks-zdnet/"><u>Elite VPN Service Rankings : In-Depth Reviews & Performance Checks | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expanded-security-google-one-now-includes-vpn-on-select-tiers-with-dark-web-tracking-capability/"><u>Expanded Security: Google One Now Includes VPN on Select Tiers with Dark Web Tracking Capability</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/resolving-irregular-video-streaming-issues-in-windows-comprehensive-guide/"><u>Resolving Irregular Video Streaming Issues in Windows: Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-when-your-iphones-safari-browser-stops-responding/"><u>Top 10 Solutions for When Your iPhone's Safari Browser Stops Responding</u></a></li>
 </ul></div>
 

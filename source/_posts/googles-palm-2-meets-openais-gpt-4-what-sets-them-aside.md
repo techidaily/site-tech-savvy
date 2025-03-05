@@ -1,7 +1,7 @@
 ---
 title: "Google's PaLM 2 Meets OpenAI's GPT-4: What Sets Them Aside?"
-date: 2025-02-12T00:15:36.513Z
-updated: 2025-02-15T17:55:04.206Z
+date: 2025-02-27T18:37:31.364Z
+updated: 2025-03-04T16:55:23.154Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 
 ![Neon Pink Brain Image on a Black Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/neon-pink-brain-image-on-a-black-background.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Google also claims an improvement in reasoning capabilities over GPT-4 in WinoGrande and DROP, with the former pulling a narrow margin in ARC-C. However, there's significant improvement across the board regarding PaLM and SOTA.
 
  PaLM 2 is also better at math, according to Google's 91-page [PaLM 2 research paper](https://ai.google/static/documents/palm2techreport.pdf) \[PDF\]. However, the way Google and OpenAI have structured their test results makes it difficult to compare the two models directly. Google also omitted some comparisons, likely because PaLM 2 didn't perform nearly as well as GPT-4\.
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
  If this number is anywhere close to 100 billion or under, PaLM 2 is most likely smaller in terms of parameters than GPT-3.5\. Considering a model potentially under 100 billion can go toe to toe with GPT-4 and even beat it at some tasks is impressive. [GPT-3.5 initially blew everything out of the water](https://www.makeuseof.com/gpt-models-explained-and-compared/), including PaLM, but PaLM 2 has made quite the recovery.
 
  Another obvious performance advantage that PaLM 2 carries over GPT-4 is its availability in different sizes. This means that different versions of the model, Gecko, for instance, can run on mobile devices, even without an internet connection, and provide onboard AI capabilities—something we're yet to see from GPT-4\. This kind of on-device processing gives PaLM 2 an edge over GPT-4 when it comes to accessibility and deployment.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Differences in GPT-4 and PaLM 2 Training Data
 
@@ -82,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 
 ![Setting an emoji wallpaper on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/emoji-wallpapers-android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Google I/O 2023 was filled with announcements about how PaLM 2 and generative AI integration will improve the Google Workspace experience with AI features coming to Google Docs, Sheets, Slides, Gmail, and just about every service the search giant offers. In addition, Google has confirmed that PaLM 2 has already been integrated into over 25 Google products, including Android and YouTube.
 
  In comparison, Microsoft has already brought AI features to the Microsoft Office suite of programs and many of its services. At the moment, you can experience both LLMs in their versions of similar offerings from two rival companies going head to head in the AI battle.
@@ -94,19 +82,11 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 
 ![A screenshot of Microsoft's Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's not to say that developers won't be switching to or at least trying out PaLM 2, but Google still has to play catch-up with OpenAI on that front. The fact that PaLM 2 is open-source, instead of being locked behind a paid API, means it has the potential to be more widely adopted than GPT-4\.
 
  All things considered, at the moment, the PaLM 2-powered Bard appears to be the better choice when it comes to research as it is better at answering questions with relevant information and accessing the latest information on the internet about any given subject. [According to Bard's latest update](https://bard.google.com/updates), delivered on September 19, 2023, Bard is now using its "most capable model yet" with support for another 40 languages, in-depth coding assistance, the ability to present different perspectives on a given topic, and general quality and accuracy improvements.
 
  You also get the option of double-checking Bard's responses with Google searches. However, on the performance front, the model still takes longer to generate responses as compared to the GPT-4 powered ChatGPT or Bing Chat.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can PaLM 2 Take on GPT-4?
 
@@ -137,15 +117,15 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-a-unique-look-with-windows-11-wallpapers/"><u>2024 Approved Crafting a Unique Look with Windows 11 Wallpapers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y27-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y27 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-valheim-stutter-and-freezing-problems-on-a-computer-effective-strategies-for-gamers/"><u>Defeating Valheim Stutter and Freezing Problems on a Computer: Effective Strategies for Gamers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-bavarder-pathway-to-chatgpt-on-linux/"><u>Easy Bavarder Pathway to ChatGPT on Linux</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-x-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-aesthetics-advanced-video-hue-balancing/"><u>In 2024, YouTube Aesthetics Advanced Video Hue Balancing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-conversations-creating-personalized-chatgpt/"><u>Intelligent Conversations: Creating Personalized ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-installation-of-enhanced-ai-features-in-chatgpt/"><u>Mastering the Installation of Enhanced AI Features in ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reestablishing-lost-communications-with-chatgpt/"><u>Reestablishing Lost Communications with ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/setting-up-your-oculus-questquest-e2-a-step-by-step-guide/"><u>Setting Up Your Oculus Quest/Quest E2: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevate-your-profiles-visual-appeal/"><u>[Updated] 2024 Approved Elevate Your Profile's Visual Appeal</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-navigating-the-world-of-youtube-live-visuals/"><u>[Updated] In 2024, Navigating the World of YouTube Live Visuals</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-sound-enhancing-fb-video-posts-a-comprehensive-guide/"><u>[Updated] Sound-Enhancing FB Video Posts A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-video-blur-apps-on-iphone-and-android-facebackground/"><u>Best Video Blur Apps on iPhone and Android Face/Background</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oneplus-ace-2-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-theta-s-evaluation-overview/"><u>In 2024, In-Depth Theta S Evaluation Overview</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meet-the-game-changer-in-portable-audio-a-stunningly-affordable-bluetooth-speaker-with-exceptional-sound-quality/"><u>Meet the Game-Changer in Portable Audio: A Stunningly Affordable Bluetooth Speaker with Exceptional Sound Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-wireless-speakers-reviewed-by-tech-experts-at-zdnet/"><u>Top Rated Wireless Speakers Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-smart-home-innovations-unveiled-at-ces-2024-explore-the-latest-gadgets-with-insights-from-zdnet/"><u>Top Smart Home Innovations Unveiled at CES 2024 - Explore the Latest Gadgets with Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-non-bose-non-sony-portable-speaker-review-uncovering-hidden-audio-gems/"><u>Top-Rated Non-Bose, Non-Sony Portable Speaker Review: Uncovering Hidden Audio Gems</u></a></li>
 </ul></div>
 

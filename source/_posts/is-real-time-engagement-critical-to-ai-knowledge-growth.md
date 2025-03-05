@@ -1,7 +1,7 @@
 ---
 title: Is Real-Time Engagement Critical to AI Knowledge Growth?
-date: 2024-08-21T15:38:03.356Z
-updated: 2024-08-22T15:38:03.356Z
+date: 2025-03-03T18:06:38.273Z
+updated: 2025-03-05T00:21:40.817Z
 tags:
   - chatgpt
   - open-ai
@@ -73,24 +73,14 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
 ![Trying to Confuse ChatGPT With Different Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/confusing-chatgpt-with-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  We kept our combined inputs under 100 words, but ChatGPT still forgot our first instruction. It quickly broke character.
 
 ![ChatGPT Forgets Prompts Trying to Retain Irrelevant Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-forgets-earlier-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  Meanwhile, ChatGPT kept roleplaying during this conversation because we only asked topic-relevant questions.
 
 ![ChatGPT Maintains Character Even After Several Questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-maintaining-character-as-ash.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  Ideally, each dialogue must follow a singular theme to maintain accurate, relevant outputs. You can still input several instructions simultaneously. Just ensure they align with the overall topic, or else ChatGPT might drop instructions that it deems irrelevant.
 
 ## Training Instructions Overpower User Input
@@ -111,23 +101,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Requesting ChatGPT to Export Previous Chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/requuest-chatgpt-data-export.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While ChatGPT freely accesses conversations, [OpenAI's privacy policy](https://openai.com/policies/privacy-policy) prohibits activities that might compromise users. Trainers can only use your data for product research and development.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Developers Look for Loopholes
 
  OpenAI sifts through conversations for loopholes. It analyzes instances wherein ChatGPT demonstrates data biases, produces harmful information, or helps commit illicit activities. The platform's ethical guidelines are constantly revamped.
 
  For instance, the first versions of [ChatGPT openly answered questions about coding malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) or constructing explosives. These incidents made users feel like [OpenAI has no control over ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). To regain the public's trust, it trained the chatbot to reject any question that might go against its guidelines.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Trainers Collect and Analyze Data
 
 ![Woman Reading Reports on Physical Sheets and Her Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/woman-reading-physical-and-digital-reports.jpg)
@@ -138,9 +119,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Take Microsoft Tay as an example—one of the [times machine learning went wrong](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/). Since it constantly analyzed tweets without developer guidance, malicious users eventually trained it to spit racist, stereotypical opinions.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Developers Constantly Watch Out for Biases
 
  Several [external factors cause biases in AI](http://www.makeuseof.com/what-is-ai-bias/). Unconscious prejudices may arise from differences in training models, dataset errors, and poorly constructed restrictions. You'll spot them in various AI applications.
@@ -173,8 +151,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +158,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-the-basics-of-picture-in-picture-in-ff-for-2024/"><u>[New] The Basics of Picture-in-Picture in FF for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unleash-hd-playback-with-av1-on-youtube/"><u>[Updated] 2024 Approved Unleash HD Playback with AV1 on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-gratuitous-green-backdrops-available-for-2024/"><u>[Updated] Gratuitous Green Backdrops Available for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-proven-marketing-spells-20-must-use-terms/"><u>[Updated] Proven Marketing Spells 20 Must-Use Terms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bavarder-setup-made-simple-for-linux-enthusiasts/"><u>Bavarder Setup Made Simple for Linux Enthusiasts</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-honor-x7b-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor X7b Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-poco-x5-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Poco X5 Phones? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-with-personalized-zen-routines/"><u>Integrating ChatGPT with Personalized Zen Routines</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/online-raw-to-jpg-transformation-for-free-with-movavi-photo-editor/"><u>Online RAW-to-JPG Transformation for Free with Movavi Photo Editor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reassessing-paperclips-through-ais-lens-of-innovation/"><u>Reassessing Paperclips Through AI's Lens of Innovation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-rdr2-out-of-memory-how-to-adjust-your-page-file-for-a-smooth-gaming-experience/"><u>Resolving 'RDR2 Out Of Memory' – How To Adjust Your Page File For A Smooth Gaming Experience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-frontier-advanced-chatbot-innovation/"><u>The New Frontier: Advanced Chatbot Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-synergy-of-chatgpt-and-ioss-siri-functionality/"><u>The Synergy of ChatGPT and iOS's Siri Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-artificial-intelligence-tools-altering-commerce-landscape/"><u>Top 5 Artificial Intelligence Tools Altering Commerce Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-effective-ai-strategies-for-success/"><u>Top 7 Effective AI Strategies for Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-living-space-with-intelligent-chatgpt-controls/"><u>Transform Your Living Space With Intelligent ChatGPT Controls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unseen-linguist-how-gpt-deciphers-human-communication/"><u>Unseen Linguist: How GPT Deciphers Human Communication</u></a></li>
+</ul></div>
 

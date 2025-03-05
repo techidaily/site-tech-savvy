@@ -1,7 +1,7 @@
 ---
 title: Navigating the AI World with These Essential Insights
-date: 2025-02-12T01:36:17.109Z
-updated: 2025-02-15T23:59:09.522Z
+date: 2025-02-26T21:29:03.589Z
+updated: 2025-03-04T22:14:44.215Z
 tags:
   - chatgpt
   - open-ai
@@ -66,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/8a54b5f3957881ee85a4e67f8767270bede7bd83b
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine [whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/).
 
 ## 3  Explain What Hasn't Worked When You've Prompted in the Past
@@ -109,10 +105,6 @@ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bo
  If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to [use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7  Mention Where You Want to Use Your Prompt Answers
 
@@ -200,10 +192,6 @@ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bo
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7  Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to [improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/).
@@ -223,10 +211,6 @@ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bo
  But it's not always easy. How specific should you be? What information should you include? And how do you request your data in a useful format?
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1  Be as Specific as Possible
 
@@ -302,10 +286,6 @@ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bo
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
  It's easy to think that AI prompting is as simple as typing some text and hitting the Enter key, but the reality is very different. If you want accurate, useful information from an AI chatbot, crafting a prompt properly is important.
@@ -317,10 +297,6 @@ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bo
  But it's not always easy. How specific should you be? What information should you include? And how do you request your data in a useful format?
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1  Be as Specific as Possible
 
@@ -334,10 +310,6 @@ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bo
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2  Ask for More Information After Getting an Initial Answer
@@ -347,10 +319,6 @@ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bo
  This time, we've asked our AI tool to give us a three-day San Francisco itinerary for a couple's trip. Using the first tip mentioned in this guide and being more specific, we got a pretty good outline.
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
@@ -365,10 +333,6 @@ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bo
  This tip is especially important if you want to use AI tools like DALL-E 3 to generate images. I've often noticed that first drafts sometimes don't yield what I'm looking for, and there could also be problems like defects for items like flags.
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4  Don't Make Your AI Multitask
 
@@ -407,10 +371,6 @@ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bo
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -429,24 +389,24 @@ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-deciphers-for-digital-content-creators-youtubes-keyword-techniques/"><u>[New] In 2024, Deciphers for Digital Content Creators YouTube's Keyword Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-innovative-techniques-for-superior-canva-visuals/"><u>[New] Innovative Techniques for Superior Canva Visuals</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unceasing-video-archiving-consortia/"><u>[Updated] 2024 Approved Unceasing Video Archiving Consortia</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellence-written-segmented-by-film-categories/"><u>[Updated] Excellence Written, Segmented by Film Categories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-governance-matters-ceo-of-openai-speaks-out/"><u>AI Governance Matters: CEO of OpenAI Speaks Out</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-showdown-chatgpt-vs-the-future-with-claude/"><u>AI Showdown: ChatGPT Vs. The Future With Claude</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/analyzing-chatgpt-a-truthful-entity/"><u>Analyzing ChatGPT: A Truthful Entity?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bert-vs-gpt-understanding-their-nlp-mechanisms/"><u>BERT vs GPT: Understanding Their NLP Mechanisms</u></a></li>
-<li><a href="https://win-popular.techidaily.com/easy-paper-digitization-for-iphones-discover-the-best-pdf-scanner-apps-in-2vehicle/"><u>Easy Paper Digitization for iPhones: Discover the Best PDF Scanner Apps in 2Vehicle.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-powered-hr-process-streamlining/"><u>GPT-Powered HR Process Streamlining</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-get-expressvpn-coupon-code-get-49-off-discount/"><u>How to Get ExpressVPN Coupon Code – Get 49% Off Discount</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-onepluswithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePluswith/without a PC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-iphones-alphabetical-album-setup-and-its-integration-with-icloud-services/"><u>In 2024, IPhone's Alphabetical Album Setup and Its Integration with iCloud Services</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s5e-your-ultimate-android-tablet-guide/"><u>In-Depth Analysis of the Samsung Galaxy Tab S5e - Your Ultimate Android Tablet Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/probing-nlp-leaders-dissecting-gpt-and-bert-differences/"><u>Probing NLP Leaders: Dissecting GPT and BERT Differences</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-run-windows-updates-with-ease/"><u>Simple Steps to Run Windows Updates with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/start-conversing-directly-with-chatgpt/"><u>Start Conversing Directly with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-influence-of-gpt-conversations-on-productivity-boosting/"><u>The Influence of GPT Conversations on Productivity Boosting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-on-the-fly-ai-with-agentgpt/"><u>Unlocking On-the-Fly AI with AgentGPT</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exploring-and-expressing-a-comprehensible-guide-to-becoming-a-travel-videographer/"><u>[New] 2024 Approved Exploring & Expressing A Comprehensible Guide to Becoming a Travel Videographer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-content-calendar-for-successful-instagram-filmmaking-for-2024/"><u>[New] Content Calendar for Successful Instagram Filmmaking for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-video-decks-smart-description-templates-for-2024/"><u>[New] Elevate Video Decks Smart Description Templates for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/levating-your-look-expert-tutorials-for-everyone/"><u>[New] Elevating Your Look Expert Tutorials for Everyone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-chasing-profit-on-platforms-youtube-partner-application-steps-for-2024/"><u>[Updated] Chasing Profit on Platforms YouTube Partner Application Steps for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-acoustic-bliss-500-yamaha-soundbar-vs-1000-jbl-a-budget-friendly-audio-revelation/"><u>Affordable Acoustic Bliss: $500 Yamaha Soundbar Vs. $1,000 JBL - A Budget-Friendly Audio Revelation</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/boost-your-system-effortless-steps-to-swap-hdd-for-ssd-in-windows-11-setup/"><u>Boost Your System: Effortless Steps to Swap HDD for SSD in Windows 11 Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-razer-leviathan-v2-soundbar-stunning-visuals-meet-impressive-acoustics-zdnet-insightful-review/"><u>Exploring the Razer Leviathan V2 Soundbar: Stunning Visuals Meet Impressive Acoustics | ZDNET Insightful Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-high-costs-to-audio-bliss-how-switching-from-a-klipsch-soundbar-to-jbl-upgraded-my-listening-experience-insights-by-zdnet/"><u>From High Costs to Audio Bliss: How Switching From a Klipsch Soundbar to JBL Upgraded My Listening Experience - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/homepod-vs-homepod-mini-showdown-a-deep-dive-into-audio-excellence-apples-larger-pod-takes-the-crown/"><u>HomePod Vs. HomePod Mini Showdown: A Deep Dive Into Audio Excellence - Apple's Larger Pod Takes the Crown</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-examining-facebooks-hidden-activity-knowledge-is-power/"><u>In 2024, Examining Facebook’s Hidden Activity Knowledge Is Power</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-voice-assistants-amazon-enhances-alexa-with-cutting-edge-anthropic-ai-technology-zdnet/"><u>Revolutionizing Voice Assistants: Amazon Enhances Alexa with Cutting-Edge Anthropic AI Technology | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-best-smart-speakers-with-wi-fi-connectivity-expert-picks-by-zdnet/"><u>The Best Smart Speakers with Wi-Fi Connectivity - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-affordable-bluetooth-wireless-speakers-below-50-expert-picks-by-zdnet/"><u>Top 5 Affordable Bluetooth Wireless Speakers Below $50: Expert Picks by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-childrens-headphones-professional-recommendations-techradar/"><u>Top-Rated Children's Headphones : Professional Recommendations | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmatched-audio-precision-versatile-stylish-speakers-spotlighted-by-zdnet/"><u>Unmatched Audio Precision - Versatile, Stylish Speakers Spotlighted by ZDNet</u></a></li>
 </ul></div>
 

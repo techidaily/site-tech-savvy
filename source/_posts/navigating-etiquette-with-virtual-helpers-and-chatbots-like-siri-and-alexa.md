@@ -1,7 +1,7 @@
 ---
 title: Navigating Etiquette With Virtual Helpers & Chatbots Like Siri and Alexa
-date: 2025-02-10T17:56:54.717Z
-updated: 2025-02-15T22:32:47.793Z
+date: 2025-02-25T20:52:03.217Z
+updated: 2025-03-04T16:53:48.823Z
 tags:
   - chatgpt
   - open-ai
@@ -40,15 +40,7 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For instance, if you use derogatory words when addressing [Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/), it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
 
@@ -60,17 +52,9 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -79,10 +63,6 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
  AI chatbots also present biased opinions since they've learned from humans, and, at times, [AI will hallucinate answers](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) and deliver them with confidence. However, we're still in the early days of AI adoption, and leading tech companies like OpenAI and Microsoft acknowledge that AI systems will improve with more user feedback. GPT-4 is testament to that improvement since it has safer responses than GPT 3.5, [among other differences](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/).
 
  On the other hand, you can [set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Interact With AI How You Want
 
@@ -109,15 +89,18 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-visual-verse-top-10-writing-apps-for-photo-lovers-iosandroid/"><u>2024 Approved Visual Verse Top 10 Writing Apps for Photo Lovers (iOS/Android)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-complete-guide-on-which-tabletlaptop-fits-you-best-zdnet-tech-analysis/"><u>Choosing Between iPad Pro and MacBook Air: A Complete Guide on Which Tablet/Laptop Fits You Best | ZDNet Tech Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-superiority-of-claude-3-over-gpt-3-in-four-parts/"><u>Exploring the Superiority of Claude 3 Over GPT-3, In Four Parts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-viral-video-vanguard-top-ten-in-one-hour-one-day-on-yt/"><u>In 2024, Viral Video Vanguard Top Ten in One Hour, One Day on YT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-daily-convenience-top-9-gpt-powered-tips/"><u>Maximizing Daily Convenience: Top 9 GPT-Powered Tips</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-ultimate-guide-to-equalizing-auditory-output-in-vlc-software/"><u>New In 2024, The Ultimate Guide to Equalizing Auditory Output in VLC Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-say-goodbye-to-upside-down-videos-easy-flipping-hacks-for-2024/"><u>New Say Goodbye to Upside-Down Videos Easy Flipping Hacks for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818332029-realign-vertical-lines-with-a-simple-tap/"><u>Realign Vertical Lines with a Simple Tap</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/six-ways-to-sharpen-ai-reality-based-outputs/"><u>Six Ways to Sharpen AI Reality-Based Outputs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-to-your-ai-companion-chatgpt/"><u>Talk to Your AI Companion: ChatGPT</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-open-access-select-free-youtube-design-patterns/"><u>[New] In 2024, Open Access Select Free YouTube Design Patterns</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlocking-audio-potentials-in-tiktok-videos-for-2024/"><u>[New] Unlocking Audio Potentials in TikTok Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-megadron-mastery-industrys-top-heavy-loaders/"><u>[Updated] In 2024, Megadron Mastery Industry's Top Heavy Loaders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-dissecting-vidma-a-guide-to-screen-capturing-tech/"><u>In 2024, Dissecting Vidma A Guide to Screen Capturing Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speech-to-text-magic-free-edition/"><u>In 2024, Speech-to-Text Magic Free Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-of-making-music-video-on-iphone/"><u>In 2024, Tips of Making Music Video on iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-functionality-added-to-metas-ray-ban-stylish-smartglasses-at-no-extra-cost-zdnet/"><u>New Functionality Added to Meta’s Ray-Ban Stylish Smartglasses at No Extra Cost - ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/step-by-step-guide-to-crafting-stunning-tiktok-edits-for-2024/"><u>Step-by-Step Guide to Crafting Stunning TikTok Edits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergy-unleashed-how-ai-and-5g-are-revolutionizing-tech-innovations-insights-from-zdnet/"><u>Synergy Unleashed: How AI & 5G Are Revolutionizing Tech Innovations | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-end-of-an-eye-catching-era-google-ditches-augmented-reality-glasses-for-immersive-xr-experiences-infotech-daily/"><u>The End of an Eye-Catching Era: Google Ditches Augmented Reality Glasses for Immersive XR Experiences | InfoTech Daily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-post-update-in-windows-11-fast-solutions/"><u>Troubleshooting Audio Issues Post-Update in Windows 11 – Fast Solutions!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-googles-stealthy-smart-eyewear-a-sign-of-groundbreaking-innovation-on-horizon-zdnet/"><u>Unveiling Google’s Stealthy Smart Eyewear: A Sign of Groundbreaking Innovation on Horizon? | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-apples-latest-innovations-at-wwdc-vision-pro-and-new-mac-pro-revealed/"><u>Unveiling the Future: Apple's Latest Innovations at WWDC - Vision Pro and New Mac Pro Revealed!</u></a></li>
 </ul></div>
 

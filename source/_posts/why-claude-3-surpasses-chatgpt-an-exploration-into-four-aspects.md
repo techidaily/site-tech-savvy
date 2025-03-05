@@ -1,7 +1,7 @@
 ---
 title: "Why Claude 3 Surpasses ChatGPT: An Exploration Into Four Aspects"
-date: 2024-08-21T15:36:15.812Z
-updated: 2024-08-22T15:36:15.812Z
+date: 2025-03-03T17:34:51.459Z
+updated: 2025-03-05T01:08:04.571Z
 tags:
   - chatgpt
   - open-ai
@@ -47,23 +47,14 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
 1. Sample 1  
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
 
  But besides these flaws, how do write-ups from each chatbot sound from a holistic point of view?
@@ -80,22 +71,12 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
 
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2  Claude Offers Multimodality for Free
 
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3  Larger Context Window
 
  Context window is the limit of text data an AI chatbot can process at a go. Think of it as how many things you can keep in your memory (and be able to recall) at a time.
@@ -128,8 +109,6 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +116,26 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-elevate-your-photos-learn-bg-removal-with-picsart-tools/"><u>[New] In 2024, Elevate Your Photos Learn Bg Removal with Picsart Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-enhancing-your-syma-x8c-experience/"><u>[Updated] In 2024, Enhancing Your Syma X8C Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2-a-closer-look-at-windows-movie-makers-journey-through-highs-and-lows-the-2024-update-breakdown/"><u>2. A Closer Look at Windows Movie Maker's Journey Through Highs and Lows - The 2024 Update Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726222534617-movavi/"><u>無限量數字化翻譯服務 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-descargar-videos-de-youtube-como-mp4-sin-coste-los-9-mas-efectivos-para-su-dispositivo/"><u>Cómo Descargar Videos De YouTube Como MP4 Sin Coste: Los 9 Más Efectivos Para Su Dispositivo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-transformar-archivos-de-audio-wav-a-formato-mp3-sin-costo-alguno-con-herramientas-en-linea/"><u>Cómo Transformar Archivos De Audio WAV a Formato MP3 Sin Costo Alguno Con Herramientas en Línea</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-videos-into-wmv-format-easily-with-these-3-methods-free-software-options-and-web-services/"><u>Convert Videos Into WMV Format Easily with These 3 Methods: Free Software Options & Web Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-compress-videos-for-easy-sharing-on-whats-app-pc-online-or-mobile-guide/"><u>How to Compress Videos for Easy Sharing on What's App: PC, Online or Mobile Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-11x-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 11X 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-straightforward-strategies-for-podcast-streaming/"><u>In 2024, Straightforward Strategies for Podcast Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/les-apps-de-diapositives-les-plus-performantes-sur-ios-et-android-un-top-10-comparatif/"><u>Les Apps De Diapositives Les Plus Performantes Sur iOS Et Android : Un Top 10 Comparatif</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meilleures-capteurs-decrans-compatibles-avec-nimporte-quel-appareil-critiques-top-13-par-movavi/"><u>Meilleures Capteurs D’Écrans Compatibles Avec N'importe Quel Appareil | Critiques Top 13 Par Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-innovations-insights-from-toms-hardware/"><u>Navigating New Innovations: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://win-studio.techidaily.com/overcoming-lenovo-issues-saving-your-files-when-default-boot-device-goes-missing/"><u>Overcoming Lenovo Issues: Saving Your Files when ‘Default Boot Device’ Goes Missing</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-nvidias-geforce-error-x0001-on-windows-1011/"><u>Steps to Fix Nvidia's GeForce Error X0001 on Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-strategy-to-turn-your-fb-page-into-cash/"><u>The Ultimate Strategy to Turn Your FB Page Into Cash</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-registered-classes-in-windows-10-easy-steps-for-a-smooth-solution/"><u>Troubleshooting Non-Registered Classes in Windows 10 – Easy Steps for a Smooth Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-pick-5-premier-software-solutions-for-on-screen-drawing-and-animation/"><u>Ultimate Pick: 5 Premier Software Solutions for On-Screen Drawing & Animation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209731435-9780806539607-wicca-candle-magick/"><u>Wicca Candle Magick | Free Book</u></a></li>
+</ul></div>
 

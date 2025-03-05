@@ -1,7 +1,7 @@
 ---
 title: "Crafting Compelling Narratives: AI's Role in Game Storytelling"
-date: 2024-08-21T15:36:19.152Z
-updated: 2024-08-22T15:36:19.152Z
+date: 2025-02-25T16:53:17.134Z
+updated: 2025-03-04T19:27:33.020Z
 tags:
   - chatgpt
   - open-ai
@@ -39,40 +39,24 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
  Of course, all of this assumes that the issue of AI being trained on unwitting creatives’ work has been solved. Currently, the two biggest barriers to this technology becoming widely used are related to public image and legality. Right now, most AI is trained on work without the original creator's permission, and thanks to this, much AI-driven work isn't exactly well-received online.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How AI Could Oversaturate Video Games
 
 ![A chart showing the number of games relased on Steam each year from 2006 to 2023. The chart shows a huge increase in released games from 2014-2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chart-showing-increased-in-games-released-on-steam-each-year-steam-db.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While it’s true that AI will help more people make video games, it could also lead to a huge glut in the market, and that has caused some problems for the games industry in the past. With AI assistance, it will become even easier for low-effort developers to churn out low-quality, low-price games as a quick scam. This has already been an issue in previous years, with 2017 seeing Valve remove 173 asset flip games from the storefront as reported by [Gamesindustry.biz](https://www.gamesindustry.biz/valve-removes-173-asset-flipping-games-from-steam).
 
  AI assistants could make these games easier to produce and make it harder to detect such games, as AI-generated content can at least appear marginally different from bundles of pre-bought assets currently used. When you add the ability for the incredibly young and inexperienced to make a game because they feel like it, it’s not hard to see why the introduction of AI assistants would make some people nervous.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Another Gaming Explosion
 
  AI could create another explosion in the number of games being brought out. It might even finally force Valve to enact some quality control on the games it's allowing for Steam's survival. The concern is that if AI content floods the market, people will lose faith in industry institutions, leading to a similar crash as was experienced in the early 80s. One of the primary causes of that crash, cited by places like [History Computer](https://history-computer.com/what-was-the-video-game-crash-of-1983-and-why-did-it-happen/), was a huge amount of low-quality software being released with no consumer guidance available.
 
  The final major struggle with AI-assisted game design is how it works legally. As we previously mentioned, AI-driven art is not currently accepted by the wider public, especially not in online circles. With gaming being such an online-centric industry, it seems that the hurdles could be bigger here than anywhere else, and many gamers may see avoiding the purchase of AI-driven games as an important moral stance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Video Game Industry Needs Solid Guidelines Around AI
 
 ![screenshot of Google I/O 2023 showing a woman and man on opposite sides of the stage with a screen between them showing an AI-assistant helping to write a story.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-io-stage-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
 
  While we’ve talked at length about both the potential positives and negatives of the future of AI-assisted game design, it’s worth remembering that all of these potential issues can and should be accounted for. If Valve and other large digital retailers wish to avoid a repeat of previous gaming crashes, then it would almost certainly be wise to try to enact some slightly stricter quality control guidelines that are industry-wide.
@@ -81,9 +65,6 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
 
  On top of that, the games industry should not wait until legislation is imposed upon it by the government. Self-imposed codes and standards are an important part of any industry, from the Comic Code Authority to the ESRB; these self-policing policies are an important part of a healthy industry. People in positions of power within the industry need to start thinking about how we restrict the power that AI has over creative human expression now and not when it's too late.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Could AI Be the Future of Gaming?
 
  As AI starts to sink into more and more industries, there's no doubt that we'll find it in our games in the not-so-distant future. Whether this is for better or worse is up for debate, we've outlined a few key impacts AI could make.
@@ -98,8 +79,6 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +86,26 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-pop-culture-with-a-click-using-kinemaster/"><u>[New] 2024 Approved Pop Culture with a Click Using KineMaster</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/est-5-non-youtube-editing-tools-for-vids-for-2024/"><u>[New] Best 5 Non-YouTube Editing Tools for Vids for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-household-light-use-of-outdoor-elements/"><u>2024 Approved Harnessing Household Light Use of Outdoor Elements</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-tecno-camon-30-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Tecno Camon 30 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-reno-10-proplus-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Reno 10 Pro+ 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-line-application-evaluation/"><u>Comprehensive Line Application Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-video-formats-for-free-mp4-and-mpeg-with-movavis-quick-online-tool/"><u>Convert Video Formats for Free: MP4 & MPEG with Movavi's Quick Online Tool!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dicas-e-tecnicas-essenciais-para-clarear-videos-top-6-aplicativos-mais-usados-em-celulares-e-computadores/"><u>Dicas E Técnicas Essenciais Para Clarear Vídeos: Top 6 Aplicativos Mais Usados Em Celulares E Computadores</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-aac-file-transformation-service-quick-and-simple-online-method/"><u>Free AAC File Transformation Service - Quick & Simple Online Method</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-converter-transform-vob-files-into-high-quality-aiff-audio-directly-on-the-web-with-movavi/"><u>Free Converter: Transform VOB Files Into High-Quality AIFF Audio Directly on the Web with Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-for-engaging-elite-videography-talent/"><u>In 2024, Strategies for Engaging Elite Videography Talent</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/logiciel-de-retouche-dimages-avancee-movavi-photocorrecteur-une-experience-intuitive-pour-ameliorer-votre-photographie/"><u>Logiciel De Retouche D'Images Avanceé : Movavi PhotoCorrecteur | Une Expérience Intuitive Pour Améliorer Votre Photographie</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-video-konverter-den-lette-og-pligtelige-lystenudskrivnings-app-pa-danskmarkedet/"><u>Movavi Video Konverter - Den Lette Og Pligtelige Lystenudskrivnings App På Danskmarkedet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/registro-de-pendentes-do-google-em-202n-guia-passo-a-passo-com-a-ferramenta-6-ways-free-movavi/"><u>Registro De Pendentes Do Google Em 202N: Guia Passo-a-Passo Com a Ferramenta 6 Ways Free - Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/restoring-default-sound-options-on-windows-a-comprehensive-guide-insights-from-zdnet/"><u>Restoring Default Sound Options on Windows: A Comprehensive Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-free-mac-compatible-mp3-convertors-reviewed-enhance-your-audio-experience-without-spending/"><u>Top 10 Free Mac-Compatible MP3 Convertors Reviewed: Enhance Your Audio Experience Without Spending</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webconversor-de-audio-gratuito-faca-sua-musica-tocar-em-qualquer-dispositivo-mp3-wma/"><u>Webconversor De Áudio Gratuito – Faça Sua Música Tocar Em Qualquer Dispositivo (MP3, WMA)</u></a></li>
+</ul></div>
 

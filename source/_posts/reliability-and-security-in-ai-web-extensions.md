@@ -1,7 +1,7 @@
 ---
 title: Reliability and Security in AI Web Extensions
-date: 2025-02-12T01:35:54.252Z
-updated: 2025-02-15T19:57:31.708Z
+date: 2025-03-01T20:54:29.617Z
+updated: 2025-03-04T22:16:07.591Z
 tags:
   - chatgpt
   - open-ai
@@ -40,15 +40,7 @@ thumbnail: https://thmb.techidaily.com/a964a317c56bb2fa6b9be32620f4927922fc956f5
 
 ![Merlin Extension Answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/merlin-extension-answering-query.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, [not all ChatGPT browser extensions are bad](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/). Some of them actually do what they advertise. One such extension is Merlin ChatGPT. Once you have logged in, the extension does exactly what it says. It will summarize your Google searches automatically and bring up a chat window where you can ask the chatbot for more information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fake ChatGPT Apps
 
@@ -66,17 +58,9 @@ thumbnail: https://thmb.techidaily.com/a964a317c56bb2fa6b9be32620f4927922fc956f5
 
 ![bing-chat-android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Now that Bing has integrated GPT-4 into its search engine, there isn't any need to go for these apps in the first place. You can instead download the new version of the Bing app to [use Bing AI Chat on your Android](https://www.makeuseof.com/how-to-use-bing-chat-app-ai-android) or iPhone. Since Bing uses GPT-4 and can access information from the web in real-time, it's a better alternative than any of the shady ChatGPT clones.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Privacy Concerns
 
@@ -91,10 +75,6 @@ Close
 ## Legit ChatGPT Alternatives
 
  OpenAI's servers tend to get busy pretty quickly, and you'll often find that ChatGPT is unusable because of it. If you're looking for an alternative to rely on as your AI assistant, then there are quite a few legit chatbots that you can use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Bing Chat
 
@@ -111,10 +91,6 @@ Close
  Trained on OpenAI's GPT-3 language model, [Perplexity AI](http://www.perplexity.ai/) is a great research tool that scans the web to bring you results. It doesn't require any sign-up or login, and the response timing is very good. The main [difference between Perplexity AI and ChatGPT](https://www.makeuseof.com/chatgpt-plus-vs-perplexity-which-is-best) is that Perplexity can cite sources for its responses, making it more accurate.
 
  But while Perplexity works well as a search-engine-cum-chatbot, its conversational abilities could be better. It works best as a research tool rather than an AI assistant. Still, the fact that you can download and use it without signing up is incredible, compared to other third-party apps that require your personal info one way or the other.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Nova AI
 
@@ -149,14 +125,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-direct-mp3-to-youtube-3-steps-for-seamless-video-posting/"><u>[New] In 2024, Direct MP3 to YouTube 3 Steps for Seamless Video Posting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-delve-into-the-art-of-text-animation-14-stunning-examples-for-2024/"><u>[Updated] Delve Into the Art of Text Animation 14 Stunning Examples for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-making-your-mark-in-the-podcast-world-with-xml-mastery/"><u>[Updated] Making Your Mark in the Podcast World with XML Mastery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/converse-with-confidence-chatgpt-for-android/"><u>Converse with Confidence: ChatGPT for Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/differences-in-enterprise-versus-consumer-gpt-services/"><u>Differences in Enterprise Versus Consumer GPT Services</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/leading-cost-free-switch-gaming-apps/"><u>Leading Cost-Free Switch Gaming Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/minimizing-gan-blunders-expert-tips/"><u>Minimizing GAN Blunders: Expert Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-justifications-for-restricting-gpt-in-workplaces/"><u>Top 5 Justifications for Restricting GPT in Workplaces</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/virtueel-omzetten-van-mka-archieven-gratis-oplossingen-met-movavi/"><u>Virtueel Omzetten Van MKA-Archieven: Gratis Oplossingen Met Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tailoring-retrospective-analysis-with-twitter-archives/"><u>[Updated] 2024 Approved Tailoring Retrospective Analysis with Twitter Archives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-instagram-ringtone-making-solo/"><u>[Updated] In 2024, Mastering Instagram Ringtone Making Solo</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-the-mix-adding-cropping-and-adjusting-audio-in-canva/"><u>[Updated] Mastering the Mix Adding, Cropping & Adjusting Audio in Canva</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>2024 Approved Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-safeguarding-snapshots-techniques-for-instagram-watermarks/"><u>2024 Approved Safeguarding Snapshots Techniques for Instagram Watermarks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-syma-x8c-user-guide-insights/"><u>2024 Approved The Syma X8C User Guide Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dont-let-these-common-oversights-ruin-your-experience-with-apple-vision-pro-expert-tips-for-optimal-use/"><u>Don’t Let These Common Oversights Ruin Your Experience With Apple Vision Pro - Expert Tips for Optimal Use</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-streamline-your-playlist-import-music-into-inshot/"><u>In 2024, Streamline Your Playlist Import Music Into InShot</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-watermark-free-video-editing-the-top-10-free-online-options/"><u>New 2024 Approved Watermark-Free Video Editing The Top 10 Free Online Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/push-past-filmora-discover-the-best-tablets-for-visual-excellence-for-2024/"><u>Push Past Filmora - Discover the Best Tablets for Visual Excellence for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsungs-latest-virtual-reality-breakthrough-announced-at-july-2024-unpacked-zdnet-insights/"><u>Samsung's Latest Virtual Reality Breakthrough Announced at July 2024 Unpacked | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-up-your-apple-vision-pro-with-a-vpn-step-by-step-guide-and-benefits-learn-from-zdnets-experts/"><u>Setting Up Your Apple Vision Pro with a VPN: Step-by-Step Guide & Benefits - Learn From ZDNet's Experts!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-factors-driving-customers-back-to-apple-vision-pro-insights-from-reddit-discussions-zdnet-analysis/"><u>Top 7 Factors Driving Customers Back to Apple Vision Pro: Insights From Reddit Discussions - ZDNet Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-envisioned-affordable-vr-the-elusive-vision-pro-spectacles/"><u>Unveiling Apple's Envisioned Affordable VR: The Elusive Vision Pro Spectacles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-apple-vision-pro-experience-essential-learnings-from-a-weekend-trial/"><u>Unveiling the Apple Vision Pro Experience: Essential Learnings From a Weekend Trial</u></a></li>
 </ul></div>
 

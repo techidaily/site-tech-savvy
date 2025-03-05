@@ -1,7 +1,7 @@
 ---
 title: "The Smart Choice: Avoid Investing in the iPhone 16 if You Value Cutting-Edge Apple Tech - Insights"
-date: 2025-02-14T01:37:46.255Z
-updated: 2025-02-16T01:01:10.554Z
+date: 2025-03-03T18:57:52.346Z
+updated: 2025-03-04T22:23:15.335Z
 tags:
   - apple
 categories:
@@ -28,19 +28,11 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -85,10 +73,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 **Also: [Apple Intelligence will improve Siri in 2024, but don't expect most updates until 2025](https://www.zdnet.com/article/apple-intelligence-will-improve-siri-in-2024-but-dont-expect-most-updates-until-2025/)**
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
@@ -113,10 +97,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -158,20 +138,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-strategies-to-thrive-on-snapchat-as-a-business-entity/"><u>[Updated] In 2024, Strategies to Thrive on Snapchat as a Business Entity</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-lens-and-light-the-best-of-cinematographic-insights-24-edition/"><u>2024 Approved Lens & Light The Best of Cinematographic Insights - '24 Edition</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/7-common-flubs-when-harnessing-ml-power/"><u>7 Common Flubs When Harnessing ML Power</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evolution-or-revolution-ais-effect-on-video-game-industry/"><u>Evolution or Revolution? AI's Effect on Video Game Industry</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-copyright-concerns-with-recording-youtube-content/"><u>In 2024, Copyright Concerns with Recording YouTube Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-quick-overview-of-colour-difference-filming/"><u>In 2024, Quick Overview of Colour Difference Filming</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-multimedia-a-detailed-review-of-video-editors/"><u>Mastering Multimedia A Detailed Review of Video Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peeking-into-the-functionality-of-predictive-ai-tools/"><u>Peeking Into the Functionality of Predictive AI Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peering-into-cyberspaces-future-7-prediction-highlights/"><u>Peering Into Cyberspace's Future: 7 Prediction Highlights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-youself-from-chatgpt-monitoring/"><u>Protecting Youself From ChatGPT Monitoring</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/slash-your-expenses-grab-the-lenovo-business-laptop-with-nearly-1000-discount-on-amazon-pre-prime-day-insights-by-zdnet/"><u>Slash Your Expenses: Grab the Lenovo Business Laptop With Nearly $1,000 Discount on Amazon Pre-Prime Day | Insights by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-secure-chat-with-gpt-via-vpn/"><u>Unlocking Secure Chat with GPT via VPN?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/when-virtual-meets-real-8-ai-innovations/"><u>When Virtual Meets Real: 8 AI Innovations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ranking-the-leading-10-pixels-for-free-access/"><u>[New] 2024 Approved Ranking the Leading 10 Pixels for Free Access</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-inside-outlooks-of-instagram-stories-consumers-for-2024/"><u>[New] Inside Outlooks of Instagram Stories Consumers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-meme-mastery-money-making-the-financial-figures-of-a-video-virtuoso/"><u>2024 Approved Meme Mastery Money-Making The Financial Figures of a Video Virtuoso</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-8-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 8 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-tiktok-video-editing-apps-create-and-go-viral-on-the-latest-trend/"><u>Best TikTok Video Editing Apps: Create and Go Viral on the Latest Trend</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-laptop-usb-woes-heres-how-you-can-get-your-ports-working-again/"><u>Dell Laptop USB Woes? Here's How You Can Get Your Ports Working Again!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-the-power-of-sound-with-razer-leviathan-v2-a-detailed-review-tech-innovation-hub/"><u>Experience the Power of Sound with Razer Leviathan V2 - A Detailed Review | Tech Innovation Hub</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-y100t-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo Y100t to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-13t-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi 13T Pro Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-pro-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 Pro 5G Phone without Google Account?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/learn-the-secrets-of-eco-friendly-tech-top-engineering-masterclass-for-only-40-see-inside-on-zdnet/"><u>Learn the Secrets of Eco-Friendly Tech: Top Engineering Masterclass for Only $40 - See Inside on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-isolation-together-strategies-for-fostering-connection-in-todays-blended-work-spaces-reviewed-on-zdnet/"><u>Navigating Isolation Together: Strategies for Fostering Connection in Today's Blended Work Spaces - Reviewed on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-art-of-arranging-informational-conversations-tactfully-tech-insights-hub/"><u>Navigating the Art of Arranging Informational Conversations Tactfully | Tech Insights Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/salesforce-leader-warns-of-global-shortage-in-development-talent-insights-from-the-tech-industry/"><u>Salesforce Leader Warns of Global Shortage in Development Talent - Insights From the Tech Industry</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sharing-music-magic-a-guide-on-playing-spotify-with-your-crew/"><u>Sharing Music Magic: A Guide on Playing Spotify with Your Crew</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-a-chief-ai-officer-key-responsibilities-and-steps-towards-achieving-the-position/"><u>The Role of a Chief AI Officer: Key Responsibilities & Steps Towards Achieving the Position</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-a-chief-artificial-intelligence-officer-steps-towards-landing-the-position-zdnet/"><u>The Role of a Chief Artificial Intelligence Officer: Steps Towards Landing the Position | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/updating-your-linkedin-credentials-made-simple-expert-tips-and-reasons-zdnet/"><u>Updating Your LinkedIn Credentials Made Simple - Expert Tips & Reasons | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zipping-through-picture-adjustments-in-minutes-with-proven-tips-learn-here/"><u>Zipping Through Picture Adjustments in Minutes with Proven Tips - Learn Here!</u></a></li>
 </ul></div>
 

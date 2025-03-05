@@ -1,7 +1,7 @@
 ---
 title: EU, Apple, App Store, Antitrust Violations, and Penalty.
-date: 2025-02-15T02:10:35.268Z
-updated: 2025-02-15T19:30:59.045Z
+date: 2025-03-03T17:33:45.996Z
+updated: 2025-03-04T16:08:47.901Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 ## **iPhone App of the Year**:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [AllTrails](https://apps.apple.com/us/app/alltrails-hike-bike-run/id405075943) from AllTrails, Inc.
 
 Sabrina Ortiz/ZDNET
@@ -70,10 +66,6 @@ When searching for a trail, the app considers all your needs, including whether 
 Then, once you select a route, it helps you stay on course with your planned course. The app also has fitness tracking and community-building elements to encourage meeting your fitness goals. 
 
 ## **iPad App of the Year**:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Prêt-à-Makeup](https://apps.apple.com/us/app/pr%C3%AAt-%C3%A0-makeup/id1434594204) from Prêt-à-Template
 
@@ -107,10 +99,6 @@ The app also features [generative AI](https://www.zdnet.com/article/what-is-gene
 
 The app is free to download but requires a subscription of $4.99 per month or $29.99 yearly to use. If you are interested in trying the app out before subscribing, as a new user, you get three edits for free that you can use to test it out. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Apple TV App of the Year:**
 
 ### [MUBI](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fmubi-stream-great-cinema%2Fid626148774&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899523596%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Jr%2FmQO5EZnS7Mz0NnjMOG36CJubqrWZdSMtDgZTMCEs%3D&reserved=0) from MUBI, Inc.
@@ -131,10 +119,6 @@ Another standout feature from MUBI is that, unlike other popular streaming platf
 "It's just that these films often get lost in the shuffle of larger catalogs -- the film from a different country, the film from a few years ago, a festival film, these are films that streaming services don't pay attention to, but really are some of the best movies out there," said Kasman. 
 
 The film selection is vast, ranging from rare indie films to classics. Although the app is free to download, a subscription fee starting at $12.99 a month is required to start streaming. If interested in trying the app, there is a seven-day free trial. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Apple Watch App of the Year:**
 
@@ -168,10 +152,6 @@ Even if -- like me -- you are not big into gaming, the app is so intuitive to us
 
 ## **iPad Game of the Year:**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Lost in Play](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flost-in-play%2Fid6449434958&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899541995%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0oPPE2cRfhafEBvSf1cU1xkz2q%2FOh05%2Bx7GMX1pKbAU%3D&reserved=0), from Snapbreak Games
 
 Sabrina Ortiz/ZDNET
@@ -185,10 +165,6 @@ While playing, users will help them get home by solving unique puzzles and mini-
 
 ## **Mac Game of the Year:**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Lies of P](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flies-of-p%2Fid6459738231%3Fmt%3D12&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899548181%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vK%2FJQ7BraKmUU550%2Bcggsy8CfE%2BvSbodTk3LppI7prU%3D&reserved=0), from NEOWIZ
 
 Sabrina Ortiz/ZDNET
@@ -200,15 +176,7 @@ Lies of P is a roleplaying game in which the user plays a puppet created by Gepe
 
 Apple originally spotlighted Lies of P for the game's smooth gameplay and the storyline's dark, alternative twist on the classic childhood tale The Adventures of Pinocchio. To play the game, you have to pay the full game cost upfront of $59.99\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Apple Arcade Game of the Year:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Hello Kitty Island Adventure](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fhello-kitty-island-adventure%2Fid1553505132&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899553812%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=xI09Qn9yJ7RiAmQwgV3zEDVHB%2FisuPX5Y80VnpW4kYI%3D&reserved=0), from Sunblink
 
@@ -291,10 +259,6 @@ While moving through the storyline, the player will have to deal with family dra
 
  When nominated as a finalist for the category, Apple gave special recognition to the app's ability to connect women across generations through gameplay. The game is free to download but requires a $3.99 in-app purchase to unlock it. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Bonus: Trend of the year
 
 This year, Apple included a Trend of the Year, and unsurprisingly, it was [generative AI.](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) Whether you are a tech enthusiast or just a casual consumer, you have probably noticed the explosion of interest in generative AI since [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) was unveiled one year ago. 
@@ -335,24 +299,16 @@ To highlight the trend of the year, App Store Editors highlighted a collection o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-preventing-sudden-deletion-of-personal-videos-from-fb/"><u>[New] Preventing Sudden Deletion of Personal Videos From FB</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/uick-resize-youtube-to-fit-mac-display-ratio/"><u>[New] Quick Resize YouTube to Fit Mac Display Ratio</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-zerocomplicationlivecast-your-simple-pathway-to-livestreaming-a-podcast-for-2024/"><u>[New] ZeroComplicationLivecast Your Simple Pathway to Livestreaming a Podcast for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-exploring-fb-video-aspect-proportions/"><u>[Updated] 2024 Approved Exploring FB Video Aspect Proportions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-fading-technique-on-soundtracks-in-audacity/"><u>[Updated] Mastering the Fading Technique on Soundtracks in Audacity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-usage-balancing-progress-and-security/"><u>ChatGPT Usage: Balancing Progress and Security</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-shaping-digital-identity-safety/"><u>ChatGPT's Role in Shaping Digital Identity Safety</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-brilliance-of-claude-next-gen-ai-for-your-enterprise/"><u>Discover the Brilliance of Claude: Next-Gen AI for Your Enterprise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-power-of-gpt-3s-latest-browsing-updates/"><u>Discover the Power of GPT-3's Latest Browsing Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-source-to-system-your-auto-gpt-walkthrough/"><u>From Source to System: Your Auto-GPT Walkthrough</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-minimize-book-spine-glare-when-scanning-with-flipbuilder-pro/"><u>How To Minimize Book Spine Glare When Scanning With FlipBuilder Pro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-market-mastery-strategys-first-impressions/"><u>In 2024, Market Mastery Strategy's First Impressions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrate-smartly-chatgpt-and-its-plugins-guide/"><u>Integrate Smartly: ChatGPT and Its Plugins Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/midnight-guardian-vs-sunlit-sentinel-for-2024/"><u>Midnight Guardian Vs Sunlit Sentinel for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-3-dimensions-chatgpt-wolfram-alpha-interaction/"><u>Navigating 3 Dimensions: ChatGPT-Wolfram Alpha Interaction</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/permission-puzzles-in-fortnite-play-a-step-by-step-guide-to-fix-error-code-10053/"><u>Permission Puzzles in Fortnite Play: A Step-by-Step Guide to Fix Error Code 10053</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-browsing-with-gpt-extensions-or-risks/"><u>Secure Browsing with GPT: Extensions or Risks?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-answer-to-solving-glexttexturencompression-level-format-problem-in-opengl-error-1281/"><u>The Definitive Answer to Solving GL_EXT_texture_ncompression Level Format Problem in OpenGL (Error 1281)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-final-puzzle-will-machines-overcome-humans/"><u>The Final Puzzle: Will Machines Overcome Humans?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-defiance-against-data-thieves/"><u>[New] Defiance Against Data Thieves</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-economical-systems-optimized-by-ideal-obs-settings-for-2024/"><u>[New] Economical Systems Optimized by Ideal OBS Settings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-6-innovative-mc-survival-homes/"><u>[Updated] 6 Innovative MC Survival Homes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-record-panel-wide-digital-view/"><u>[Updated] Record Panel-Wide Digital View</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/disruptive-finnish-startup-unveils-cutting-edge-vr-device-that-outperforms-apples-vision-pro-perfect-for-corporate-users-gadgetdigest/"><u>Disruptive Finnish Startup Unveils Cutting-Edge VR Device That Outperforms Apple's Vision Pro, Perfect for Corporate Users | GadgetDigest</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-valheim-pc-stuttering-ensure-smooth-gameplay-today/"><u>Expert Tips to Resolve Valheim PC Stuttering – Ensure Smooth Gameplay Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fintech-pioneers-how-a-nordic-startup-is-challenging-apple-with-an-innovative-vr-headset-for-professionals-wired/"><u>FinTech Pioneers: How a Nordic Startup Is Challenging Apple with an Innovative VR Headset for Professionals | Wired</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-dyson-augmented-reality-feature-guarantees-flawless-cleaning-discover-how-their-latest-tech-aids-in-perfect-vacuum-navigation/"><u>Innovative Dyson Augmented Reality Feature Guarantees Flawless Cleaning: Discover How Their Latest Tech Aids in Perfect Vacuum Navigation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-quest-introduces-significant-enhancements-and-minor-setback-in-new-update-a-detailed-analysis-zdnet/"><u>Meta Quest Introduces Significant Enhancements & Minor Setback in New Update: A Detailed Analysis - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/qualcomm-teaming-up-with-samsung-and-google-for-groundbreaking-arvr-smart-glasses-the-future-unveiled/"><u>Qualcomm Teaming Up With Samsung & Google For Groundbreaking AR/VR Smart Glasses – The Future Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-samsung-printer-drivers-on-windows-solutions-unveiled/"><u>Troubleshooting Samsung Printer Drivers on Windows: Solutions Unveiled</u></a></li>
 </ul></div>
 

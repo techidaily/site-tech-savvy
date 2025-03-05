@@ -1,7 +1,7 @@
 ---
 title: Exploring Why Snapchat’s My AI Is More Than Playful Tech
-date: 2025-02-14T20:33:35.133Z
-updated: 2025-02-15T19:33:24.298Z
+date: 2025-03-01T20:51:15.903Z
+updated: 2025-03-04T22:00:56.083Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. My AI Runs on GPT-3.5
 
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
@@ -48,10 +44,6 @@ Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Conversations Retain the Last 3,000 Words
 
  Contextual memory helps AI provide more accurate responses. Instead of taking prompts at face value, chatbots will reference relevant information in active conversations. Let’s say you’re looking for side hustles. AI-driven chatbots will also consider your skills and career background, assuming you provide them.
@@ -62,17 +54,9 @@ Close
 
 ![Snapchat My AI Roleplaying as Ash Ketchum from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-roleplay-request.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. My AI Can Pull Real-Time Information
 
@@ -83,10 +67,6 @@ Close
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -111,10 +91,6 @@ Close
  While Bard AI and Bing Chat use more advanced LLMs than Snapchat, My AI surprisingly does well in Math.
 
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
@@ -155,19 +131,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-palette-playbook-the-filmmakers-guide-to-grading-for-2024/"><u>[New] Palette Playbook The Filmmaker's Guide to Grading for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-permanent-ousting-technique-for-the-quick-video-feature/"><u>[Updated] In 2024, Permanent Ousting Technique for the Quick Video Feature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cgp-a-verified-source-or-vague-suggestions/"><u>CGP: A Verified Source or Vague Suggestions?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-conversation-to-content-chatgpts-movie-guide/"><u>From Conversation to Content: ChatGPT's Movie Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-step-by-step-setting-up-your-first-xbox-record-session/"><u>In 2024, Step-by-Step Setting Up Your First Xbox Record Session</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-ui-tweaks-windows-10-advanced-fix/"><u>Missing UI Tweaks: Windows 10 Advanced Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-disruption-in-apex-legends-an-experts-guide-to-solutions/"><u>Overcoming Voice Chat Disruption in Apex Legends: An Expert's Guide to Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peering-into-codegpt-a-potential-game-changer-for-dev-teams/"><u>Peering Into CodeGPT: A Potential Game-Changer for Dev Teams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-digital-revolution-in-classrooms-top-8-reasons-to-adapt-with-ai/"><u>The Digital Revolution in Classrooms: Top 8 Reasons to Adapt with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-intricacies-of-bypassing-chatgpt-constraints/"><u>The Intricacies of Bypassing ChatGPT Constraints</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-errors-in-content-creation-avoid-at-all-costs-with-chatgpt/"><u>Top 4 Errors in Content Creation: Avoid at All Costs with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-browsing-experience-7-extensions-for-ai-enthusiasts/"><u>Transform Your Browsing Experience: 7 Extensions for AI Enthusiasts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/zombie-sketch-specialist-for-2024/"><u>Zombie Sketch Specialist for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-edit-suite-apps-and-devices-tools-listed/"><u>[New] Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-incredible-live-stream-options-a-compilation/"><u>[Updated] Incredible Live Stream Options - A Compilation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-proven-methods-to-record-flawlessly-using-nvidia/"><u>[Updated] Proven Methods to Record Flawlessly Using NVIDIA</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenger-googles-gemini-vs-chatgpt/"><u>Challenger: Google's Gemini Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exiting-chatgpts-shadow-for-fresh-experienences/"><u>Exiting ChatGPT's Shadow for Fresh Experienences</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introduction-to-langchain-your-first-guide/"><u>Introduction to LangChain: Your First Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/minimizing-ai-illusions-leveraging-six-guiding-prompts/"><u>Minimizing AI Illusions: Leveraging Six Guiding Prompts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-pci-device-controller-problems-related-to-encrypting-and-decrypting-data/"><u>Solved: PCI Device Controller Problems Related to Encrypting and Decrypting Data 🛠️✨</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-conceptual-framework-and-societal-impacts-of-comparing-digital-libraries-with-traditional-models/"><u>The Conceptual Framework and Societal Impacts of Comparing Digital Libraries with Traditional Models</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme Note 50? | Dr.fone</u></a></li>
 </ul></div>
 

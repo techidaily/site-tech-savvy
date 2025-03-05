@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 Versus GPT-3.5: What Sets It Apart?"
-date: 2025-02-14T00:51:03.485Z
-updated: 2025-02-16T00:04:49.488Z
+date: 2025-02-26T16:05:09.065Z
+updated: 2025-03-04T23:13:44.554Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
 
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
@@ -52,17 +48,9 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
 ![Image of Shield Representing Cybersecurity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
@@ -78,17 +66,9 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
@@ -121,22 +101,19 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-auditory-scripting-at-its-excellence/"><u>[New] Auditory Scripting at Its Excellence</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebook-streaming-made-simple-tips-for-android-and-iphones/"><u>[New] Facebook Streaming Made Simple Tips for Android & iPhones</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-top-hashes-boosting-youtube-revenue-6k-milestone/"><u>[New] In 2024, Top Hashes Boosting YouTube Revenue $6K Milestone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-tech-mac-screenshoting-basics/"><u>[Updated] Essential Tech Mac Screenshoting Basics</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-evaluating-frame-rates-the-decision-on-30-vs-60hz-for-2024/"><u>[Updated] Evaluating Frame Rates The Decision on 30 Vs. 60Hz for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-desktop-techniques-for-effective-tiktok-live-sessions/"><u>2024 Approved Desktop Techniques for Effective TikTok Live Sessions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accelerating-innovation-chatgpts-impact-on-3d-manufacturing/"><u>Accelerating Innovation: ChatGPT's Impact on 3D Manufacturing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-defined-essential-language-explained/"><u>Artificial Intelligence Defined: Essential Language Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-interactive-communications-mastering-custom-gpt-3-directives-with-finesse/"><u>Elevating Interactive Communications: Mastering Custom GPT-3 Directives with Finesse</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-8s-proplus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 8S Pro+ Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-youtubes-richest-content-creator-ever/"><u>In 2024, YouTube's Richest Content Creator Ever</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastery-in-managing-and-migrating-chatgpt-outputs/"><u>Mastery in Managing and Migrating ChatGPT Outputs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/podcastpioneers-charting-new-territories/"><u>PodcastPioneers Charting New Territories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/refrain-from-installing-gpt-on-your-device/"><u>Refrain From Installing GPT on Your Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seven-pathways-generative-ais-impact-on-labor-markets/"><u>Seven Pathways: Generative AI's Impact on Labor Markets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smart-scheduling-made-simple-utilizing-chatgpt-to-optimize-your-day/"><u>Smart Scheduling Made Simple: Utilizing ChatGPT to Optimize Your Day</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-multilingual-potential-with-advanced-chatgptplus-tech/"><u>Unlock Multilingual Potential with Advanced ChatGPT+ Tech</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-inverting-film-tracks-in-mobile-devices/"><u>[Updated] In 2024, Inverting Film Tracks in Mobile Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-studio-editors-guide-to-flawless-filming/"><u>[Updated] YouTube Studio Editor's Guide to Flawless Filming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-focus-with-nature-5-ideal-green-companions-for-a-home-office-setup-zdnet/"><u>Boosting Focus with Nature: 5 Ideal Green Companions for a Home Office Setup | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/celebrate-memorial-day-deals-get-your-segway-max-g2-electric-scooter-for-400-less-limited-time-offer-from-zdnet/"><u>Celebrate Memorial Day Deals: Get Your Segway Max G2 Electric Scooter for $400 Less - Limited Time Offer From ZDNET!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-the-cold-with-confidence-the-definitive-shoppers-handbook-to-picking-a-top-notch-snow-blower-zdnet-insights/"><u>Conquer the Cold with Confidence: The Definitive Shopper's Handbook to Picking a Top-Notch Snow Blower | ZDNET Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/craftsmits-and-cinematography-precision-in-aspect-ratios-for-2024/"><u>Craftsmits and Cinematography Precision in Aspect Ratios for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/effortless-video-download-from-coub-a-comprehensive-guide/"><u>Effortless Video Download From Coub - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-android-apps-for-playing-old-school-ps2-titles-for-2024/"><u>Essential Android Apps for Playing Old-School PS2 Titles for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exceptional-deal-the-near-perfect-arlo-pro-just-at-180-offers-optimal-home-surveillance/"><u>Exceptional Deal: The Near-Perfect Arlo Pro 지스로, Just at $180 Offers Optimal Home Surveillance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-illumination-the-enhanced-govee-outdoor-lighting-setup-for-a-vibrant-evening-ambiance-zdnet/"><u>Experience Unmatched Illumination: The Enhanced Govee Outdoor Lighting Setup for a Vibrant Evening Ambiance | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-viewing-options-witness-the-april-8th-lunar-eclipse-with-googles-live-stream-zdnet/"><u>Free Viewing Options: Witness the April 8Th Lunar Eclipse with Google's Live Stream | ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-disconnected-world-in-pokemon-go/"><u>Overcoming Disconnected World in Pokémon GO</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-f5-model-by-pruveeo-1080p-dash-cam-review-saving-you-big-on-safety-gear/"><u>Top Rated F5 Model by Pruveeo: 1080P Dash Cam Review - Saving You Big on Safety Gear!</u></a></li>
 </ul></div>
 

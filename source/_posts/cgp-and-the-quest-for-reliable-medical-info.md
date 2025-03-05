@@ -1,7 +1,7 @@
 ---
 title: CGP and the Quest for Reliable Medical Info
-date: 2025-02-14T17:00:17.387Z
-updated: 2025-02-15T21:04:00.952Z
+date: 2025-02-27T16:32:45.911Z
+updated: 2025-03-05T00:00:29.323Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT's Potential for Improving Wellness
 
  When it comes to wellness information, there are several benefits of using an AI tool, such as ChatGPT:
@@ -41,19 +37,11 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 * The AI tool can tailor its advice to your specific circumstances. For instance, it allows you to set parameters and ask follow-up questions so that it can better understand your needs and goals, which can lead to more personalized recommendations.
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
 
  There are several use cases for ChatGPT in the realm of health and wellness. For starters, you could use the AI tool to provide you with nutrition advice, including general recommendations on healthy eating habits.
 
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
 
@@ -62,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
  When it comes to sleeping better, the AI model can offer you tips and recommendations for improving sleep hygiene, such as helping you create a wind-down routine or offering advice on how to create a relaxing, sleep-inducing environment.
 
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
 
@@ -76,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
  In addition, ChatGPT does not currently cite its sources like other AI systems (e.g.[Perplexity](https://www.perplexity.ai/) ). While it's worth noting that even the advice provided by doctors evolves over time and may be limited by current scientific knowledge, it's important to verify medical information with reliable sources, such as your doctor. ChatGPT's limited knowledge of the world after 2021 means it may not be aware of the most current health advice or advances.
 
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
 
@@ -113,18 +93,20 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-premium-7-video-gear-ideas-for-captivating-vloggers/"><u>[New] In 2024, Premium 7 Video Gear Ideas for Captivating Vloggers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-ideal-companion-15-tripods-and-mounts-for-gopro-excellence-for-2024/"><u>[New] The Ideal Companion 15 Tripods and Mounts for GoPro Excellence for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-learn-the-mechanics-behind-self-playing-videos-in-fb/"><u>[Updated] In 2024, Learn the Mechanics Behind Self-Playing Videos in Fb</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-rendering-reawakening-amds-radeon/"><u>[Updated] In 2024, Rendering Reawakening AMD's Radeon</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-palette-primer-compreenasive-guide-to-coloring/"><u>2024 Approved The Palette Primer Compreenasive Guide to Coloring</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-data-evolution-understanding-ais-transfer-learning-processes/"><u>Decoding Data Evolution: Understanding AI's Transfer Learning Processes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-conversion-from-avi-to-gif-your-fast-free-online-solution/"><u>Effortless Conversion From AVI to Gif - Your Fast, Free Online Solution!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fossil-fuels-in-the-crosshairs-are-they-solely-to-blame/"><u>Fossil Fuels in the Crosshairs: Are They Solely to Blame?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-se-2020-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone SE (2020)? Learn All 4 Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-13-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 13 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/programming-bots-to-interact-like-humans/"><u>Programming Bots to Interact Like Humans</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-to-combat-emotional-seclusion-with-chatai/"><u>Strategies to Combat Emotional Seclusion with ChatAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/symbols-as-economic-prophets/"><u>Symbols as Economic Prophets</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/apprenez-a-decouper-des-fichiers-mp4-sans-retroencodage-avec-windows/"><u>Apprenez À Découper Des Fichiers MP4 Sans Rétroencodage Avec Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/data-stewardship-with-every-chatgpt-use/"><u>Data Stewardship with Every ChatGPT Use</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-techniques-to-excel-at-pokemon-unite-on-pc-setup/"><u>Essential Techniques to Excel at Pokémon Unite on PC Setup</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-the-best-in-class-with-moto-g-power-comprehensive-performance-and-stellar-battery-life-assessment/"><u>Experience the Best in Class with Moto G Power - Comprehensive Performance and Stellar Battery Life Assessment</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/five-effective-solutions-for-addressing-the-nearly-full-windows-11-recovery-partition/"><u>Five Effective Solutions for Addressing the Nearly Full Windows 11 Recovery Partition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/frie-vob-til-mp4-omskiftning-pa-nettet-ved-hjaelp-af-konverteren-fra-movavi-supcbetydeligt-for-windows-og-mac/"><u>Frie VOB Til MP4-Omskiftning På Nettet Ved Hjælp Af Konverteren Fra Movavi, Supcbetydeligt for Windows Og Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/gamings-new-leaders-1-ranked-4k-laptops-for-2024/"><u>Gaming's New Leaders #1 Ranked 4K Laptops for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-is-your-computer-safeguarded-from-threats-with-windows-defender-exploring-antivirus-capabilities-yl-software-essentials/"><u>How Is Your Computer Safeguarded From Threats with Windows Defender? Exploring Antivirus Capabilities - YL Software Essentials</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-your-journey-to-instagram-dominance-started-here/"><u>In 2024, Your Journey to Instagram Dominance, Started Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-bard-googles-strategic-move-over-chatgpt/"><u>Introducing 'Bard': Google's Strategic Move Over ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-interpreter-extraordinaire-chatgpts-core-functionality/"><u>Language Interpreter Extraordinaire: ChatGPT's Core Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-more-texts-deactivate-your-gpt-3/"><u>No More Texts? Deactivate Your GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-ceo-change-expected-effect-on-gpt/"><u>OpenAI's CEO Change – Expected Effect on GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-the-chatgpt-token-limit-and-can-you-exceed-it/"><u>What Is the ChatGPT Token Limit and Can You Exceed It?</u></a></li>
 </ul></div>
 

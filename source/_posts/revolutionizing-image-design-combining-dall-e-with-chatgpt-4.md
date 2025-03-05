@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Image Design: Combining DALL-E with ChatGPT-4"
-date: 2024-08-21T15:35:30.914Z
-updated: 2024-08-22T15:35:30.914Z
+date: 2025-03-01T22:52:13.811Z
+updated: 2025-03-05T01:37:19.496Z
 tags:
   - chatgpt
   - open-ai
@@ -61,21 +61,12 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 3. Go down to the chat box and enter a prompt that starts with “**Generate an image of**…” or something similar.  
 ![ChatGPT generating image of a tifer and rabbit having tea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-06-12-am.png)
 4. Feel free to use follow-up prompts to improve the image to get it exactly how you want.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![ChatGPT generating an image in a different style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-08-39-am.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  You can download the image by clicking it and hitting the download button in the window's top-right corner.
 
  If you don’t want to use ChatGPT 4, you can use a dedicated DALL-E chat. Click **Explore** or **Explore GPTs** on the left-side menu. Look for **DALL-E** in the **By ChatGPT** section and click it. You can now follow the same instructions outlined above, or you can follow [this link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) to open a DALL-E chat.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use DALL-E in the ChatGPT App
 
  For those who don’t know, ChatGPT has an app available on Android and iOS. Once downloaded and logged in, ChatGPT subscribers can access DALL-E just like they can on the web.
@@ -84,19 +75,10 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
 ![Choosing what GPT mode to use in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0105.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![ChatGPT generating an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0106.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT reworking an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0107.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Here’s how to access DALL-E in the app:
@@ -121,8 +103,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +110,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-updates.techidaily.com/7-ways-to-recover-deleted-photos-from-pc-android-or-iphone-detailed-guide/"><u>7 Ways to Recover Deleted Photos From PC, Android or iPhone - Detailed Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-lingo-explained-29-core-terminologies-unveiled/"><u>AI Lingo Explained: 29 Core Terminologies Unveiled</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/fast-fixes-retrieving-lost-data-on-an-unresponsive-windows-10-computer/"><u>Fast Fixes: Retrieving Lost Data on an Unresponsive Windows 10 Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-with-your-logitech-c920-troubleshooting-a-non-functional-webcam/"><u>Fixing Issues with Your Logitech C920: Troubleshooting a Non-Functional Webcam</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 4G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-systems-compared-forefront-ai-versus-chatgpts-prospects/"><u>Intelligent Systems Compared – Forefront AI Versus ChatGPT's Prospects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguard-your-investments-exposing-the-truth-about-bingchatgpt-and-fraudulent-crypto-assets/"><u>Safeguard Your Investments: Exposing the Truth About BingChatGPT and Fraudulent Crypto Assets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-crafting-cover-letters-with-ai-assistance/"><u>Step-by-Step: Crafting Cover Letters with AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-claude-pro-insights-into-its-functionality/"><u>Unveiling Claude Pro: Insights Into Its Functionality</u></a></li>
+</ul></div>
 

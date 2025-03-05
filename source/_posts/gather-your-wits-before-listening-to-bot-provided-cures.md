@@ -1,7 +1,7 @@
 ---
 title: Gather Your Wits Before Listening to Bot-Provided Cures
-date: 2025-02-09T00:39:00.642Z
-updated: 2025-02-15T18:15:48.001Z
+date: 2025-03-03T19:36:59.658Z
+updated: 2025-03-04T16:15:14.252Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. ChatGPT Has Limited Knowledge
 
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
  ChatGPT cannot perform a complete virtual checkup or even a physical examination; it can only reply to the symptoms you provide as messages. For a patient's safety and care, errors in physical examination—or completely ignoring physical examination—can be harmful. Because ChatGPT didn't physically examine you, it will offer an incorrect diagnosis.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. ChatGPT Can Provide False Information
 
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
@@ -72,23 +64,11 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. ChatGPT Is Just an AI Language Model
 
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Not a Replacement for Your Doctor
 
@@ -117,18 +97,16 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-video-appeal-20-premium-thumbnail-fonts-for-2024/"><u>[New] Enhancing Video Appeal 20 Premium Thumbnail Fonts for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2023s-best-mobile-emulators-top-choices-for-your-classic-psp-adventures/"><u>[Updated] 2023'S Best Mobile Emulators Top Choices for Your Classic PSP Adventures</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-discover-the-superiority-of-hdr-over-traditional-sdr/"><u>[Updated] 2024 Approved Discover the Superiority of HDR Over Traditional SDR</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assistant-for-adventurers-6-techniques-with-chatgpt-at-the-ready/"><u>AI Assistant for Adventurers: 6 Techniques with ChatGPT at the Ready</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-prevent-android-apps-from-running-in-the-background/"><u>Effective Techniques to Prevent Android Apps From Running in the Background</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-idea-to-output-the-journey-of-ai-powered-content-generation/"><u>From Idea to Output: The Journey of AI-Powered Content Generation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-corsair-keyboard-software-for-windows-pcs-fast-and-protected-downloads-available/"><u>Get the Latest CORSAIR Keyboard Software for Windows PCs: Fast and Protected Downloads Available</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-powerful-conversations-with-freedchat/"><u>Harnessing Powerful Conversations with FreedChat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-in-a-portable-world/"><u>Navigating ChatGPT in a Portable World</u></a></li>
-<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-honor-play-8t-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor Play 8T Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/score-the-best-savings-on-gadgets-amazon-prime-day-deals/"><u>Score the Best Savings on Gadgets - Amazon Prime Day Deals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-chatgpts-potential-on-mobile-platforms/"><u>Unleashing ChatGPT's Potential on Mobile Platforms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visionary-zeo-startups-panzoids-best-10/"><u>Visionary Zeo-Startups Panzoid's Best 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-honoring-artistry-essential-stop-motion-movies-top-15-for-2024/"><u>[Updated] Honoring Artistry Essential Stop-Motion Movies (Top 15) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-unlocking-a-complimentary-trial-of-linkedin-premium-expert-guide/"><u>1. Unlocking a Complimentary Trial of LinkedIn Premium: Expert Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-brilliant-setups-top-17-gear-for-online-videographers/"><u>2024 Approved Brilliant Setups Top 17 Gear for Online Videographers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-apps-allow-you-to-transcribe-speech-to-text-offline/"><u>Best Apps Allow You to Transcribe Speech to Text Offline</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-an-impressive-tech-resume-essential-tips-for-aspiring-developers/"><u>Crafting an Impressive Tech Resume - Essential Tips for Aspiring Developers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-effortless-polyglot-progress-with-duolingo-a-free-engaging-review-by-tech-expertise-at-zdnet/"><u>Experience Effortless Polyglot Progress with Duolingo: A Free, Engaging Review by Tech Expertise at ZDNET</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-correctly-repair-a-malfunctioning-clownfish-vocal-transformer/"><u>How to Correctly Repair a Malfunctioning Clownfish Vocal Transformer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-tech-team-with-top-tier-talent-discover-microsofts-solution-zdnet/"><u>Transform Your Tech Team with Top-Tier Talent: Discover Microsoft’s Solution [ZDNet]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-collection-of-professional-tech-resume-templates-reviewed-by-industry-experts-at-zdnet/"><u>Ultimate Collection of Professional Tech Resume Templates Reviewed by Industry Experts at ZDNet</u></a></li>
 </ul></div>
 

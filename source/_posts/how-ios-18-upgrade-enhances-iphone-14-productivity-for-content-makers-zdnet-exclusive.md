@@ -1,7 +1,7 @@
 ---
 title: How iOS 18 Upgrade Enhances iPhone 14 Productivity for Content Makers – ZDNET Exclusive
-date: 2025-02-09T03:12:03.146Z
-updated: 2025-02-15T20:57:42.336Z
+date: 2025-03-01T19:46:58.271Z
+updated: 2025-03-04T19:10:00.221Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Video scroll bar and playback options
 
 Allison Jewell/ZDNET
@@ -61,10 +57,6 @@ Thankfully, the new Photos app on iOS 18 features a more accurate scroll bar to 
 When you do find the perfect take, the editing menu now allows an option to slow down high frame rate videos to get on-the-dot cutting. 
 
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
 
@@ -82,10 +74,6 @@ For example, during the Apple launch, my phone was essentially exploding with co
 
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Filter button
 
 iDownloadBlog/ZDNET
@@ -100,20 +88,12 @@ To narrow content more, you can also filter to favorites, previously edited cont
 
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Honorable mentions
 
 * A 'utilities' option categorizes documents, receipts, QR codes, and more in one place to maximize your workflow.
 * People and pets can now be recognized into frequent groups and organized in a collection.
 * Trips can now organize content from locations and put them into one collection.
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
 
@@ -175,16 +155,15 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-explore-top-10-no-cost-digital-photography-tools-for-2024/"><u>[New] Explore Top 10 No-Cost Digital Photography Tools for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-mastering-youtube-money-policy-overhaul-details/"><u>2024 Approved Mastering YouTube Money Policy Overhaul Details</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-unique-identity-creation-accessible-logo-base-and-personal-customization-for-no-cost/"><u>2024 Approved Unique Identity Creation Accessible Logo Base & Personal Customization for No-Cost</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-unveiled-the-basics-simplified/"><u>AI Unveiled: The Basics Simplified</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-by-eliminating-splitgates-fps-issues-and-hiccups/"><u>Boost Your Gaming Experience by Eliminating Splitgate's FPS Issues and Hiccups</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-pushingpastthestatusquo-post-mycam-cams/"><u>In 2024, PushingPastTheStatusQuo Post-MyCam Cams</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unveiling-youtubes-finest-story-sages-and-weavers-in-23/"><u>In 2024, Unveiling YouTube's Finest Story Sages and Weavers in '23</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/recipe-renovation-with-a-digital-master-chef-chatgpt/"><u>Recipe Renovation with a Digital Master Chef (ChatGPT)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-editors-guide-to-responsible-ai-engagement/"><u>The Editor's Guide to Responsible AI Engagement</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-adjusting-colors-in-gopro-video/"><u>The Ultimate Guide to Adjusting Colors in GoPro Video</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-chatgpt-potential-with-intelligent-folder-systems/"><u>Unlocking ChatGPT Potential with Intelligent Folder Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-optimal-selection-top-cost-effective-iosandroid-live-streamers/"><u>[New] In 2024, Optimal Selection Top Cost-Effective iOS/Android Live Streamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-complete-cheat-sheet-mastering-googles-voice-transcription-tool/"><u>[Updated] 2024 Approved The Complete Cheat Sheet Mastering Google's Voice Transcription Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-farmers-fantasy-top-10-game-simulations-unveiled/"><u>[Updated] Farmers' Fantasy Top 10 Game Simulations Unveiled</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ultimate-unseen-ui-techniques-for-newcomers-for-2024/"><u>[Updated] Ultimate Unseen UI Techniques for Newcomers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-premium-chatgpt-features/"><u>Delving Into Premium ChatGPT Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sky-high-planning-no-cost-choose-among-7-ai-travel-helpers/"><u>Sky High Planning, No Cost – Choose Among 7 AI Travel Helpers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-7-best-tools-that-use-ai-to-make-presentations-for-you/"><u>The 7 Best Tools That Use AI to Make Presentations for You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trading-tech-how-chatgpt-revolutionizes-crypto-investments/"><u>Trading Tech: How ChatGPT Revolutionizes Crypto Investments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-youtube-projects-with-premier-editing-software-unlock-visual-excellence-now/"><u>Transform Your YouTube Projects with Premier Editing Software: Unlock Visual Excellence Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-best-notetaking-tablets-comprehensive-testing-and-insights/"><u>Ultimate Guide to the Best Notetaking Tablets : Comprehensive Testing & Insights</u></a></li>
 </ul></div>
 

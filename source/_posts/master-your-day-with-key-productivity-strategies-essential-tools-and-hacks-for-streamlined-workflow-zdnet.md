@@ -1,7 +1,7 @@
 ---
 title: "Master Your Day with Key Productivity Strategies: Essential Tools and Hacks for Streamlined Workflow | ZDNet"
-date: 2025-02-14T00:15:23.722Z
-updated: 2025-02-15T21:30:43.623Z
+date: 2025-02-26T21:50:05.220Z
+updated: 2025-03-04T21:18:12.742Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -48,10 +44,6 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -61,10 +53,6 @@ The last time I updated this guide was in early 2019\. Obviously, a few things h
 Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-office-20-years-of-refinement-and-evolution/). If I'm out, it's a dedicated out-and-back with a specific purpose. There is no meandering, browsing, or schmoozing. Yes, I know other people may feel comfortable going back to the pre-pandemic normal, but I have reasons for playing it a bit more safe than most might.
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tools for my daily flow
 
@@ -86,10 +74,6 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -99,10 +83,6 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -182,10 +162,6 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured
 
@@ -275,21 +251,17 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-proven-tactic-for-weaving-gopro-content-in-cohesive-virtual-spherical-films/"><u>[New] 2024 Approved Proven Tactic for Weaving GoPro Content in Cohesive Virtual Spherical Films</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-adobe-photos-sway-decrease-a-crucial-feature/"><u>[New] Adobe Photos' Sway Decrease - A Crucial Feature?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-wit-workshop-do-computers-learn-to-chuckle/"><u>AI's Wit Workshop: Do Computers Learn to Chuckle?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/challenge-yourself-with-chatgpts-top-game-picks/"><u>Challenge Yourself With ChatGPT's Top Game Picks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevating-designs-with-illustrators-3d-text-tools-for-2024/"><u>Elevating Designs with Illustrator's 3D Text Tools for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-nord-ce-3-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus Nord CE 3 5G Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-redmi-note-13-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Redmi Note 13 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mind-expanding-knowledge-engage-in-conversations-with-gpt/"><u>Mind-Expanding Knowledge: Engage in Conversations with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/model-creation-made-easy/"><u>Model Creation Made Easy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-natural-language-networks-le-chat-vs-gpt-3/"><u>Navigating Natural Language Networks: Le Chat vs GPT-3</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/safaris-picture-in-picture-settings-simplified-for-2024/"><u>Safari’s Picture In Picture Settings Simplified for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-electric-vehicle-home-charging-stations-professional-picks-techradar/"><u>Top-Ranked Electric Vehicle Home Charging Stations : Professional Picks | TechRadar</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-frame-rate-fluctuations-and-latency-problems-in-black-ops-4/"><u>Troubleshooting Frame Rate Fluctuations & Latency Problems in Black Ops 4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-list-best-ai-tools-for-efficient-note-management/"><u>Ultimate List: Best AI Tools for Efficient Note Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-grok-ai-with-elons-insights-understanding-its-function-and-cost/"><u>Unraveling Grok AI with Elon's Insights - Understanding Its Function and Cost</u></a></li>
-<li><a href="https://facebook.techidaily.com/your-safety-on-social-selling-platforms-key-steps-to-take/"><u>Your Safety on Social Selling Platforms: Key Steps to Take</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-transform-healthcare/"><u>Can ChatGPT Transform Healthcare?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-nutritionally-sound-menus-with-chatgpt/"><u>Creating Nutritionally Sound Menus with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/disabling-recording-privacy-focused-tips-for-chatgpt-users/"><u>Disabling Recording: Privacy-Focused Tips for ChatGPT Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-top-tier-karaoke-equipment-of-2024-for-stellar-performances/"><u>Explore the Top-Tier Karaoke Equipment of 2024 for Stellar Performances</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-metaverse-brand-presence/"><u>In 2024, Pioneering Metaverse Brand Presence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-for-premiere-pro-full-screen-viewing/"><u>In 2024, The Ultimate Guide for Premiere Pro Full Screen Viewing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oneplus-nord-n30-se-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends OnePlus Nord N30 SE without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/invisible-pixels-graphic-device-missing/"><u>Invisible Pixels: Graphic Device Missing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mfc-9330-driver-quick-installation-steps/"><u>MFC-9330 Driver: Quick Installation Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-conversation-five-ways-to-steer-chatgpt/"><u>The Art of Conversation: Five Ways to Steer ChatGPT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-quest-for-immersion-reviewing-benqs-ultra-hd-sw320-for-2024/"><u>The Quest for Immersion Reviewing BenQ's Ultra HD SW320 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-web-designs-using-ai-chatgpt-guide/"><u>Unlocking Potential Web Designs Using AI: ChatGPT Guide</u></a></li>
 </ul></div>
 

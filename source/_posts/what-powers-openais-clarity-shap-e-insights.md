@@ -1,7 +1,7 @@
 ---
 title: "What Powers OpenAI's Clarity: SHAP E Insights"
-date: 2025-02-14T16:13:58.820Z
-updated: 2025-02-15T16:01:05.109Z
+date: 2025-02-27T16:29:23.377Z
+updated: 2025-03-04T17:31:52.784Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is OpenAI's Shap-E?
 
  In May 2023, Alex Nichol and Heewon Jun, OpenAI researchers and contributors, released a [paper announcing Shap-E](https://arxiv.org/abs/2305.02463), the company's latest innovation. Shap-E is a new tool trained on a massive dataset of paired 3D images and text that can generate 3D models from text or images. It is similar to [DALL-E, which can create 2D images from text](https://www.makeuseof.com/how-to-use-dall-e-2/), but Shap-E produces 3D assets.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
  Shap-E is trained on a conditional diffusion model and 3D asset mapping. Mapping 3D assets means that Shap-E learns to associate text or images with corresponding 3D models from a large dataset of existing 3D objects. A conditional diffusion model is a generative model that starts from a noisy version of the target output and gradually refines it by removing noise and adding details.
 
  By combining these two components, Shap-E can generate realistic and diverse 3D models that match the given text or image input and can be viewed from different angles and lighting conditions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How You Can Use OpenAI's Shap-E
 
@@ -54,19 +46,11 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  You can also report issues and find solutions to issues already raised by others on the Shap-E GitHub page.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Can Do With OpenAI's Shap-E
 
  Shap-E enables you to describe complex ideas using a visual representation of ideas. The potential applications for this technology are limitless, especially as visuals typically have far more reaching effects than texts.
 
 ![Screenshot of text-3D images from OpenAI's Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-text-3d-images-from-openai-s-github.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As an architect, you can use Shap-E to create 3D models of buildings and structures based on written descriptions. You can specify the structures' dimensions, materials, colors, and styles using simple sentences. For example, you can prompt it with: "Make a skyscraper with 60 floors and glass balustrades," and export the result(s) to other software for further editing if you like the results you get.
 
@@ -75,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
  Moreover, even in fields like education, Shap-E can help educators communicate complex and abstract ideas to their students in subjects like biology, geometry, and physics.
 
  Although it is still a work in progress, Shap-E is a step ahead of OpenAI's [POINT-E](https://openai.com/research/point-e), which produces 3D point clouds based on text prompts. The point clouds are limited in their expressiveness and resolution, often producing blurry or incomplete shapes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Generate 3D Models Using OpenAI's Shap-E
 
@@ -105,17 +85,20 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-exploring-the-best-of-android-does-pickup-lead-photo-editing-tools/"><u>[New] Exploring the Best of Android Does PickUp Lead Photo Editing Tools?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-techniques-to-enhance-your-video-gaming-archive/"><u>[Updated] In 2024, Techniques to Enhance Your Video Gaming Archive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027644894-avidemux/"><u>映像の向き変える秘密: AVIDEMUXを使った直感的手法</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-meizu-21-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Meizu 21 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-social-media-facebook-twitter-instagram-and-youtubes-role-in-our-lives/"><u>Exploring the Giants of Social Media: Facebook, Twitter, Instagram and Youtube’s Role in Our Lives</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-a14-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy A14 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-goes-head-to-head-with-apple-can-the-galaxy-book-pro-360-eclipse-the-macbook-air/"><u>Samsung Goes Head-to-Head with Apple: Can the Galaxy Book ˈPro 360 Eclipse the MacBook Air?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027697726-vlc/"><u>VLCメディアプレーヤー用動画コンパクト化 - より小さなファイルにしてください</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027330601-windows-1011/"><u>Windows 10/11初学者ガイド：ビデオから音声を取り除く手順</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-10flac/"><u>Windows 10上で効率的にFLAC音楽ファイル再生のコツ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windowsiphone/"><u>WindowsとiPhoneで動画ファイル形式変換ガイド</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-from-2d-to-spatial-the-evolution-of-cinematic-videos/"><u>[New] In 2024, From 2D to Spatial The Evolution of Cinematic Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-8-chatgpt-interactions-to-enhance-productivity-and-decrease-distractions/"><u>Best 8 ChatGPT Interactions to Enhance Productivity & Decrease Distractions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/confronting-generative-threats-nightshades-role-in-art-preservation/"><u>Confronting Generative Threats: Nightshade's Role in Art Preservation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diversify-laptop-editing-with-alternatives-to-inshot/"><u>Diversify Laptop Editing with Alternatives to Inshot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-apple-studio-display-stunning-27-inch-5k-screen-with-high-costs-a-must-have-or-just-too-expensive/"><u>Exploring the Apple Studio Display: Stunning 27-Inch 5K Screen with High Costs – A Must-Have or Just Too Expensive?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/fixing-system-image-restoration-failed-unusable-disk-detected-issues/"><u>Fixing 'System Image Restoration Failed: Unusable Disk Detected' Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/how-to-import-music-to-inshot-video-editor-for-2024/"><u>How to Import Music to Inshot Video Editor for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-keep-your-pc-awake-easy-tips-and-tricks-for-a-better-user-experience/"><u>How to Keep Your PC Awake – Easy Tips and Tricks for a Better User Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y200-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y200 Phone Screen?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oneplus-nord-n30-se-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change OnePlus Nord N30 SE Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-11-pro-5-ways-to-get-into-a-locked-iphone-11-pro-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 11 Pro? 5 Ways to get into a Locked iPhone 11 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-battery-lifespan-on-your-apple-watch-with-these-8-game-changing-configuration-adjustments-expert-tips/"><u>Maximize Battery Lifespan on Your Apple Watch with These 8 Game-Changing Configuration Adjustments | Expert Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-computers-expert-picks-by-zdnet/"><u>Top-Ranking Mac Computers : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transitioning-from-iphone-15-to-iphone-16-unveiling-the-essential-features-and-improvements-in-apples-latest-base-model-cnet/"><u>Transitioning From iPhone 15 to iPhone #16? Unveiling the Essential Features and Improvements in Apple's Latest Base Model | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-benefits-in-selected-apple-airpod-models-set-to-launch-this-autumn-a-closer-look-zdnet/"><u>Upcoming Benefits in Selected Apple AirPod Models Set to Launch This Autumn: A Closer Look - ZDNet</u></a></li>
 </ul></div>
 

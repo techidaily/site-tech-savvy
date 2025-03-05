@@ -1,7 +1,7 @@
 ---
 title: The Value Proposition of Claude 3
-date: 2025-02-11T00:40:54.749Z
-updated: 2025-02-16T00:05:25.523Z
+date: 2025-03-02T18:59:00.704Z
+updated: 2025-03-04T23:30:44.739Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is Claude 3?](https://malaysia-healthcare-travel-council.pxf.io/752oeg)
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 **SCROLL TO CONTINUE WITH CONTENT**
 
  Anthropic has announced the release of Claude 3—a family of AI models with the potential to upset GPT-4\. It has outstanding potential, but is it ready to take ChatGPT's crown?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Claude 3?
 
@@ -86,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And here is Claude 3's result when asked to do the same.
 
 ![Claude 3 makes todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-makes-todo-list-app.jpg)
@@ -97,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
  Both apps were functional to an extent, but it is clear Claude 3 did a better job on this one.
 
  After trying more complex programming tests, Claude was the better model in several cases, while GPT-4 also had its wins. While I can't conclusively say Claude 3 is better at programming logic, if there was a huge gap between the two models, that gap would almost certainly have shrunk.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Common Sense Reasoning
 
@@ -113,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
  ChatGPT answered correctly even without GPT-4\. If you are wondering the reason for the choice of question, well, chatbots have historically failed woefully at this sort of questioning line. Up next was Claude's turn to answer.
 
 ![testing Claude 3 on commonsense reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/testing-claude-3-on-commonsense-reasoning.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Claude's response wasn't exactly a definitive answer, but it was able to identify the key information; you don't bury survivors. It's important to note that the last time we asked Claude 2 the same question, it wasn't able to see through the common sense trap.
 
@@ -133,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
  And here's Claude's response, using the same prompt.
 
 ![Claude writes lyrics to a wrap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-writes-lyrics-to-a-wrap-song.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It might be subjective, but Claude does seem to be the better option here. When both tools were tasked with drafting three articles on different topics, Claude provided the better option in all three instances. It produced a more human-like result and avoided patterns commonly associated with AI-generated texts, like exagerations, the use of complex words, and sporadic use of linking words.
 
@@ -169,16 +145,22 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-compelling-content-weaving-text-into-os-imagery/"><u>[Updated] Crafting Compelling Content Weaving Text Into OS Imagery</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-sly-satire-crafting-digital-chuckles-on-kapwing/"><u>[Updated] In 2024, Sly Satire Crafting Digital Chuckles on Kapwing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-right-approach-to-uploading-photos-from-your-device-to-snapchat/"><u>[Updated] In 2024, The Right Approach to Uploading Photos From Your Device to Snapchat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artistic-alchemy-at-play-top-imagery-ideas-by-ais-brilliance/"><u>Artistic Alchemy at Play: Top Imagery Ideas by AI's Brilliance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/could-gpt-be-a-cybercriminals-key-to-pc-intrusions/"><u>Could GPT Be a Cybercriminal's Key to PC Intrusions?</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-edgeplus-2023-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Edge+ (2023) 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-delete-temporary-files-on-windows-10-solved/"><u>How to Delete Temporary Files on Windows 10 [Solved]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-lameencdll-issues-in-audacity-the-ultimate-guide/"><u>Resolving lame_enc.dll Issues in Audacity: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-use-of-codegpt-within-vs-code/"><u>Seamless Use of CodeGPT Within VS Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smarter-responses-revolutionary-tactics-for-gpt-enhancement/"><u>Smarter Responses: Revolutionary Tactics for GPT Enhancement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-bulk-creating-via-canva-and-chatgpt/"><u>The Ultimate Guide to Bulk Creating via Canva & ChatGPT</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-drone-applications-at-present-and-in-the-future/"><u>[New] 2024 Approved Drone Applications at Present and in the Future</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevate-your-image-pro-insider-secrets-for-lunapic-for-2024/"><u>[Updated] Elevate Your Image Pro Insider Secrets for LunaPic for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-empowering-visual-communication-integrating-s2t-into-your-powerpoint-for-2024/"><u>[Updated] Empowering Visual Communication Integrating S2T Into Your Powerpoint for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-frame-rate-enhancing-laggard-motion/"><u>2024 Approved Prime Frame Rate Enhancing Laggard Motion</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-efficiency-with-xr-technology-score-a-frugal-deal-at-20-off-for-amazons-prime-day-featuring-three-virtual-screens-per-macbook-zdnet/"><u>Augmented Efficiency with XR Technology: Score a Frugal Deal at 20% Off for Amazon's Prime Day - Featuring Three Virtual Screens per MacBook! | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/black-friday-breakdown-how-vr-headsets-became-the-must-have-gadget-eclipsing-even-apples-airpods-exclusive-report-by-zdnet/"><u>Black Friday Breakdown: How VR Headsets Became the Must-Have Gadget, Eclipsing Even Apple's AirPods | Exclusive Report by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/managing-enterprise-devices-with-the-apple-vision-pro-a-comprehensive-guide-tech-insights/"><u>Managing Enterprise Devices with the Apple Vision Pro: A Comprehensive Guide - Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-virtual-reality-security-the-importance-of-using-a-vpn-for-your-vision-pro-headset-zdnet/"><u>Navigating Virtual Reality Security: The Importance of Using a VPN for Your Vision Pro Headset | ZDNet</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-creative-with-gopro-easy-and-free-video-editing-solutions/"><u>New 2024 Approved Get Creative with GoPro Easy and Free Video Editing Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/outlook-vs-gmail-showdown-determining-the-supreme-email-solution/"><u>Outlook vs Gmail Showdown: Determining the Supreme Email Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-vr-headsets-metas-new-vision-pro-features-an-unsettlingly-clever-apple-tech-twist-explored-by-zdnet/"><u>Revolutionizing VR Headsets: Meta's New 'Vision Pro' Features an Unsettlingly Clever Apple Tech Twist, Explored by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-apple-introduces-live-avatars-for-a-more-engaging-vision-pro-user-interface-zdnet/"><u>The Future Is Now: Apple Introduces Live Avatars for a More Engaging Vision Pro User Interface | ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-five-protocols-to-record-your-youtube-live-video/"><u>Top Five Protocols to Record Your YouTube LIVE Video</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-14-pro-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 14 Pro Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vision-pros-latest-update-your-default-go-to-for-iphone-and-ipad-apps-insights-from-zdnet/"><u>Vision Pro's Latest Update: Your Default Go-To for iPhone and iPad Apps | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-insight-into-sonyn-new-xr-headset-surpassing-vision-pro-and-including-two-critical-capabilities-for-apple-devices/"><u>ZDNet's Insight Into Sony'n New XR Headset - Surpassing Vision Pro and Including Two Critical Capabilities for Apple Devices</u></a></li>
 </ul></div>
 

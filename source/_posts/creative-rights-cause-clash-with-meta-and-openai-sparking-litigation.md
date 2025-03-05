@@ -1,7 +1,7 @@
 ---
 title: Creative Rights Cause Clash with Meta & OpenAI, Sparking Litigation
-date: 2025-02-08T23:20:35.300Z
-updated: 2025-02-16T00:04:08.618Z
+date: 2025-02-27T21:44:33.667Z
+updated: 2025-03-04T21:23:49.297Z
 tags:
   - chatgpt
   - open-ai
@@ -32,25 +32,13 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 
 ![Person having a chat on ChatGPT](https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5163c7ab05139a28f15cb6cd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In [a class action lawsuit](https://llmlitigation.com/pdf/03416/silverman-openai-complaint.pdf) \[PDF\] filed in California, comedian Sarah Silverman and other writers (Christopher Golden and Richard Kadrey) seek to recover damages against OpenAI and Meta over copyright infringement. The lawsuit alleges OpenAI and Meta scraped copyrighted books from pirate websites to train their AI models. This is the equivalent of an AI model downloading its training datasets from Piratebay without compensating the authors.
 
  Coincidentally, a [separate class action lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.cand.414822/gov.uscourts.cand.414822.1.0%5F1.pdf) \[PDF\] against OpenAI alleges the company used unauthorized private information to train ChatGPT. Google is also facing a similar lawsuit over allegedly using stolen data to train Google Bard. This is why you should [make it a habit to protect your personal information](https://www.makeuseof.com/online-safety-habits-data-privacy/), though publishing work and private personal data are not the same.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the Chances Sarah Silverman Could Win the Lawsuit?
 
 ![Ai cloud with robot head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ai-cloud-with-robot-head.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-head%5F32471117.htm)
 
@@ -64,17 +52,9 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We're still in the early days of AI to know how it will adapt to copyright law. It's even more complex trying to figure out [who owns the copyright to AI creation](https://www.makeuseof.com/who-owns-copyright-to-ai-creations/). But for human creators, regulations exist to protect them against someone else accessing their copyrighted material without compensation, consent, or credit. If the rules exist for humans, will they apply to AI models?
 
  The EU parliament drafted the closest glimpse into the future of how AI models will comply with copyright law. If the EU AI Act is assented into law, AI models like ChatGPT and Bard will be required to publish all their dataset sources and copyrighted data used for training. This will help clear up any confusion if the AI models accessed copyrighted books, movies, music, and photos for training through illegal piracy websites.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The AI Class Action Lawsuit Ruling Will Set a Legal Precedent
 
@@ -101,14 +81,22 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-free-gpt-4-for-all/"><u>Breaking Barriers: Free GPT-4 for All</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-honor-90-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor 90 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gauging-ai-as-a-partner-in-penning-stories/"><u>Gauging AI as a Partner in Penning Stories</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-cutting-edge-video-communities-eclipsing-youtube/"><u>In 2024, Cutting-Edge Video Communities Eclipsing Youtube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-innovators-defining-the-future-of-virtual-realms/"><u>In 2024, Innovators Defining the Future of Virtual Realms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-the-digital-world-easier-bings-new-ai-search-feature-for-phones/"><u>Navigate the Digital World Easier: Bing’s New AI Search Feature for Phones.</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-rated-shot-recording-gear-for-the-hunter-for-2024/"><u>Top-Rated Shot-Recording Gear for the Hunter for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/verse-virtuosos-vs-artificial-shepherds-purebred-alpacas-rivalry/"><u>Verse Virtuosos vs Artificial Shepherds, Purebred Alpacas' Rivalry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-aviations-new-titans-dji-phantom-pro-and-gopro-k20-ii/"><u>[New] 2024 Approved Aviation's New Titans DJI Phantom Pro & GoPro K20 II</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-dominate-instagram-with-superior-reel-content/"><u>[Updated] 2024 Approved Dominate Instagram with Superior Reel Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-cutting-edge-designs-top-8-popular-instagram-template-groups-for-2024/"><u>[Updated] Cutting Edge Designs Top 8 Popular Instagram Template Groups for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cybercriminals-and-ai-using-gpt-to-compromise-your-finances/"><u>Cybercriminals and AI: Using GPT to Compromise Your Finances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-whether-elevated-ai-quality-is-cost-effective/"><u>Decoding Whether Elevated AI Quality Is Cost-Effective</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-updated-targus-displaylink-drivers-for-your-windows-system/"><u>Easy Steps to Download Updated Targus DisplayLink Drivers for Your Windows System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-with-efficient-vector-database-architecture/"><u>Enhancing AI with Efficient Vector Database Architecture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-essay-writing-via-chatgpt/"><u>Enhancing Essay Writing via ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-brightest-innovations-zdnets-guide-to-optimal-book-lights-for-2e24/"><u>Exploring the Brightest Innovations: ZDNet's Guide to Optimal Book Lights for 2E24</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-guide-to-getting-the-epson-et-4550-printer-up-and-running-on-windows/"><u>Hassle-Free Guide to Getting the Epson ET-4550 Printer Up & Running on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-the-chatgpt-widget-on-android/"><u>How to Use the ChatGPT Widget on Android</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-charting-your-course-in-youtubing-dodge-these-top-8-common-missteps/"><u>In 2024, Charting Your Course in YouTubing Dodge These Top 8 Common Missteps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgtp-a-cybercriminals-new-weapon-against-pc-security/"><u>Is ChatGTP a Cybercriminal's New Weapon Against PC Security?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-smart-users-guide-to-chatgpt-on-macos/"><u>The Smart User's Guide to ChatGPT on macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/toms-tech-reviews-in-depth-analysis-and-expert-advice/"><u>Tom's Tech Reviews: In-Depth Analysis & Expert Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-potential-rejuvenating-windows-11-diagnostics/"><u>Unleashing Potential: Rejuvenating Windows 11 Diagnostics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

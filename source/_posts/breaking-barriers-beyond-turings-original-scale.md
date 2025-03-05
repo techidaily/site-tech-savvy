@@ -1,7 +1,7 @@
 ---
 title: "Breaking Barriers: Beyond Turing's Original Scale"
-date: 2025-02-08T17:07:18.088Z
-updated: 2025-02-15T16:52:32.510Z
+date: 2025-03-02T16:19:03.870Z
+updated: 2025-03-05T02:22:49.010Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
 ### Eugene Goostman
@@ -85,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Google's LaMBDA
 
  So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
@@ -98,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Lemoine gave particular focus to an instance where he asked: "What does the word 'soul' mean to you?" Google's LaMDA answered, "To me, the soul is a concept of the animating force behind consciousness and life itself."
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Advancement of Computer Intelligence
 
@@ -144,20 +124,24 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-orbital-design-kit/"><u>[Updated] Orbital Design Kit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-transforms-ai-at-google-io-showcasing-seven-new-features/"><u>Bard Transforms AI at Google I/O, Showcasing Seven New Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-free-audio-conversion-software-top-picks-for-windows-11-and-macos/"><u>Best Free Audio Conversion Software: Top Picks for Windows 11 & macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-oversight-4-tech-savvy-checkpoints-for-professionals/"><u>ChatGPT Oversight: 4 Tech-Savvy Checkpoints for Professionals</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-lg-watch-style-evaluation-a-look-at-classic-wear-os-20-timepieces/"><u>Comprehensive LG Watch Style Evaluation: A Look at Classic Wear OS 2.0 Timepieces</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/critical-appraisal-of-googles-newest-smartphone-the-pixel-6-experience-revealed/"><u>Critical Appraisal of Google's Newest Smartphone: The Pixel 6 Experience Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphe-and-solve-car-ai-implementation-glitches-the-ultimate-guide/"><u>Deciphe & Solve Car AI Implementation Glitches: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fix-your-canon-ip110-printer-issues-free-driver-downloads-for-all-windows-versions/"><u>Fix Your Canon iP110 Printer Issues - Free Driver Downloads for All Windows Versions!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-users-rejoice-chatgpt-now-available/"><u>IPhone Users Rejoice! ChatGPT Now Available</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/recognizing-pretend-predictions-a-guide-to-authentic-vs-fake-ai-analysis/"><u>Recognizing Pretend Predictions: A Guide to Authentic Vs. Fake AI Analysis</u></a></li>
-<li><a href="https://discover-help.techidaily.com/restoring-functionality-resolving-issues-with-windows-programs-post-update-insights-by-yl-computing/"><u>Restoring Functionality: Resolving Issues with Windows Programs Post-Update - Insights by YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/silvermans-fight-tech-giants-accused-of-stifling-ai-driven-creativity/"><u>Silverman's Fight: Tech Giants Accused of Stifling AI-Driven Creativity</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategic-steps-for-pinpointing-a-list-film-creators-for-2024/"><u>Strategic Steps for Pinpointing A-List Film Creators for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-infinix-note-30-vip-racing-edition-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Infinix Note 30 VIP Racing Edition Phone Pattern Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-creativity-and-saving-time-10-ai-enhanced-pdfs/"><u>Unleashing Creativity & Saving Time: 10 AI-Enhanced PDFs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-home-videography-high-quality-webcam-steps/"><u>[New] Elevate Home Videography - High-Quality WebCam Steps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-tips-and-tricks-for-flawless-sims-4-recordings-for-2024/"><u>[New] Tips and Tricks for Flawless Sims 4 Recordings for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-zoom-webinars-for-newbies-a-practical-starter-manual/"><u>[New] Zoom Webinars for Newbies A Practical Starter Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-online-hubs-for-ai-innovation-spark/"><u>Best Online Hubs for AI Innovation Spark</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-vs-copilot-pro-whats-the-difference-and-should-you-upgrade/"><u>Copilot Vs. Copilot Pro: What's the Difference, and Should You Upgrade?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-myths-is-chatgpt-trustworthy/"><u>Debunking Myths: Is ChatGPT Trustworthy?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-applications-across-boundaries/"><u>Deciphering AI Applications Across Boundaries</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-take-notes-like-a-pro/"><u>How to Use ChatGPT to Take Notes Like a Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-12-pro-how-to-unlock-a-disabled-iphone-12-pro-by-drfone-ios/"><u>In 2024, Disabled iPhone 12 Pro How to Unlock a Disabled iPhone 12 Pro?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-it-private-heres-leaving-chatgpt/"><u>Keep It Private? Here’s Leaving ChatGPT</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95829402-9781944529185-man-plant-communcation/"><u>Man-Plant Communcation | Free Book</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-say-goodbye-to-watermarks-top-online-tiktok-logo-removers/"><u>New In 2024, Say Goodbye to Watermarks Top Online TikTok Logo Removers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/prepare-your-arsenal-upcoming-2024-enhancements-for-rainbow-six-siege/"><u>Prepare Your Arsenal: Upcoming 2024 Enhancements for Rainbow Six Siege</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-replies-fusing-gpt-3-with-whatsapp-support/"><u>Revolutionizing Replies: Fusing GPT-3 with WhatsApp Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-first-spark-a-historical-look-at-ai/"><u>The First Spark: A Historical Look at AI</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-edge-40-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Edge 40 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-monoliths-mammoth-data-models-highlighted/"><u>Top 6 Monoliths: Mammoth Data Models Highlighted</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-winxdvd-setup-mastery-a-step-by-step-user-manual/"><u>Ultimate WinXDVD Setup Mastery: A Step-by-Step User Manual</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is OpenAI Behind in Controlling GPT?
-date: 2024-08-21T15:35:17.027Z
-updated: 2024-08-22T15:35:17.027Z
+date: 2025-02-26T19:16:15.089Z
+updated: 2025-03-04T18:07:22.838Z
 tags:
   - chatgpt
   - open-ai
@@ -75,25 +75,16 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Does the Future Hold for ChatGPT?
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent [ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
 
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Can OpenAI Put ChatGPT Under Control?
 
  For now, OpenAI doesn't seem to have a clear-cut solution to avoid the unethical use of its tool. Ensuring that ChatGPT is used ethically is a game of cat and mouse. While OpenAI uncovers ways people are employing to game the system, its users are also constantly tinkering and probing the system to discover creative new ways to make ChatGPT do what it isn't supposed to do.
@@ -106,8 +97,6 @@ It even wrote a classic Nigerian Prince email scam when asked.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +104,22 @@ It even wrote a classic Nigerian Prince email scam when asked.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effortless-engagement-how-to-craft-a-direct-subscribe-link/"><u>[New] 2024 Approved Effortless Engagement How to Craft a Direct Subscribe Link</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-traffic-on-youtube-tips-that-actually-work-for-2024/"><u>[Updated] Free Traffic on YouTube Tips That Actually Work for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-search-precision-opt-for-perplexity-ai/"><u>Elevate Search Precision – Opt for Perplexity AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fact-no-safe-gpt-windows-version-exists/"><u>Fact: No Safe GPT Windows Version Exists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatbot-wisdom-for-productive-scheduling/"><u>Harnessing Chatbot Wisdom for Productive Scheduling</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-galaxy-xcover-6-pro-tactical-edition-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-p40-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Itel P40.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-quick-red-eye-correction-in-iphone-photos-for-free/"><u>In 2024, Master Quick Red-Eye Correction in iPhone Photos for FREE</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-producing-teaser-videos-with-a-twist/"><u>In 2024, Producing Teaser Videos with a Twist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-narratives-6-ways-to-leverage-chatgpt-in-rpgs/"><u>Navigating Narratives: 6 Ways to Leverage ChatGPT in RPGs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-spreadsheet-tasks-with-chatgpt-tech/"><u>Revolutionizing Spreadsheet Tasks with ChatGPT Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-advantages-for-companies-using-chatgpt-technology/"><u>Strategic Advantages for Companies Using ChatGPT Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-preserving-gpt-conversations/"><u>The Art of Preserving GPT Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/triumph-trajectory-chatgpts-5-key-catalysts-for-success/"><u>Triumph Trajectory: ChatGPT’s 5 Key Catalysts for Success</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/understanding-macro-support-do-registries-and-globals-work-like-vimemacs-within-the-emeditor-text-editing-suite/"><u>Understanding Macro Support: Do Registries and Globals Work Like Vim/Emacs Within the EmEditor Text Editing Suite?</u></a></li>
+</ul></div>
 

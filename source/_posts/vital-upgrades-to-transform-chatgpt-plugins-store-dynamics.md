@@ -1,7 +1,7 @@
 ---
 title: Vital Upgrades to Transform ChatGPT Plugins Store Dynamics
-date: 2024-08-21T15:35:18.107Z
-updated: 2024-08-22T15:35:18.107Z
+date: 2025-03-01T19:15:51.612Z
+updated: 2025-03-04T19:53:52.569Z
 tags:
   - chatgpt
   - open-ai
@@ -45,40 +45,24 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 
  It's not just consumers that categorization would help. It would also help developers gain valuable market insights since the number and growth of apps in each category will highlight where demand and opportunities exist. Consequently, developers can better decide which plugins to develop and through which categories they'll need to get them in front of the right audience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. Strict Review Process Before Accepting Plugins
 
 ![lens with sparkles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lens-with-sparkles.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  While the rapid increase in the number of plugins in the ChatGPT plugin store is commendable, there's no argument for a bloated plugin store if the quality of plugins is poor. When we explored the plugin store to find the [best ChatGPT plugins](https://www.makeuseof.com/best-chatgpt-plugins/), we ran into many duds and gimmicks that had no business being there. Right now, it seems whatever plugin a developer throws at OpenAI is accepted, making us wonder whether there's even any form of review process in place.
 
  This runs the risk of turning the innovative store into a collection of mediocre plugins, drowning out those that provide immense value to users. A stringent pre-publication review identifies and ensures that low-quality or buggy plugins are rejected, ensuring only stable, functioning plugins that solve a serious problem make it into the store. Overall, a strict review process will help improve user trust for plugins, reduce user risk, and benefit the entire ChatGPT plugin ecosystem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Provide Access to More Advance Development Tools
 
 ![chatgpt logo alongside cogs](https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b14ea9611940de411cb7abe5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  While it's tempting to put the entire blame for low-quality plugins on developers, OpenAI isn't entirely exempted from the blame. Developers can only work within the limits of the access they're provided, and so far, the level of access is still superficial in many ways. While privacy and security remain a core concern for OpenAI's willingness to grant deeper access to their underlying AI model, without such access, the kind of plugins developers will be able to build is, unfortunately, quite limited.
 
  For example, take OpenAI's ChatGPT's Code Interpreter plugin. It's a very powerful plugin that can perform a wide range of tasks by executing Python code in a secure sandbox. Its capabilities far outweigh almost everything currently available in the plugin store because of the level of access OpenAI has granted to its in-house developers. It is almost possible for third-party developers to replicate anything close to that because of restricted access to the model.
 
  The solution? Improved, granular, and lower-level access to ChatGPT's underlying AI models. Granular access will allow developers to build more complex and powerful plugins that can harness the full capabilities of the model in innovative ways. And then maybe we'd be able to have plugins other than PDF readers and link readers everywhere on the plugin store.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## OpenAI Should Rectify Early Missteps
 
  The ChatGPT plugin ecosystem holds tremendous potential, but realizing its full capabilities requires addressing a few pain points. Implementing more transparent rating systems, robust testing protocols, and advanced discovery tools would greatly improve the user experience. The store can become an even more vibrant marketplace with sound policies and smart design choices.
@@ -91,14 +75,11 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +88,19 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-connecting-to-google-meet-laptop-plus-mobile/"><u>[New] Connecting to Google Meet Laptop + Mobile</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-behind-the-scenes-top-tactics-for-consistent-vlogging/"><u>[New] In 2024, Behind the Scenes Top Tactics for Consistent Vlogging</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-maximize-mp4-audio-quality-with-srt-integration-your-comprehensive-guide-for-2024/"><u>[New] Maximize MP4 Audio Quality with SRT Integration - Your Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-se-2022-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone SE (2022) & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-perks-and-pitfalls-of-chatgpt-pro/"><u>Decoding the Perks & Pitfalls of ChatGPT Pro</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ting-your-vlogs-with-high-quality-editing-premiere-pro-style/"><u>Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-for-fictional-worldbuilding/"><u>How to Use ChatGPT for Fictional Worldbuilding</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-craft-the-ultimate-guide-to-using-microsofts-top-notch-mac-os-document-management-software-insider-tips-and-tricks/"><u>Mastering Craft: The Ultimate Guide to Using Microsoft's Top-Notch Mac OS Document Management Software - Insider Tips & Tricks!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972613091-seamless-installation-of-latest-surface-book-drivers-just-click-here/"><u>Seamless Installation of Latest Surface Book Drivers – Just Click Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-how-to-get-new-devices-running-on-windows-without-network-access/"><u>Step-by-Step: How to Get New Devices Running on Windows without Network Access</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-criteria-integrating-chatgpt-into-psychological-care-routines/"><u>Top 6 Criteria: Integrating ChatGPT Into Psychological Care Routines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-is-the-legal-keeper-of-ai-assets/"><u>Who Is the Legal Keeper of AI Assets?</u></a></li>
+</ul></div>
 

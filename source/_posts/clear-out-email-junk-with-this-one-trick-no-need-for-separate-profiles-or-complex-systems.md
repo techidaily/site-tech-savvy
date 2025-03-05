@@ -1,7 +1,7 @@
 ---
 title: Clear Out Email Junk with This One Trick - No Need for Separate Profiles or Complex Systems
-date: 2025-02-10T19:34:33.353Z
-updated: 2025-02-15T23:35:38.481Z
+date: 2025-03-04T02:22:59.237Z
+updated: 2025-03-04T21:05:00.416Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The magic of email aliases
 
 An alias is an alternate email address that's linked to your main account. Messages addressed to an alias go to your inbox, right alongside messages sent to your primary address. But because they're _not_ using your regular email address, you can set up your email client to perform custom actions using those aliases.
@@ -64,10 +60,6 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create an alias using Gmail
 
 Although it's the world's most popular email service, Gmail's implementation of aliases is surprisingly limited. To create an alias, you start with your primary address and then modify it by adding a plus sign at the end and then adding some extra text. If your address is example@gmail.com, you can use example+news@gmail.com, example+family@gmail.com, etc.
@@ -75,10 +67,6 @@ Although it's the world's most popular email service, Gmail's implementation of 
 **Also: [Running out of Gmail storage? How to get another 15GB for free](https://www.zdnet.com/article/running-out-of-gmail-storage-how-to-get-another-15gb-for-free/)**
 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
 
@@ -90,10 +78,6 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create an alias using your Apple ID
 
 If you own an iPhone, iPad, or MacBook, you can use that device to create up to three email aliases that go to an address associated with your Apple ID. This feature is called [Hide My Email](https://support.apple.com/guide/icloud/what-are-email-aliases-in-icloud-mail-mm074af79454/1.0/icloud/1.0), and it uses the iCloud domain as its forwarding mechanism.
@@ -103,10 +87,6 @@ The one catch is that each alias uses an auto-generated name that can be less th
 **Also: [You can easily move your photos from Google Photos to iCloud Photos. Here's how](https://www.zdnet.com/article/you-can-now-easily-move-your-photos-from-google-photos-to-icloud-photos-heres-how/)**
 
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other alias options
 
@@ -146,22 +126,20 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-the-role-of-b-roll-in-cinematic-storytelling-for-2024/"><u>[New] The Role of B-Roll in Cinematic Storytelling for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-innovative-video-edits-leveraging-kinemasters-techniques/"><u>[Updated] 2024 Approved Innovative Video Edits Leveraging Kinemaster's Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-crafting-captivating-cinematic-experiences-in-youtube-videos/"><u>[Updated] Crafting Captivating Cinematic Experiences in YouTube Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-charting-a-course-for-youtube-success-viewer-numbers-and-income/"><u>[Updated] In 2024, Charting a Course for YouTube Success Viewer Numbers and Income</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ideal-choices-the-best-9-gif-recorder-software-on-your-pc/"><u>[Updated] In 2024, Ideal Choices The Best 9 GIF Recorder Software on Your PC</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unlock-visual-impact-with-these-7-graders-secrets-for-2024/"><u>[Updated] Unlock Visual Impact with These 7 Graders' Secrets for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advanced-ais-rising-tide-of-security-issues/"><u>Advanced AI's Rising Tide of Security Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-pro-explained-comparative-examination-with-chatgptplus/"><u>Claude Pro Explained: Comparative Examination with ChatGPT+</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-how-the-new-ipad-pro-m1-2021-transforms-into-a-mobile-workstation/"><u>Comprehensive Review: How the New iPad Pro (M1, 2021) Transforms Into a Mobile Workstation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-mass-designs-with-canva-and-gpts-collective-force/"><u>Conquer Mass Designs with Canva & GPT's Collective Force</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fostering-user-insights-creating-personas-with-chatgpt/"><u>Fostering User Insights: Creating Personas with ChatGPT</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/identifying-fake-gpt-binco-coins-a-guide-to-recognizing-scams/"><u>Identifying Fake GPT-Binco Coins: A Guide to Recognizing Scams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-hold-on-chatgpt-weakens/"><u>OpenAI's Hold on ChatGPT Weakens?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/take-gpt-to-new-heights-explore-the-best-9-plug-ins-today/"><u>Take GPT to New Heights: Explore the Best 9 Plug-Ins Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-tier-ai-driven-online-research-tools/"><u>Top-Tier AI-Driven Online Research Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-precision-techniques-to-record-your-facetime-chats-for-2024/"><u>[Updated] Precision Techniques to Record Your FaceTime Chats for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-3d-gold-text-effect-sites-on-the-web/"><u>[Updated] Top 3D Gold Text Effect Sites on the Web</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-xsplits-edge-in-livestraning-meet-obs-counterpart/"><u>2024 Approved XSplit's Edge in Livestraning? Meet OBS Counterpart</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-capabilities-or-ai-supported-skills-discover-what-top-employers-really-want/"><u>AI Capabilities or AI-Supported Skills? Discover What Top Employers Really Want!</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/diverse-collection-of-sports-image-collections-and-graphics-for-customization-powered-by-yl-software-solutions/"><u>Diverse Collection of Sports Image Collections & Graphics for Customization - Powered by YL Software Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/expanding-reach-googles-gemini-now-available-on-legacy-android-devices/"><u>Expanding Reach: Google's Gemini Now Available on Legacy Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/implementing-advanced-ai-access-our-selection-of-8-ready-made-gpt-solutions/"><u>Implementing Advanced AI: Access Our Selection of 8 Ready-Made GPT Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-the-new-era-of-microsoft-bing-enhanced-by-artificnial-intelligence/"><u>Introducing the New Era of Microsoft Bing - Enhanced by Artificnial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-social-connections-an-introverts-guide-to-successful-networking-with-tips-from-zdnet/"><u>Mastering Social Connections: An Introvert's Guide to Successful Networking with Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riding-the-wave-of-change-how-ai-will-phase-out-certain-careers-yet-spark-opportunities-in-novel-domains-zdnet/"><u>Riding the Wave of Change: How AI Will Phase Out Certain Careers Yet Spark Opportunities in Novel Domains | ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/samsungs-galaxy-s8-unveiled-redefining-video-standards/"><u>Samsung’s Galaxy S8 Unveiled Redefining Video Standards</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shifting-paradigms-how-coding-is-transforming-yet-again-insights-from-tech-experts/"><u>Shifting Paradigms: How Coding Is Transforming Yet Again - Insights From Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-programming-bootcamp-picks-your-guide-according-to-zdnet/"><u>Top 10 Programming Bootcamp Picks : Your Guide According to ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/tuning-your-online-network-exposure-levels/"><u>Tuning Your Online Network Exposure Levels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-checklist-setting-up-your-home-office-for-success-tips-from-zdnet/"><u>Ultimate Checklist: Setting Up Your Home Office for Success | Tips From ZDNet</u></a></li>
 </ul></div>
 

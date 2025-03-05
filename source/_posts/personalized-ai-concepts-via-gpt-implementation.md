@@ -1,7 +1,7 @@
 ---
 title: Personalized AI Concepts via GPT Implementation
-date: 2024-08-21T15:36:40.159Z
-updated: 2024-08-22T15:36:40.159Z
+date: 2025-02-26T22:38:42.303Z
+updated: 2025-03-04T22:30:36.893Z
 tags:
   - chatgpt
   - open-ai
@@ -51,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
 ![GPT Builder setting the tone and language for The 5e Dungeon Master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-builder-setting-the-tone-and-language-for-the-5e-dungeon-master-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  But, of course, if you are making a more professional GPT, ensure it uses professional language.
 
  Now that your custom GPT has a tone, you should tell it how to behave. In our case, we want child-friendly Dungeons & Dragons campaigns that conform to PG-rated themes. We also let it have an inquisitive approach to understanding the player's actions instead of assuming what the player would do.
@@ -66,14 +63,8 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
 ![GPT Dungeon Master giving information on how to build a character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-dungeon-master-giving-information-on-how-to-build-a-character.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  If you find that it's not fulfilling your instructions as well as you want, go back to the **Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Upload Files as a Knowledge Base
 
  In addition to backing up your GPT with rules, you can also upload files you would like your GPT to draw information from. In our case, we uploaded copies of the Player's Handbook by Jeremy Crawford and the Dungeon Master's Guide. Both are essential D&D books.
@@ -85,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 3. Click **Upload files** and add files from your computer.  
 ![GPT Knowledge source documents uploading in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-knowledge-source-documents-uploading-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
 
  If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
@@ -106,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 2. Toggle **Web Browsing**, **DALL-E Image Generation**, and **Code Interpreter** on or off.  
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Add APIs for Third-Party Services
 
  For those interested in using APIs to access other third-party services in their GPTs, you'll be happy to know that it's possible.
@@ -119,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 4. **Optional:** Scroll down and enter an authentication method and privacy policy.
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Go back when you're finished.
 
  If you don't enter a valid privacy policy, you won't be allowed to share your GPT with the public.
@@ -145,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
 ![Share dropdown menu in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/share-dropdown-menu-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While it won't make any difference, for now, you can choose whether you'd like to publish to the public, via links, or only to yourself. None of the sharing options work, by the way. We have to wait for an update. But, if you want friends to use your AI, return to ChatGPT's home, open the GPT's chat, and copy the URL in your browser's address bar.
 
  If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
@@ -162,14 +141,11 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
  Even though this is the first version of the GPT Builder, it's a very promising premise. It's chock-full of capabilities, has options to share your GPT with the public, and only takes a moment to spin up your custom GPT.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,4 +154,20 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-enhance-your-iphone-pics-in-minutes-for-2024/"><u>[Updated] Enhance Your iPhone Pics in Minutes for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-key-fixes-for-stabilizing-windows-10-photos-display/"><u>[Updated] Key Fixes for Stabilizing Windows 10 Photos Display</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-11-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-magic-5-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor Magic 5 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-comprehensive-guide-to-penning-appealing-vlog-narratives-for-2024/"><u>A Comprehensive Guide to Penning Appealing Vlog Narratives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-steps-transforming-yourself-into-an-expert-video-editor/"><u>Essential Steps: Transforming Yourself Into an Expert Video Editor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-aifc-to-aiff-with-movavi/"><u>Free Online Converter: Convert AIFC to AIFF with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-mp4-vers-wav-en-ligne-convertisseurs-video-rapides-avec-movevi/"><u>Gratuit MP4 Vers WAV en Ligne - Convertisseurs Vidéo Rapides Avec MoveVi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone XS Max?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/les-converteurs-de-video-les-plus-efficaces-mp4-a-mov-gratuits-sur-internet/"><u>Les Converteurs De Vidéo Les Plus Efficaces : MP4 À MOV Gratuits Sur Internet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-animators-companion-expertly-reviewed-3d-modeling-software/"><u>The Animator's Companion Expertly Reviewed 3D Modeling Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-google-meet-conversation-blueprint-for-success/"><u>The Google Meet Conversation Blueprint for Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-choose-chatgpt-for-your-desktop-instead-of-using-the-web-portal/"><u>Why Choose ChatGPT for Your Desktop Instead of Using the Web Portal?</u></a></li>
+</ul></div>
 

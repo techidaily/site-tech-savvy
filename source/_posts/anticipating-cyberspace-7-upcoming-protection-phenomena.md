@@ -1,7 +1,7 @@
 ---
 title: "Anticipating Cyberspace: 7 Upcoming Protection Phenomena"
-date: 2024-08-21T15:36:00.358Z
-updated: 2024-08-22T15:36:00.358Z
+date: 2025-03-01T19:44:25.750Z
+updated: 2025-03-04T16:39:52.500Z
 tags:
   - chatgpt
   - open-ai
@@ -49,16 +49,10 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
 
  According to [Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats), the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
  In terms of cybersecurity, a zero-trust system can be a huge benefit. A lot of current networks—be it those used for data storage, social communication, media sharing, or server hosting—are not designed to be zero-trust. This means that the system puts a level of trust in certain users. If a given user turns out to be malicious and the system has already decided to trust them, cyberattacks become possible.
@@ -81,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own [Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/). It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
  The reason for this is similar to the increased focus on EV hacking. Not only do IoT devices rely on software, but they also use wireless connections to communicate with each other. These two elements leave a door open for exploits, be it through software vulnerabilities, malware, or inside actors.
@@ -97,20 +87,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Continued Topical Email Scams
 
 ![laptop surrounded by cybersecurity buzzwords](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
@@ -121,9 +103,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Each Year Brings New Cybersecurity Threats
 
  As 2023 comes to its conclusion, it's important to keep 2024's top security trends and predictions in mind. Remaining security-literate helps you fend off threats and better prepare yourself for malicious campaigns. No one knows for sure what 2024 will bring for the cybersecurity realm, but consider keeping the above in mind, as they'll very likely make an appearance.
@@ -138,8 +117,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +124,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/1-kostenloze-video-heropnemen-van-websites-meer-oplossingen-en-programmen/"><u>1. Kostenloze Video Heropnemen Van Websites: Meer Oplossingen en Programmen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4aiffmovavi/"><u>在线免费MP4转换为AIFF：通过Movavi实现无障碍音频格式转换</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-gratuita-di-video-m4v-a-mov-su-internet-tramite-il-servizio-convertimovavi/"><u>Conversione Gratuita Di Video M4V a MOV Su Internet Tramite Il Servizio ConvertiMovavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversor-livre-ogv-para-avi-online-ferramentas-de-conversao-gratuita-do-movavi/"><u>Conversor Livre OGV Para AVI Online - Ferramentas De Conversão Gratuita Do Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descubre-el-secreto-para-converter-webp-en-gif-sin-problemas-con-estos-pasos-simples/"><u>Descubre El Secreto Para Converter WebP en GIF Sin Problemas Con Estos Pasos Simples</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-convert-youtube-to-mp4-safely-step-by-step-guide-for-2024/"><u>How to Convert YouTube to MP4 Safely? [Step by Step Guide] for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-dive-deep-into-gesture-recognition-systems/"><u>In 2024, Dive Deep Into Gesture Recognition Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-your-ultimate-guide-to-capturing-underwater-wonders/"><u>In 2024, Your Ultimate Guide to Capturing Underwater Wonders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/laughter-in-the-clouds-iphone-for-2024/"><u>Laughter in the Clouds (iPhone) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/le-migliori-applicazioni-visualizzatrici-foto-windows-macos-e-windows-11/"><u>Le Migliori Applicazioni Visualizzatrici Foto: Windows, macOS E Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leveraging-dual-screen-on-apple-devices-through-safari-for-2024/"><u>Leveraging Dual-Screen on Apple Devices Through Safari for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-pcx-file-conversion-at-no-cost-effortless-image-format-switching-with-fastpcx-convert/"><u>Online PCX File Conversion at No Cost - Effortless Image Format Switching with FastPCX Convert</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a2-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A2 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/problem-solved-restoring-communication-with-diablo-iii-game-host/"><u>Problem Solved! Restoring Communication with Diablo III Game Host</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-steps-to-get-outriders-running-smoothly-on-windows/"><u>Resolved! Troubleshooting Steps to Get Outriders Running Smoothly on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-smartwatches-comprehensive-reviews-by-tech-specialists/"><u>Top-Rated Smartwatches : Comprehensive Reviews by Tech Specialists</u></a></li>
+<li><a href="https://discover-best.techidaily.com/upgrade-your-livestreams-with-manycam-top-virtual-camcorder-app-for-seamless-online-broadcasting/"><u>Upgrade Your Livestreams with ManyCam: Top Virtual Camcorder App for Seamless Online Broadcasting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-11/"><u>Windows 11用無成本的屏幕錄制工具: 我推薦你應使用的前七種!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi-to-m4v/"><u>무료 AVI to M4V 크리티오그라피의 방법 – 모바비 대상</u></a></li>
+</ul></div>
 

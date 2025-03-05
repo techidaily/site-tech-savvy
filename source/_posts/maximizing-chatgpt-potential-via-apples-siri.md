@@ -1,7 +1,7 @@
 ---
 title: Maximizing ChatGPT Potential via Apple's Siri
-date: 2024-08-21T15:37:02.234Z
-updated: 2024-08-22T15:37:02.234Z
+date: 2025-03-04T01:11:05.934Z
+updated: 2025-03-04T19:22:15.590Z
 tags:
   - chatgpt
   - open-ai
@@ -48,9 +48,6 @@ Close
 
  Now that you've obtained your API key, it's time to put it to use in the Shortcuts app. Make sure you don't copy anything else to the clipboard during this process. And if you're wondering, here are some other [things you can do with the OpenAI API key](http://www.makeuseof.com/openai-api-guide-what-can-you-do/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Setting Up the ChatGPT Shortcut on Your iPhone
 
  There are several shortcuts you can paste your OpenAI API key into, and we'll cover them separately below so you can easily choose your preferred option. If you're not sure how to navigate through the Shortcuts app, you can check out this [beginner's guide to the Shortcuts app](https://www.makeuseof.com/mastering-the-ios-shortcuts-app/). Here's what you need to do to set up the ChatGPT shortcut sourced from GitHub :
@@ -64,9 +61,6 @@ Close
 
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
 Close
@@ -81,16 +75,10 @@ Close
 
 ![add shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![add API key here option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-api-key-here-option.jpg)
 
 ![paste API key in workflow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key-in-workflow.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Congratulations, you now have your very own ChatGPT shortcut set up on your iPhone. Now for the million-dollar question: how do you use the shortcut with Siri on your iPhone?
@@ -105,18 +93,12 @@ Close
 
 ![allow speech recognition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-speech-recognition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT launched with siri](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-launched-with-siri.jpg)
 
 Close
 
  If you want to change the name of your shortcut, you can always long-press on it and select **Rename** to call it whatever you want.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT Is More Accessible Than We Thought
 
  There's a quick and easy way to get ChatGPT right at your fingertips on your iPhone, and we're all for it. AI is advancing at an alarming rate, and having it so easily accessible will do us all favors in the long run.
@@ -127,14 +109,11 @@ Close
 
  Although ChatGPT doesn't have an official mobile app, you can access its capabilities on your iPhone via Siri. So, if you're already interested, read on as we'll teach you how to use ChatGPT with Siri on your iPhone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +122,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-complete-breakdown-inside-google-podcasts-application/"><u>[New] Complete Breakdown Inside Google Podcasts Application</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716069603496-new-in-2024-huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture/"><u>[New] In 2024, Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-whats-going-wrong-sideways-videos-on-instagram/"><u>[Updated] What's Going Wrong Sideways Videos on Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descubre-las-herramientas-mas-eficientes-los-7-mejores-programas-gratuitos-de-grabacion-de-pantalla-en-windows-8/"><u>Descubre Las Herramientas Más Eficientes: Los 7 Mejores Programas Gratuitos De Grabación De Pantalla en Windows 8</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-the-accuracy-of-threat-detection-can-windows-defender-produce-false-positives-a-review-by-yl-software-experts/"><u>Exploring the Accuracy of Threat Detection: Can Windows Defender Produce False Positives? A Review by YL Software Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-transforming-ape-audio-files-into-ogg-format-with-ease/"><u>Free Online Conversion: Transforming APE Audio Files Into OGG Format with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-om-m4v-naar-wma-te-veranderen-veilige-en-gemakkelijke-oplossing-met-movavi/"><u>Gratis Online Om M4V Naar WMA Te Veranderen - Veilige en Gemakkelijke Oplossing Met Movavi</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-easily-sync-your-iphone-photos-with-microsoft-onedrive-top-tips/"><u>How to Easily Sync Your iPhone Photos with Microsoft OneDrive: Top Tips</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-moto-g23-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-top-quality-fee-free-lut-tools-for-creatives/"><u>In 2024, Evaluating Top-Quality, Fee-Free LUT Tools for Creatives</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-techniques-for-designing-and-extracting-your-own-mobile-tunes/"><u>New In 2024, Techniques for Designing and Extracting Your Own Mobile Tunes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verdingvrije-webbedienst-voor-mxf-gif-converter-met-movavi/"><u>Verdingvrije Webbedienst Voor MXF-GIF Converter Met Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vypravienie-s-ziskom-najlepsich-napojov-klic-aktivity-provideoeditace-zretelne-otvorene/"><u>Vyprávienie S Ziskom Najlepších Nápojov: Klíč Aktivity ProVideoEditace Zreteľne Otvorene</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-motorola-edge-40-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Edge 40 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

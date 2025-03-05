@@ -1,7 +1,7 @@
 ---
 title: Entering the Realm of LangChain & LLM
-date: 2024-08-21T15:34:38.227Z
-updated: 2024-08-22T15:34:38.227Z
+date: 2025-03-02T21:51:26.131Z
+updated: 2025-03-05T01:00:24.950Z
 tags:
   - chatgpt
   - open-ai
@@ -55,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Setting Up Your Development Environment
 
  First, [create a virtual environment](https://www.makeuseof.com/create-manage-python-virtual-environments/) and install the dependencies below:
@@ -72,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
  The command above installs the packages and creates a virtual environment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Import the Installed Dependencies
 
  First, import the necessary classes such as **LLMChain**, **OpenAI**, **ConversationChain**, and **PromptTemplate** from the **langchain** package.
@@ -93,9 +87,6 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, click the **Create new secret key** button to get a new API key.
 
 ![OpenAI API key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-page.jpeg)
@@ -108,9 +99,6 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Copy and store the API key in a safe place for future use.
 
 ## Developing an Application Using LangChain LLM
@@ -151,14 +139,8 @@ print(output)`
 
 ![Output of developing an application using LangChain](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-output.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Above is the expected output.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Rising Influence of LLMs
 
  LLMs consumption is growing rapidly and changing how humans interact with knowledge machines. Frameworks like LangChain are at the forefront of providing developers with a smooth and simple way to serve the LLMs to applications. Generative AI models like ChatGPT, Bard, and Hugging Face are also not left behind in advancing LLM applications.
@@ -169,14 +151,11 @@ print(output)`
 
  This article will provide an introduction to LangChain LLM. It will cover the basic concepts, how it compares to other language models, and how to get started with it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,4 +164,20 @@ print(output)`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-7-sites-for-swapping-outringtone-files-on-snapchat/"><u>[New] 2024 Approved Top 7 Sites for Swapping Outringtone Files on Snapchat</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-top-8-sites-with-easy-access-to-free-3d-text-psd-images/"><u>[New] 2024 Approved Top 8 Sites with Easy Access to Free 3D Text PSD Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-features-of-magix-video-pro-x/"><u>[Updated] Navigating the Features of Magix Video Pro X</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-series-7-the-timeless-choice-over-the-hyped-up-series-10-tech-insights/"><u>Apple Watch Series ^[7]: The Timeless Choice Over the Hyped-Up Series 10 | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-method-for-replicating-natural-speech/"><u>Chatbot's Method for Replicating Natural Speech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-vs-chatgpt-plus-a-compreran-analysis/"><u>Claude Pro Vs. ChatGPT Plus: A Compreran Analysis</u></a></li>
+<li><a href="https://win-studio.techidaily.com/full-screen-troubleshooting-overcoming-limited-keyboard-access-on-flipbuilder/"><u>Full-Screen Troubleshooting: Overcoming Limited Keyboard Access on FlipBuilder</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-poco-x5-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Poco X5 Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-gameplay-fixing-age-of-empires-4s-performance-issues/"><u>Optimize Your Gameplay: Fixing Age of Empires 4'S Performance Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pinnacle-ios-solutions-the-best-ps2-game-emulators-for-2024/"><u>Pinnacle IOS Solutions The Best PS2 Game Emulators for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-boundaries-top-8-innovations-blurring-reality/"><u>Redefining Boundaries: Top 8 Innovations Blurring Reality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-chatgpt-with-todays-gpt-4-features/"><u>Upgrade Your ChatGPT with Today's GPT-4 Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-a-vpn-for-secure-gpt-dialogues/"><u>Utilizing a VPN for Secure GPT Dialogues?</u></a></li>
+</ul></div>
 

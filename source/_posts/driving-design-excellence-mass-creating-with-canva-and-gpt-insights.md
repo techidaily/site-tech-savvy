@@ -1,7 +1,7 @@
 ---
 title: "Driving Design Excellence: Mass-Creating with Canva & GPT Insights"
-date: 2025-02-11T02:01:49.393Z
-updated: 2025-02-16T02:00:55.676Z
+date: 2025-02-26T16:33:52.207Z
+updated: 2025-03-04T18:11:13.850Z
 tags:
   - chatgpt
   - open-ai
@@ -47,37 +47,21 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have a programmer’s mind, you can [use the GPT for Sheets and Docs extension](https://www.makeuseof.com/how-use-chatgpt-google-sheets/), or you can copy and paste your content into any spreadsheet program—like Microsoft Excel or Google Sheets. Then open a blank page.
 
  Highlight all the text from ChatGPT and copy it using **Cmd** \+ **C** on Mac or **Ctrl** \+ **V** on Windows. Back on your spreadsheet, select box **A2**. Leave the top row empty for now, you’re going to add labels to it later.
 
  Paste your content into A2 by using **Cmd** \+ **V** on Mac or **Ctrl** \+ **V** on Windows. Despite selecting only one box, each line of text will be input into a new row.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Tidy Up the Content
 
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
 
  If your generated content has attribution labels, like quotes with speaker names or songs with artist names, then remove the attributions from the end of the quotes and type or paste them into column B. Resize the columns as needed.
 
  You can add more elements if required, but for most social media posts, you don’t want to overcrowd information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Label Your Columns
 
@@ -86,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
  Now it’s time to put labels in the first row. This allows Canva to attribute your spreadsheet values to its bulk creation system later.
 
  Label **A1** with “QUOTES” or the type of content that’s there, like “SONGS,” “PASSAGES,” or “TESTIMONIALS.” In **B1**—and any further columns—label it with the content type, ensuring the label is different. We’re going to use “ATTRIBUTION,” but you could use “CREDIT,” “CUSTOMER,” “ARTIST,” or whatever suits your content.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Save Your Sheet as a CSV File
 
@@ -100,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
  Depending on which spreadsheet software you’re using, saving might work differently. If you’re using Google Sheets, go to **File** \> **Download** \> **Comma Separated Values (.csv)**.
 
  For Microsoft Excel, go to **File** \> **Save as**​​​​​​, and under File Format choose **CSV UTF-8 (Comma-delimited) (.csv)**​​​​​​. But this could be different depending on which version of Microsoft Office you’re running.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Make Your Design in Canva
 
@@ -116,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Add Text Placeholders
 
@@ -163,17 +135,9 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re happy with how everything looks, it’s time to save your designs. Go to **Share** \> **Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.
 
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
 
@@ -200,22 +164,24 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-fast-track-speeding-up-vimeo-videos/"><u>[New] Fast Track Speeding Up Vimeo Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-pulling-puzzled-listeners-intros-that-involve/"><u>[New] In 2024, Pulling Puzzled Listeners Intros That Involve</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-insta-lives-guide-to-downloads-and-creative-techniques/"><u>[New] Mastering Insta Lives Guide to Downloads & Creative Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-resolved-faulty-obs-camera/"><u>[Updated] 2024 Approved Resolved Faulty OBS Camera</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-sync-up-with-successful-facebook-feeds/"><u>2024 Approved Sync Up with Successful Facebook Feeds</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/2024s-top-choice-portable-consoles-for-gamers-on-the-go/"><u>2024'S Top Choice Portable Consoles for Gamers On-the-Go</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-conversations-with-users-essential-for-chatgpts-adaptation/"><u>Are Conversations with Users Essential for ChatGPT's Adaptation?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-personalization-gpt-for-customized-chatbot/"><u>Artificial Intelligence Personalization: GPT for Customized Chatbot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-simplification-the-dangers-of-trusting-chatgpt-with-your-documents/"><u>Beyond Simplification: The Dangers of Trusting ChatGPT with Your Documents</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/contrasting-communicative-capabilities-on-snapchat-and-skype/"><u>Contrasting Communicative Capabilities on Snapchat & Skype</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-illusions-separating-fact-from-fabricated-data/"><u>Deciphering AI Illusions: Separating Fact From Fabricated Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-does-shap-e-simplify-ml-complexities/"><u>How Does SHAP E Simplify ML Complexities?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revolutionize-online-speech-discover-the-best-chrome-extensions-for-change-for-2024/"><u>Revolutionize Online Speech Discover the Best Chrome Extensions for Change for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ethical-imperative-in-ai-regulation-openais-perspective/"><u>The Ethical Imperative in AI Regulation - OpenAI's Perspective</u></a></li>
-<li><a href="https://win11.techidaily.com/the-voice-commander-keyboard-tricks-for-windows-11-narrator/"><u>The Voice Commander: Keyboard Tricks for Windows 11 Narrator</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-your-tech-experience-mastering-chatgpt-on-a-mac/"><u>Transforming Your Tech Experience: Mastering ChatGPT on a Mac</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/usband-usb/"><u>ワンクリックでUSBドライブ同士のコピー&移動手順 - USBデバイス自動複写</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-which-screen-recorder-excels-obs-or-fraps/"><u>[New] In 2024, Which Screen Recorder Excels OBS or Fraps?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-perfecting-your-youtube-videos-for-igtv-integration-for-2024/"><u>[Updated] Perfecting Your Youtube Videos for IGTV Integration for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-transforming-simple-sessions-into-high-end-audacity-recordings/"><u>[Updated] Transforming Simple Sessions Into High-End Audacity Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-digital-scribes-leading-screen-recorder-software/"><u>2024 Approved Digital Scribes Leading Screen Recorder Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-do-we-experience-realities-in-a-virtual-sense/"><u>2024 Approved How Do We Experience Realities in a Virtual Sense?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-improving-hues-a-beginners-approach-to-ps-grading/"><u>2024 Approved Improving Hues A Beginner's Approach to PS Grading</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-success-in-the-world-of-digital-marketing/"><u>2024 Approved Unlocking Success in the World of Digital Marketing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-foodie-programs-available-on-netflix-our-picks/"><u>Discover the Best Foodie Programs Available on Netflix: Our Picks!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-live-sound-excellence-unveiled-our-top-picks-for-streaming-quality/"><u>In 2024, Live Sound Excellence Unveiled Our Top Picks for Streaming Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-current-promotions-unlock-the-latest-secrets-of-affordable-vpn-services/"><u>Top Current Promotions: Unlock the Latest Secrets of Affordable VPN Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-free-vpn-services-of-2024-reviewed-by-professionals-zdnets-ultimate-guide/"><u>Top Free VPN Services of 2024 Reviewed by Professionals - ZDNet's Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-travel-vpn-services-thoroughly-evaluated-by-experts-techadvisor/"><u>Top Rated Travel VPN Services - Thoroughly Evaluated by Experts | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-recommended-uk-based-vpn-services-of-2022-a-zdnet-guide/"><u>Top Recommended UK-Based VPN Services of 2022 - A ZDNet Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-gaming-vpns-indepth-analysis-and-reviews-techradar/"><u>Top-Rated Gaming VPNs: InDepth Analysis & Reviews - TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-and-ipad-vpns-comprehensive-comparisons-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated iPhone and iPad VPNs: Comprehensive Comparisons & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-netflix-vpn-services-comprehensive-reviews-by-industry-experts-techradar/"><u>Top-Rated Netflix VPN Services : Comprehensive Reviews by Industry Experts | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-vpn-providers-comprehensive-evaluations-by-industry-experts-zdnet/"><u>Top-Rated VPN Providers : Comprehensive Evaluations by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-vpn-router-reviews-insights-from-pcmag/"><u>Top-Rated VPN Router Reviews - Insights From PCMag</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-free-avi-video-editor-reviews-our-top-picks/"><u>Updated Free AVI Video Editor Reviews Our Top Picks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Turing's Evaluation: Chances of Victory?"
-date: 2025-02-13T01:21:34.555Z
-updated: 2025-02-16T01:09:36.499Z
+date: 2025-02-28T17:49:56.615Z
+updated: 2025-03-04T22:35:46.845Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -66,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
  Another major drawback to note is the lack of a control group. By definition, the Turing Test results are based on a group of interrogators, but not everyone is equal. Though Turing specifies that the criteria are only relevant to "average interrogators." The term "average" by definition is not specific, and therefore, different interrogators will yield varied and inconsistent results.
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
@@ -85,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Google's LaMBDA
 
  So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
@@ -98,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
  Lemoine gave particular focus to an instance where he asked: "What does the word 'soul' mean to you?" Google's LaMDA answered, "To me, the soul is a concept of the animating force behind consciousness and life itself."
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Advancement of Computer Intelligence
 
@@ -144,14 +124,20 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-rise-to-stardom-secrets-to-viral-video-success/"><u>[New] Rise to Stardom Secrets to Viral Video Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-remote-work-discussions-using-ai/"><u>Elevating Remote Work Discussions Using AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/examining-the-safety-of-gpt-web-extensions/"><u>Examining the Safety of GPT Web Extensions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-the-extent-using-gpt-my-bots-for-game-strategy-and-imagery/"><u>Explore the Extent: Using GPT-My Bots for Game Strategy and Imagery</u></a></li>
-<li><a href="https://win-tips.techidaily.com/how-to-locate-your-most-recent-file-downloads-across-different-windows-versions-windows-11-8-7/"><u>How to Locate Your Most Recent File Downloads Across Different Windows Versions (Windows 11, 8, 7)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/immediate-strategies-gpt-4-enhancements-for-chatgpt/"><u>Immediate Strategies: GPT-4 Enhancements for ChatGPT</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722977595968-quick-and-simple-way-to-download-and-upgrade-your-canon-printer-drivers-for-windows-pcs/"><u>Quick & Simple Way to Download & Upgrade Your Canon Printer Drivers for Windows PCs!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-erasing-your-iphone-permanently-using-pcs-windowsmac/"><u>Step-by-Step Guide: Erasing Your iPhone Permanently Using PCs (Windows/Mac)</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-a70-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel A70 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-build-a-facebook-image-tapestry-fast/"><u>[New] Build a Facebook Image Tapestry Fast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-xtwitter-client-tools-and-software/"><u>Best X/Twitter Client Tools and Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-repair-instructions-for-handling-win32-kernel-mode-violation-0xc0000098/"><u>Comprehensive Repair Instructions for Handling Win32 Kernel-Mode Violation 0xC0000098</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevate-your-screen-with-picture-in-picture-effects-on-macos-for-2024/"><u>Elevate Your Screen with Picture in Picture Effects on macOS for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-selection-of-power-generation-bargains-for-february-202nk-find-out-inside-zdnet/"><u>Exclusive Selection of Power Generation Bargains for February 202Nk - Find Out Inside ZDnet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-power-discover-why-the-ecoflow-river-n3-is-a-top-choice-for-beginner-compact-energy-solutions-insights-from-zdnet-review/"><u>Experience Unmatched Power: Discover Why the EcoFlow River N3 Is a Top Choice for Beginner Compact Energy Solutions - Insights From ZDNet Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experiencing-the-unexpected-how-the-ring-spotlight-cam-pro-blew-us-away-insights-from-zdnet/"><u>Experiencing The Unexpected: How The Ring Spotlight Cam Pro Blew Us Away - Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-for-the-ultimate-2024-lawn-mower-selection-guide-by-zdnet/"><u>Expert Picks for the Ultimate 2024 Lawn Mower Selection Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-leading-power-generation-bargains-of-february-2023-unveil-deals-by-zdnet/"><u>Explore the Leading Power Generation Bargains of February 2023: Unveil Deals by ZDNet!</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-open-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/groundbreaking-release-the-premier-triple-camera-drone-takes-flight-unveiling-its-importance/"><u>Groundbreaking Release: The Premier Triple-Camera Drone Takes Flight - Unveiling Its Importance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-the-newly-released-multi-camera-drone-is-changing-the-game-a-detailed-analysis-by-zdnet/"><u>How the Newly Released Multi-Camera Drone Is Changing the Game – A Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-a18-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo A18 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/line-music/"><u>LINE MUSICから最高級サウンドを保存する方法 - ステップバイステップチュートリアル</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-network-drives-made-simple-for-mac-enthusiasts/"><u>Navigating Network Drives Made Simple for Mac Enthusiasts</u></a></li>
 </ul></div>
 

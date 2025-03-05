@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your Potential: Discover and Report Errors for a Payday at OpenAI"
-date: 2025-02-11T21:15:50.566Z
-updated: 2025-02-15T23:51:39.711Z
+date: 2025-03-03T20:32:02.048Z
+updated: 2025-03-04T20:10:19.839Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
 ![Man writing code on a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bug-bounty-programs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  OpenAI promises to protect you from liabilities or penalties if you follow its stated guidelines and will also acknowledge submissions and remedy validated vulnerabilities promptly. Furthermore, OpenAI claims it will publicly recognize your contribution if it is unique and leads to a configuration or code change.
 
  However, you cannot disclose your vulnerability-related findings to the public after submitting them.
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
@@ -84,15 +76,7 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
 
@@ -101,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
  These include server-side injection, server security misconfiguration, [cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage, [cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -131,15 +111,24 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-swiftrecordingtool-with-narrator-functionality/"><u>[Updated] 2024 Approved SwiftRecordingTool with Narrator Functionality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-craft-of-creating-captivating-podcast-titles/"><u>[Updated] Mastering the Craft of Creating Captivating Podcast Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/crossover-for-apple-silicon-gamers-playing-windows-titles-seamlessly/"><u>CrossOver for Apple Silicon Gamers: Playing Windows Titles Seamlessly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-a2-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo A2 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-13-mini-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 13 mini</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-ai-applications-redefining-online-research/"><u>Innovative AI Applications Redefining Online Research</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peering-into-predictive-ais-functioning-mechanism/"><u>Peering Into Predictive AI's Functioning Mechanism</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-file-interaction-discover-these-6-gpt-apps/"><u>Seamless File Interaction: Discover These 6 GPT Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unnoticed-errors-in-textual-outputs/"><u>Unnoticed Errors in Textual Outputs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-in-a-nutshell-the-video-sharing-experience/"><u>[New] 2024 Approved Vimeo in a Nutshell The Video Sharing Experience</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-country-grooves-for-calmness-top-20-tiktok-anthems/"><u>[New] Country Grooves for Calmness Top 20 TikTok Anthems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-best-binge-worthy-series-on-twittersphere/"><u>[New] In 2024, The Best Binge-Worthy Series on Twittersphere</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-soft-focus-the-secret-of-great-bokeh-in-stories-for-2024/"><u>[New] Mastering Soft Focus The Secret of Great Bokeh in Stories for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-gaiety-media-download-review-for-2024/"><u>[Updated] Gaiety Media Download Review for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-maximizing-meeting-visibility-in-microsoft-teams/"><u>2024 Approved Maximizing Meeting Visibility in Microsoft Teams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-job-market-adaptation-the-next-chapter/"><u>AI & Job Market Adaptation: The Next Chapter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-scam-alert-to-twitsignature-metas-progressive-stride/"><u>From Scam Alert to TwitSignature: Meta's Progressive Stride</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-conversations-a-guide-to-effective-sorting/"><u>Navigating ChatGPT Conversations: A Guide to Effective Sorting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nonewchatgpt-anticipated-reopening-timeframe/"><u>NoNewChatGPT: Anticipated Reopening Timeframe</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prioritized-improvements-to-craft-an-ideal-gpt-plugin-marketplace/"><u>Prioritized Improvements to Craft an Ideal GPT Plugin Marketplace</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/revolutionizing-the-way-you-engage-early-on-in-listening-for-2024/"><u>Revolutionizing the Way You Engage Early on in Listening for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-execution-of-hr-chores-with-gpt-help/"><u>Speedy Execution of HR Chores with GPT Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/teaching-tools-validating-gpt-performance-metrics/"><u>Teaching Tools: Validating GPT Performance Metrics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-bard-googles-new-ai-ambition-against-chatgpt/"><u>The Rise of 'Bard': Google's New AI Ambition Against ChatGPT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/transforming-digital-art-with-free-versatile-lut-tools-for-2024/"><u>Transforming Digital Art with Free, Versatile LUT Tools for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-project-gemini-at-google-the-future-of-autonomous-ai-systems/"><u>Unveiling Project Gemini at Google: The Future of Autonomous AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-did-italy-declare-an-immediate-ban-on-ai-language-models/"><u>Why Did Italy Declare an Immediate Ban on AI Language Models?</u></a></li>
 </ul></div>
 

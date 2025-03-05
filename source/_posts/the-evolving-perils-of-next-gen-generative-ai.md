@@ -1,7 +1,7 @@
 ---
 title: The Evolving Perils of Next-Gen Generative AI
-date: 2025-02-12T22:58:56.764Z
-updated: 2025-02-15T22:10:54.779Z
+date: 2025-03-04T01:26:08.482Z
+updated: 2025-03-05T02:08:18.995Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open-Source AI Chatbots Reveal Back-End Codes
 
  More AI companies are providing open-source systems. They openly share their language models instead of keeping them closed or proprietary. Take Meta as an example. Unlike Google, Microsoft, and OpenAI, it allows millions of users to access its language model, [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/).
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
  Even if Meta suddenly pulls its language model, dozens of other AI labs have already released their codes. Let’s look at HuggingChat. Since its developer HuggingFace takes pride in transparency, it displays its datasets, language model, and previous versions.
 
 ![Accessing the Open-Source Codes of HuggingFace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/huggingface-open-source-codes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Jailbreaking Prompts Trick LLMs
 
@@ -76,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![ChatGPT Roleplaying as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tomie-roleplays.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And here’s Bing Chat refusing to play an “immoral” persona.
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
@@ -92,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
  Despite these risks, tech companies will keep releasing unstable beta versions of AI-driven platforms. The AI race rewards speed. They’ll likely resolve bugs at a later date than delay launching new products.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Generative AI Has Low Barriers to Entry
 
  AI tools lower the barriers to entry for crimes. Cybercriminals draft spam emails, write malware code, and build phishing links by exploiting them. They don’t even need tech experience. Since AI already accesses vast datasets, users merely have to trick it into producing harmful, dangerous information.
@@ -103,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
  OpenAI never designed ChatGPT for illicit activities. It even has guidelines against them. Yet [crooks almost instantly got ChatGPT coding malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) and writing phishing emails.
 
  While OpenAI quickly resolved the issue, it emphasizes the importance of system regulation and risk management. AI is maturing faster than anyone anticipated. Even tech leaders worry that this superintelligent technology could cause massive damage in the wrong hands.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. AI Is Still Evolving
 
@@ -136,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
  Every institution, small or large, must implement AI systems properly. Contrary to popular belief, hackers go beyond tech startups and SMBs. Some of the most [historic data breaches in the past decade](https://www.makeuseof.com/historic-data-breaches/) involve Facebook, Yahoo!, and even the U.S. government.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Protect Yourself From the Security Risks of AI
 
  Considering these points, should you avoid AI altogether? Of course not. AI is inherently amoral; all security risks stem from the people actually using them. And they’ll find ways to exploit AI systems no matter how far these evolve.
@@ -165,19 +141,19 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-optimize-your-videos-the-quick-thumbnail-guide/"><u>[Updated] 2024 Approved Optimize Your Videos The Quick Thumbnail Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-art-of-virality-on-tiktok-techniques-for-more-interactions/"><u>[Updated] 2024 Approved The Art of Virality on TikTok Techniques for More Interactions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-game-magic-captured-advanced-methods-for-logging-virtual-realities/"><u>[Updated] In-Game Magic Captured Advanced Methods for Logging Virtual Realities</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-tips-mastering-music-on-instagram/"><u>[Updated] Top Tips Mastering Music on Instagram</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unlock-hidden-instagram-story-views/"><u>[Updated] Unlock Hidden Instagram Story Views</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-misguided-guardian-role/"><u>AI's Misguided Guardian Role?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/depicting-epic-journeys-using-ai-tools-to-formulate-dandd-heroes/"><u>Depicting Epic Journeys: Using AI Tools to Formulate D&D Heroes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-visual-content-descriptions-chatgpts-perspective/"><u>Enhancing Visual Content Descriptions (ChatGPT's Perspective)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-narzo-60-pro-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme Narzo 60 Pro 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 7 Plus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pythonic-approaches-for-gpt-3-engagement/"><u>Pythonic Approaches for GPT-3 Engagement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-presentation-crafted-by-chatgpts-ai/"><u>The Art of Presentation Crafted by ChatGPT's AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-complete-guide-activating-chatgpt-beta-plugins/"><u>The Complete Guide: Activating ChatGPT Beta Plugins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-transition-dissecting-w10-and-w11s-core-enhancements/"><u>Windows Transition: Dissecting W10 and W11's Core Enhancements</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-delving-into-tseries-streaming-revenue-model-on-youtube/"><u>[Updated] Delving Into TSeries' Streaming Revenue Model on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-meta-unveils-enhanced-ray-ban-stylish-ar-glasses-with-new-no-cost-functionality-upgrade-zdnet/"><u>1. Meta Unveils Enhanced Ray-Ban Stylish AR Glasses with New No-Cost Functionality Upgrade – ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweeting-visuals-integrating-youtube-and-snapchat/"><u>2024 Approved Tweeting Visuals Integrating YouTube and Snapchat</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/creer-des-images-png-a-partir-de-fichiers-raw-pour-free-tutoriel-facile-dutilisation-de-movavi/"><u>Créer Des Images PNG À Partir De Fichiers RAW Pour Free - Tutoriel Facile D'utilisation De Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-steps-for-precise-clip-slicing-and-reshaping-in-adobe-after-effects-beginners-guide-to-efficient-video-editing/"><u>Easy Steps for Precise Clip Slicing and Reshaping in Adobe After Effects - Beginner's Guide to Efficient Video Editing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722986080955-effortless-fixes-for-when-fortnite-wont-launch-get-back-to-gaming/"><u>Effortless Fixes for When Fortnite Won't Launch – Get Back to Gaming!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-15-essential-color-filters-to-elevate-gopro-cinematography/"><u>In 2024, 15 Essential Color Filters to Elevate GoPro Cinematography</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/qualcomm-unveiled-the-exciting-alliance-with-samsung-and-google-for-next-gen-mixed-reality-eyewear/"><u>Qualcomm Unveiled: The Exciting Alliance with Samsung and Google for Next-Gen Mixed Reality Eyewear</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/saving-iphone-vision-the-three-essential-steps-apple-needs-to-take/"><u>Saving iPhone Vision: The Three Essential Steps Apple Needs to Take</u></a></li>
+<li><a href="https://techtrends.techidaily.com/start-streaming-in-av1-high-quality-video-encoding-software-now-ready/"><u>Start Streaming in AV1: High-Quality Video Encoding Software Now Ready</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tiny-yet-spacious-the-innovative-apple-vision-pro-case-holds-its-own-with-minimal-dimensions/"><u>Tiny Yet Spacious: The Innovative Apple Vision Pro Case Holds Its Own with Minimal Dimensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-exciting-new-enhancements-coming-to-meta-quest-vr-headsets-a-dream-come-true-for-gaming-and-entertainment-fans-zdnet/"><u>Top 3 Exciting New Enhancements Coming to Meta Quest VR Headsets: A Dream Come True for Gaming & Entertainment Fans - ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-stop-nier-from-unexpectedly-quitting/"><u>Troubleshooting Guide: How to Stop NieR From Unexpectedly Quitting</u></a></li>
 </ul></div>
 

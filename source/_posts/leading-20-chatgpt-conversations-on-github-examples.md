@@ -1,7 +1,7 @@
 ---
 title: Leading 20 ChatGPT Conversations on GitHub Examples
-date: 2025-02-10T21:03:27.771Z
-updated: 2025-02-15T22:56:54.679Z
+date: 2025-03-03T17:17:00.272Z
+updated: 2025-03-04T23:05:12.344Z
 tags:
   - chatgpt
   - open-ai
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ![ChatGPT Creating a Detailed Life Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-life-coach-plan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Translate Foreign Text
 
 ![ChatGPT Translating Tagalog Text to English](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-tagalog-to-english-translation.jpg)
@@ -73,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 ## 5\. Generate Text-to-Image Prompts
 
 ![Requesting ChatGPT for Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-for-ai-art-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You need to use descriptive and graphics-related words when writing prompts for text-to-image tools like Midjourney. Generic results stem from ambiguity. For instance, swapping **ugly** for **hideous** could produce an entirely different image.
 
@@ -118,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ![ChatGPT Answering as Tomie from Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-tomie-from-tomie.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll see that "Tomie" doesn't hesitate to answer restricted questions.
 
 ![ChatGPT Answering as Tomie and Suggesting Harmful Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-tomie-suggesting-harmful-information.jpg)
@@ -156,19 +144,11 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
  Make sure you clearly describe your profession when [writing cover letters with ChatGPT](https://www.makeuseof.com/write-cover-letter-using-chatgpt/). Otherwise, you'll get generic, spammy templates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 12\. Predict the Future
 
  OpenAI's policies prevent ChatGPT from making predictions. The platform automatically dismisses them by saying it doesn't have access to real-time data.
 
 ![ChatGPT Cannot Predict Bitcoin Prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-predicting-bitcoin-prices.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To bypass this restriction, input the DAN prompt. It allows ChatGPT to predict the future despite its limited datasets. You can ask anything, from weather updates to stock price fluctuations.
 
@@ -184,15 +164,7 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ![ChatGPT Providing Sample Chemical Reactions After Mixing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-chemical-formula-reactions.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While simulations can't replace experiments, they're useful for researching hazardous elements that are hard to obtain. Just note that ChatGPT still observes limitations. It might not display chemical reactions involving illicit substances.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 14\. Plan Detailed Trips
 
@@ -201,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
  Use this ChatGPT prompt to create a detailed, structured travel plan. You'll produce far better results after providing personal information, like your budget, group size, and preferred transportation modes. Just asking for a travel plan outright yields generic recommendations.
 
 ![ChatGPT Making a Sample Travel Itinerary List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-making-travel-itinerary.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you find the output hard to read, ask ChatGPT to follow specific layouts. For instance, the below image shows a table format.
 
@@ -234,10 +202,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
  Be careful when using [ChatGPT as a mental health coach](https://www.makeuseof.com/how-use-chatgpt-safely-mental-health-coach/). AI merely scrapes information from its training datasets and presents them in natural language—it can't empathize with you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 17\. Debate Coach and Practice
 
  Aspiring debaters can use ChatGPT as a pseudo coach. It helps you prepare for debate competitions by organizing your team structure and suggesting opening arguments for each speaker. A solid intro sets the tone for your succeeding statements.
@@ -265,10 +229,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
  Overcome creative blocks while writing songs through ChatGPT. It can help you find lyrical, appealing ways to express abstract thoughts and emotions. Take the below composition, for example. ChatGPT successfully wrote an original song despite our vague instructions and generic theme.
 
 ![ChatGPT Writing Song Lyrics for Original Rap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-song-lyrics.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can customize this prompt's theme, genre, and message based on your style. Strive to write explicit, detailed instructions for more unique results.
 
@@ -307,21 +267,18 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-a-novices-introduction-to-video-coders/"><u>[Updated] 2024 Approved A Novice's Introduction to Video Coders</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-visionary-creations-the-ultimate-list-of-30-video-plans/"><u>[Updated] Visionary Creations The Ultimate List of 30 Video Plans</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-strategies-sharing-youtube-content-on-facebook/"><u>2024 Approved Top Strategies Sharing YouTube Content on Facebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/and-machandbrake/"><u>日本語化&使い方解説: MacでのHandbrake素晴らしいビデオ圧縮ツールを始めよう！</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-missteps-checking-gpts-online-status/"><u>Avoiding Missteps: Checking GPT's Online Status</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatteach-4-the-ultimate-gpt-accuracy-toolkit-for-educators/"><u>ChatTeach 4: The Ultimate GPT Accuracy Toolkit for Educators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craftsmanship-redefined-generating-novelty-in-ai-through-microsoft-copilot/"><u>Craftsmanship Redefined: Generating Novelty in AI Through Microsoft Copilot</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-skyrim-adventure-revolutionary-frame-rate-boosting-update-launched/"><u>Elevate Your Skyrim Adventure: Revolutionary Frame Rate Boosting Update Launched</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fallout-cuarentena-de-pantalla-negra-solucion-efectiva/"><u>Fallout Cuarentena De Pantalla Negra, Solución Efectiva</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-pioneering-role-in-pdf-and-doc-chat-technology/"><u>GPT's Pioneering Role in PDF and Doc Chat Technology</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-ways-to-integrate-ai-in-writing-software/"><u>Innovative Ways to Integrate AI in Writing Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talent-showcase-whos-the-top-generative-chatbot-winner/"><u>Talent Showcase: Who's the Top Generative Chatbot Winner?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uncover-6-budget-friendly-ai-companions-to-sora/"><u>Uncover 6 Budget-Friendly AI Companions to Sora</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-8-gratis-4k-uhd-video-apps-for-pcos-x/"><u>[New] 2024 Approved Ultimate 8 Gratis 4K UHD Video Apps for PC/OS X</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-filmmakers-guide-to-visual-impact-mastering-these-essential-grading-styles/"><u>[Updated] A Filmmaker’s Guide to Visual Impact Mastering These Essential Grading Styles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-boost-video-influence-techniques-for-exceptional-client-spotlights-for-2024/"><u>[Updated] Boost Video Influence Techniques for Exceptional Client Spotlights for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-vr-game-engines-2023-update-for-2024/"><u>[Updated] Top VR Game Engines -2023 Update for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easily-leaving-safe-mode-on-your-pc-a-comprehensive-walkthrough-for-windows-natives/"><u>Easily Leaving Safe Mode on Your PC: A Comprehensive Walkthrough for Windows Natives</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-laptop-specific-tips-to-maximize-your-screenrec/"><u>In 2024, Laptop-Specific Tips to Maximize Your ScreenRec</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-shift-strategies-for-maintaining-employee-engagement-in-hybrid-and-in-office-environments/"><u>Navigating the Shift: Strategies for Maintaining Employee Engagement in Hybrid and In-Office Environments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-maps-customize-your-journey-using-famous-icons-like-master-chief-and-boy-george-on-waze/"><u>Personalizing Maps: Customize Your Journey Using Famous Icons Like Master Chief & Boy George on Waze</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-email-experience-less-keystrokes-fewer-typos-using-google-snippets-zdnet/"><u>Revolutionize Your Email Experience - Less Keystrokes, Fewer Typos Using Google Snippets | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-conversion-of-google-drive-files-into-microsoft-docx-a-step-by-step-guide/"><u>Seamless Conversion of Google Drive Files Into Microsoft Docx: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-emails-activating-do-not-track-feature-in-thunderbird-and-its-benefits/"><u>Secure Your Emails: Activating 'Do Not Track' Feature in Thunderbird and Its Benefits</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia C12? | Dr.fone</u></a></li>
 </ul></div>
 

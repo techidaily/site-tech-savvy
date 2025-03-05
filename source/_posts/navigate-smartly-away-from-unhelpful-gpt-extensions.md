@@ -1,7 +1,7 @@
 ---
 title: Navigate Smartly Away From Unhelpful GPT Extensions
-date: 2025-02-11T01:55:56.483Z
-updated: 2025-02-15T18:07:34.689Z
+date: 2025-02-28T00:05:00.786Z
+updated: 2025-03-05T01:49:48.625Z
 tags:
   - chatgpt
   - open-ai
@@ -42,25 +42,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Aaron Web Browser
 
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to [scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/)? Maybe ChatGPT plugins are not the right tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. AppyPie App Builder
 
@@ -75,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  The link leads to the AppyPie website, but there's actually no app waiting to be customized. You'll end up being prompted to register and subscribe to its no-code app-building platform. It's an annoying attempt at advertisement.
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI Agents
 
@@ -99,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  Once you've provided a description of the kind of movie you want, the plugin only ever recommends movies that are available on Amazon's Prime streaming service. If you have a niche taste in movies, you'll find the recommendations to be mediocre at best.
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly [to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/). By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. ABC Website Maker
 
@@ -139,22 +119,20 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-gif-creation-tools-reviewed-by-industry-vets/"><u>[New] In 2024, Best GIF Creation Tools Reviewed by Industry Vets</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-masterclass-in-monochrome-magic-a-professionals-guide-for-2024/"><u>[New] Masterclass in Monochrome Magic A Professional's Guide for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-clearer-brighter-videos-mastering-the-v22-technique/"><u>[Updated] Clearer, Brighter Videos Mastering the V2.2 Technique</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advancing-photo-viewing-in-windows-11-merge-artistic-layers-and-soundtracks/"><u>2024 Approved Advancing Photo Viewing in Windows 11 Merge Artistic Layers and Soundtracks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/achieve-optimal-gameplay-nvidia-geforce-driver-updates-tailored-for-windows-free-downloads-available/"><u>Achieve Optimal Gameplay: NVIDIA GeForce Driver Updates Tailored for Windows - Free Downloads Available</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoid-getting-scammed-by-genuine-vs-faux-bingchat-coins/"><u>Avoid Getting Scammed by Genuine vs Faux BingChat Coins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/collaborative-artistry-dall-e-and-gpt-4-for-image-synthesis/"><u>Collaborative Artistry: DALL-E and GPT-4 for Image Synthesis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/could-your-job-be-in-jeopardy-over-using-language-models-10-examples/"><u>Could Your Job Be In Jeopardy Over Using Language Models? 10 Examples</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/endless-memories-free-saving-on-instagram-stories-for-2024/"><u>Endless Memories FREE Saving on Instagram Stories for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enriched-learning-through-ed-themed-ui-on-win-11/"><u>Enriched Learning Through Ed-Themed UI on Win 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-victus-15-gamer-discounted-now-only-530-at-best-buy-latest-deals/"><u>HP Victus 15 Gamer Discounted: Now Only $530 at Best Buy - Latest Deals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-writing-assistance-with-hixplusgpt/"><u>Intelligent Writing Assistance with HIX+GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-running-llama-2-locally/"><u>Mastering the Art of Running Llama 2 Locally</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-past-chatgpts-word-limit-barrier/"><u>Navigating Past ChatGPT’s Word Limit Barrier</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/snapchats-ai-dilemma-myai-or-chatgpt/"><u>Snapchat's AI Dilemma: MyAI or ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-academic-potential-with-ai-the-best-5-school-uses-of-chatgpt/"><u>Unlocking Academic Potential with AI: The Best 5 School Uses of ChatGPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-world-of-gadgets-a-journey-with-toms-hardware/"><u>Unveiling the World of Gadgets: A Journey with Tom's Hardware</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-elevate-your-presentations-with-professional-screencasts/"><u>[New] 2024 Approved Elevate Your Presentations with Professional Screencasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-comprehensive-guide-to-android-screenshotting/"><u>[Updated] Comprehensive Guide to Android Screenshotting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-secrets-to-successful-youtube-filmmaking-with-pc-editing-software/"><u>[Updated] Secrets to Successful YouTube Filmmaking with PC Editing Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/80-budget-friendly-portable-speaker-with-exceptional-audio-quality-for-all-genres-techradar/"><u>$80 Budget-Friendly Portable Speaker with Exceptional Audio Quality for All Genres - TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ces-202n4s-audio-innovations-ranked-discover-the-leading-tech-in-this-comprehensive-review-by-zdnet/"><u>CES 202N4's Audio Innovations Ranked! Discover the Leading Tech in This Comprehensive Review by ZDNET</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-capture-dynamic-artistry-top-9-tools-for-perfect-windows-gifs/"><u>In 2024, Capture Dynamic Artistry Top 9 Tools for Perfect Windows GIFs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-deals-upgrade-your-smart-home-with-echo-show/"><u>Labor Day Deals: Upgrade Your Smart Home with Echo Show</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-the-art-of-earning-through-vlogs-for-2024/"><u>Mastering the Art of Earning Through Vlogs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-this-presidents-day-unmissable-discounts-at-amazon-walmart-best-buy-60plus-deals-await/"><u>Save Big This Presidents' Day: Unmissable Discounts at Amazon, Walmart, Best Buy – 60+ Deals Await!</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-audio-equipment-comprehensive-reviews-by-professionals-zdnet/"><u>Top Rated Audio Equipment - Comprehensive Reviews by Professionals | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-audio-systems-expert-reviews-by-zdnet/"><u>Top-Rated Portable Audio Systems - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-avidemux-essentials-cropping-trimming-and-perfecting-your-video-edits/"><u>Updated 2024 Approved Avidemux Essentials Cropping, Trimming, and Perfecting Your Video Edits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-selection-of-premium-stereo-sound-systems-in-2n1ear-best/"><u>ZDNet's Ultimate Selection of Premium Stereo Sound Systems in 2#N1Ear, Best !</u></a></li>
 </ul></div>
 

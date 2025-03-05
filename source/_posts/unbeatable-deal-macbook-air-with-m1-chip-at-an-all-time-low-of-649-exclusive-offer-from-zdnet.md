@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: MacBook Air with M1 Chip at an All-Time Low of $649 – Exclusive Offer From ZDNet!"
-date: 2025-02-12T00:35:05.266Z
-updated: 2025-02-16T03:25:26.153Z
+date: 2025-02-27T23:53:22.769Z
+updated: 2025-03-04T20:04:48.153Z
 tags:
   - apple
 categories:
@@ -41,10 +41,6 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -81,19 +77,15 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-essential-voice-manual-for-tiktok-creators/"><u>[Updated] 2024 Approved The Essential Voice Manual for TikTok Creators</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhance-visibility-in-igtv-6-insider-tips-for-video-size-mastery/"><u>[Updated] In 2024, Enhance Visibility in IGTV 6 Insider Tips for Video Size Mastery</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/flash5/"><u>「如何輕鬆回復Flash存儲器的消失文件：5項新指南」</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-14-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 14 without the Previous Owner?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-do-home-theater-receivers-differ-from-standard-stereo-ones-a-comprehensive-guide/"><u>How Do Home Theater Receivers Differ From Standard Stereo Ones? A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-stellar-instagram-content-for-maximum-influence/"><u>In 2024, Crafting Stellar Instagram Content for Maximum Influence</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-your-creativity-10-steps-for-new-photoshop-users/"><u>In 2024, Unleash Your Creativity 10 Steps for New Photoshop Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-vp9-transcoder-tools-simplified-video-conversion-downloads/"><u>Leading VP9 Transcoder Tools - Simplified Video Conversion Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-music-downloads-easily-change-soundcloud-songs-to-mp4-format-for-optimal-playback/"><u>Mastering Music Downloads: Easily Change SoundCloud Songs to MP4 Format for Optimal Playback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp3windows-media-player-2024/"><u>MP3ファイルがうまく再生されない場合、Windows Media Player 2024で何をすべきか？解決策とヒント</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preserving-video-fidelity-during-mov-file-format-change-to-m4v/"><u>Preserving Video Fidelity During MOV File Format Change to M4V</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-consequences-of-content-control-by-artificinaset-algorithms/"><u>The Consequences of Content Control by Artificinaset Algorithms</u></a></li>
-<li><a href="https://games-able.techidaily.com/workstations-for-work-consoles-for-games-a-look/"><u>Workstations for Work, Consoles for Games: A Look</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iuocquodvoodkoodvoocpuocqeodgplusodgeobruodlplusodroocpowlleeuuplusiomommsjrmnidpq5jnllvos6rjgqzjgqtjg4ki/"><u>オーバーウォッチのプレイ動画記録:最高画質ガイド</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-no-price-no-problem-turning-twitter-vids-into-gifs/"><u>[New] 2024 Approved No Price, No Problem Turning Twitter Vids Into GIFs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-you-controlling-home-tech-with-gpt-assistance/"><u>AI and You: Controlling Home Tech with GPT Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-apple-laptops-and-desktops-of-2024-according-to-zdnets-rankings/"><u>Discover the Leading Apple Laptops and Desktops of 2024, According to ZDNet's Rankings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722961753984-easy-setup-guide-with-arduino-mega-2560-drivers-downloaded-here/"><u>Easy Setup Guide with Arduino Mega 2560 Drivers Downloaded Here!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/facing-video-display-issues-with-sony-a6400/"><u>Facing Video Display Issues with Sony A6400</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-in-google-spreadsheets-and-documents/"><u>Mastering ChatGPT in Google Spreadsheets & Documents</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mastering-melody-match-identifying-tunes-on-your-iphone-devices-for-2024/"><u>New Mastering Melody Match Identifying Tunes on Your iPhone Devices for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/quick-guide-to-clonezilla-system-restore-tutorials-a-complete-step-by-step-process/"><u>Quick Guide to Clonezilla System Restore Tutorials – A Complete Step-by-Step Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-two-top-nomad-slimphone-protectors-at-half-price-limited-offer/"><u>Score Two Top Nomad Slimphone Protectors at Half Price - Limited Offer!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-threat-of-tesla-and-elon-musks-free-speech-stance-to-indias-vulnerable-groups-revealed-wired/"><u>The Threat of Tesla and Elon Musk's Free Speech Stance to India's Vulnerable Groups Revealed | Wired</u></a></li>
 </ul></div>
 

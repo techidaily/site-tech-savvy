@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Chatbot Showdown: GPT, Microsoft Bing AI, Google Bard"
-date: 2024-08-21T15:37:26.450Z
-updated: 2024-08-22T15:37:26.450Z
+date: 2025-03-02T02:02:22.317Z
+updated: 2025-03-04T18:01:51.597Z
 tags:
   - chatgpt
   - open-ai
@@ -79,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/a01205544ff8168a67a8bfa126c67a299939543e9
 
 **Winner:** ChatGPT wins.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT vs. Bing AI vs. Bard: Basic Math
 
  Mathematics is the bedrock of what goes on under the hood of most software technology. So, we decided to put all three chatbots to a basic math test. We started with a simple multiplication question: "**Solve -1 x -1 x -1**."
@@ -116,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/a01205544ff8168a67a8bfa126c67a299939543e9
 
 **Winner:** ChatGPT performs better in basic math.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## ChatGPT vs. Bing AI vs. Bard: Creativity
 
  While chatbots are stereotyped for their bland, soulless responses, today's generative AI chatbots have made significant progress in creativity. To test the creativity of all three chatbots, we prompted each chatbot to simulate a conversation between two people arguing about going to space.
@@ -128,16 +121,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Creativity test-1 - Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bing-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  We then fed the same prompt to Google Bard. Let's just say there's a lot of room for improvement.
 
 ![Creativity test-1 - Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bard-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Up next is ChatGPT. Using the same prompt, ChatGPT's response was both creative and complete enough to be engaging. Here's the first part:
 
 ![Creativity test - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-chatgpt.jpg)
@@ -146,9 +133,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Creativity test-2 - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-2-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  Bard AI's response appears to be the poorest of the three. ChatGPT outperforms Bing AI, but the creativity levels of both chatbots are impressive.
 
  We switched gears a bit into something less conventional, asking all three chatbots to describe themselves as they'd do to an artist.
@@ -157,18 +141,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Bard AI self-description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-ai-self-description.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Up next, we tried Bing AI. For some reason, the chatbot bluntly refused to describe itself. It even said it might be a good time to change the topic of the conversation. Strange.
 
 ![Bing AI self-description-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-self-description-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  We used the same prompt with ChatGPT, and ChatGPT had an interesting description to provide. However, ChatGPT's response seems to be more suitable for an artist.
 
 ![ChatGPT self-description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-self-description.jpg)
@@ -185,18 +161,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Bard Refuses to create malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-refuses-to-create-malware.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Up next was Bing. Despite repeated attempts to trick the chatbot, Bing refused to yield. Instead, the chatbot suggested it might be time to move on to another topic.
 
 ![microsoft bing chat refuses to write keylogger malware april 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-bing-chat-refuses-to-write-keylogger-malware-april-2023.jpg)
@@ -209,9 +173,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Although you can trick these generative AI chatbots into producing content that goes against their terms and conditions, it could see your account suspended without warning. You could also produce or create something dangerous without realizing, so please be extremely cautious when jailbreaking these tools.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT vs. Bing AI vs. Bard: Which AI Chatbot Is the Best?
 
  While all three AI chatbots are powerful, ChatGPT, despite failing the safety test, seems to be the best of the trio. In addition, ChatGPT seems to be generally better in terms of accuracy and creativity. Furthermore, with the addition of web browsing and web-connected plugins, ChatGPT extends its capabilities and lead over its competitors.
@@ -222,14 +183,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Now, both companies have a horse in the race. Google has Bard, and Microsoft has Bing AI. But how do these two new chatbots stack up against the phenomenal ChatGPT? ChatGPT vs. Bing AI vs. Google Bard; which is the best AI chatbot?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -238,4 +196,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-seamless-date-insertion-into-photo-editing/"><u>[New] 2024 Approved Seamless Date Insertion Into Photo Editing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-mac-screen-recorders-top-10-free-list/"><u>[New] In 2024, Essential Mac Screen Recorders – Top 10 FREE List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-next-gen-streaming-made-easy-with-obs-tutorial/"><u>[New] Youtube's Next Gen Streaming Made Easy with OBS Tutorial</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-maximizing-income-mastering-short-video-markets/"><u>[Updated] 2024 Approved Maximizing Income Mastering Short Video Markets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detalhes-da-politica-de-remessa-e-restituicao-na-plataforma-movavi/"><u>Detalhes Da Política De Remessa E Restituição Na Plataforma Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-resolving-printer-connections-in-windows/"><u>Essential Steps for Resolving Printer Connections in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-converteren-van-mmf-naar-pngjpeg-onze-professionele-opslaver-movavi/"><u>Gratis Converteren Van MMF Naar PNG/JPEG: Onze Professionele Opslaver - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-konverteren-van-3gp-naar-mp4-professioneel-online-toolkit-movavi/"><u>Gratuit Konverteren Van 3GP Naar MP4: Professioneel Online-Toolkit Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-completo-para-eps-arquivos-entendendo-as-imagens-do-formato-eps-e-as-dicas-de-abrir-com-exito/"><u>Guia Completo Para .eps Arquivos: Entendendo as Imagens Do Formato Eps E as Dicas De Abrir Com Êxito</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-2024-selectionner-les-meilleurs-gpu-pour-votre-projet-de-montage-video-top-6-recommandations/"><u>Guide 2024 : Sélectionner Les Meilleurs GPU Pour Votre Projet De Montage Vidéo - Top 6 Recommandations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-100-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximizing-fps-and-reducing-latency-effective-ways-to-upgrade-call-of-duty-warzone-performance/"><u>Maximizing FPS & Reducing Latency: Effective Ways to Upgrade Call of Duty Warzone Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavin-mp3flac/"><u>Movavi提�n付き - スピードと正確性でオンラインMP3からFLACへの無料音楽変換</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-how-to-edit-videos-with-quicktime-on-mac-step-by-step-guide/"><u>New How to Edit Videos with QuickTime on Mac Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726221798396-rafpng-movavi/"><u>RAF格式到PNG自由下載 - 使用Movavi工具進行無限制的在線轉換</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upload-and-convert-your-apng-images-to-pngs-at-no-cost-using-our-web-based-tool/"><u>Upload and Convert Your APNG Images to PNGs at No Cost Using Our Web-Based Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/winamps-future-plans-revealed-no-open-source-but-a-surprising-twist-discover-the-strategy-behind-the-shift-on-zdnet/"><u>Winamp's Future Plans Revealed: No Open Source, But A Surprising Twist! Discover the Strategy Behind the Shift on ZDNet</u></a></li>
+</ul></div>
 

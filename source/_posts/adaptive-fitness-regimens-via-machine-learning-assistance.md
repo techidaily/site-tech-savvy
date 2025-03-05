@@ -1,7 +1,7 @@
 ---
 title: Adaptive Fitness Regimens via Machine Learning Assistance
-date: 2025-02-12T22:22:56.510Z
-updated: 2025-02-15T20:03:09.837Z
+date: 2025-03-02T21:50:25.128Z
+updated: 2025-03-04T20:02:13.622Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Input Client’s Goals and Current Fitness Levels
 
  ChatGPT is a [great way to build a custom workout](https://www.makeuseof.com/build-a-custom-workout-generate-exercise-routines-from-experts/) plan if you explain to it exactly what your client aims to achieve. Training intensity may be different for people, depending on sex, age, size, and goals. This is why you must be specific.
@@ -48,17 +44,9 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 ![Modified workout plan for 25-year-old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modified-workout-plan-for-25-year-old.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also feed the AI information about other forms of exercise your client wants to engage in, apart from the one predominant in the plan. For instance, the client may be an avid golfer who golfs multiple times a week, even as they're trying to gain muscle mass at the gym.
 
  By considering all these factors, you can create prompts to guide ChatGPT in creating a more personalized workout schedule.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use a Long Prompt
 
@@ -92,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 ![Intensified workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intensified-workout-plan-by-chat-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For example, ChatGPT has modified the 25-year-old man’s home workout plan to make it more intense. From the image below, you’ll see that it has replaced normal push-ups with plyometric push-ups. And instead of planks, it has prescribed planks with shoulder taps.
 
 ### Add Other Forms of Training
@@ -105,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 ![Chat GPT including a gym day to a home workout plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chat-gpt-including-a-gym-day-to-a-home-workout-plan.jpg)
 
  Also, you can ask ChatGPT to add cardio, conditioning, CrossFit, or mobility exercises to a workout plan for an all-encompassing approach to fitness, depending on your client’s current needs and preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Vary the Exercises
 
@@ -141,22 +121,24 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-expert-tips-for-designing-text-in-3d-space-ps-for-2024/"><u>[New] Expert Tips for Designing Text in 3D Space PS for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nlock-viewers-essential-guide-to-fantastic-template-based-yt-desc-writing-for-2024/"><u>[New] Unlock Viewers Essential Guide to Fantastic Template-Based YT Desc Writing for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-trendsetting-hashes-optimizing-hashtags-to-amplify-short-video-impact/"><u>[Updated] 2024 Approved Trendsetting Hashes Optimizing Hashtags to Amplify Short Video Impact</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-portfolio-exceptional-webcam-supports/"><u>[Updated] Prime Portfolio Exceptional Webcam Supports</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-guide-to-curved-image-design/"><u>2024 Approved A Step-by-Step Guide to Curved Image Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypass-ai-secure-windows-installation-through-key-authenticity/"><u>Bypass AI: Secure Windows Installation Through Key Authenticity</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-14-pro-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 14 Pro Max? Complete Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-live-or-recorded-twitch-versus-youtube-face-off/"><u>In 2024, Live or Recorded Twitch versus YouTube Face Off</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-sony-xperia-1-v-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Sony Xperia 1 V ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-3-with-python-coding/"><u>Leveraging GPT-3 with Python Coding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prolific-fiction-top-gpt-fueled-techniques-for-dynamic-characters/"><u>Prolific Fiction: Top GPT-Fueled Techniques for Dynamic Characters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/risks-and-red-flags-in-ai-assisted-writing/"><u>Risks & Red Flags in AI-Assisted Writing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-texts-professionally-four-things-to-dodge-using-chatgpt/"><u>Tailoring Texts Professionally: Four Things to Dodge Using ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-verdict-on-using-bots-for-economic-planning/"><u>The Verdict on Using Bots for Economic Planning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-ai-driven-creative-hubs/"><u>Top 7 AI-Driven Creative Hubs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-gptzeros-strategy-for-identifying-machine-learning-outputs/"><u>Understanding GPTZero's Strategy for Identifying Machine Learning Outputs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visionary-venues-for-idea-exploration-with-ai/"><u>Visionary Venues for Idea Exploration with AI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-passive-to-profitable-youtube-revenue-techniques/"><u>[New] 2024 Approved From Passive to Profitable YouTube Revenue Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-changing-video-pace-on-your-instagram-feed/"><u>[New] In 2024, Changing Video Pace on Your Instagram Feed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-excellence-in-endless-data-archiving-services/"><u>[New] In 2024, Excellence in Endless Data Archiving Services</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-keyboard-shortcuts-that-power-up-win11/"><u>[New] Keyboard Shortcuts That Power Up Win11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-timestamps-on-youtube-platform/"><u>[New] Mastering Video Timestamps on YouTube Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-siri-perfecting-iphone-conversations/"><u>ChatGPT and Siri: Perfecting iPhone Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-revisions-a-fresh-approach-to-the-chatgpt-plugin-hub/"><u>Critical Revisions: A Fresh Approach to the ChatGPT Plugin Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-innovation-and-precision-chatgpt-tools-for-additive-manufacturing/"><u>Enhance Innovation and Precision: ChatGPT Tools for Additive Manufacturing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gaming-revolutionized-learn-and-create-via-chatgpts-my-bot-features/"><u>Gaming Revolutionized: Learn & Create via ChatGPT's My Bot Features</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-14-text-movements-in-artwork/"><u>In 2024, Pioneering 14 Text Movements in Artwork</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-poco-m6-pro-4gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Poco M6 Pro 4Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-look-at-googles-gemini-advancing-the-frontiers-of-ai-research/"><u>In-Depth Look at Google's Gemini: Advancing the Frontiers of AI Research</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/infuse-life-into-art-chatgpt-for-ai-visuals/"><u>Infuse Life Into Art: ChatGPT for AI Visuals</u></a></li>
+<li><a href="https://win11.techidaily.com/keyboard-connoisseurs-guide-to-file-details/"><u>Keyboard Connoisseur's Guide to File Details</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-wellbeing-strategic-health-planning-with-gpt/"><u>Optimize Wellbeing: Strategic Health Planning with GPT</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ual-approach-mastering-two-point-of-view-techniques-in-your-youtube-reaction-video-content/"><u>The Dual Approach – Mastering Two-Point of View Techniques in Your YouTube Reaction Video Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-true-potential-of-gpt-tokens-in-conversations/"><u>The True Potential of GPT Tokens in Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-does-jailbreaking-chatgpt-entail/"><u>What Does Jailbreaking ChatGPT Entail?</u></a></li>
 </ul></div>
 

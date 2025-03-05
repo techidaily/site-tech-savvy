@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Doctor-Patient Conversations: 7 Advantages of AI"
-date: 2025-02-14T19:42:56.989Z
-updated: 2025-02-16T01:52:37.541Z
+date: 2025-03-01T21:12:08.473Z
+updated: 2025-03-05T01:17:29.604Z
 tags:
   - chatgpt
   - open-ai
@@ -38,27 +38,15 @@ thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef
 
  Furthermore, in March 2023, [OpenAI launched plugins](https://openai.com/blog/chatgpt-plugins) that extend the AI bot's functionality to access third-party knowledge sources and databases, including the web. This means ChatGPT's recommendations could include the very latest research, trends, and expert opinions in the health and wellness sphere.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. ChatGPT Has Access to Diverse Knowledge Sources
 
  One of the key strengths of ChatGPT is its access to diverse knowledge sources. It can pull from a wealth of resources, including scientific journals, expert opinions, and reputable health organizations. This ensures that the advice you get is not only diverse but also credible.
 
 ![Screenshot of ChatGPT citing its sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-01-at-11-27-46-am.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For instance, when you ask ChatGPT about the recommended amount of protein needed to build muscle, it will reference studies published by [Medicine & Science in Sports & Nutrition](https://pubmed.ncbi.nlm.nih.gov/19225360/), the [British Journal of Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/28698222/), and the [Journal of the International Society of Sports Nutrition](https://jissn.biomedcentral.com/articles/10.1186/s12970-018-0215-1). It will even include citations so that you can find and read the journal articles yourself.
 
 ![Screenshot of ChatGPT providing citations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-01-at-11-39-32-am.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By providing advice backed by scientific evidence and expert consensus, you can put some degree of trust into the advice and recommendations that ChatGPT provides. While ChatGPT [can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), be sure to understand some of its limitations, such as inaccurate responses and hallucinations.
 
@@ -78,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef
 
 ![Runner tying his shoe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/runner.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT goes beyond just providing information to satiate your curiosity or provide recommendations. By being so easy to use, ChatGPT can be downright empowering by supercharging your self-awareness and understanding of various topics.
 
  By acting as a personal health and wellness coach that is always around, ChatGPT may be the tool that finally helps you to take responsibility for your health and make more informed choices.
@@ -99,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef
  It's important to remember that ChatGPT should serve as a starting point for research and information gathering. Just like when you access other information on the internet, you should seek additional sources for validation before making any major decision about your health.
 
  That said, by engaging with ChatGPT, you'll gain insights into various topics and discover new areas of interest. You can then train the tool to provide further research from reputable sources, such as medical journals, health organizations, and healthcare professionals. This can help you build a more comprehensive understanding and confirm the accuracy of the information provided by ChatGPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Using ChatGPT to Support Your Wellness Journey
 
@@ -129,14 +109,22 @@ thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-innovative-recording-methods-windows-10-guide-for-2024/"><u>[New] Innovative Recording Methods Windows 10 Guide for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-access-download-your-own-tailored-tracks/"><u>[Updated] Exclusive Access Download Your Own Tailored Tracks</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-your-own-classic-pop-up-book-step-by-step-guide-with-flipbuilder/"><u>Creating Your Own Classic Pop-Up Book: Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/elevate-your-broadcast-screen-share-techniques-for-the-modern-broadcaster-for-2024/"><u>Elevate Your Broadcast Screen-Share Techniques for the Modern Broadcaster for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-gpts-potential-for-eq-improvement/"><u>Harnessing GPT's Potential for EQ Improvement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-service-sign-ups-chatgpt-and-more-without-a-sim/"><u>Mastering Service Sign-Ups: ChatGPT & More without a SIM</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/temporarily-cut-by-50-save-big-on-geforce-now-subscription-fees-today/"><u>Temporarily Cut by 50% - Save Big on GeForce Now Subscription Fees Today!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-path-to-a-freed-chatgpt-pc/"><u>The Ultimate Path to a Freed ChatGPT PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uncover-hidden-insights-power-of-perplexity-ai/"><u>Uncover Hidden Insights: Power of Perplexity AI</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-increase-followers-on-facebook-10-effective-ways/"><u>[New] How to Increase Followers on Facebook (10 Effective Ways )</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-recovering-a-stopped-up-link-to-your-obs-cam/"><u>[Updated] 2024 Approved Recovering a Stopped-Up Link to Your OBS Cam</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-streamline-your-office-work-with-voice-to-text-in-ms-word/"><u>[Updated] In 2024, Streamline Your Office Work with Voice-to-Text in MS Word</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-beginners-blueprint-for-dynamic-illustration/"><u>[Updated] In 2024, The Beginner's Blueprint for Dynamic Illustration</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-no-cost-software-for-converting-dvds-into-mp3-files-windows-and-macos-supported/"><u>Best No-Cost Software for Converting DVDs Into MP3 Files - Windows & macOS Supported</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compact-powerhouse-tribit-stormbox-micro-2-delivers-full-sized-audio-quality-in-a-portable-package/"><u>Compact Powerhouse: Tribit StormBox Micro 2 Delivers Full-Sized Audio Quality in a Portable Package</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-sound-quality-and-features-sonos-era-100-against-sonos-one-buyers-battle-in-smart-audio-devices-gadgetfocus/"><u>Comparing Sound Quality and Features: Sonos Era 100 Against Sonos One - Buyer's Battle in Smart Audio Devices | GadgetFocus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-exceptional-visuals-asuss-new-oled-gaming-screen-featuring-a-27-inch-display-and-seamless-g-syncfreesync-gameplay/"><u>Discover Exceptional Visuals: Asus's New OLED Gaming Screen Featuring a 27-Inch Display and Seamless G-Sync/FreeSync Gameplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-best-alternative-to-vizio-and-jbl-with-zdnets-in-depth-immersive-soundbar-testing/"><u>Discover the Best Alternative to Vizio & JBL with ZDNet's In-Depth Immersive Soundbar Testing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-for-ultimate-pc-sound-experience-spotlight-on-logitech-and-audioengine-by-zdnet/"><u>Expert Picks for Ultimate PC Sound Experience : Spotlight on Logitech and Audioengine by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experts-choice-for-leading-smart-speakers-of-the-year-2024-comprehensive-review-on-zdnet/"><u>Experts' Choice for Leading Smart Speakers of the Year 2024 - Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-modern-devices-with-expert-advice-at-toms-hardware/"><u>Navigating the World of Modern Devices with Expert Advice at Tom’s Hardware</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-htc-u23-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on HTC U23 and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solution-police-officers-as-providers-of-an-essential-service-are-generally-prohibited-from-striking-by-both-federal-law-nlra-and-various-state-laws-due-to-207/"><u>Solution: Police Officers, as Providers of an Essential Service, Are Generally Prohibited From Striking by Both Federal Law (NLRA) and Various State Laws Due to the Critical Nature of Their Work for Public Safety.</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-your-own-lock-pattern-in-windows-11/"><u>Tailor Your Own Lock Pattern in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mobile-bluetooth-speakers-in-2/"><u>Top-Rated Mobile Bluetooth Speakers in 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-unveils-a-budget-friendly-portable-bluetooth-speaker-delivering-exceptional-audio-performance/"><u>ZDNet Unveils a Budget-Friendly Portable Bluetooth Speaker Delivering Exceptional Audio Performance</u></a></li>
 </ul></div>
 

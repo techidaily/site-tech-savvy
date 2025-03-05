@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Functions: 7 Apps with GPT-4"
-date: 2025-02-14T22:41:35.429Z
-updated: 2025-02-15T21:23:32.243Z
+date: 2025-02-25T19:01:42.727Z
+updated: 2025-03-04T20:32:25.676Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 ## 1\. Duolingo
 
 ![Picture of Duolingo Max App Logo-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-of-duolingo-max-app-logo-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
@@ -102,10 +98,6 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  OpenAI—the brains behind the brains of GPT-4—is already in collaboration with Stripe. Now, Stripe is integrating GPT-4 into its platform. The company already used GPT-3 for simple tasks, but integrating GPT-4 means AI will play a bigger role in the company's processes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How Stripe Intends to Use GPT-4
 
  Details of the roles GPT-4 will play are sketchy at the moment. However, [Stripe](https://openai.com/customer-stories/stripe) has reportedly looked at 50 potential uses, of which 15 were strong enough candidates.
@@ -128,10 +120,6 @@ Image Credit: ChatSonic
 
  The app is an upgraded version of WriteSonic, a writing aid based on ChatGPT 3.5\. WriteSonic is the foundation that ChatSonic was built on; GPT-4 adds the extra functionality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What Can You Do With ChatSonic?
 
  The basis of the app is to be a one-stop personal assistant for your business. From developing your website to acting as a customer support chatbot, ChatSonic can do this and much more. The core tasks of this multi-tool include:
@@ -144,17 +132,9 @@ Image Credit: ChatSonic
 
  ChatSonic is free to try, and the paid version starts at $12.67 per month. Full details are available on the [WriteSonic](https://writesonic.com/chat) website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Bing AI
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
@@ -165,10 +145,6 @@ Close
  Microsoft was an early adopter of GPT-4, which it integrated into its Bing search page. A Bing app is now available for Android and iOS, bringing the power of GPT-4 to the mobile masses.
 
  The Bing app is representative of the next generation of search engines and, in true ChatGPT style, is capable of far more than just listing relevant results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Can You Use the Bing AI App For?
 
@@ -189,10 +165,6 @@ Close
 
 ![Screenshot of Petey home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-petey-home-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Image Credit: Petey Assistant
 
  Petey is an iOS app that is similar in function to Bing Co-Pilot. It is a paid app that could be considered a supercharged version of Siri. The inclusion of GPT-4 in its latest version adds more flexibility and functions than the previous version, which was already a more able assistant than poor old Siri.
@@ -206,10 +178,6 @@ Image Credit: Petey Assistant
  It has all the usual features you'd expect from a ChatGPT-based app. However, the inclusion of GPT-4 brings the added benefit of access to real-time data, which comes into its own with its Apple Music integration. Without GPT-4, this feature can only use music released before the GPT-3.5 cut-off date (around late 2021).
 
 **Download**: [Petey](https://apps.apple.com/us/app/petey-ai-assistant/id6446047813) for iOS ($3.99 Premium version required for GPT-4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GPT-4: A New Level of Artificial Intelligence
 
@@ -238,22 +206,18 @@ Image Credit: Petey Assistant
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-battle-for-honor-other-10-great-games-like-tsushi/"><u>[New] 2024 Approved Battle for Honor Other 10 Great Games Like Tsushi</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-master-the-craft-refining-title-and-description-in-igtv-videos/"><u>[New] 2024 Approved Master the Craft Refining Title & Description in IGTV Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[Updated] 2024 Approved 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-growth-hacking-for-youtube-stars-maximizing-fans/"><u>[Updated] In 2024, Growth Hacking for YouTube Stars Maximizing Fans</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-tips-to-restore-functionality-in-frozen-obs-screen/"><u>[Updated] Tips to Restore Functionality in Frozen OBS Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-the-blind-spots-of-computer-based-psychological-support/"><u>Avoiding the Blind Spots of Computer-Based Psychological Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-a-new-contender-from-google-facing-off-against-gpt/"><u>Bard: A New Contender From Google, Facing Off Against GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-techniques-for-creating-a-poetry-anthology/"><u>ChatGPT Techniques for Creating a Poetry Anthology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-claude-2-purpose-and-potential/"><u>Demystifying Claude 2: Purpose and Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-prime-crypto-inquiries-for-gpt/"><u>Exploring Prime Crypto Inquiries for GPT</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-lava-blaze-curve-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Lava Blaze Curve 5G? Try These Fixes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-idea-to-interaction-steps-for-crafting-a-successful-product-evaluation-vlog/"><u>From Idea to Interaction Steps for Crafting a Successful Product Evaluation Vlog</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-long-is-too-long-for-a-chatgpt-answer/"><u>How Long Is Too Long for a ChatGPT Answer?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-y100-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo Y100</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introduction-to-langchain-llm-a-beginners-guide/"><u>Introduction to LangChain LLM: A Beginner’s Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-craft-integrating-gpt-my-bots-into-hobbies-and-artistry/"><u>Mastering the Craft: Integrating GPT-My Bots Into Hobbies and Artistry</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209804591-9781609948016-yoga-wisdom-at-work/"><u>Yoga Wisdom at Work | Free Book</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-adjusting-your-macs-snapshot-formats-with-ease/"><u>[New] In 2024, Adjusting Your Mac's Snapshot Formats with Ease</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-track-talkative-youtube-threads/"><u>[New] Track Talkative YouTube Threads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artifics-and-affection-the-role-of-ai-in-crafting-convincing-cybercrime-dating-ploys/"><u>Artifics and Affection: The Role of AI in Crafting Convincing Cybercrime Dating Ploys</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-se-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone SE System Issues? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-dominate-social-media-sales-5-strategic-moves-for-instagram-experts/"><u>In 2024, Dominate Social Media Sales 5 Strategic Moves for Instagram Experts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-nokia-31-a-beginners-dream-device/"><u>In-Depth Look at the Nokia 3.1 - A Beginner's Dream Device</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-discover-the-top-8-tools-the-essential-software-for-professional-music-production-and-sound-engineering/"><u>New Discover the Top 8 Tools The Essential Software for Professional Music Production and Sound Engineering</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-highest-quality-android-vpn-providers-of-2024-thoroughly-assessed-and-recommended-digitalnet/"><u>Ultimate Guide to the Highest Quality Android VPN Providers of 2024 - Thoroughly Assessed and Recommended | DigitalNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-highest-quality-netflix-vpns-of-2024-expertly-tested-and-evaluated-cnet/"><u>Ultimate Guide to the Highest Quality Netflix VPNs of 2024 - Expertly Tested and Evaluated | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-importance-of-vpn-services-protect-your-digital-life-with-comprehensive-guidance-from-zdnet/"><u>Understanding the Importance of VPN Services: Protect Your Digital Life with Comprehensive Guidance From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-need-for-switching-your-ip-a-comprehensive-guide-on-how-and-when-to-do-it-effectively/"><u>Understanding the Need for Switching Your IP: A Comprehensive Guide on How and When to Do It Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-vpn-what-it-is-and-why-you-need-it-insightful-answers-from-zdnets-in-depth-exploration/"><u>Understanding VPN: What It Is & Why You Need It – Insightful Answers From ZDNet's In-Depth Exploration</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-copy-and-paste-features-with-application-guard-in-edge-w11-edition/"><u>Unlocking Copy & Paste Features with Application Guard in Edge, W11 Edition</u></a></li>
 </ul></div>
 

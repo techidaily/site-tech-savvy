@@ -1,7 +1,7 @@
 ---
 title: "Directive Design Mastery: Top 7 Online Learning Resources"
-date: 2024-08-21T15:36:10.252Z
-updated: 2024-08-22T15:36:10.252Z
+date: 2025-02-28T17:40:56.931Z
+updated: 2025-03-04T21:24:48.730Z
 tags:
   - chatgpt
   - open-ai
@@ -57,16 +57,10 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 
  Since lengthy reports might take days to track, organize them properly. [Create an OpenAI account](https://www.makeuseof.com/openai-api-guide-what-can-you-do/), generate API keys, and sort them according to their project types.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. PromptBase
 
 ![Searching for AI Prompts on Promptbase Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/promptbase-marketplace-all-results.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  AI has significantly advanced over the past years, but the industry is still evolving. Global tech leaders have just started releasing AI-driven tools. Aspiring prompt engineers might not find many openings yet, especially among smaller tech startups.
 
  To make extra money writing prompts, sign up for PromptBase. It’s one of the most established prompt marketplaces online—you’ll find hundreds of thousands of paid prompts. You can start selling after making an account.
@@ -79,25 +73,16 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 
 ![Searching Github Repositories for ChatGPT Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Anyone interested in AI needs a GitHub account. It features a massive database of LLMs, programming, coding, and prompt engineering resources. You’ll find infinite repositories discussing these topics.
 
  You can expand your knowledge of AI by studying various resources, but you could also focus on writing prompts. In fact, there are several [unique, effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/). Search whatever task you want—you’ll likely find a few formulas showing you how to execute it.
 
  To further improve your skills, collaborate with other users. Free accounts get about 2,000 minutes of Actions and 120 core hours of Codespaces a month. Play around with the site a bit. You can consider upgrading to a Pro account as you take on bigger projects.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Find Anything
 
 ![Searching for Dog Pictures on Google With Find Anything Extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/find-anything-extension-on-google-images.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [Text-to-image generators](https://www.makeuseof.com/ai-text-to-art-generators/) help you visualize concepts, but their output doesn’t follow standard copyright laws. You can’t [claim ownership of AI-generated art](https://www.makeuseof.com/copyright-rules-ai-art/). AI tools pull elements from existing content, many of which might be copyright-protected.
 
  But unlike most image generators, the Find Anything app claims that it provides copyright-free images. You can supposedly use their output for commercial and editorial purposes. Just pin the extension, and it will add AI images to your Google image search.
@@ -106,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 
  Or better yet, solely use Find Anything for art inspiration. Running it requires less technical know-how than Midjourney—beginners can practice testing text-to-image prompts here.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Eye for AI
 
 ![Generating Skull and Flower Image on EyeforAi Image Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/eyeforai-image-generator.jpg)
@@ -137,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +126,19 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-direct-hit-the-techno-friendly-way-to-upload-your-short-clips/"><u>[New] 2024 Approved Direct Hit The Techno-Friendly Way to Upload Your Short Clips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revolutionize-youtube-uploads-speed-enhancing-render-tricks/"><u>[New] Revolutionize YouTube Uploads Speed-Enhancing Render Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-tool-for-video-editing-a-comprehensive-guide-to-movavi-vs-windows-movie-maker/"><u>Choosing the Right Tool for Video Editing: A Comprehensive Guide to Movavi Vs. Windows Movie Maker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-rmvb-vers-flv-sans-frais-service-video-en-ligne-rapide-et-efficace/"><u>Conversion RMVB Vers FLV Sans Frais, Service Vidéo en Ligne Rapide Et Efficace</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-mp3-normalisering-en-lautstarke-einstellen-mit-movavi/"><u>Efficiënt MP3 Normalisering en Lautstärke Einstellen Mit Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990700670-enhance-gameplay-in-gta-5-by-resolving-fps-drops-fast-and-efficiently/"><u>Enhance Gameplay in GTA 5 by Resolving FPS Drops Fast & Efficiently!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-mindset-audio-selection-for-2024/"><u>Free Mindset Audio Selection for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-mp4-to-m4a-converter-movavi/"><u>Free Online MP4 to M4A Converter - Movavi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-topmusicreactionvids-yt-celebrity-highlights-2023/"><u>In 2024, TopMusicReactionVids YT Celebrity Highlights, 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-video-and-photo-editing-on-windows-with-movavi-tips-and-tricks/"><u>Mastering Video and Photo Editing on Windows with Movavi - Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-code-19-complete-guide-to-repairing-dvdcd-rom-issues-on-windows-11/"><u>Resolving Code 19: Complete Guide to Repairing DVD/CD-ROM Issues on Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-effective-metaverse-engagement-tactics-for-2024/"><u>Unveiling Effective Metaverse Engagement Tactics for 2024</u></a></li>
+</ul></div>
 

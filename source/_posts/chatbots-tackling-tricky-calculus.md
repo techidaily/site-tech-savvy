@@ -1,7 +1,7 @@
 ---
 title: ChatBots Tackling Tricky Calculus
-date: 2025-02-10T23:13:54.115Z
-updated: 2025-02-15T23:39:29.733Z
+date: 2025-03-02T18:34:46.270Z
+updated: 2025-03-04T23:56:49.760Z
 tags:
   - chatgpt
   - open-ai
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 
 ![Asking chatgpt to solve 1.195 minus 1.128](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![asking chatgpt to solve 2.98 minus 4 divided by 13](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-4-1.jpg)
 
 Close
@@ -58,21 +54,9 @@ Close
 
 ![asking chatgpt to solve for the distance a ball bounces into the air on the seventh bounce given an initial height of ten feet with each successive bounce rising to 75 percent of the previous height](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![asking chatgpt to solve the bouncing ball problem as a geometric sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![asking chatgpt to solve a quadratic equation where x squared plus six times x plus 8 equals zero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -84,21 +68,9 @@ Close
 
 ![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -113,10 +85,6 @@ Close
 ![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
 
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
 
@@ -135,10 +103,6 @@ Close
  ChatGPT originally offered the correct solution for the derivative g'(1) given that g(x) was the inverse function of f(x), but it quickly amended its answer to be incorrect when given a vague rejection instead of standing by its solution.
 
 ![chatgpt solves for the limit of an equation correctly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
 
@@ -188,22 +152,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-filmmakers-checklist-on-the-go-gear-guide-for-2024/"><u>[New] Filmmaker's Checklist On-the-Go Gear Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-recording-revolution-tactics-for-extracting-live-data/"><u>2024 Approved Recording Revolution Tactics for Extracting LIVE Data</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-settled-evasive-behavior-of-shorts-content/"><u>2024 Approved Settled Evasive Behavior of Shorts Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cross-language-communication-with-chatgpt-tips-and-tricks/"><u>Cross-Language Communication with ChatGPT: Tips and Tricks</u></a></li>
-<li><a href="https://article-files.techidaily.com/cutting-edge-codecs-comparison-choosing-between-av1-and-vp9/"><u>Cutting-Edge Codecs Comparison Choosing Between Av1 & VP9</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f04-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy F04 Phone with Broken Screen</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-digital-dimensions-metaverse-vs-omniverse-explained/"><u>In 2024, Digital Dimensions Metaverse Vs. Omniverse Explained</u></a></li>
-<li><a href="https://win-online.techidaily.com/navigating-digital-defenses-in-business-understanding-and-preventing-data-loss-using-massmail-tools/"><u>Navigating Digital Defenses in Business: Understanding and Preventing Data Loss Using MassMail Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-maintaining-high-definition-clarity-while-uploading-your-videos-on-youtube/"><u>Step-by-Step Guide: Maintaining High Definition Clarity While Uploading Your Videos on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-mp4-to-gif-conversion-tools-for-windows-users-the-ultimate-guide/"><u>Top 6 MP4 to GIF Conversion Tools for Windows Users: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-your-videos-from-wmv-to-avi-format-easily/"><u>Transforming Your Videos From WMV to AVI Format Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-the-movietv-app-in-windows-11-essential-tips-for-smooth-playback/"><u>Troubleshooting the MovieTV App in Windows 11: Essential Tips for Smooth Playback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-tips-step-by-step-guide-to-overcoming-catchvideo-download-hurdles/"><u>Troubleshooting Tips: Step-by-Step Guide to Overcoming Catchvideo Download Hurdles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncovering-the-latest-in-pc-components-with-toms-gear-guide/"><u>Uncovering the Latest in PC Components with Tom's Gear Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-lightning-mode-functionality-explanation-and-usage-guide/"><u>Understanding Lightning Mode: Functionality Explanation and Usage Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-your-viewing-experience-save-with-our-exclusive-offers-on-wonderfoxs-dvd-video-encoder-this-summer/"><u>Unlock Your Viewing Experience: Save with Our Exclusive Offers on WonderFox's DVD Video Encoder This Summer!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unrestricted-flv-conversion-of-youtube-videos-on-windows-a-step-by-step-guide/"><u>Unrestricted FLV Conversion of YouTube Videos on Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-explore-cheap-video-call-alternatives-compatible-with-windows-and-mac/"><u>[New] Explore Cheap Video Call Alternatives Compatible With Windows & Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-explore-10-prime-video-editing-apps-for-android-and-pc/"><u>[New] In 2024, Explore 10 Prime Video Editing Apps for Android and PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-discontinues-premium-finewoven-case-series-in-favor-of-newly-released-beats-collaborations-a-deep-dive-analysis/"><u>Apple Discontinues Premium FineWoven Case Series in Favor of Newly-Released Beats Collaborations: A Deep Dive Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-mobile-gaming-experience-on-a-phone-ranked-and-analyzed-digital-trends/"><u>Best Mobile Gaming Experience on a Phone - Ranked and Analyzed | Digital Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-syntax-understanding-gptbots-impact-and-site-restrictions/"><u>Beyond Syntax: Understanding GPTBot's Impact and Site Restrictions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comment-connecter-un-dossier-local-a-onedrive-sur-windows-11-pour-une-synchronisation-facile/"><u>Comment Connecter Un Dossier Local À OneDrive Sur Windows 11 Pour Une Synchronisation Facile</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-reset-counter-for-incorrect-logins-on-windows-11-os/"><u>Customizing Reset Counter for Incorrect Logins on Windows 11 OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-whats-coming-in-apples-latest-wwdc-tease-a-deeper-dive-into-enhanced-intelligence-and-ios-18-features-zdnet/"><u>Explore What's Coming in Apple's Latest WWDC Tease: A Deeper Dive Into Enhanced Intelligence & iOS 18 Features | ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-compress-or-downscale-4k-videos-to-1080p-on-windowsmac-computers/"><u>How to Compress or Downscale 4K Videos to 1080P on Windows/Mac Computers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-nokia-xr21-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Nokia XR21 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mac-recording-hub-essential-insights/"><u>In 2024, Mac Recording Hub Essential Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-auto-sticker-setup-glitches-and-resolutions/"><u>Navigating Auto Sticker Setup Glitches & Resolutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speaking-without-words-cultivating-bilingual-intimacy/"><u>Speaking Without Words: Cultivating Bilingual Intimacy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dangers-of-delegating-care-to-chatbots/"><u>The Dangers of Delegating Care to Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-of-ai-threat-landscape-prompt-injections-uncovered/"><u>The Essence of AI Threat Landscape - Prompt Injections Uncovered</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Transitioning From iPhone to Android? New Policies May Simplify the Process | TechCrunch
-date: 2025-02-14T23:15:17.191Z
-updated: 2025-02-16T02:33:17.895Z
+date: 2025-02-26T21:08:25.165Z
+updated: 2025-03-04T23:16:56.032Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -53,10 +49,6 @@ Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI
 If Apple can give Siri generative AI, iPhone users could ask the voice assistant for more than "Open this app" or "Search Google for this." Generative AI would let users ask Siri to draft messages and emails, explain a concept, and give personalized reminders tailored to their calendars, notes, or contacts. 
 
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
 
@@ -68,10 +60,6 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Personalized text generation
 
 ChatGPT became popular for its ability to generate text and have conversations that feel natural. Integrating text generation into the iPhone would make it easier for users to draft emails, generate stories, or edit resumes in Apple's native apps, like Notes and Messages. 
@@ -79,10 +67,6 @@ ChatGPT became popular for its ability to generate text and have conversations t
 **Also: [5 rumored iOS 18 features I'm most excited about - and AI is just the start](https://www.zdnet.com/article/5-rumored-ios-18-features-im-most-excited-about-and-ai-is-just-the-start/)**
 
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
 
@@ -126,22 +110,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-expert-advice-for-mastering-full-screen-in-ppro/"><u>[New] 2024 Approved Expert Advice for Mastering Full Screen in PPro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/15-key-iphone-troubleshooting-tips-for-all-iphone-models/"><u>15 Key iPhone Troubleshooting Tips for All iPhone Models</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-v30-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme V30 Activity | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adapting-chatgpt-for-cross-cultural-dialogues/"><u>Adapting ChatGPT for Cross-Cultural Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-marketplace-risks-with-chatgpt-apps-alerted/"><u>Apple's Marketplace Risks with ChatGPT Apps Alerted</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-alternative-media-players-for-windows-in-2019-a-comprehensive-guide/"><u>Best Alternative Media Players for Windows in 2019: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-professionalism-in-resume-crafting-chatgpt-techniques/"><u>Elevate Professionalism in Resume Crafting (ChatGPT Techniques)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-lightning-fast-connectivity-with-the-netgear-nighthawk-x1am-ad7200-in-depth-analysis-and-review/"><u>Experience Lightning-Fast Connectivity with the Netgear Nighthawk X1am AD7200: In-Depth Analysis and Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ai-depths-power-less-to-powerful/"><u>Exploring AI Depths: Power-Less to Powerful</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-lava-agni-2-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Lava Agni 2 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/how-to-fix-and-resolve-cannot-download-or-parse-video-files-with-4k-video-downloader/"><u>How to Fix and Resolve 'Cannot Download or Parse Video Files' With 4K Video Downloader</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-tecno-spark-20c-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Tecno Spark 20C Lock Screen Password</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-hevch265-a-comprehensive-guide-for-mac-users/"><u>Mastering HEVC/H.265: A Comprehensive Guide for Mac Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategic-planning-achieving-wellness-with-ai/"><u>Strategic Planning: Achieving Wellness with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-gap-in-self-review-systems/"><u>The Gap in Self-Review Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-the-maximum-wordcharacter-count-in-chatgpt/"><u>What's The Maximum Word/Character Count in ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-ios-chatgpt-triumphs-over-browser-counterparts/"><u>Why iOS ChatGPT Triumphs Over Browser Counterparts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clear-screen-clear-content-how-to-disable-youtube-channels-efficiently/"><u>[New] 2024 Approved Clear Screen, Clear Content How to Disable YouTube Channels Efficiently</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-how-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>[New] In 2024, How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-laugh-ledger-10-hilarious-tweets/"><u>[New] In 2024, Laugh Ledger 10 Hilarious Tweets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-ingenuity-test-identical-challenge-met-differently/"><u>Artificial Ingenuity Test: Identical Challenge Met Differently</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-insights-on-ai-gpt-against-bing-and-bard/"><u>Comparative Insights on AI: GPT Against Bing & Bard</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevating-visual-content-a-guide-to-adding-descriptions-on-instagram-for-2024/"><u>Elevating Visual Content A Guide to Adding Descriptions on Instagram for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-best-tools-to-enhance-your-pdf-analysis/"><u>Explore the Best Tools to Enhance Your PDF Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-raw-footage-to-social-stardom-the-art-of-video-cropping-on-instagram-for-2024/"><u>From Raw Footage to Social Stardom The Art of Video Cropping on Instagram for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-revealing-the-identity-of-viewers-on-youtube/"><u>In 2024, Revealing the Identity of Viewers on YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-m14-4gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy M14 4Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-presentation-outcomes-with-smart-ai-integration-chatgpt/"><u>Optimizing Presentation Outcomes with Smart AI Integration: ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-resource-for-computer-enthusiasts-toms-hardware-insights/"><u>The Essential Resource for Computer Enthusiasts: Tom's Hardware Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-proposal-making-leveraging-chatgpts-potential/"><u>The Future of Proposal Making: Leveraging ChatGPT's Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-imagery-skills-leveraging-microsofts-copilot-potential/"><u>Transform Your Imagery Skills: Leveraging Microsoft’s Copilot Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-text-into-adventure-6-methods-with-chatgpt-at-the-helm/"><u>Transforming Text Into Adventure: 6 Methods with ChatGPT at the Helm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-how-computers-cant-match-up-to-human-creative-abilities-in-writing/"><u>Unveiling How Computers Can't Match Up to Human Creative Abilities in Writing</u></a></li>
+<li><a href="https://article-files.techidaily.com/visionboost-converter-windows-mac-online-version-for-2024/"><u>VisionBoost Converter – Windows, Mac, Online Version for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic-5-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic 5 Pro Device</u></a></li>
 </ul></div>
 

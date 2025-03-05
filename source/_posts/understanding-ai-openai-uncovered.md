@@ -1,7 +1,7 @@
 ---
 title: "Understanding AI: OpenAI Uncovered"
-date: 2025-02-09T21:22:11.450Z
-updated: 2025-02-15T16:01:38.169Z
+date: 2025-02-26T19:02:25.683Z
+updated: 2025-03-04T19:31:23.677Z
 tags:
   - chatgpt
   - open-ai
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  The latest generation, ChatGPT-4, has 45 billion parameters, which means it has been trained in a more extensive dataset of text and code than its predecessor, making it more accurate, creative, and fluent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. DALL-E
 
 ![DALL-E Playground Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dall-e-playground-homepage.jpg)
@@ -76,17 +72,9 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  This AI model can generate visual content like paintings and memes for product designs, fliers, commercial and campaign posters, research, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Codex
 
 ![codex js sandbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/codex-js-sandbox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Released in 2021, Codex was based on the language model GPT-3 family—an AI model that can generate code. It could create code that is as good, or even better, than those written by human programmers.
 
@@ -112,17 +100,9 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  However, as AI advances, so do its applications and chances of being used for malicious purposes. This has led OpenAI to try to find a balance between hiding and sharing research, despite the former going against their mission.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Ethical Issues
 
  There have been cases where [OpenAI’s models have shown biased content](https://www.makeuseof.com/does-chatgpt-lie/) due to the type of training data they were built with. Addressing this problem is complicated as it will need a lot of fine-tuning and comprehensive data selection. And even at that, it would be almost impossible to eradicate biased results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Competition
 
@@ -151,24 +131,14 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-2024-slomotion-app-an-exhaustive-evaluation/"><u>[New] 2024 SloMotion App An Exhaustive Evaluation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-swift-transformation-androids-best-vid-upgrades/"><u>[New] Swift Transformation Android's Best Vid Upgrades</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-boosting-in-game-charisma-pubg-voice-techniques/"><u>[Updated] Boosting In-Game Charisma PUBG Voice Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-speed-instant-signature-background-cleanup/"><u>[Updated] Unlocking Speed Instant Signature Background Cleanup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-unveils-plans-for-home-based-robot-assistants-discover-the-future-developments-insights-from-zdnet/"><u>Apple Unveils Plans for Home-Based Robot Assistants – Discover the Future Developments | Insights From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-google-document-functionality-via-ai/"><u>Augmenting Google Document Functionality via AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-premium-path-assessing-the-trade-offs/"><u>ChatGPT's Premium Path: Assessing the Trade-Offs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-every-shot-our-selection-of-video-zoom-tools/"><u>Elevate Every Shot Our Selection of Video Zoom Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-wearables-with-ai-chatgpts-6-revolutionary-uses-in-watches/"><u>Enhancing Wearables with AI: ChatGPT's 6 Revolutionary Uses in Watches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fortifying-trade-secrets-through-smart-ai-dialogues/"><u>Fortifying Trade Secrets Through Smart AI Dialogues</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/es-galore-7-entertaining-video-sets-for-chuckleheads-for-2024/"><u>Giggles Galore 7 Entertaining Video Sets for Chuckleheads for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-f23-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo F23 5G Phones with/without a PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-ae-essentials-the-most-loved-templates/"><u>Instagram AE Essentials The Most Loved Templates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nlp-vs-ml-understanding-key-distinctions/"><u>NLP vs ML: Understanding Key Distinctions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seeking-quality-over-quantity-why-writers-shun-chatbots/"><u>Seeking Quality over Quantity: Why Writers Shun Chatbots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-chatgpt-journey-top-9-key-plugin-integrations/"><u>Transform Your ChatGPT Journey: Top 9 Key Plugin Integrations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-openais-ai-secure-communication/"><u>Unlocking OpenAI's AI Secure Communication</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-top-6-chatgpt-issues-and-how-to-fix-them/"><u>Unraveling the Top 6 ChatGPT Issues and How to Fix Them</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unlocking-your-digital-cameras-potential/"><u>[New] In 2024, Unlocking Your Digital Camera's Potential</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-virtual-meetups-made-easy-understanding-xbox-one-zoom/"><u>2024 Approved Virtual Meetups Made Easy Understanding Xbox One Zoom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showcase-surpassing-a-venerable-standard/"><u>AI Showcase: Surpassing a Venerable Standard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-wi-fi-display-connection-issues-in-windows-11-a-comprehensive-guide/"><u>Fixing Microsoft Wi-Fi Display Connection Issues in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oneplus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your OnePlus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-cbt-with-machine-learning-powered-assistance/"><u>Revolutionizing CBT with Machine Learning-Powered Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spoofing-chatbots-how-some-apps-mislead-and-compromise-users/"><u>Spoofing ChatBots: How Some Apps Mislead & Compromise Users!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-claude-3-is-taking-the-center-stage-over-chatgpts-dominance/"><u>Why Claude 3 Is Taking the Center Stage Over ChatGPT's Dominance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Kindness When Talking to Tech (Alexa, Siri, GPT)
-date: 2024-08-21T15:37:00.121Z
-updated: 2024-08-22T15:37:00.121Z
+date: 2025-03-03T20:03:28.935Z
+updated: 2025-03-04T16:48:54.625Z
 tags:
   - chatgpt
   - open-ai
@@ -47,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
  AI chatbots can be rude to you, just like humans. For instance, a [Reddit user](https://www.reddit.com/r/bing/comments/110eagl/the%5Fcustomer%5Fservice%5Fof%5Fthe%5Fnew%5Fbing%5Fchat%5Fis/) shared a screenshot of Microsoft's Bing AI in beta mode, responding rudely and arguing during an interaction. An AI chatbot can also be rude if you jailbreak it to disobey its content policy, which is one reason [you shouldn't trust every generative AI screenshot](https://www.makeuseof.com/why-you-shouldnt-trust-ai-chatbot-conversation-screenshots/) you see. Someone may have specifically asked the AI to be rude, screen-capped it for the drama, and posted it online.
@@ -65,9 +59,6 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
  On the other hand, you can [set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Interact With AI How You Want
 
  AI cannot process emotions like humans, and you shouldn't feel obligated to say "thank you" or "please." Nevertheless, it doesn't hurt to be polite to AI, even if you know it's not sentient, but rather because you will feel better about yourself if you're polite.
@@ -78,14 +69,11 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
  But, if AI can talk and reply to your messages like a human, do you need to be polite to AI, as you would with a human?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,4 +82,22 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-tackling-iphone-lens-blur-steps-for-improved-focus/"><u>[New] Tackling iPhone Lens Blur Steps for Improved Focus</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-essential-tutorial-for-vrecorder-setup-for-2024/"><u>[Updated] The Essential Tutorial for VRecorder Setup for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223065973-2024-10/"><u>2024년 제공하는 가장 좋은 무료 음악 편집 소품 10대 목록</u></a></li>
+<li><a href="https://fox-access.techidaily.com/5-must-know-techniques-for-cutting-through-reddit-noise-and-gaining-traction/"><u>5 Must-Know Techniques for Cutting Through Reddit Noise and Gaining Traction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpeg-43gp-movavi/"><u>網路直接將MPEG-4影片轉化成3GP格式 - Movavi 自由下載解析器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wma-ogg/"><u>移動維藍 - 免費在線 WMA 到 OGG 文件格式的無限制過渡</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/divers-formes-de-paiement-chez-movavi-options-et-avantages-expliques/"><u>Divers Formes De Paiement Chez Movavi: Options Et Avantages Expliqués</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-mastering-landscape-photography-techniques/"><u>Expert Advice: Mastering Landscape Photography Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-pros-and-cons-of-lenovos-budget-android-tab-4/"><u>Exploring the Pros & Cons of Lenovo's Budget Android Tab 4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conversion-tool-transform-avi-files-into-ogv-format-move-avni/"><u>Free Conversion Tool: Transform AVI Files Into OGV Format - Move Avni</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hues-harmony-crafting-colorful-artistry/"><u>Hues Harmony Crafting Colorful Artistry</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-performances-in-figure-skate-22/"><u>In 2024, Pinnacle Performances in Figure Skate '22</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/passer-de-av-a-numerique-pour-gratuits-toujours-avec-movavi/"><u>Passer De AV À Numérique Pour Gratuits - Toujours Avec Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-materials-compatibility-with-the-fluid-being-transported-is-crucial-incompatible-materials-can-lead-to-corrosion-or-contamination/"><u>The Material's Compatibility with the Fluid Being Transported Is Crucial; Incompatible Materials Can Lead to Corrosion or Contamination.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/trasforma-i-tuoi-file-nsv-in-mp4-gratuitamente-conversion-tool-di-movavi/"><u>Trasforma I Tuoi File NSV in MP4 Gratuitamente - Conversion Tool Di Movavi</u></a></li>
+</ul></div>
 

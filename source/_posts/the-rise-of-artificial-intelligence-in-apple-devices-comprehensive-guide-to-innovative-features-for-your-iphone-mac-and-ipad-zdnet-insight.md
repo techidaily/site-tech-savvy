@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Artificial Intelligence in Apple Devices: Comprehensive Guide to Innovative Features for Your iPhone, Mac, and iPad | ZDNet Insight"
-date: 2025-02-09T22:43:28.273Z
-updated: 2025-02-16T02:04:37.867Z
+date: 2025-02-27T19:23:15.284Z
+updated: 2025-03-04T23:52:10.909Z
 tags:
   - apple
 categories:
@@ -35,10 +35,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -87,10 +83,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -102,10 +94,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -130,10 +118,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -165,10 +149,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,22 +190,17 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-15-facebook-strategies-for-maximizing-online-selling-power/"><u>[New] 2024 Approved Top 15 Facebook Strategies for Maximizing Online Selling Power</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/inding-free-music-a-producers-handbook/"><u>[New] Finding Free Music A Producer's Handbook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-cutting-edge-approaches-merging-obs-with-facebook-live/"><u>[Updated] In 2024, Cutting-Edge Approaches Merging OBS with Facebook Live</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-scripting-a-compelling-tiktok-parting-message/"><u>[Updated] Scripting a Compelling TikTok Parting Message</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-the-maze-of-communication-features-on-snapchat/"><u>2024 Approved Navigating the Maze of Communication Features on Snapchat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-app-for-windows-enthusiasts/"><u>ChatGPT App for Windows Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-complexity-of-large-scale-ais/"><u>Deciphering the Complexity of Large-Scale AIs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/driving-decisions-perfecting-persuasive-business-proposals-with-ai/"><u>Driving Decisions: Perfecting Persuasive Business Proposals with AI</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/final-solution-for-persistent-mouse-problems-in-resident-evil-village/"><u>Final Solution for Persistent Mouse Problems in Resident Evil Village</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/free-online-converter-convert-webm-to-mp3-instantly-with-movavi/"><u>Free Online Converter: Convert WEBM to MP3 Instantly with Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-do-vector-databases-transform-machine-learning/"><u>How Do Vector Databases Transform Machine Learning?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seize-opportunities-in-openais-challenge-for-error-discovery/"><u>Seize Opportunities in OpenAI’s Challenge for Error Discovery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-gpt-tools-for-pdf-and-doc-interaction/"><u>Top 6 GPT Tools for PDF & Doc Interaction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-behind-device-based-machine-learning-implementations/"><u>What's Behind Device-Based Machine Learning Implementations?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-next-in-ai-is-a-gpt-5-imminent/"><u>What's Next in AI: Is a GPT-5 Imminent?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-next-audio-step-choosing-between-podcasts-and-youtube/"><u>Your Next Audio Step Choosing Between Podcasts and YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-straightforward-strategies-for-iphones-screen-recording-for-2024/"><u>[New] Straightforward Strategies for iPhone's Screen Recording for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-professional-online-broadcast-capture-methods-for-2024/"><u>[Updated] Professional Online Broadcast Capture Methods for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bringing-serenity-to-chaos-mastery-through-gpt-techniques/"><u>Bringing Serenity to Chaos: Mastery Through GPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-remote-opportunities-6-innovative-applications/"><u>ChatGPT & Remote Opportunities: 6 Innovative Applications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-poco-x5-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Poco X5 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hone-your-sight-the-top-5-ways-to-zoom-in-minecraft/"><u>In 2024, Hone Your Sight The Top 5 Ways to Zoom in Minecraft</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-magic-5-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor Magic 5 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-down-4-ways-to-find-out-chatgpts-current-status/"><u>Is ChatGPT Down? 4 Ways to Find Out ChatGPT's Current Status</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubles-heres-how-to-fix-five-nights-at-freddys-security-breach-crashes/"><u>PC Troubles? Here's How to Fix 'Five Nights at Freddy's: Security Breach Crashes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/seamless-integration-of-movies-and-animations-using-movie-maker/"><u>Seamless Integration of Movies and Animations Using Movie Maker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-and-mechanics-of-predictive-ai-explored/"><u>The Essence and Mechanics of Predictive AI Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uniting-tech-and-talk-setup-winchatgpt/"><u>Uniting Tech and Talk: Setup WinChatGPT</u></a></li>
 </ul></div>
 

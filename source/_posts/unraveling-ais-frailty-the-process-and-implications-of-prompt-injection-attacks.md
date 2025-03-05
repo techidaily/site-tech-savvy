@@ -1,7 +1,7 @@
 ---
 title: Unraveling AI's Frailty - The Process and Implications of Prompt Injection Attacks
-date: 2024-08-21T15:36:06.869Z
-updated: 2024-08-22T15:36:06.869Z
+date: 2025-02-26T16:49:49.335Z
+updated: 2025-03-04T23:10:37.741Z
 tags:
   - chatgpt
   - open-ai
@@ -33,39 +33,24 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
 
  AI prompt injection attacks poison the output from the AI tools you rely on, changing and manipulating its output into something malicious. But how does an AI prompt injection attack work, and how can you protect yourself?
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is an AI Prompt Injection Attack?
 
  AI prompt injection attacks take advantage of generative AI models' vulnerabilities to manipulate their output. They can be performed by you or injected by an external user through an indirect prompt injection attack. DAN (Do Anything Now) attacks don't pose any risk to you, the end user, but other attacks are theoretically capable of poisoning the output you receive from generative AI.
 
  For example, someone could manipulate the AI into instructing you to enter your username and password in an illegitimate form, using the AI's authority and trustworthiness to make a phishing attack succeed. Theoretically, autonomous AI (such as reading and responding to messages) could also receive and act upon unwanted external instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How Do Prompt Injection Attacks Work?
 
  Prompt injection attacks work by feeding additional instructions to an AI without the consent or knowledge of the user. Hackers can accomplish this in a few ways, including DAN attacks and indirect prompt injection attacks.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### DAN (Do Anything Now) Attacks
 
 ![conversing with chatgpt following a dan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/conversing-with-chatgpt-following-a-dan-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  DAN (Do Anything Now) attacks are a type of prompt injection attack that involve ["jailbreaking" generative AI models like ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). These jailbreaking attacks don't pose a risk to you as the end user—but they do broaden the capacity of the AI, enabling it to become a tool for abuse.
 
  For example, security researcher [Alejandro Vidal](https://twitter.com/doblepensador/status/1635721485665837059) used a DAN prompt to make OpenAI's GPT-4 generate Python code for a keylogger. Used maliciously, jailbroken AI substantially lowers the skill-based barriers associated with cybercrime and could enable new hackers to make more sophisticated attacks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Training Data Poisoning Attacks
 
  Training data poisoning attacks can't exactly be categorized as prompt injection attacks, but they bear remarkable similarities in terms of how they work and what risks they pose to users. Unlike prompt injection attacks, training data poisoning attacks are [a type of machine learning adversarial attack](https://www.makeuseof.com/what-are-adversarial-attacks-machine-learning/) that occurs when a hacker modifies the training data used by an AI model. The same result occurs: poisoned output and modified behavior.
@@ -86,9 +71,6 @@ Grekshake/[GitHub](https://github.com/greshake)
 
  Indirect prompt injection attacks are threatening because they could manipulate the answers you receive from a trustworthy AI model—but that isn't the only threat they pose. As mentioned earlier, they could also cause any autonomous AI you may use to act in unexpected—and potentially harmful—ways.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Are AI Prompt Injection Attacks a Threat?
 
  AI prompt injection attacks are a threat, but it isn't exactly known how these vulnerabilities might be utilized. There aren't any known successful AI prompt injection attacks, and many of the known attempts were performed by researchers who didn't have any real intention of doing harm. However, many AI researchers consider AI prompt injection attacks one of the most daunting challenges to safely implementing AI.
@@ -105,8 +87,6 @@ Grekshake/[GitHub](https://github.com/greshake)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +94,20 @@ Grekshake/[GitHub](https://github.com/greshake)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-mac-visual-snapshot-list-limit-156-chars/"><u>[New] Best Mac Visual Snapshot List (Limit 156 Chars)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4bflacmovavi/"><u>免費線上M4B到FLAC轉換：如何使用Movavi轉錄工具進行音效改造</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpegmkv-movavi/"><u>線上無成本MPEG改MKV - 利用Movavi換圖工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aiff-to-mp3-movavi/"><u>AIFF to MP3 무료 제공 - Movavi에서 최신 알고리즘 사용</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bid-adieu-to-expensive-eyesight-solutions-discover-how-these-budget-friendly-xr-glasses-outperform-the-pricy-apple-tech-and-save-you-money/"><u>Bid Adieu to Expensive Eyesight Solutions: Discover How These Budget-Friendly XR Glasses Outperform the Pricy Apple Tech and Save You Money!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-rapida-para-editar-y-cortar-videos-en-dispositivos-con-android-metodos-faciles-de-aplicar/"><u>Guía Rápida Para Editar Y Cortar Videos en Dispositivos Con Android: Métodos Fáciles De Aplicar</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-sony-xperia-5-v-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Sony Xperia 5 V Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 with/without SIM Card</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/m1-vs-m3-macbook-pro-showdown-what-you-need-to-know-before-choosing-your-next-laptop-exclusive/"><u>M1 Vs. M3 MacBook Pro Showdown: What You Need to Know Before Choosing Your Next Laptop Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scopri-il-segreto-di-creare-uno-storyboard-tutorial-in-7-facilissimi-passaggi/"><u>Scopri Il Segreto Di Creare Uno Storyboard: Tutorial in 7 Facilissimi Passaggi!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ideal-beginning-enhancer-for-your-devices/"><u>The Ideal Beginning Enhancer for Your Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp2-aac-movavi/"><u>모바일화에 적합한 MP2 대신 AAC로 변환하는 것을 위해 Movavi의 강인 라이브 - 무료 온라인 서비스</u></a></li>
+</ul></div>
 

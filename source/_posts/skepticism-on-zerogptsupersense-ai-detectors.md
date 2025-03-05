@@ -1,7 +1,7 @@
 ---
 title: Skepticism on ZeroGPT’supersense' AI Detectors
-date: 2024-08-21T15:35:49.305Z
-updated: 2024-08-22T15:35:49.305Z
+date: 2025-03-01T18:02:05.196Z
+updated: 2025-03-04T21:57:27.886Z
 tags:
   - chatgpt
   - open-ai
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
 
  At least it got this part correct. Overall, ZeroGPT failed in this round. It did determine that at least part of the AI-generated introduction was suspect but failed to highlight specific issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Test Two: The False Positive Problem
 
  As the use of ChatGPT and other AI tools grows, the likelihood of knowing or hearing about someone being confronted by claims that their work was AI-generated increases. These accusations are one of the more serious problems with ChatGPT and AI-detection tools like ZeroGPT, as this kind of error can damage reputations and affect livelihoods.
@@ -69,19 +65,12 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
 
 ![Screenshot of ChatGPT fiction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-fiction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And here was the response from ZeroGPT:
 
 ![Screenshot of ZeroGPT failing fiction test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-failing-fiction-test.jpg)
 
  As is apparent from the result, ZeroGPT is unable to tell fact from fiction when dealing with fiction!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Test Four: News Articles
 
  There is something unsettling about AI being able to inform us of what’s happening in the world around us. This is not always necessarily “fake news,” as it can be relevant and informative, but there are [definite ethical concerns about AI](https://www.makeuseof.com/ethical-dilemmas-in-artificial-intelligence/).
@@ -90,9 +79,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Screenshot of ZeroGPT correctly identifying AI news article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-correctly-identifying-ai-news-article.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The tool so consistently flagged each news article as AI-generated that we decided to test it on a dummy news article that we wrote for the purpose.
 
 ![Screenshot of ZeroGPT misidentifying news story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-misidentifying-news-story.jpg)
@@ -115,9 +101,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Another factor that must be considered is what constitutes AI-generated content. If AI-generated content is simply reworded, is it human or AI-generated content? This represents another major challenge—the blurring of the lines between the two makes defining machine-created content almost impossible.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Looking to the Future of AI Detection
 
 ![cyber-glasses-1938449_1280](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cyber-glasses-1938449_1280.jpg)
@@ -128,9 +111,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The challenges that these tools face are mirror images of the challenges that society faces as we grapple with the dilemmas associated with a new technological age.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## AI or Not AI? That Is the Question
 
  Tools like ZeroGPT are flawed, there is no doubt of that. But they aren’t worthless, and they represent an important step as we try to manage and regulate AI. Their accuracy will improve, but so will the sophistication of the AI they are trained to detect. Somewhere in the middle of this arms race, we need to find a balance that society is comfortable with.
@@ -145,14 +125,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Let’s take a closer look at AI detection tools and see whether they can tell the difference between human and AI-generated text.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +138,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonic-helpers-sourcing-video-music/"><u>[Updated] Harmonic Helpers Sourcing Video Music</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-leverage-longer-vids-on-instagram-effectively-for-2024/"><u>[Updated] How to Leverage Longer Vids on Instagram Effectively for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726221313834-2024/"><u>「2024年新開賣：用照片移除對象？解決策四種最便捷入門指南」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726227770022-2024/"><u>2024最佳免費音樂製作軟件：前十名推薦清單</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4a-m4v-movavi/"><u>網路上免費轉換 M4A 到 M4V - 使用 Movavi 工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-swf-wav-movavi/"><u>無成本 Web 瀏覽器 SWF 到 WAV 格式轉換 - 利用 Movavi 工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertisseurs-video-gratuits-pour-le-web-passer-flv-a-3gp-avec-movavi/"><u>Convertisseurs Vidéo Gratuits Pour Le Web : Passer FLV À 3GP Avec Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-overcoming-dead-by-daylights-error-8014-problem/"><u>Effective Solutions for Overcoming Dead by Daylight's Error 8014 Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explorando-os-top-tecnicas-de-reducao-da-profundidade-de-cor-em-imagens-com-video-tutorials/"><u>Explorando Os Top Técnicas De Redução Da Profundidade De Cor Em Imagens Com Vídeo Tutorials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuita-conversione-tta-per-i-tuoi-video-impara-a-farlo-usando-movavi/"><u>Gratuita Conversione TTA per I Tuoi Video: Impara a Farlo Usando Movavi!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-decoding-the-secrets-to-efficient-cd-ripping-via-wmp/"><u>In 2024, Decoding the Secrets to Efficient Cd Ripping via WMP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-open-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Open PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-y100i-power-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo Y100i Power 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/os-melhores-editores-video-para-estabilizacao-e-correcoes-em-202-opcoes-gratuitas-and-pagas/"><u>Os Melhores Editores Vídeo Para Estabilização E Correções Em 202([!]): Opções Gratuitas & Pagas</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A23 5G Device</u></a></li>
+<li><a href="https://facebook.techidaily.com/virtuality-unveiled-what-is-the-metaverse/"><u>Virtuality Unveiled: What Is the Metaverse?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-copyright-recordings-and-their-permissibility-for-2024/"><u>YouTube Copyright Recordings and Their Permissibility for 2024</u></a></li>
+</ul></div>
 

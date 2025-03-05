@@ -1,7 +1,7 @@
 ---
 title: GPT-3 Customization Techniques for Authentic Writing
-date: 2025-02-10T01:49:31.858Z
-updated: 2025-02-15T18:23:53.223Z
+date: 2025-03-01T21:37:26.177Z
+updated: 2025-03-05T00:43:38.539Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 Ways to Teach ChatGPT to Write Like You
 
  To get started, we'll assume the persona of a detail-oriented author who uses a lively, engaging tone, provides detailed, accessible explanations, make liberal use of analogies, and address the reader directly throughout their text. The author also has a knack for using analogies to explain key concepts. [Here's a sample of the author's work](https://www.makeuseof.com/how-does-chatgpt-work/).
@@ -47,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
 
  Both options require a different approach, which you can check out below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Training ChatGPT With Samples of Your Work
 
  To train ChatGPT with samples of your work, head over to ChatGPT and use the prompt below, immediately followed by a sample of your written work that best captures your writing style.
@@ -60,10 +52,6 @@ Extract the writing style in the text provided below. Please study the tone, wor
  After using the prompt above, you should get a result similar to this:
 
 ![Result of writing Style extraction by ChatGPT-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/result-of-writing-style-extraction-by-chatgpt-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Of course, one sample might not be enough to thoroughly capture every aspect of your writing style. So, you can repeat the prompt above with three to five more samples within the same ChatGPT conversation. After iterating through the number of samples you wish to use, you can then use the prompt below to unify the extracted styles.
 
@@ -99,19 +87,11 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make ChatGPT Work for You
 
@@ -136,19 +116,15 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-arcade-affordability-bar-reviews/"><u>[New] In 2024, ARCADE AFFORDABILITY BAR Reviews</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-metaverse-memetic-mastery-tips-for-aspiring-content-creators/"><u>[New] Metaverse Memetic Mastery Tips for Aspiring Content Creators</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-gopro-hero5-black-vs-sjcam-sj7-star/"><u>[Updated] In 2024, GoPro Hero5 Black Vs SJCAM SJ7 Star</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-snagging-youtube-vanished-videos-your-2-path-guide/"><u>[Updated] Snagging YouTube Vanished Videos Your 2-Path Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-beginners-blueprint-to-free-youtube-audio-to-text/"><u>[Updated] The Beginner's Blueprint to Free YouTube Audio to Text</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-interactive-voice-turning-prompts-into-meaningful-exchanges/"><u>AI's Interactive Voice: Turning Prompts Into Meaningful Exchanges</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/decoding-failure-in-videos-error-224003/"><u>Decoding Failure in Videos: Error 224003</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro Max without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-advanced-fabrication-with-ai-powered-chatgpt/"><u>Pioneering Advanced Fabrication with AI-Powered ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-hpe-and-amd-team-up-to-create-el-capitan-the-fastest-ever-supercomputer-upon-completion/"><u>The Future Is Now: HPE and AMD Team Up to Create El Capitan, The Fastest-Ever Supercomputer Upon Completion</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-guide-to-alternative-screen-recording-software-for-2024/"><u>The Ultimate Guide to Alternative Screen Recording Software for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-three-ai-battles-chatgpt-microsoft-bing-ai-and-google-bard/"><u>Top Three AI Battles: ChatGPT, Microsoft Bing AI, and Google Bard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truthcoin-exposed-fact-or-fiction/"><u>TruthCoin Exposed: Fact or Fiction?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-irecorders-top-screen-capabilities/"><u>[New] Unveiling iRecorder's Top Screen Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehending-quadcopters-how-they-soar-and-operate/"><u>2024 Approved Comprehending Quadcopters How They Soar and Operate</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lightning-lingers-quick-and-fluid-gaming-choices-for-laptops/"><u>Lightning Lingers Quick & Fluid Gaming Choices for Laptops</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/qin-shi-huang-the-emperor-who-united-china-in-221-bc-insights-by-yl-computing-and-yl-software/"><u>Qin Shi Huang: The Emperor Who United China in 221 BC - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/struggling-with-weak-wi-fi-establish-a-wired-network-in-your-house-sans-ethernet-cable-expert-advice-by-zdnet/"><u>Struggling with Weak Wi-Fi? Establish a Wired Network in Your House Sans Ethernet Cable - Expert Advice by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-110-seasonal-bargains-on-electronics-save-big-on-iphones-smart-tvs-and-computers-zdnets-holiday-guide/"><u>Top 110 Seasonal Bargains on Electronics - Save Big on iPhones, Smart TVs & Computers | ZDNet's Holiday Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-intelligent-writing-gadgets-a-zdnet-review/"><u>Top 4 Intelligent Writing Gadgets : A ZDNet Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ai-chatbot-picks-navigating-through-chatgpt-microsofts-copilot-and-more-exploring-the-future-of-digital-conversations/"><u>Top AI Chatbot Picks : Navigating Through ChatGPT, Microsoft's Copilot & More - Exploring the Future of Digital Conversations!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-strategies-shared-by-industry-leaders-helping-female-professionals-excel-in-information-technology/"><u>Top Strategies Shared by Industry Leaders: Helping Female Professionals Excel in Information Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbelievable-deals-await-score-an-epic-sale-with-a-breathtakingly-vivid-49-inch-samsung-oled-ultrawide-display-for-just-600-less/"><u>Unbelievable Deals Await: Score an Epic Sale with a Breathtakingly Vivid, 49-Inch Samsung OLED UltraWide Display for Just $600 Less</u></a></li>
 </ul></div>
 

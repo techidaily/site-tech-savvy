@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Must-Have Savings in August 2Nce: Unveiling the Hottest Deals, According to ZDNET"
-date: 2025-02-14T02:07:26.616Z
-updated: 2025-02-15T22:19:02.989Z
+date: 2025-03-01T20:18:46.527Z
+updated: 2025-03-04T19:37:55.676Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ The shopping giant frequently cuts prices on top tech products all year round, i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best Amazon deals of August 2024
 
 Jason Hiner/ZDNET
@@ -40,10 +36,6 @@ Jason Hiner/ZDNET
 * [Dyson V8 Cordless Plus Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDyson-Cordless-Vacuum-Silver-Nickel%2Fdp%2FB0CT9552BL%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CT9552BL%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $350 (save $120)
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,300 (save $500)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best Amazon tech deals
 
@@ -94,15 +86,7 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $189 (save $60)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $198 (save $102)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these Amazon deals?
 
@@ -113,10 +97,6 @@ We also looked over customer reviews to find out what matters to real people who
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -166,24 +146,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-earn-with-each-screen-capture/"><u>[New] Earn With Each Screen Capture</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mobile-battlefronts-the-best-mobas-on-android-for-2024/"><u>[New] Mobile Battlefronts The Best MOBAs on Android for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unlock-the-secret-to-exceptional-time-lapse-videos-on-galaxy/"><u>[Updated] 2024 Approved Unlock the Secret to Exceptional Time-Lapse Videos on Galaxy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-assistants-transforming-the-editors-workspace/"><u>AI-Powered Assistants Transforming the Editor's Workspace</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/embrace-seamless-functionality-with-the-new-hp-chromebook-that-replaces-windows-save-an-additional-136-off-zdnet-review/"><u>Embrace Seamless Functionality With the New HP Chromebook That Replaces Windows – Save an Additional $136 Off! (ZDNET Review)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-digital-helpers-to-sharpen-prompt-engineering/"><u>Essential Digital Helpers to Sharpen Prompt Engineering</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fact-check-for-fit-sifting-through-chatgpts-health-info/"><u>Fact-Check for Fit: Sifting Through ChatGPT's Health Info</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-installing-the-latest-dymo-labelwriter-450-driver/"><u>Hassle-Free Guide to Installing the Latest Dymo LabelWriter 450 Driver</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-live-broadcasts-in-focus-scrutinizing-the-best-6-microphones-available/"><u>In 2024, Live Broadcasts in Focus Scrutinizing the Best 6 Microphones Available</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-depth-examination-lg-bp350-screen-specifications-and-reviews/"><u>In-Depth Examination LG BP350 Screen Specifications and Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/lost-oversight-chatgpts-new-era/"><u>Lost Oversight: ChatGPT's New Era</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-anthropic-claude-3-ecosystem/"><u>Navigating the Anthropic Claude 3 Ecosystem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-obstacles-restoring-connection-between-chatgpt-and-plugins/"><u>Overcoming Obstacles: Restoring Connection Between ChatGPT and Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/public-private-personal-ai-understanding-distinctions/"><u>Public, Private, Personal AI: Understanding Distinctions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-update-of-canon-printerscanner-drivers-on-microsoft-windows-tips-and-tricks/"><u>Seamless Update of Canon Printer/Scanner Drivers on Microsoft Windows: Tips and Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/side-tech-businesses-and-vintage-console-trends/"><u>Side Tech Businesses & Vintage Console Trends</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-12-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme 12 5G Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-edge-based-machine-learning-deployments/"><u>Understanding Edge-Based Machine Learning Deployments</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/upcoming-games-with-industry-experts-for-2024/"><u>Upcoming Games with Industry Experts for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-stepwise-simplification-broadcasting-personal-yt-videos-using-gmail/"><u>[New] In 2024, Stepwise Simplification Broadcasting Personal YT Videos Using Gmail</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-selections-of-innovative-vtuber-sound-tools/"><u>[Updated] Expert Selections of Innovative Vtuber Sound Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-popular-photos-the-backstory/"><u>[Updated] Popular Photos The Backstory</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlining-your-digital-workspace-mastering-zoom-sessions-for-2024/"><u>[Updated] Streamlining Your Digital Workspace Mastering Zoom Sessions for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bot-brainpower-battle-same-idea-varied-solutions/"><u>Bot Brainpower Battle: Same Idea, Varied Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/easy-peasy-hdr-a-step-by-step-review/"><u>Easy-Peasy HDR A Step-by-Step Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-quoras-poe-for-llm-and-chatbot-access/"><u>Harnessing Quora’s POE for LLM & Chatbot Access</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-smart-agents-via-agentgpt/"><u>Integrating Smart Agents via AgentGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-and-greatest-hp-deskjet-3050a-driver-downloads-for-windows-free-and-easy-to-install/"><u>Latest and Greatest HP Deskjet 3050A Driver Downloads for Windows – Free & Easy to Install</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-enabling-gpt-3s-new-features/"><u>Mastering the Art of Enabling GPT-3's New Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/medical-mistakes-reasons-to-doubt-chatgpt-advice/"><u>Medical Mistakes: Reasons to Doubt ChatGPT Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-team-meetings-using-artificial-intelligence/"><u>Simplifying Team Meetings Using Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/use-ps4-controller-on-steam-tutorial/"><u>Use PS4 Controller on Steam [Tutorial]</u></a></li>
 </ul></div>
 

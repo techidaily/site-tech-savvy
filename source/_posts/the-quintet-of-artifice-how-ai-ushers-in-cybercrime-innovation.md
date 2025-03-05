@@ -1,7 +1,7 @@
 ---
 title: "The Quintet of Artifice: How AI Ushers in Cybercrime Innovation"
-date: 2024-08-21T15:38:32.450Z
-updated: 2024-08-22T15:38:32.450Z
+date: 2025-03-02T01:17:57.134Z
+updated: 2025-03-04T17:12:34.240Z
 tags:
   - chatgpt
   - open-ai
@@ -45,9 +45,6 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  These figures show how dangerous AI password cracking can be. With the ability to crack most regular passwords in less than 24 hours, there's no knowing what a cybercriminal could do using such a tool.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Conducting Social Engineering
 
  The cybercrime tactic [known as social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) claims hordes of victims every week, and is a major problem in every part of the world. This method uses manipulation to corner victims into complying with the attacker's demands, often without even realizing that they're being targeted
@@ -56,9 +53,6 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  In this sense, AI could also help in making malicious communications look more professional and official by ironing out spelling and grammar mistakes. Such errors are often said to be possible signs of malicious activity, so it may help cybercriminals if they can write their social engineering content more cleanly and effectively.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## 4\. Finding Software Vulnerabilities
 
  To hack software programs, cybercriminals often need to find and exploit a security vulnerability. These vulnerabilities often arise as a result of bugs in the software's code. If a bug goes unpatched, or an individual doesn't regularly update their software programs (which often irons out security flaws), vulnerabilities can pose a major risk.
@@ -67,24 +61,15 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  However, this AI application could also be helpful for cybersecurity vendors, as it could [aid in finding vulnerabilities](https://www.makeuseof.com/top-vulnerability-scanning-tools/) before they are exploited. Being able to patch a flaw quickly can cut off malicious actors' ability to exploit it, mitigating attacks overall.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 5\. Analyzing Stolen Data
 ![Data on Laptop Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/data-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Data is as valuable as gold. Today, [sensitive data is sold on dark web marketplaces](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) on a constant basis, with some malicious actors willing to pay a very high price if the information is useful enough.
 
  But for this data to become available on these marketplaces, it first needs to be stolen. Data can certainly be stolen in small amounts, especially when the attacker is targeting lone victims. But larger hacks can result in the theft of huge databases. At this point, the cybercriminal needs to determine what information in this database is valuable.
 
  Using AI, the process of highlighting valuable information could be streamlined, cutting down the time it takes for a malicious actor to determine what is worth selling, or, on the other hand, directly exploiting by their own hand. Artificial intelligence, at its core, is all about learning, so it could one day become easy to use an AI-powered tool to pick up on valuable sensitive data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## AI Is Promising but Also Poses Many Threats
 
  As is the case with most kinds of technology, artificial intelligence has been, and will continue to be, exploited by cybercriminals. With AI already having some illicit capabilities, there's really no knowing how cybercriminals will be able to advance their attacks using this technology in the near future. Cybersecurity firms may also work increasingly with AI to fight such threats, but time will tell how this one plays out.
@@ -97,8 +82,6 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +89,21 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-essential-illumination-strategies-for-filming/"><u>[New] In 2024, Essential Illumination Strategies for Filming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-choice-in-motion-typography-designs/"><u>[Updated] Best Choice in Motion Typography Designs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-expert-advice-on-optimal-live-cricket-broadcast-watching/"><u>[Updated] Expert Advice on Optimal Live Cricket Broadcast Watching</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advantages-why-upgrading-to-chatgpt-plus/"><u>Advantages: Why Upgrading to ChatGPT Plus?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-career-prospects-for-prompt-engineers/"><u>Analyzing Career Prospects for Prompt Engineers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-code-unveiling-6-transformative-uses-for-chatgpts-ai/"><u>Beyond Code: Unveiling 6 Transformative Uses for ChatGPT's AI</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-top-8-subtitle-converters-speed-up-your-video-production-from-sub-to-quickly-released-srtr-format/"><u>In 2024, Top 8 Subtitle Converters Speed Up Your Video Production - From SUB to Quickly-Released SRTR Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-ai-companion-gpt-for-enhanced-productivity/"><u>Introducing AI Companion, GPT for Enhanced Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-psychological-support-through-ai-tech-advancements/"><u>Reimagining Psychological Support Through AI Tech Advancements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-puzzle-of-vlc-media-player-troubleshooting-hdr-compatibility-for-crystal-clear-4k-video-experience/"><u>Solving the Puzzle of VLC Media Player: Troubleshooting HDR Compatibility for Crystal Clear 4K Video Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ideal-selection-of-accessories-to-maximize-your-iphone-experience/"><u>The Ideal Selection of Accessories to Maximize Your iPhone Experience</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-top-10-most-jaw-dropping-4k-video-samples/"><u>Updated The Top 10 Most Jaw-Dropping 4K Video Samples</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/urgent-improvements-for-enriching-chatgpt-plugin-experience/"><u>Urgent Improvements for Enriching ChatGPT Plugin Experience</u></a></li>
+</ul></div>
 

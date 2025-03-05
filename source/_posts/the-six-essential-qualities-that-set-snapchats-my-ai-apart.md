@@ -1,7 +1,7 @@
 ---
 title: The Six Essential Qualities That Set Snapchat's My AI Apart
-date: 2025-02-11T23:00:28.523Z
-updated: 2025-02-15T18:46:20.505Z
+date: 2025-03-03T00:11:04.100Z
+updated: 2025-03-04T20:43:36.579Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. My AI Runs on GPT-3.5
 
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
  Snapchat’s trainers also use the same datasets. You’ll notice that My AI knows the same things as ChatGPT does, especially with general knowledge questions.
 
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
@@ -74,10 +66,6 @@ Close
 
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
 Close
@@ -90,19 +78,11 @@ Close
 
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
 Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to > **Settings** \> **Privacy Controls** \> **My Location**. Toggle the Ghost Mode button to hide your location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
@@ -113,10 +93,6 @@ Close
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -155,24 +131,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-enhancing-text-realism-with-illustrators-tools/"><u>[New] Enhancing Text Realism with Illustrator's Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-sync-zoom-meeting-times-across-mobile-and-desktop-calendars-for-2024/"><u>[Updated] Sync Zoom Meeting Times Across Mobile & Desktop Calendars for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1715860390417-2024-approved-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>2024 Approved Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10).</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-smirk-sessions-humorous-content-for-all-events/"><u>2024 Approved Smirk Sessions Humorous Content for All Events</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-synergy-of-slack-and-filmora-for-effective-scheduling/"><u>2024 Approved The Synergy of Slack and Filmora for Effective Scheduling</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/broadcasting-conferences-with-no-expense-account-for-2024/"><u>Broadcasting Conferences with No Expense Account for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-k11x-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo K11x</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detailed-path-auto-gpt-deployment/"><u>Detailed Path: Auto-GPT Deployment</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/einrichten-eines-bildservers-mit-aomei-image-deploy-ohne-sid-schritt-fur-schritt-anleitung/"><u>Einrichten Eines Bildservers Mit AOMEi Image Deploy Ohne SID – Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-do-these-7-gpt-4-integrated-apps-operate/"><u>How Do These 7 GPT-4 Integrated Apps Operate?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-gpt-4-transcends-beyond-gpt-35s-capabilities/"><u>How GPT-4 Transcends Beyond GPT-3.5's Capabilities</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nuts-portugals-warm-climate-is-ideal-for-growing-nuts-like-walnuts-almonds-hazelnuts-and-chestnuts-which-are-often-used-in-desserts-such-as-pastel-de-nata-o574/"><u>Nuts: Portugal's Warm Climate Is Ideal for Growing Nuts Like Walnuts, Almonds, Hazelnuts and Chestnuts, Which Are Often Used in Desserts (Such as Pastel De Nata) or Added to Salads and Rice Dishes for a Satisfying Crunch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pretend-bot-aid-chrome-filches-on-facebook-passwords/"><u>Pretend Bot Aid Chrome: Filches on Facebook Passwords</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlined-communication-with-chatgpt-and-macos/"><u>Streamlined Communication with ChatGPT and macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tapping-into-dream-careers-with-artificial-intelligence/"><u>Tapping Into Dream Careers with Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-easiest-way-to-use-chatgpt-on-linux-install-bavarder/"><u>The Easiest Way to Use ChatGPT on Linux: Install Bavarder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-internet-search-ai-enhanced-bing/"><u>The Evolution of Internet Search: AI-Enhanced Bing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-real-deal-with-ai-chatgpts-8-key-problem-areas/"><u>The Real Deal with AI: ChatGPT's 8 Key Problem Areas</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-online-communities-are-fading-away-to-social-networks/"><u>Why Online Communities Are Fading Away to Social Networks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssential-steps-to-apply-a-creative-commons-copyright/"><u>[New] Essential Steps to Apply a Creative Commons Copyright</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dissecting-the-financial-lifeblood-of-tseries-via-youtube-engagement-for-2024/"><u>[Updated] Dissecting the Financial Lifeblood of TSeries via YouTube Engagement for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-the-most-effective-methods-for-your-hp-laptop-recordings-for-2024/"><u>[Updated] Unveiling the Most Effective Methods for Your HP Laptop Recordings for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dive-into-time-lapse-with-advanced-canon-tactics/"><u>2024 Approved Dive Into Time-Lapse with Advanced Canon Tactics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-netflixs-innovative-multi-stream-feature/"><u>2024 Approved Exploring Netflix's Innovative Multi-Stream Feature</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-troubleshooting-why-are-your-shorts-thumbnails-hiding/"><u>2024 Approved Troubleshooting Why Are Your Shorts' Thumbnails Hiding?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-parents-manual-mastering-chatgpt-and-next-gen-artificial-intelligence/"><u>A Comprehensive Parent's Manual: Mastering ChatGPT & Next-Gen Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-muse-revolution-the-best-idea-sources-alive/"><u>AI-Powered Muse Revolution: The Best Idea Sources Alive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-prime-attraction-for-cyber-threats/"><u>ChatGPT: A Prime Attraction for Cyber Threats?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-wisely-7-editorial-techniques-for-authors/"><u>Leveraging AI Wisely: 7 Editorial Techniques for Authors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/list-of-top-6-cost-free-ais-resembling-sora/"><u>List of Top 6 Cost-Free AIs Resembling Sora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-languages-faster-the-advantages-of-chatgptplus-edition/"><u>Mastering Languages Faster: The Advantages of ChatGPT+ Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-debate-ai-bots-and-their-dialogues/"><u>The Digital Debate: AI Bots and Their Dialogues</u></a></li>
 </ul></div>
 

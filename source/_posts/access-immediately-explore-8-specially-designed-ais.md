@@ -1,7 +1,7 @@
 ---
 title: "Access Immediately: Explore 8 Specially Designed AIs"
-date: 2025-02-13T23:38:51.227Z
-updated: 2025-02-15T21:28:18.705Z
+date: 2025-03-02T19:01:13.849Z
+updated: 2025-03-04T19:40:52.536Z
 tags:
   - chatgpt
   - open-ai
@@ -46,27 +46,15 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the weeks following ChatGPT's release, we tested [ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
 
  To improve translation capabilities for Pidgin, I created a custom GPT for Pidgin translation. How? I fed it dozens of expert Pidgin dictionaries and linguistic resources. After re-testing ChatGPT against Google Translate on Pidgin text, the results were striking—ChatGPT significantly outperformed Google Translate by nearly all metrics. This example highlights the power of building custom GPTs for specific translation tasks, irrespective of language. With the right training data, these customized chatbots can surpass even the best general translation tools. Fancy playing around with Pidgin?
 
 **Try this GPT:**[Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It is no news that [ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/). It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
@@ -108,17 +96,9 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 **Try this GPT**: [Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
 
@@ -155,19 +135,20 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-proven-ways-for-a-boom-in-youtube-viewership-top-12-methods/"><u>[New] In 2024, Proven Ways for a Boom in YouTube Viewership (Top 12 Methods)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-navigating-snapchats-networking-tools-with-finesse/"><u>[New] Navigating Snapchat's Networking Tools with Finesse</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-examining-the-income-mechanics-of-tseries-on-youtube-for-2024/"><u>[Updated] Examining the Income Mechanics of TSeries on YouTube for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-top-12-tycoons-your-gateway-to-game-dominance/"><u>[Updated] In 2024, The Ultimate Top 12 Tycoons - Your Gateway to Game Dominance</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-optimizing-engagement-how-to-block-on-insta/"><u>2024 Approved Optimizing Engagement How to Block on Insta</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pure-windows-performing-a-clean-reinstallation/"><u>Pure Windows: Performing a Clean Reinstallation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-accessing-windows-11s-group-policy-editor/"><u>Step-by-Step Guide: Accessing Windows 11'S Group Policy Editor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-adding-programs-from-the-microsoft-store-onto-your-windows-10-pc/"><u>Step-by-Step Guide: Adding Programs From the Microsoft Store Onto Your Windows 10 PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-solution-resolving-exit-code-e-in-minecraft-when-playing-on-a-windows-pc/"><u>Step-by-Step Solution: Resolving 'Exit Code E in Minecraft when Playing on a Windows PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-for-burning-mp3s-directly-from-compact-discs-using-windows-software/"><u>Step-by-Step Tutorial for Burning MP3s Directly From Compact Discs Using Windows Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-tweaking-mouse-pointer-appearance-in-windows-10-for-personalized-comfort/"><u>Step-by-Step Tutorial: Tweaking Mouse Pointer Appearance in Windows 10 for Personalized Comfort</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-setting-up-safe-mail-filters-on-gmail/"><u>The Complete Guide to Setting Up Safe Mail Filters on Gmail</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-creative-process-behind-developing-the-iconic-3d-pipes-windows-wallpaper/"><u>The Creative Process Behind Developing the Iconic 3D Pipes Windows Wallpaper</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-risks-are-fb-quizzes-a-hidden-danger/"><u>Unveiling Risks: Are FB Quizzes a Hidden Danger?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-metacores-finest-vr-headsets-and-eyewear-guide/"><u>[New] In 2024, Metacore's Finest VR Headsets and Eyewear Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dynamic-duo-display-youtubes-way-of-creative-splitting/"><u>[Updated] In 2024, Dynamic Duo Display YouTube’s Way of Creative Splitting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-record-ruckus-samsung-phone-gaming-chronicles/"><u>[Updated] In 2024, Record Ruckus Samsung Phone Gaming Chronicles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-film-a-beginners-guide-to-essential-shots/"><u>[Updated] Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-conventional-wisdom-discovering-next-gen-careers-shaped-by-artificial-intelligence-zdnets-deep-dive/"><u>Beyond Conventional Wisdom: Discovering Next-Gen Careers Shaped by Artificial Intelligence | ZDNet's Deep Dive</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descubre-al-equipo-experto-que-maneja-el-contenido-multimedia-con-movavi/"><u>Descubre Al Equipo Experto Que Maneja El Contenido Multimedia Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-networking-strategies-for-introverts-unveiled-by-experts-at-zdnet/"><u>Effective Networking Strategies for Introverts Unveiled by Experts at ZDNet</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-strategies-for-enabling-tamper-defense-in-windows-10-insights-from-malwarefox-experts/"><u>Effective Strategies for Enabling Tamper Defense in Windows 10 - Insights From MalwareFox Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-skills-without-stress-insights-by-zdnet/"><u>Mastering AI Skills Without Stress: Insights by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/modifica-il-bitrate-del-tuo-mp3-passare-da-alto-a-basso-quality-in-un-clic/"><u>Modifica Il BitRate Del Tuo MP3: Passare Da Alto a Basso Quality in Un Clic!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-skills-in-ai-imaging-at-no-cost-with-this-smart-udemy-strategy-learn-now-futuretech-insights/"><u>Revolutionize Your Skills in AI Imaging at No Cost with This Smart Udemy Strategy - Learn Now | FutureTech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-phenomenon-of-rapid-change-a-guide-to-disruptive-innovation-tech-insight/"><u>Unraveling the Phenomenon of Rapid Change: A Guide to Disruptive Innovation | Tech Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-computer-science-majors-stand-out-with-minimal-regrets-post-college-expert-analysis-from-zdnet/"><u>Why Computer Science Majors Stand Out with Minimal Regrets Post-College | Expert Analysis From ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows-11-essentials-how-to-easily-capture-long-screen-shots-with-keyboard-shortcuts/"><u>Windows 11 Essentials: How to Easily Capture Long Screen Shots with Keyboard Shortcuts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m4a-m4r-movavi/"><u>オンライン無料M4A M4R変換サービス - Movavi解説</u></a></li>
 </ul></div>
 

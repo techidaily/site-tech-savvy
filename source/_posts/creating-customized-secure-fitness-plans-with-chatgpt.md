@@ -1,7 +1,7 @@
 ---
 title: Creating Customized, Secure Fitness Plans with ChatGPT
-date: 2024-08-21T15:38:08.140Z
-updated: 2024-08-22T15:38:08.140Z
+date: 2025-02-26T00:29:05.142Z
+updated: 2025-03-04T19:59:04.993Z
 tags:
   - chatgpt
   - open-ai
@@ -55,23 +55,14 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 
  As someone who has recovered from a fair share of sports injuries, this is the same kind of advice I received from physicians and physical therapists when returning to activities. Again, nothing can replace personalized advice from a healthcare provider, but the chatbot gets the broad strokes correct and advises caution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## How ChatGPT Creates Running Plans
 
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
 
  If your goal focuses on speed (such as running a 10K in less than an hour), then you may want a plan that targets a certain pace. In this example, you'd need to hold around a 9:30/mile pace to complete the 10K in under one hour.
@@ -84,16 +75,10 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from [top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/).
 
  What if you have more specific questions about how to perform the exercises correctly? The chatbot can help with that, too.
@@ -104,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
 
  Although ChatGPT can’t replace the role of an experienced personal trainer or coach, it can provide accurate and usable training plans for anyone who’s just looking for the basics. If you want to start a new workout habit or shake up your current routine, then the AI tool offers concise, quick responses for your exercise plans. It will be exciting to see how this technology continues to evolve and impact the fitness world in the future.
@@ -115,14 +97,11 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 
  By comparing the AI chatbot's workout plans to similar exercises and routines available now on websites and apps, it's easy to see what the chatbot gets right as well as highlight its potential weak spots. Here's what to know about ChatGPT and its use in the fitness realm.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +110,22 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-comprehensive-blueprint-to-youtube-banner-effectiveness/"><u>[New] The Comprehensive Blueprint to YouTube Banner Effectiveness</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimize-zoom-audio-in-2-steps-to-enhance-hearing-experience-for-2024/"><u>[Updated] Optimize Zoom Audio in 2 Steps to Enhance Hearing Experience for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-how-to-use-google-photos/"><u>2024 Approved How to Use Google Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-unraveited-standing-against-advanced-gpt-plus/"><u>Claude Pro Unraveited: Standing Against Advanced GPT-Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-premier-openai-paint-applications/"><u>Discovering the Premier OpenAI Paint Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-creativity-unleashed-bings-dall-e-3-explained/"><u>Free Creativity Unleashed: Bing's DALL-E 3 Explained</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nspired-from-top-10-recruitment-videos/"><u>Get Inspired From Top 10 Recruitment Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guarding-against-glossed-over-nuances-by-ai-summarization-tools/"><u>Guarding Against Glossed Over Nuances by AI Summarization Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-13-pro-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 13 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-hey-siri-issues-on-your-iphone-a-comprehensive-guide/"><u>How to Resolve 'Hey Siri' Issues on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-termination-legal-with-chatgpt-usage-examining-ten-cases/"><u>Is Termination Legal with ChatGPT Usage? Examining Ten Cases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt3-for-fitness-inquiry-mastery/"><u>Leveraging GPT3 for Fitness Inquiry Mastery</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/master-your-mac-the-top-gif-recorder-choices/"><u>Master Your Mac The Top GIF Recorder Choices</u></a></li>
+<li><a href="https://solve-info.techidaily.com/obstop-5/"><u>OBSと連携し、最高の動画編集ソフトウェアをご紹介！Top 5リスト</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-enabling-and-repairing-miracast-on-windows-11/"><u>The Ultimate Walkthrough: Enabling and Repairing Miracast on Windows 11</u></a></li>
+</ul></div>
 

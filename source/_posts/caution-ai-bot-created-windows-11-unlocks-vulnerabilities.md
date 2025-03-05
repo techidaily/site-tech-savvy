@@ -1,7 +1,7 @@
 ---
 title: "Caution: AI Bot-Created Windows 11 Unlocks Vulnerabilities"
-date: 2024-08-21T15:35:28.637Z
-updated: 2024-08-22T15:35:28.637Z
+date: 2025-02-27T02:08:15.612Z
+updated: 2025-03-05T01:22:52.019Z
 tags:
   - chatgpt
   - open-ai
@@ -41,9 +41,6 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
 
  Unsurprisingly, it turns out ChatGPT and Bard are providing default keys for Windows operating systems. With a default key, you can download, install and even upgrade to specific versions of Windows–but there’s a catch. Default keys cannot activate Windows 11 or any other version of the OS.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Even AI-Generated Activation Keys Work, They're a Bad Idea
 
  In theory, there is a chance you could generate a working activation key for Windows 11, if you ask ChatGPT or Bard to generate enough of them. Kind of in the same way you might win the lottery if you ask them to predict next week’s numbers enough times.
@@ -54,9 +51,6 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
 
  Using free or [cheap Windows activation keys is risky business](https://www.makeuseof.com/risks-using-cheap-windows-activation-keys/) and raises several ethical questions. Above all, even if you manage to generate a working activation key with ChatGPT, it’s illegal to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Don’t Believe Everything You Read Online
 
  In the age of generative AI, you have to take everything you read with a pinch of salt. These tools have their uses, but the hype and misinformation surrounding AI technology is concerning.
@@ -65,14 +59,11 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -81,4 +72,22 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-all-in-one-screen-capture-az-insights-and-alternatives-for-2024/"><u>[Updated] All-in-One Screen Capture - AZ Insights & Alternatives for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-se-2022-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone SE (2022) Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-ai-for-the-best-chatgpt-in-interview-prep/"><u>Harness AI for the Best: ChatGPT in Interview Prep</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-essential-chatgpt-techniques-for-time-mastery/"><u>Harnessing AI: Essential ChatGPT Techniques for Time Mastery</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-13t-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi 13T Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-advanced-guide-to-clear-cut-and-ship-video/"><u>In 2024, Advanced Guide to Clear, Cut, and Ship Video</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 14 Pro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211099372-9798887315386-my-not-so-christian-walk-with-the-holy-spirit/"><u>My NOT-SO-CHRISTIAN Walk with The Holy Spirit | Free Book</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-realme-11-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Realme 11 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dangers-of-ai-writing-and-how-to-spot-ai-generated-text/"><u>The Dangers of AI Writing and How to Spot AI-Generated Text</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-leader-in-content-creation-notion-ai-or-chatgpt/"><u>The Next Leader in Content Creation: Notion AI or ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-comparative-showdown-for-creativity-in-bots/"><u>The Ultimate Comparative Showdown for Creativity in Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-free-video-chat-options-to-replace-skype/"><u>Top Free Video Chat Options to Replace Skype</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/weighing-in-chatgpt-platinum-pros-and-cons/"><u>Weighing In: ChatGPT Platinum - Pros and Cons</u></a></li>
+</ul></div>
 

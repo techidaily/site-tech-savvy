@@ -1,7 +1,7 @@
 ---
 title: The Dark Side of Advanced Generative AI Technologies
-date: 2025-02-09T21:36:39.340Z
-updated: 2025-02-15T22:14:28.670Z
+date: 2025-02-27T21:34:55.687Z
+updated: 2025-03-05T01:31:11.080Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open-Source AI Chatbots Reveal Back-End Codes
 
  More AI companies are providing open-source systems. They openly share their language models instead of keeping them closed or proprietary. Take Meta as an example. Unlike Google, Microsoft, and OpenAI, it allows millions of users to access its language model, [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/).
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
  Even if Meta suddenly pulls its language model, dozens of other AI labs have already released their codes. Let’s look at HuggingChat. Since its developer HuggingFace takes pride in transparency, it displays its datasets, language model, and previous versions.
 
 ![Accessing the Open-Source Codes of HuggingFace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/huggingface-open-source-codes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Jailbreaking Prompts Trick LLMs
 
@@ -66,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 ![ChatGPT Making Baseless Predictions About Bitcoin Prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-predicting-bitcoin-prices.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. AI Compromises Security for Versatility
 
  AI developers prioritize versatility over security. They spend their resources training platforms to accomplish a more diverse range of tasks, ultimately cutting restrictions. After all, the market hails functional chatbots.
@@ -80,17 +68,9 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 ![ChatGPT Roleplaying as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tomie-roleplays.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And here’s Bing Chat refusing to play an “immoral” persona.
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. New Generative AI Tools Hit the Market Regularly
 
@@ -107,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
  OpenAI never designed ChatGPT for illicit activities. It even has guidelines against them. Yet [crooks almost instantly got ChatGPT coding malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) and writing phishing emails.
 
  While OpenAI quickly resolved the issue, it emphasizes the importance of system regulation and risk management. AI is maturing faster than anyone anticipated. Even tech leaders worry that this superintelligent technology could cause massive damage in the wrong hands.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. AI Is Still Evolving
 
@@ -165,22 +141,24 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-maintaining-continuous-connections-on-snapchat-tips-and-tricks/"><u>[New] In 2024, Maintaining Continuous Connections on Snapchat Tips & Tricks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-into-the-abyss-and-beyond-shadowbearer-vs-daybeam/"><u>[New] Into the Abyss and Beyond Shadowbearer Vs Daybeam</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-collab-videos-to-expand-viewership/"><u>[Updated] Mastering Collab Videos to Expand Viewership</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-social-syncopation-the-rhythm-of-sharing-media-on-facebook/"><u>2024 Approved Social Syncopation The Rhythm of Sharing Media on Facebook</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/become-a-streaming-guru-utilizing-zooms-features-for-effective-youtube-broadcasts-for-2024/"><u>Become a Streaming Guru Utilizing Zoom's Features for Effective YouTube Broadcasts for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-6-plus-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone 6 Plus for Free</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-streamline-your-music-habits-with-these-15-high-quality-free-youtube-extractors/"><u>In 2024, Streamline Your Music Habits with These 15 High-Quality, Free YouTube Extractors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-googles-latest-innovation-gemini-ai-the-ultimate-challenger-of-gpt-4/"><u>Introducing Google's Latest Innovation: Gemini AI - The Ultimate Challenger of GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/joint-efforts-by-nasa-and-spacex-aim-to-enhance-hubbles-astronomical-discoveries/"><u>Joint Efforts by NASA & SpaceX Aim to Enhance Hubble's Astronomical Discoveries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-privacy-in-virtual-realms-essential-settings-for-fortifying-security-on-your-quest-vr-setup/"><u>Mastering Privacy in Virtual Realms: Essential Settings for Fortifying Security on Your Quest VR Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-your-productivity-leveraging-artificial-intelligence-for-efficient-voice-note-conversion-and-management/"><u>Mastering Your Productivity: Leveraging Artificial Intelligence for Efficient Voice Note Conversion and Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-the-lifespan-of-your-evs-power-source-effective-strategies/"><u>Maximizing the Lifespan of Your EV's Power Source: Effective Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-your-code-easier-with-microsoft-copilots-latest-iphone-application/"><u>Navigate Your Code Easier with Microsoft Copilot's Latest iPhone Application</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-universal-charging-solutions-why-tesla-shares-its-connector-design/"><u>Pioneering Universal Charging Solutions: Why Tesla Shares Its Connector Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protonmail-aims-to-automate-your-correspondence-experience/"><u>ProtonMail Aims to Automate Your Correspondence Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-premiere-player-detailed-review-of-bambu-lab-x1-carbon-printer/"><u>Unveiling the Premiere Player: Detailed Review of Bambu Lab X1-Carbon Printer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevating-your-vlog-with-proper-tripod-angles-for-2024/"><u>[Updated] Elevating Your Vlog with Proper Tripod Angles for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ion-air-pro-3-action-camera-review/"><u>[Updated] ION Air Pro 3 Action Camera Review</u></a></li>
+<li><a href="https://win-community.techidaily.com/pnggif/"><u>「簡単でスピーディに、アニメPNGをGIFに変換するテクニック」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ace-the-competition-mastering-secrets-of-getting-hired-as-a-remote-full-stack-developer-insights-from-zdnet/"><u>Ace the Competition: Mastering Secrets of Getting Hired as a Remote Full-Stack Developer - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ace-your-zoom-presentation-skills-with-these-essential-eight-tips-from-industry-experts/"><u>Ace Your Zoom Presentation Skills with These Essential Eight Tips From Industry Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-peak-productivity-by-adopting-programming-principles-in-daily-workflows-insights-from-zdnet/"><u>Achieve Peak Productivity by Adopting Programming Principles in Daily Workflows | Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambie-mov-a-avi-online-sin-coste-con-moovavi/"><u>Cambie MOV a AVI Online Sin Coste Con Moovavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elan-touchpad-driver-issues-in-windows-11-solved/"><u>Elan Touchpad Driver Issues in Windows 11 [Solved]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-black-ops-cold-war-error-0xc0000005-step-by-step-guide/"><u>How to Fix Black Ops: Cold War 'Error 0xC0000005' - Step-by-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-13-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 13 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-masterclass-in-vr-bikes-and-trails/"><u>In 2024, Masterclass in VR Bikes and Trails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-application-process-expert-tips-for-getting-hired-by-leading-tech-giants-based-on-zdnets-ultimate-guide/"><u>Master the Application Process: Expert Tips for Getting Hired by Leading Tech Giants, Based on ZDNet's Ultimate Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pair-audio-with-video-webspace-hub-for-2024/"><u>Pair Audio with Video Webspace Hub for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shifting-paths-essential-strategies-for-moving-from-hospitality-to-technology-careers-with-expert-insights/"><u>Shifting Paths: Essential Strategies for Moving From Hospitality to Technology Careers with Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-innovation-craze-mainstream-companies-still-hunting-for-expertise/"><u>Tech Innovation Craze: Mainstream Companies Still Hunting for Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unexpected-driving-forces-causing-most-employees-to-quit-what-experts-at-zdnet-discovered/"><u>The Unexpected Driving Forces Causing Most Employees to Quit: What Experts at ZDNet Discovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thousands-tap-into-apples-latest-initiative-free-ai-education-for-students-and-graduates-discover-more-on-zdnet/"><u>Thousands Tap Into Apple's Latest Initiative: Free AI Education for Students & Graduates - Discover More on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-crisis-in-tech-employment-the-link-between-recruitment-failures-and-developer-well-being/"><u>Unveiling the Crisis in Tech Employment: The Link Between Recruitment Failures and Developer Well-Being</u></a></li>
 </ul></div>
 

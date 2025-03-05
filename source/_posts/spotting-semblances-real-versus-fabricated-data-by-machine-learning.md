@@ -1,7 +1,7 @@
 ---
 title: "Spotting Semblances: Real versus Fabricated Data by Machine Learning"
-date: 2024-08-21T15:36:20.255Z
-updated: 2024-08-22T15:36:20.255Z
+date: 2025-03-01T18:55:31.228Z
+updated: 2025-03-05T02:05:09.337Z
 tags:
   - chatgpt
   - open-ai
@@ -41,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 
 ![A ChatGPT prompt further querying where elon musk's factory is at in brazil](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181530.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### AI Hallucination in Computer Vision
 
  Let's consider another field of AI that can experience AI hallucination: [Computer Vision](https://www.makeuseof.com/what-is-computer-vision-and-why-does-it-matter/). The quiz below shows a 4x4 montage with two entities that look so much alike. The images are a mix of BBQ potato chips and leaves.
@@ -56,12 +53,6 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 
 ![A 4x4 montage of poodle and pork floss bun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-234559.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Why Does AI Hallucination Occur?
 
  AI hallucination can occur due to adversarial examples—input data that trick an AI application into misclassifying them. For example, when training AI applications, developers use data (image, text, or others); if the data is changed or distorted, the application interprets the input differently, giving a wrong output.
@@ -98,16 +89,10 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 
 ![Picture showing Bing Chat and ChatGPT on arrowed sigsn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-showing-bing-chat-and-chatgpt-on-arrowed-sigsn.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Although rare, if you notice a grammatical error in the content produced by a large processing model, such as ChatGPT, that should raise an eyebrow and make you suspect a hallucination. Similarly, when text-generated content doesn't sound logical, correlate with the context given, or match the input data, you should suspect a hallucination.
 
  Using human judgment or common sense can help detect hallucinations, as humans can easily identify when a text does not make sense or follow reality.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Computer Vision
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
@@ -118,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 
  So to spot a computer vision hallucination, compare the output generated to what a \[normal\] human is expected to see.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Self-Driving Cars
 
 ![Ford Blue Cruise 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ford-blue-cruise-2.jpg)
@@ -131,9 +113,6 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
 
  If you own one of such cars, you would want to know if your AI car is hallucinating. One sign will be if your vehicle seems to be deviating from its normal behavior patterns while driving. For example, if the vehicle brakes or swerves suddenly without any obvious reason, your AI vehicle might be hallucinating.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Systems Can Hallucinate Too
 
  Humans and AI models experience hallucinations differently. When it comes to AI, hallucinations refer to erroneous outputs that are miles apart from reality or do not make sense within the context of the given prompt. For example, an AI chatbot may give a grammatically or logically incorrect response or misidentify an object due to noise or other structural factors.
@@ -150,8 +129,6 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +136,26 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-antique-cinematography-in-the-digital-realm-for-2024/"><u>[New] Antique Cinematography in the Digital Realm for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-digital-dexterity-quick-quality-trimming-of-vimeo-videos-5-ways-for-2024/"><u>[New] Digital Dexterity Quick, Quality Trimming of Vimeo Videos (5 Ways) for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-extended-review-for-uncomplicated-hdr-techniques-for-2024/"><u>[New] Extended Review for Uncomplicated HDR Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-screen-capture-tools-buy-now-and-elevate-your-presentations/"><u>Best Screen Capture Tools: Buy Now and Elevate Your Presentations!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conexao-em-lugar-online-de-graca-transformando-arquivos-m4v-em-mp4/"><u>Conexão Em Lugar Online De Graça - Transformando Arquivos M4V Em MP4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-photo-editing-on-windows-and-macos-a-step-by-step-guide/"><u>Easy Photo Editing on Windows & macOS - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-rooms-acoustics-masterful-integration-of-subwoofers-with-samsung-soundbars/"><u>Enhance Your Room's Acoustics: Masterful Integration of Subwoofers with Samsung Soundbars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-transform-your-wav-files-into-high-quality-mkv-format-with-movavi/"><u>Free Online Conversion: Transform Your WAV Files Into High-Quality MKV Format with Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-nokia-105-classic-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Nokia 105 Classic</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-brief-tips-on-easy-audiovideo-recording-in-gotomeeting/"><u>In 2024, Brief Tips on Easy Audio/Video Recording in GoToMeeting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/libera-conversione-da-flac-ad-aiff-online-con-movavi-ottimizza-il-tuo-audio-intemporaneamente/"><u>Libera Conversione Da Flac Ad Aiff Online Con Movavi: Ottimizza Il Tuo Audio Intemporaneamente</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4awma-movavi/"><u>M4A到WMA自由下載 - 用 Movavi音頻編碼器無成本轉換</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rendre-votre-image-pgm-jolie-convertissez-directement-et-gratuitement-vers-le-format-jpg-en-utilisant-movavi-web/"><u>Rendre Votre Image PGM Jolie: Convertissez Directement Et Gratuitement Vers Le Format JPG en Utilisant Movavi Web</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-a14-4g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 4G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-great-debate-mp4-versus-m4v-video-formats-explained/"><u>The Great Debate: MP4 versus M4V Video Formats Explained</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-reason-behind-my-favorite-fb-ads/"><u>Unraveling the Reason Behind My Favorite FB Ads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wma-vers-m4a-telechargement-gratuit-du-service-de-conversion-en-ligne-de-movavi/"><u>WMA Vers M4A: Téléchargement Gratuit Du Service De Conversion en Ligne De Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Avoid AI Chatbots: Safe Windows 11 Key Creation Methods"
-date: 2024-08-21T15:37:29.751Z
-updated: 2024-08-22T15:37:29.751Z
+date: 2025-02-26T18:43:53.983Z
+updated: 2025-03-04T18:44:14.332Z
 tags:
   - chatgpt
   - open-ai
@@ -41,9 +41,6 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
 
  Unsurprisingly, it turns out ChatGPT and Bard are providing default keys for Windows operating systems. With a default key, you can download, install and even upgrade to specific versions of Windows–but there’s a catch. Default keys cannot activate Windows 11 or any other version of the OS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Even AI-Generated Activation Keys Work, They're a Bad Idea
 
  In theory, there is a chance you could generate a working activation key for Windows 11, if you ask ChatGPT or Bard to generate enough of them. Kind of in the same way you might win the lottery if you ask them to predict next week’s numbers enough times.
@@ -54,9 +51,6 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
 
  Using free or [cheap Windows activation keys is risky business](https://www.makeuseof.com/risks-using-cheap-windows-activation-keys/) and raises several ethical questions. Above all, even if you manage to generate a working activation key with ChatGPT, it’s illegal to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Don’t Believe Everything You Read Online
 
  In the age of generative AI, you have to take everything you read with a pinch of salt. These tools have their uses, but the hype and misinformation surrounding AI technology is concerning.
@@ -65,14 +59,11 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -81,4 +72,26 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-capture-every-detail-on-mac-free-for-2024/"><u>[New] Capture Every Detail on Mac - Free for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-action-videography-showdown-hero-5-black-or-km-170-for-2024/"><u>[Updated] Action Videography Showdown Hero 5 Black or KM-170 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024-12-youtubers-mp3/"><u>2024 必看! 提高音頻處理效率的 12 款 YouTuber's MP3 優化工具</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-jokes-and-giggles-how-to-craft-your-own-laughter-inducing-memes/"><u>2024 Approved Metaverse Jokes & Giggles How to Craft Your Own Laughter-Inducing Memes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726226954188-movavim4amp3/"><u>使用Movavi免费在线将M4A格式转换为MP3 - 免费移动设备支持</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-convertir-archivos-arw-a-imagenes-jpeg-sin-coste-adicional-con-herramientas-online-guia-completa-de-movavi/"><u>Cómo Convertir Archivos .ARW a Imágenes JPEG Sin Coste Adicional Con Herramientas Online - Guía Completa De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converti-file-video-3gp-a-mp3-gratuitamente-online-con-movavi/"><u>Converti File Video 3Gp a MP3 Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertir-archivos-nsv-a-formato-mpeg-gratuito-guia-de-movavi/"><u>Convertir Archivos NSV a Formato MPEG Gratuito: Guía De Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-or-replace-tackling-common-issues-with-xbox-series-xs/"><u>Fix or Replace? Tackling Common Issues with Xbox Series X|S</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conversion-of-3g2-files-to-mp4-format-effortless-by-movavi/"><u>Free Conversion of 3G2 Files to MP4 Format - Effortless by Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-m4a-to-vob-using-movavi/"><u>Free Online Converter - Convert M4A to VOB Using Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-send-large-video-files-from-iphone-to-iphonepcmac/"><u>How to Send Large Video Files From iPhone to iPhone/PC/Mac</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-xiaomi-redmi-note-12-pro-4g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Xiaomi Redmi Note 12 Pro 4G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-navigating-new-realities-a-guide-to-metaverse-and-multiverse/"><u>In 2024, Navigating New Realities A Guide to Metaverse & Multiverse</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ode-to-open-minds-transitioning-playlists-freely/"><u>In 2024, Ode to Open Minds Transitioning Playlists Freely</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-voor-mac-professioneel-video-producerend-gebruikershandboek/"><u>Movavi Voor Mac: Professioneel Video-Producerend Gebruikershandboek</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slideshow-creation-with-movavi-free-download-and-easy-use/"><u>Slideshow Creation with Movavi: Free Download & Easy Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-complete-for-avatar-pandora-chronicles-stuttering-woes-in-windows-games/"><u>Troubleshooting Complete for 'Avatar: Pandora Chronicles' Stuttering Woes in Windows Games</u></a></li>
+</ul></div>
 

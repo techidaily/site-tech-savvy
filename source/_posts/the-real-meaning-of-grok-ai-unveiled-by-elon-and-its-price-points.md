@@ -1,7 +1,7 @@
 ---
 title: The Real Meaning of Grok AI Unveiled by Elon and Its Price Points
-date: 2025-02-15T02:58:05.697Z
-updated: 2025-02-15T19:22:40.275Z
+date: 2025-03-01T16:54:00.587Z
+updated: 2025-03-04T20:18:46.129Z
 tags:
   - chatgpt
   - open-ai
@@ -50,9 +50,57 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
  For any casual observer, Musk's chortling about being based is anything but, landing more on the toe-curling plane of discomfort, delivering a visceral sense of embarrassment. But for Musk's legion of fans, xAI's Grok is the long-awaited "answer to the monstrosity of WokeGPT," a reference to the boundaries and perceived neutering of ChatGPT's capabilities by OpenAI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+## How Does Grok Perform? Is Grok Better Than ChatGPT?
+
+ Given only a minute number of users have been given access to Grok so far, most of what we know about its performance comes from xAI. The company was keen to stress that "Grok is still a very early beta product" and that its current performance is "the best we could do with 2 months of training."
+
+ Even so, Grok appears to be on the right track. According to xAI's research, its prototype Grok-0 model was trained using 33 billion parameters and outperformed the Llama 2 70 billion parameter model in standardized machine learning benchmarking and testing. After some tweaks (and presumably an expanded set of parameters), Grok-1 outperformed OpenAI's GPT-3.5 (around 175 billion parameters).
+
+ However, in a further boon to Musk and Grok, during a final round of testing on the 2023 Hungarian National High School Final Exams in Mathematics (yes, obscure, but purposefully so to avoid the chance the data has been uploaded to an existing LLM, which would give it an advantage), Grok came second only to OpenAI's GPT-4\.
+
+ Musk has also observed that Grok's direct internet access will give it an advantage over other generative AI tools that lack access.
+
+ Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
+
+## How Much Will Grok Cost? Who Can Use Grok?
+
+ Grok is still currently in early testing. Limited beta access has been granted to a small number of X Premium Plus users, which currently costs $16 per month. Once Grok leaves its beta period, it will become available to all X Premium Plus subscribers, dangling a weighty AI-shaped carrot over X verification.
+
+ It's currently unknown if Grok will come with a free access tier, which all other major generative AI tools offer. For example, OpenAI keeps its less-powerful ChatGPT-3.5 model free, while Anthropic offers a free version of Claude. Restricting Grok to X's verified paying customers is unlikely to pay the bill, especially given X's drop off in user numbers since Musk's takeover.
+
+ I would expect xAI to release an earlier version of Grok for free, or at least, much cheaper, in the hope that it encourages users to upgrade to the full version. Another issue that may stand in the way of Grok uptake is its current direct link to X Premium Plus. There may be users that want to subscribe to Grok but don't want X verification or one of Musk's paid-for Blue Ticks next to their name—something else for Musk, X, and xAI to wrestle with.
+
+ Musk has indicated that a separate version of Grok may launch in the future, but there is little information on that at the current time.
+
+## What's Next for xAI's Grok?
+
+ xAI's development of Grok ticks off another goal for Musk, who was once part of the OpenAI team. He's long rallied against OpenAI's perceived censorship of ChatGPT, arguing that limiting its capabilities is limiting what people can and should be able to do with such powerful AI tools.
+
+ What comes next for Grok is still unknown. While it's clear some limitations are built into Grok, the real test for its boundaries will only become clear once the public gets its hands on it.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ The battle for AI supremacy rages on, with Elon Musk unveiling Grok, the first large language model from his fledging AI startup, xAI.
+
+ Grok becomes a new addition to a busy generative AI world, aiming to compete with market-leading opposition OpenAI and its GPT models, along with Anthropic's Claude, Meta's Llama 2, Google's PaLM 2, and countless other LLMs.
+
+ Musk has talked xAI's Grok up, but does it have what it takes to compete?
+
+## What Is xAI's Grok?
+
+ Despite Musk regularly reminding the world that AI could be bad, that it could create a world without jobs for regular folks (if you believe Musk's take on this is benign, I have a bridge to sell you), and that the entire focus of AI needs greater governance, Musk proudly proclaimed on X that "In some important aspects, it \[Grok\] is the best that current exists."
+
+ Grok-1, then, is a large language model similar to OpenAI's GPT-3.5 and GPT-4\. xAI's generative AI chatbot also currently appears to be called Grok (similar to how Anthropic's Claude model is also the same as its AI tool).
+
+ But while Grok will answer questions in a conversational manner, Musk appears to have had some influence on Grok's tone, with [xAI's official Grok announcement](https://x.ai/) stating:
+
+> Grok is designed to answer questions with a bit of wit and has a rebellious streak, so please don’t use it if you hate humor!
+
+ Or, as Musk himself said, Grok "is based & loves sarcasm. I have no idea who could have guided it this way."
+
+ For any casual observer, Musk's chortling about being based is anything but, landing more on the toe-curling plane of discomfort, delivering a visceral sense of embarrassment. But for Musk's legion of fans, xAI's Grok is the long-awaited "answer to the monstrosity of WokeGPT," a reference to the boundaries and perceived neutering of ChatGPT's capabilities by OpenAI.
 
 ## How Does Grok Perform? Is Grok Better Than ChatGPT?
 
@@ -106,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
  For any casual observer, Musk's chortling about being based is anything but, landing more on the toe-curling plane of discomfort, delivering a visceral sense of embarrassment. But for Musk's legion of fans, xAI's Grok is the long-awaited "answer to the monstrosity of WokeGPT," a reference to the boundaries and perceived neutering of ChatGPT's capabilities by OpenAI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Does Grok Perform? Is Grok Better Than ChatGPT?
 
  Given only a minute number of users have been given access to Grok so far, most of what we know about its performance comes from xAI. The company was keen to stress that "Grok is still a very early beta product" and that its current performance is "the best we could do with 2 months of training."
@@ -121,70 +165,6 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
  Musk has also observed that Grok's direct internet access will give it an advantage over other generative AI tools that lack access.
 
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
-
-## How Much Will Grok Cost? Who Can Use Grok?
-
- Grok is still currently in early testing. Limited beta access has been granted to a small number of X Premium Plus users, which currently costs $16 per month. Once Grok leaves its beta period, it will become available to all X Premium Plus subscribers, dangling a weighty AI-shaped carrot over X verification.
-
- It's currently unknown if Grok will come with a free access tier, which all other major generative AI tools offer. For example, OpenAI keeps its less-powerful ChatGPT-3.5 model free, while Anthropic offers a free version of Claude. Restricting Grok to X's verified paying customers is unlikely to pay the bill, especially given X's drop off in user numbers since Musk's takeover.
-
- I would expect xAI to release an earlier version of Grok for free, or at least, much cheaper, in the hope that it encourages users to upgrade to the full version. Another issue that may stand in the way of Grok uptake is its current direct link to X Premium Plus. There may be users that want to subscribe to Grok but don't want X verification or one of Musk's paid-for Blue Ticks next to their name—something else for Musk, X, and xAI to wrestle with.
-
- Musk has indicated that a separate version of Grok may launch in the future, but there is little information on that at the current time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## What's Next for xAI's Grok?
-
- xAI's development of Grok ticks off another goal for Musk, who was once part of the OpenAI team. He's long rallied against OpenAI's perceived censorship of ChatGPT, arguing that limiting its capabilities is limiting what people can and should be able to do with such powerful AI tools.
-
- What comes next for Grok is still unknown. While it's clear some limitations are built into Grok, the real test for its boundaries will only become clear once the public gets its hands on it.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- The battle for AI supremacy rages on, with Elon Musk unveiling Grok, the first large language model from his fledging AI startup, xAI.
-
- Grok becomes a new addition to a busy generative AI world, aiming to compete with market-leading opposition OpenAI and its GPT models, along with Anthropic's Claude, Meta's Llama 2, Google's PaLM 2, and countless other LLMs.
-
- Musk has talked xAI's Grok up, but does it have what it takes to compete?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## What Is xAI's Grok?
-
- Despite Musk regularly reminding the world that AI could be bad, that it could create a world without jobs for regular folks (if you believe Musk's take on this is benign, I have a bridge to sell you), and that the entire focus of AI needs greater governance, Musk proudly proclaimed on X that "In some important aspects, it \[Grok\] is the best that current exists."
-
- Grok-1, then, is a large language model similar to OpenAI's GPT-3.5 and GPT-4\. xAI's generative AI chatbot also currently appears to be called Grok (similar to how Anthropic's Claude model is also the same as its AI tool).
-
- But while Grok will answer questions in a conversational manner, Musk appears to have had some influence on Grok's tone, with [xAI's official Grok announcement](https://x.ai/) stating:
-
-> Grok is designed to answer questions with a bit of wit and has a rebellious streak, so please don’t use it if you hate humor!
-
- Or, as Musk himself said, Grok "is based & loves sarcasm. I have no idea who could have guided it this way."
-
- For any casual observer, Musk's chortling about being based is anything but, landing more on the toe-curling plane of discomfort, delivering a visceral sense of embarrassment. But for Musk's legion of fans, xAI's Grok is the long-awaited "answer to the monstrosity of WokeGPT," a reference to the boundaries and perceived neutering of ChatGPT's capabilities by OpenAI.
-
-## How Does Grok Perform? Is Grok Better Than ChatGPT?
-
- Given only a minute number of users have been given access to Grok so far, most of what we know about its performance comes from xAI. The company was keen to stress that "Grok is still a very early beta product" and that its current performance is "the best we could do with 2 months of training."
-
- Even so, Grok appears to be on the right track. According to xAI's research, its prototype Grok-0 model was trained using 33 billion parameters and outperformed the Llama 2 70 billion parameter model in standardized machine learning benchmarking and testing. After some tweaks (and presumably an expanded set of parameters), Grok-1 outperformed OpenAI's GPT-3.5 (around 175 billion parameters).
-
- However, in a further boon to Musk and Grok, during a final round of testing on the 2023 Hungarian National High School Final Exams in Mathematics (yes, obscure, but purposefully so to avoid the chance the data has been uploaded to an existing LLM, which would give it an advantage), Grok came second only to OpenAI's GPT-4\.
-
- Musk has also observed that Grok's direct internet access will give it an advantage over other generative AI tools that lack access.
-
- Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Much Will Grok Cost? Who Can Use Grok?
 
@@ -237,10 +217,6 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
  Musk has also observed that Grok's direct internet access will give it an advantage over other generative AI tools that lack access.
 
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Much Will Grok Cost? Who Can Use Grok?
 
@@ -273,16 +249,21 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-cult-classic-reimaginings-top-20-anime-on-tiktok/"><u>[New] 2024 Approved Cult Classic Reimaginings Top 20 Anime on TikTok</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-unlocking-composition-magic-with-blend-modes-techniques/"><u>[New] 2024 Approved Unlocking Composition Magic with Blend Modes Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-snap-snip-and-compile-instantaneous-google-image-art/"><u>[New] Snap, Snip & Compile Instantaneous Google Image Art</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-ultimate-guide-to-non-vimeo-editing-software/"><u>2024 Approved The Ultimate Guide to Non-Vimeo Editing Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-articles-with-chatgpts-assistance/"><u>Elevating Articles with ChatGPT's Assistance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-8-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 8 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-cutting-edge-tech-in-daily-life/"><u>In 2024, Cutting-Edge Tech in Daily Life</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mitigating-overloaded-chatgpt-in-windows-systems/"><u>Mitigating Overloaded ChatGPT in Windows Systems</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-13-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 13 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-conversation-king-assessing-googles-ai-vs-chatgpt/"><u>The New Conversation King? Assessing Google's AI Vs. ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-in-store-chatgpt-premium-examined/"><u>What's in Store? ChatGPT Premium Examined</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-guide-to-the-8-truly-effective-youtube-marketing-methods-for-2024/"><u>[New] A Guide to the 8 Truly Effective Youtube Marketing Methods for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-guide-to-masterful-win11-zoom-use/"><u>[Updated] Comprehensive Guide to Masterful Win11 Zoom Use</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-the-extreme-the-gopro-hero5-black-vs-hero4-silver-duel/"><u>2024 Approved Capturing the Extreme The GoPro Hero5 Black Vs Hero4 Silver Duel</u></a></li>
+<li><a href="https://fox-within.techidaily.com/chiang-kai-sheks-defining-actions-in-shaping-china-insights-from-yl-software-and-expertise-perspective/"><u>Chiang Kai-Shek’s Defining Actions in Shaping China – Insights From YL Software & Expertise Perspective</u></a></li>
+<li><a href="https://discover-help.techidaily.com/efficient-strategies-for-fixing-windows-installation-problems-by-yl-software-experts/"><u>Efficient Strategies for Fixing Windows Installation Problems by YL Software Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-hostingers-offerings-a-deep-dive-into-vps-cloud-platforms-and-shared-hosting-options/"><u>Evaluating Hostinger's Offerings: A Deep Dive Into VPS, Cloud Platforms, and Shared Hosting Options</u></a></li>
+<li><a href="https://win-net.techidaily.com/guide-to-converting-and-downloading-your-favorite-sky-sports-shows-in-various-formats/"><u>Guide to Converting and Downloading Your Favorite Sky Sports Shows in Various Formats</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-unlock-full-potential-with-iphone-hdr/"><u>How to Unlock Full Potential with iPhone HDR</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-viewing-star-wars-episodes-chronologically-on-disneyplus/"><u>The Ultimate Guide to Viewing 'Star Wars' Episodes Chronologically on Disney+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-inflatable-hot-tub-picks-for-a-luxurious-spa-experience-in/"><u>Top-Rated Inflatable Hot Tub Picks for a Luxurious Spa Experience In</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-outdoor-televisions-as-endorsed-by-experts-techradar/"><u>Top-Rated Outdoor Televisions as Endorsed by Experts | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-technology-gadgets-for-pets-a-guide-by-zdnet/"><u>Top-Rated Technology Gadgets for Pets: A Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/toward-greater-autonomy-john-deere-embraces-right-to-repair-according-to-new-zdnet-report/"><u>Toward Greater Autonomy: John Deere Embraces Right to Repair, According to New ZDNet Report</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-picking-out-the-perfect-mowing-machine/"><u>Ultimate Guide to Picking Out the Perfect Mowing Machine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-highest-quality-electric-leaf-blowers/"><u>Ultimate Guide to the Highest Quality Electric Leaf Blowers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unforeseen-delight-in-depth-analysis-of-the-ring-spotlight-cam-pros-impressive-features-insights-from-zdnet/"><u>Unforeseen Delight: In-Depth Analysis of the Ring Spotlight Cam Pro's Impressive Features | Insights From ZDNET</u></a></li>
 </ul></div>
 

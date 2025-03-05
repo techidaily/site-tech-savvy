@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 Vs. GPT-3.5: 5 Key Differences Explained"
-date: 2025-02-13T00:28:58.120Z
-updated: 2025-02-15T18:03:30.599Z
+date: 2025-02-26T19:12:27.345Z
+updated: 2025-03-04T19:07:09.883Z
 tags:
   - chatgpt
   - open-ai
@@ -32,37 +32,21 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One of the most pronounced advantages of the GPT-4 model over GPT-3.5 is its ability to provide more creative replies to prompts. Don't get me wrong; GPT-3.5 is very creative. There's a long list of [creative things you can do with ChatGPT that uses the model](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/). However, it already outperforms many large language models in terms of creativity.
 
  However, GPT-4 raises the bar even further. Although GPT-4's creative advantage may not be apparent when trying to solve basic problems, the difference in creativity between both models becomes apparent as the task becomes harder and requires a higher level of creativity.
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem, [ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
 
  Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
@@ -94,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## GPT-4: A Step Up from GPT-3.5
 
  Undoubtedly, GPT-4 is a significant step up from its predecessor models. While it is still plagued with some of the limitations of GPT-3.5, significant improvements in several areas and the addition of new capabilities make the model an exciting new step in the pursuit of truly intelligent AI language models.
@@ -121,24 +101,15 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-beginners-guide-to-video-production-free-course-series/"><u>[New] 2024 Approved Beginner's Guide to Video Production Free Course Series</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-from-parts-to-project-designing-your-own-4k-pc-workstation/"><u>[New] 2024 Approved From Parts to Project Designing Your Own 4K PC Workstation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-how-to-improve-gopro-battery-life/"><u>[New] 2024 Approved How to Improve GoPro Battery Life</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-boundaries-questions-that-challenge-chatgpt/"><u>AI Boundaries: Questions That Challenge ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-emotional-odyssey-charting-the-territory-of-feelings/"><u>AI's Emotional Odyssey: Charting the Territory of Feelings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cognition-computation-showdown-deciphering-gpt-and-bert/"><u>Cognition Computation Showdown: Deciphering GPT & BERT</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-rca-video-doorbell-high-performance-camera-evaluation/"><u>Expert Analysis of the RCA Video Doorbell: High-Performance Camera Evaluation</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-14-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 14 Plus and iPad?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-lava-blaze-2-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Lava Blaze 2 Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrate-ai-in-your-web-experience-signup-to-bing/"><u>Integrate AI in Your Web Experience: Signup to Bing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/maintaining-peak-performance-how-to-update-the-driver-for-your-corsair-sound-device-in-windows/"><u>Maintaining Peak Performance: How to Update the Driver for Your Corsair Sound Device in Windows</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/mastermakers-in-av-production-top-5-list/"><u>Mastermakers in AV Production Top 5 List</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/1728495564531-ps43/"><u>PS4ハードドライブ上で失われた情報を3通りで復活させる方法</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-virtual-exploration-a-tactical-approach-for-2024/"><u>The Art of Virtual Exploration A Tactical Approach for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-broad-vs-narrow-impact-of-artificial-intelligence/"><u>The Broad Vs. Narrow Impact of Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-digital-aids-for-perfecting-prompt-craftsmanship/"><u>Top 7 Digital Aids for Perfecting Prompt Craftsmanship</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-3d-design-to-production-with-chatgpt-insights/"><u>Transforming 3D Design to Production with ChatGPT Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-loves-mysteries-with-ai-innovation/"><u>Unlocking Love's Mysteries with AI Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-are-chatgpt-jailbreaks-should-you-use-them/"><u>What Are ChatGPT Jailbreaks? Should You Use Them?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-simplifying-age-confirmation-on-tiktok-for-2024/"><u>[New] Simplifying Age Confirmation on TikTok for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-audio-interface-for-podcasters-a-must-know-tip-for-your-podcasting-setup/"><u>[New] The Ultimate Audio Interface for Podcasters A Must-Know Tip for Your Podcasting Setup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-zooms-auditory-masterclass-fine-tuning-for-impeccable-audio-for-2024/"><u>[Updated] Zoom's Auditory Masterclass Fine-Tuning for Impeccable Audio for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5bplusf6kalieocquodleocoplusoctplusodoplusodqpluswlleeuuplusocrplusodreodgplusodloodsplusocsoocpuocpplusodluocteocpoodios4ius9jeplus8lplusmbuoihqoekug/"><u>必見!オフィシャル動画クロッピングウェブサイト上位７選表示</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-phone-numbers-how-to-use-apps-and-apis-easily/"><u>Bypassing Phone Numbers: How to Use Apps and APIs Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-workplace-productivity-with-ai-powered-docspace-tools/"><u>Elevate Workplace Productivity with AI-Powered DocSpace Tools</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guia-completa-a-la-hora-de-realizar-copias-de-seguridad-en-windows-881-tecnicas-confiables-y-sencillas/"><u>Guía Completa a La Hora De Realizar Copias De Seguridad en Windows 8/8.1 - Técnicas Confiables Y Sencillas</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-14-pro-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 14 Pro in the Best Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/misleading-myths-from-generative-ai/"><u>Misleading Myths From Generative AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-inner-workings-7-apps-with-gpt-4/"><u>Unpacking the Inner Workings: 7 Apps with GPT-4</u></a></li>
 </ul></div>
 

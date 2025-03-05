@@ -1,7 +1,7 @@
 ---
 title: Sifting Through Scam Rumors About TruthCoin
-date: 2025-02-15T03:10:31.132Z
-updated: 2025-02-15T16:00:17.991Z
+date: 2025-02-26T23:04:28.988Z
+updated: 2025-03-04T23:56:04.572Z
 tags:
   - chatgpt
   - open-ai
@@ -38,15 +38,7 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 
 ![truthgpt elon musk fake account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-elon-musk-fake-account.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![truthgpt example account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-example-account.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -54,15 +46,7 @@ Close
 
 ![second truthgpt coin website home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/second-truthgpt-coin-website-home-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, the second TruthGPT Coin has linked itself to [Elon Musk's TruthGPT AI project](https://www.makeuseof.com/what-is-truthgpt/) to gain a semblance of legitimacy, though it notes that TruthGPT Coin is a community effort and isn't affiliated with Musk. It doesn't feature any Musk imagery but talks about him throughout the site and claims to use artificial intelligence to "seek out and evaluate information in order to arrive at the most accurate and reliable understanding of the world."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is TruthGPT Coin a Scam?
 
@@ -77,10 +61,6 @@ Close
  According to [Decrypt](https://decrypt.co/138785/texas-cease-and-desist-ai-scams-fake-elon-musk-truthgpt-coin), other state regulators are backing Texas' cease and desist order, including the Alabama Securities Commission, the Montana State Auditor, the Kentucky Department of Financial Institutions, and the New Jersey Securities Bureau.
 
  The TruthGPT Coin entry on [CoinMarketCap](https://coinmarketcap.com/currencies/truthgpt/) also suggests something fishy is going on. It currently displays a banner informing would-be users that, "According to [Gopluslabs](https://gopluslabs.io/token-security/1/0xaf75d880b3128981d1fed3292fc02e3fb37acd53), the smart contract of the following asset can be modified by the contract creator (for example: disable selling, change fees, mint new tokens, or transfer tokens). Please exercise caution before taking any action and DYOR."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Watch Out for Scam Tokens Involving ChatGPT, AI, and Elon Musk
 
@@ -109,20 +89,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-a-guide-to-using-snapchats-influencer-showcase/"><u>[New] In 2024, A Guide to Using Snapchat's Influencer Showcase</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-process-to-enhance-obs-with-effective-lut-filters-for-2024/"><u>[New] Step-by-Step Process to Enhance OBS with Effective LUT Filters for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/treamline-your-online-presence-yt-descriptive-insights-for-2024/"><u>[New] Streamline Your Online Presence YT Descriptive Insights for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-no-budget-no-problem-heres-your-list-of-free-intra-experts/"><u>[Updated] 2024 Approved No Budget? No Problem! Here's Your List of Free Intra Experts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-tech-gadgets-for-effortless-virtual-meetings-capture/"><u>[Updated] 2024 Approved Top Tech Gadgets for Effortless Virtual Meetings Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-upgrade-your-online-presence-with-premium-webcam-tech/"><u>[Updated] Upgrade Your Online Presence with Premium Webcam Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/asrocks-mini-pc-revolution-elevate-your-workstation-using-a-full-sized-gpu-only-available-to-chinese-consumers-for-1200/"><u>ASRock's Mini PC Revolution: Elevate Your Workstation Using a Full-Sized GPU - Only Available to Chinese Consumers for ¥1200</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-the-trustworthiness-of-chatgpt/"><u>Assessing the Trustworthiness of ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-creme-de-la-creme-of-computers-in-2er-2024-a-head-to-head-comparison-between-apple-and-others-on-zdnet/"><u>Exploring the Crème De La Crème of Computers in 2Er 2024: A Head-to-Head Comparison Between Apple and Others on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-transforming-the-handy-culture/"><u>GPT-4: Transforming The Handy Culture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-self-editing-shortcomings/"><u>GPT's Self-Editing Shortcomings</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-razr-40-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola Razr 40 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-quoras-path-to-chatbots-and-lms/"><u>Navigating Quora's Path to Chatbots and LMs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-risks-that-lurk-when-we-trust-too-much-in-artificinas-intelligence/"><u>The Risks That Lurk When We Trust Too Much in Artificinas Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/your-iphone-your-portal-to-chatgpt-wonderland/"><u>Your iPhone, Your Portal to ChatGPT Wonderland</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-premier-alternatives-exceeding-the-limits-of-twitter-for-2024/"><u>[New] Premier Alternatives Exceeding the Limits of Twitter for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-from-download-to-implementation-installing-obs-on-a-macpc/"><u>2024 Approved From Download to Implementation Installing OBS on a MacPC</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-itel-a60-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-reno-11f-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo Reno 11F 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clash-of-shadows-and-lightning-black-vs-silver/"><u>Clash of Shadows and Lightning BLACK vs SILVER</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-advancements-in-ai-with-enriched-visual-outputs-by-google-bard/"><u>Revolutionary Advancements in AI with Enriched Visual Outputs by Google Bard</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-avoid-frustrating-steam-audio-drops/"><u>Tips to Avoid Frustrating Steam Audio Drops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-review-the-ecoflow-river/"><u>Top Review: The EcoFlow River</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-cordless-leaf-blowers-expert-picks-and-reviews/"><u>Top-Rated Cordless Leaf Blowers - Expert Picks & Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-solar-power-banks-reviews-by-techradar/"><u>Top-Rated Portable Solar Power Banks - Reviews by TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-common-issues-a-guide-to-solving-tiktok-problems/"><u>Troubleshooting Common Issues: A Guide to Solving TikTok Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turbocharged-grass-cutter-the-racecar-inspired-robotic-lawnmower-for-flawless-yards-zdnet/"><u>Turbocharged Grass Cutter - The Racecar-Inspired Robotic Lawnmower for Flawless Yards | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-buying-outdoor-projectors-thoroughly-evaluated-models-and-expert-opinions-zdnet/"><u>Ultimate Guide to Buying Outdoor Projectors: Thoroughly Evaluated Models and Expert Opinions | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-best-electric-bbqs-insider-tips-from-zdnet/"><u>Ultimate Guide to Choosing the Best Electric BBQs - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-perfect-lawn-mower-recommendations-by-gizmodo/"><u>Ultimate Guide to Choosing the Perfect Lawn Mower – Recommendations by Gizmodo</u></a></li>
 </ul></div>
 

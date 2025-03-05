@@ -1,7 +1,7 @@
 ---
 title: "Beginning Moment: Try Out 8 Personal GPT Creations"
-date: 2025-02-14T21:32:16.706Z
-updated: 2025-02-15T23:26:11.562Z
+date: 2025-03-03T01:56:07.241Z
+updated: 2025-03-04T16:15:48.722Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
 
  How did I do it? I uploaded dozens of resumes and cover letters written in the past. I also added resources on writing the perfect cover letters and resumes. This was topped off by providing links to my portfolios and uploading samples of high-performing cover letters and resumes I found online. The result? My personal resume expert that spits out resumes and cover letters akin to what I'd write.
@@ -46,17 +42,9 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
  Here's a guide on [how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Translation Tool
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the weeks following ChatGPT's release, we tested [ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
 
@@ -71,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  It is no news that [ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/). It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Personal Movie Recommender
 
@@ -103,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 ## 6\. Personal Tutor
 
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
 
@@ -155,22 +135,24 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-elite-5-cameras-for-slow-motion-magic/"><u>[New] 2024 Approved Elite 5 Cameras for Slow Motion Magic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovations-in-live-broadcast-with-periscope/"><u>[Updated] Innovations in Live Broadcast with Periscope</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-installing-microsoft-copilot-for-macs/"><u>Comprehensive Guide to Installing Microsoft Copilot for Macs</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/discover-top-3-cost-free-dvd-conversion-tools-as-great-alternatives-to-convertxtodvd/"><u>Discover Top 3 Cost-Free DVD Conversion Tools as Great Alternatives to ConvertXToDVD</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-four-revolutionary-advantages-of-claude-3-over-gpt-3/"><u>Discovering Four Revolutionary Advantages of Claude 3 over GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engage-in-endless-learning-from-strategic-play-to-artistic-creation-via-gpt-my-bots/"><u>Engage in Endless Learning: From Strategic Play to Artistic Creation via GPT-My Bots</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-browser-management-with-arcs-innovative-air-traffic-control-tool-tips-and-insights-zdnet/"><u>Enhance Browser Management with Arc's Innovative Air Traffic Control Tool - Tips & Insights | ZDNet</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/holiday-extravaganza-alert-grab-your-early-christmas-treats-at-wonderfox-softs-epic-seasonal-discount-event/"><u>Holiday Extravaganza Alert: Grab Your Early Christmas Treats at WonderFox Soft's Epic Seasonal Discount Event!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-setup-your-logitech-hd-webcam-model-c525-for-windows-users/"><u>How to Download and Setup Your Logitech HD Webcam Model C525 for Windows Users</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-assessing-your-needs-selecting-the-optimal-4k-camera-lens/"><u>In 2024, Assessing Your Needs Selecting the Optimal 4K Camera Lens</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastery-in-flagging-fakes-a-guide-to-gpt-recognition/"><u>Mastery in Flagging Fakes: A Guide to GPT Recognition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/professional-typewriters-dream-the-ultimate-guide-to-the-lofree-flow-mechanical-keyboard-review/"><u>Professional Typewriter's Dream: The Ultimate Guide to the Lofree Flow Mechanical Keyboard Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/six-key-concerns-overreliance-on-machine-learning/"><u>Six Key Concerns Overreliance on Machine Learning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essential-guide-to-personalizing-business-efforts-with-gpt/"><u>The Essential Guide to Personalizing Business Efforts with GPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-high-quality-gaming-lights/"><u>The Ultimate Guide to High-Quality Gaming Lights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tracing-the-path-of-generative-ai-in-business-applications/"><u>Tracing the Path of Generative AI in Business Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-challenges-into-cash-with-openais-bug-bounty-initiative/"><u>Transform Challenges Into Cash with OpenAI's Bug Bounty Initiative</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-understanding-vr-technology-and-its-impact-on-us/"><u>[New] Understanding VR Technology and Its Impact on Us</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-pioneering-ig-video-influence-crafting-an-excellent-marketing-plan-for-2024/"><u>[Updated] Pioneering IG Video Influence Crafting an Excellent Marketing Plan for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-a-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings/"><u>2024 Approved A Practical Pathway for Profit Tracking The Straightforward Steps to Analyze YouTube Earnings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-hundreds-of-popular-xbox-game-titles-directly-through-the-meta-quest-console-not-needed-reveals-zdnet/"><u>Access Hundreds of Popular Xbox Game Titles Directly Through the Meta Quest - Console Not Needed, Reveals ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/acclaimed-15-video-filters-to-elevate-gopro-cinematography-for-2024/"><u>Acclaimed 15 Video Filters to Elevate GoPro Cinematography for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-alternative-to-apples-vision-pro-how-xr-glasses-brought-me-relief-from-tech-envy/"><u>Affordable Alternative to Apple's Vision Pro: How XR Glasses Brought Me Relief From Tech Envy!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ahead-of-the-curve-unlocking-artificial-intelligence-in-meta-quest-3-vs-apples-upcoming-vision-pro-your-step-by-step-guide/"><u>Ahead of the Curve: Unlocking Artificial Intelligence in Meta Quest 3 Vs. Apple's Upcoming Vision Pro - Your Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-grabs-limited-time-amazon-deal-save-big-with-200-off-zdnet-news/"><u>Apple Vision Pro Grabs Limited-Time Amazon Deal - Save Big with $200 Off | ZDNet News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-strategic-alliance-with-pixar-and-nvidia-revolutionizing-3d-video-creation-why-it-matters/"><u>Apple's Strategic Alliance with Pixar and Nvidia: Revolutionizing 3D Video Creation - Why It Matters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/collaboration-alert-qualcomms-next-gen-mixed-reality-eyewear-with-samsung-and-google-takes-shape-tech-insights/"><u>Collaboration Alert! Qualcomm’s Next-Gen Mixed Reality Eyewear with Samsung and Google Takes Shape | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-vr-play-spaces-why-apples-vision-pro-is-more-restricted-than-metas-quest-series/"><u>Comparing VR Play Spaces: Why Apple's Vision Pro Is More Restricted Than Meta's Quest Series</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/early-access-alert-activate-metas-public-test-feed-now-exclusive-guide/"><u>Early Access Alert: Activate Meta's Public Test Feed Now - Exclusive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immerse-yourself-in-the-elder-scrolls-v-skyrim-nintendo-switch-edition-reviewed/"><u>Immerse Yourself in The Elder Scrolls V: Skyrim - Nintendo Switch Edition Reviewed!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-12-pro-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 12 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-accelerate-with-these-key-windows-10-tricks/"><u>In 2024, Accelerate with These Key Windows 10 Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-metaverse-access-top-8-vr-wearables/"><u>In 2024, Mastering Metaverse Access Top 8 VR Wearables</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-preventing-and-resolving-gaming-system-errors/"><u>The Essential Guide to Preventing and Resolving Gaming System Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-must-have-fitness-tracking-apps/"><u>Top 10 Must-Have Fitness Tracking Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-launch-samsung-prepares-blowout-rival-to-apple-vision-pro/"><u>Upcoming Launch: Samsung Prepares Blowout Rival to Apple Vision Pro</u></a></li>
 </ul></div>
 

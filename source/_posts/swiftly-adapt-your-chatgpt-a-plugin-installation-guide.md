@@ -1,7 +1,7 @@
 ---
 title: "Swiftly Adapt Your ChatGPT: A Plugin Installation Guide"
-date: 2024-08-21T15:35:46.409Z
-updated: 2024-08-22T15:35:46.409Z
+date: 2025-02-25T19:12:25.997Z
+updated: 2025-03-05T01:06:29.010Z
 tags:
   - chatgpt
   - open-ai
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are third-party extensions designed to extend the functionality of ChatGPT. According to OpenAI, "Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services."
@@ -52,18 +49,12 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  For example, you could use the Kayak and Expedia ChatGPT Plugins when you want to use ChatGPT to create a trip itinerary or the Polygon Plugin to get up-to-date information on crypto markets, stocks, and forex.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Many ChatGPT Plugins Are There?
 
  At the time of writing in May 2023, around 85 ChatGPT Plugins are available on the ChatGPT Plugin store. We expect many more ChatGPT Plugins to launch in the coming months as developers get to grips with OpenAI's development rules and the platform itself, integrating existing websites and services into the ChatGPT platform.
 
 ![chatgpt plugins list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And yes, we're now calling it a platform because from here on, ChatGPT becomes more than "just a chatbot."
 
 ## How to Install a ChatGPT Plugin
@@ -72,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
 ![chatgpt enable beta features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-enable-beta-features.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![chatgpt plugin store option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-store-option.jpg)
 
 ![chatgpt plugin instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-instructions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 1. Open ChatGPT. In the bottom left corner, select **Settings > Beta Features,** then toggle the **Plugins** setting.
@@ -94,18 +79,12 @@ Close
 
  However, there is currently no "All Plugins" list to make it easy to unsubscribe. Also, there is no way to sort the plugins, so you're left to scroll through every page until you find what you want. Search functionality will come with a later update, but having these user-friendly UI features ready would have been useful.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use a ChatGPT Plugin
 
  How you use a ChatGPT Plugin depends on the plugin you install. But the general gist of ChatGPT plugin usage is similar to regular ChatGPT; you ask your question, and ChatGPT provides an answer. The accuracy of your answer [depends on the quality of your prompt](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/), but now also depends on the quality of the ChatGPT Plugin.
 
  It's also worth remembering that ChatGPT Plugins are still a beta feature. The ChatGPT Plugin ecosystem isn't fully up and running yet, and despite the number of available plugins, not all of them work as they should—or as we might like.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Planning a Trip
 
  For example, we took the Kayak, Expedia, and Trip.com plugins for a spin in an attempt to book a trip to Malta from the UK for a family of five. Unfortunately, the results and time taken to achieve those results weren't particularly impressive, to say the least.
@@ -114,9 +93,6 @@ Close
 
 ![chatgpt plugin planning trip with kayak adding more information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-adding-more-information.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt plugin planning trip with kayak final suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-final-suggestions.jpg)
 
 ![skyscanner flights to malta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/skyscanner-flights-to-malta.jpg)
@@ -143,14 +119,6 @@ Close
 
 ![chatgpt tasty plugin meal planning failure to list all meals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tasty-plugin-meal-planning-failure-to-list-all-meals.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Close
 
  Then, I asked if it could find a no-bake vanilla and raspberry cheesecake recipe. As this specific recipe didn't exist in the Tasty database, it couldn't provide an exact recipe but did suggest adapting a no-bake brownie cheesecake recipe. But instead of helping adapt it to the new flavor profile with specific steps, it just provided the original recipe.
@@ -163,25 +131,12 @@ Close
 
 ![chatgpt adding playlistai plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-adding-playlistai-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![chatgpt playlistai pluging create playlist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-pluging-create-playlist.jpg)
 
 ![chatgpt playlistai plugin hip hop suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-hip-hop-suggestions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![chatgpt playlistai plugin track suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-track-suggestions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![chatgpt playlistai plugin playlist in spotify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-playlist-in-spotify.jpg)
 
 Close
@@ -202,8 +157,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +164,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-editors-playbook-for-drone-imagery/"><u>[New] In 2024, The Editor's Playbook for Drone Imagery</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elite-livestream-tools-and-solutions/"><u>[Updated] Elite Livestream Tools & Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-engaging-audiences-with-wirecast-hosted-facebook-streams/"><u>[Updated] In 2024, Engaging Audiences with Wirecast-Hosted Facebook Streams</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-superficial-shares-spell-social-deterioration/"><u>[Updated] In 2024, How Superficial Shares Spell Social Deterioration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-8-access-free-eco-friendly-vfx-backdrops-online/"><u>[Updated] In 2024, Top 8 Access Free Eco-Friendly VFX Backdrops Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpgwmv-movavi/"><u>在網際網路上無需付費轉換MPG到WMV - 利用 Movavi 專業解決方案</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-free-and-premium-video-combiner-tools-for-windows-10-a-complete-guide/"><u>Best Free & Premium Video Combiner Tools for Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-convertir-archivo-mov-a-formato-de-linea-libre-usando-herramienta-online-sin-coste-movavi-explicado-paso-a-paso/"><u>Cómo Convertir Archivo MOV a Formato De Línea Libre Usando Herramienta Online Sin Coste - MOVavi Explicado Paso a Paso</u></a></li>
+<li><a href="https://techidaily.com/concealing-the-desktop-edge-a-guide-to-disabling-windows-11s-taskbar/"><u>Concealing the Desktop Edge: A Guide to Disabling Windows 11'S Taskbar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descargar-y-convertir-archivos-tga-a-formato-de-imagen-animada-gif-sin-costo-con-la-herramienta-online-de-conversion-gratuita-de-movavi/"><u>Descargar Y Convertir Archivos TGA a Formato De Imagen Animada GIF Sin Costo Con La Herramienta Online De Conversión Gratuita De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/facil-comando-de-conversao-para-baixar-audio-em-mp3-do-formato-m4b-guia-detalhado/"><u>Fácil Comando De Conversão Para Baixar Áudio Em MP3 Do Formato M4B - Guia Detalhado</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-audio-control-slider-problems/"><u>Overcoming Disabled Audio Control Slider Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precise-electronics-reviews-by-tom-finding-the-best-gear/"><u>Precise Electronics Reviews by Tom: Finding the Best Gear</u></a></li>
+<li><a href="https://video-capture.techidaily.com/techniques-to-recover-from-obs-fullscreen-lockout/"><u>Techniques to Recover From OBS Fullscreen Lockout</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformar-archivo-de-audio-en-mpg-sin-coste-convertidor-web-de-movavi/"><u>Transformar Archivo De Audio en MPG Sin Coste - Convertidor Web De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/w64-mp3-movavi/"><u>W64 MP3ファイルを無料でオンライン変換: Movaviの簡単ガイド</u></a></li>
+</ul></div>
 

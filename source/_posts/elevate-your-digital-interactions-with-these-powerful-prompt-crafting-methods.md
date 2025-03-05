@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Digital Interactions with These Powerful Prompt-Crafting Methods
-date: 2025-02-11T18:21:56.704Z
-updated: 2025-02-15T22:50:33.069Z
+date: 2025-02-26T20:20:57.931Z
+updated: 2025-03-05T01:51:14.725Z
 tags:
   - chatgpt
   - open-ai
@@ -42,37 +42,21 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 ![QuickRef's ChatGPT cheat sheet offers free examples and templates of prompts for ChatGPT across various categories and uses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-quickref-cheat-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  QuickRef is a website with cheat sheets for different apps or programming languages, like Google Search, Sheets, Excel, JavaScript, Python, etc. These are added mainly by regular users from the community. The latest cheat sheet in its impressive lineup is ChatGPT, with a series of prompts and tips for the AI. You won't learn the process of PE here, but it's a good reference when you're stuck.
 
  QuickRef's ChatGPT cheat sheet is divided into several categories: General, Coding, Email, Spreadsheets, Social Media, Reading, Design, Analyzing Data, Paid ads, Amazon FBA, Writing / Blogging, Teachers / Course Creators, YouTube, and Research. Each prompt has a basic headline telling you what it will do, followed by the prompt you can copy-paste into ChatGPT.
 
  Multiple words or phrases of each prompt are replaceable to customize it for your query. The must-fill parts are marked in brackets for you to replace the original text, while optional replacements are colored red or blue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3. Adrian Twarog
 
 ![Adrian Twarog's "Ultimate ChatGPT Resource Guide" is the best free series of YouTube lessons to learn how to write ChatGPT prompts and then use it in advanced applications, or even to make your own ChatGPT clone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-adrian-twarog.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  YouTuber Adrian Twarog has quite a following for his how-to and tutorial videos on myriad topics like web development, apps, and AI. He deep-dived into the system and has already made videos on creating a ChatGPT clone or making your Discord bot with the OpenAI models. Naturally, this requires understanding the core principles of how ChatGPT works, and he's imparting all that knowledge in a series of YouTube videos.
 
  In the Ultimate ChatGPT Resource Guide, Twarog explains what ChatGPT is in a quick five-minute video before moving on to a 35-minute crash course on how to use ChatGPT. In the second video, Twarog covers a lot on how to use prompts, focusing on use-case scenarios like summarization, templates, short stories, JavaScript, resumes, and blogging or editing. You'll need to go through both of these to understand the basics before moving on in the series.
 
  The third video, titled Advanced ChatGPT Guide, is the one you want to pay particular attention to if you want to understand advanced prompts. Twarog goes into details of prompt engineering with a series of examples. Even if the examples aren't what you want to do with ChatGPT, go through these as an exercise to truly understand the finer points of composing a prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4. Micah Johns
 
@@ -87,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 ## 5. Learn Prompting
 
 ![Learn Prompting is a free online course for beginner, intermediate, or advanced AI users to learn all aspects of prompt engineering](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-learn-prompting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Learn Prompting is a free online course to understand how to write prompts for any AI app, not just ChatGPT. Sander Schulhoff, a computer science student at the University of Maryland, designed it. It caters to a range of users, from complete novices to those with domain expertise or programming knowledge.
 
@@ -117,24 +97,24 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-a-compreenas-guide-to-auto-and-advanced-camera-exposure-methods/"><u>[Updated] In 2024, A Compreenas Guide to Auto and Advanced Camera Exposure Methods</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-strategic-utilization-of-azure-voice-to-text-capabilities-for-2024/"><u>[Updated] Strategic Utilization of Azure Voice-to-Text Capabilities for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-visual-storytelling-through-photomosaics-for-2024/"><u>[Updated] Visual Storytelling Through Photomosaics for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/collective-legal-action-by-artists-against-ai-innovators/"><u>Collective Legal Action by Artists Against AI Innovators</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/create-your-own-musical-party-at-home-a-comprehensive-guide-to-hosting-karaoke-night/"><u>Create Your Own Musical Party at Home: A Comprehensive Guide to Hosting Karaoke Night</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-idea-sparkler-to-experienced-prompt-architect-how-to-establish-a-flourishing-career-in-prompt-crafting/"><u>From Idea Sparkler to Experienced Prompt Architect: How To Establish a Flourishing Career in Prompt Crafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-3-status-unraveling-downtime-mysteries/"><u>GPT-3 Status: Unraveling Downtime Mysteries</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guide-to-retrieving-old-files-from-your-computers-archive-on-windows-a-step-by-step-process-yl-solutions/"><u>Guide to Retrieving Old Files From Your Computer's Archive on Windows: A Step-by-Step Process - YL Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-narzo-60x-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Realme Narzo 60x 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-aukey-usb-30-hub-streamlined-performance-in-an-attractive-form/"><u>In-Depth Analysis of the Aukey USB 3.0 Hub: Streamlined Performance in an Attractive Form</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-insights-the-6-best-chatgpt-techniques-for-data-analysis/"><u>Maximizing Insights: The 6 Best ChatGPT Techniques for Data Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/minimizing-data-loss-in-chatgpt-interactions/"><u>Minimizing Data Loss in ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premium-8-chatgpt-strategies-to-curtail-tech-interruptions/"><u>Premium 8 ChatGPT Strategies to Curtail Tech Interruptions</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-running-manual-scans-on-windows-defender-tips-from-yl-computing/"><u>Step-by-Step Guide: Running Manual Scans on Windows Defender - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/strategies-and-costs-promoting-videos-effectively/"><u>Strategies and Costs Promoting Videos Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-offline-operation-blueprint-for-llama-2-software/"><u>The Offline Operation Blueprint for Llama 2 Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trust-but-verify-why-not-let-ai-handle-your-document-summaries/"><u>Trust, but Verify: Why Not Let AI Handle Your Document Summaries?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-claudes-magic-the-future-of-intelligent-automation/"><u>Unraveling Claude's Magic: The Future of Intelligent Automation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-videos/"><u>[New] How to Use GoPro Hero5 Black Tips for Shooting Great Photos and Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-innovative-venues-for-immersive-media/"><u>[New] Innovative Venues for Immersive Media</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-expanding-minds-virtualizing-classrooms/"><u>[Updated] 2024 Approved Expanding Minds, Virtualizing Classrooms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-brighter-days-with-five-winter-themed-backgrounds/"><u>[Updated] In 2024, Brighter Days with Five Winter-Themed Backgrounds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-scaling-youtube-influence-a-comprerancial-guide-to-creator-studios-potential/"><u>[Updated] Scaling YouTube Influence A Comprerancial Guide to Creator Studio's Potential</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimized-note-recording-on-mematic-app/"><u>2024 Approved Optimized Note Recording on Mematic App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-luxury-audio-how-this-yamaha-soundbar-matches-a-1000-jbl-at-half-price-insights-from-tech-expert/"><u>Affordable Luxury Audio: How This Yamaha Soundbar Matches a $1,000 JBL at Half Price - Insights From Tech Expert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amazons-latest-children-product-line-now-available-check-out-the-new-releases-on-zdnet/"><u>Amazon's Latest Children Product Line Now Available: Check Out the New Releases on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-giants-how-we-found-the-ultimate-audio-system-that-isnt-from-bose-or-polk-zdnet-review/"><u>Beyond Giants: How We Found The Ultimate Audio System That Isn't From Bose or Polk | ZDNet Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-sound-a-detailed-comparison-of-sonos-era-100-and-sonos-one-for-your-home-audio-needs/"><u>Choosing the Right Sound: A Detailed Comparison of Sonos Era 100 and Sonos One for Your Home Audio Needs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-value-unmatched-audio-quality-meets-shocking-affordability-in-this-anker-bluetooth-speaker-zdnets-top-pick/"><u>Discover the Value: Unmatched Audio Quality Meets Shocking Affordability in This Anker Bluetooth Speaker - ZDNet's Top Pick!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effective-data-sanitization-strategies-insights-and-guides-from-the-experts-at-stellar/"><u>Effective Data Sanitization Strategies - Insights and Guides From the Experts at Stellar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exceptional-audio-quality-from-top-rated-portable-speaker-universal-genre-support-reviews-on-zdnet/"><u>Exceptional Audio Quality From Top-Rated Portable Speaker - Universal Genre Support Reviews on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expertly-rated-ultimate-list-of-2024s-top-sonos-sound-solutions-in-depth-zdnet-review/"><u>Expertly Rated Ultimate List of 2024'S Top Sonos Sound Solutions - In-Depth ZDNET Review</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-internship-to-impact-unveiling-the-metamate-identity/"><u>From Internship to Impact: Unveiling the Metamate Identity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-ultimate-guide-to-ae-title-effect-wizardry/"><u>In 2024, The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-on-the-newest-echo-show-8-exclusive-30-labor-day-discount-from-zdnet/"><u>Save Big on the Newest Echo Show 8 - Exclusive 30% Labor Day Discount From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-entertainment-anywhere-how-apple-revolutionizes-airplay-and-content-distribution-in-homes-hotel-rooms-and-vehicles-tech-analysis-by-zdnet/"><u>Seamless Entertainment Anywhere: How Apple Revolutionizes AirPlay & Content Distribution in Homes, Hotel Rooms, and Vehicles | Tech Analysis by ZDNET</u></a></li>
 </ul></div>
 

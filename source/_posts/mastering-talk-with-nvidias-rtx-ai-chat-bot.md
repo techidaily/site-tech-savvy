@@ -1,7 +1,7 @@
 ---
 title: Mastering Talk with Nvidia's RTX AI Chat Bot
-date: 2024-08-21T15:34:49.930Z
-updated: 2024-08-22T15:34:49.930Z
+date: 2025-02-25T23:37:07.850Z
+updated: 2025-03-04T17:13:33.388Z
 tags:
   - chatgpt
   - open-ai
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
  Nvidia has launched Chat with RXT, an AI chatbot that operates on your PC and offers features similar to ChatGPT and more! All you need is an Nvidia RTX GPU, and you're all set to start using Nvidia's new AI chatbot.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Nvidia Chat with RTX?
 
  Nvidia Chat with RTX is an AI software that lets you [run a large language model (LLM) locally on your computer](https://www.makeuseof.com/should-you-use-local-llms/). So, instead of going online to use an AI chatbot like ChatGPT, you can use Chat with RTX offline whenever you want.
@@ -46,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
  If you want to try out Nvidia Chat with RTX, here's how to download, install, and configure it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Download and Install Chat with RTX
 
 ![Chat with RTX official web page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/download-chat-with-rtx.jpg)
@@ -90,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
 ![Chat with RTX web interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chat-with-rtx-gui.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Under **Dataset**, make sure that the **Folder Path** option is selected. Now click on the edit icon below (the pen icon) and select the folder containing all the files you want Chat with RTX to read. You can also change the AI model if other options are available (at the time of writing, only Mistral 7B is available).
 
  You are now ready to use Chat with RTX.
@@ -103,16 +94,10 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
 ![Using Chat with RTX like a regular chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/2-using-chat-with-rtx-as-regular-chatbot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  But since Chat with RTX is capable of RAG, you can also use it as a personal AI assistant.
 
 ![Asking Chat with RTX personal questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/asking-personal-questions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Above, I've used Chat with RTX to ask about my schedule. The data came from a PDF file containing my schedule, calendar, events, work, and so on. In this case, Chat with RTX has pulled the correct calendar data from the data; you'll have to keep your data files and calendar dates updated for features like this to work properly until there are integrations with other apps.
 
  There are many ways you can use Chat with RTX's RAG to your advantage. For example, you can use it to read through legal papers and give a summary, generate code relevant to the program you're developing, get bulleted highlights about a video you're too busy to watch, and so much more!
@@ -123,19 +108,12 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
 ![Set data path for YouTube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/select-youtube-path.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Copy the YouTube URL you want to analyze and paste it below the drop-down menu. Then ask away!
 
 ![Using Chat with RTX to summarize a YouTube video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/5-chat-with-rxt-summarizing-youtube-video.jpg)
 
  Chat with RTX's YouTube video analysis was pretty good and delivered accurate information, so it could be handy for research, quick analysis, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is Nvidia's Chat with RTX Any Good?
 
  ChatGPT provides RAG functionality. [Some local AI chatbots have significantly lower system requirements](https://www.makeuseof.com/the-best-local-offline-llms-you-can-try-right-now/). So, is Nvidia Chat with RTX even worth using?
@@ -148,9 +126,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  It is worth noting that the Chat with RTX version we are currently using is a demo. Later releases of Chat with RTX will likely become more optimized and deliver performance boosts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What if I Don't Have an RTX 30 or 40 Series GPU?
 
  Chat with RTX is an easy, fast, and secure way of running an LLM locally without the need for an internet connection. If you're also interested in running an LLM or local but don't have an RTX 30 or 40 Series GPU, you can try other ways of running an LLM locally. Two of the most popular ones would be GPT4ALL and Text Gen WebUI. Try GPT4ALL if you want a plug-and-play experience locally running an LLM. But if you're a bit more technically inclined, running LLMs through Text Gen WebUI will provide better fine-tuning and flexibility.
@@ -163,8 +138,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +145,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-aero-tech-machine-varieties/"><u>[New] Aero Tech Machine Varieties</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-obs-streams-to-facebook-success/"><u>[Updated] 2024 Approved The Ultimate Guide OBS Streams to Facebook Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-api-demystified-for-developers/"><u>ChatGPT API Demystified for Developers</u></a></li>
+<li><a href="https://article-files.techidaily.com/do-reviewers-monetize-their-critiques-in-media-in-2024/"><u>Do Reviewers Monetize Their Critiques in Media, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-conversational-ai-tips-for-chatgpt-extension-use/"><u>Elevating Conversational AI: Tips for ChatGPT Extension Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-customer-interaction-integrating-gpt-and-whatsapp/"><u>Empowering Customer Interaction: Integrating GPT & WhatsApp</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-selection-of-free-texting-apps-for-iphones-and-ipod-touch-devices/"><u>Exclusive Selection of Free Texting Apps for iPhones & iPod Touch Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-identify-and-reject-suspicious-chatgpt-portals/"><u>How to Identify and Reject Suspicious ChatGPT Portals</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-apple-iphone-6-plus-activation-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 6 Plus Activation Lock</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-15-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 15 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-bing-on-android-through-ai-integration/"><u>Mastering Bing on Android Through AI Integration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pennywise-pilots-best-value-drones-for-(500-for-2024/"><u>Pennywise Pilots Best Value Drones for <$500 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/pushing-the-boundaries-animated-fb-ads-that-increase-return-on-investment/"><u>Pushing the Boundaries Animated FB Ads That Increase Return on Investment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-step-in-smart-living-chatgpts-technological-leap/"><u>The Next Step in Smart Living: ChatGPT’s Technological Leap</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/timing-talk-how-chatgpt-4-measures-up-to-35/"><u>Timing Talk: How ChatGPT-4 Measures Up to 3.5</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vr-adventure-top-10-best-selling-mobile-games/"><u>VR Adventure Top 10 Best-Selling Mobile Games</u></a></li>
+</ul></div>
 

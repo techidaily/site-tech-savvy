@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Data Management Hurdles: Excel + ChatGPT"
-date: 2025-02-14T19:36:53.675Z
-updated: 2025-02-15T17:29:04.553Z
+date: 2025-02-27T00:00:51.522Z
+updated: 2025-03-05T00:30:48.937Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Getting Started With ChatGPT and Excel
 
 [ChatGPT's many practical use cases](http://www.makeuseof.com/ways-you-can-use-auto-gpt/) include its ability to provide real-time assistance and answer Excel-related queries instantly.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
  While ChatGPT cannot be directly integrated with Excel as of now, it can still be a valuable tool to help you generate prompts and code examples for both everyday and complex Excel tasks. You can start by opening your Excel workbook in one window and going to [ChatGPT webpage](https://chat.openai.com/) to chat with the bot.
 
  For example, if you need help with a formula, type in something like "Can you help me with a VLOOKUP formula?" or "What's the formula to calculate the average of a range of cells?" and ChatGPT will respond. Similarly, if you need help with a specific macro, you can ask ChatGPT for assistance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Examples of Using ChatGPT With Excel
 
@@ -74,35 +66,19 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
 ![ChatGPT showing an example macro for the sort filter on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-sort-filter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. More Advanced Examples
 
  You can ask, "Can you create a macro that filters data based on specific criteria?", and ChatGPT will respond with the suitable macro code.
 
 ![ChatGPT showing the macro to create filters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-macro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can ask “Create a macro that copies filtered data to a new worksheet”, ChatGPT will respond with:
 
 ![ChatGPT showing the macro to copy filtered data to a new worksheet on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-macro-to-workbook.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you ask “Calculate the weighted average of a range of cells”, it will respond with:
 
 ![ChatGPT showing the formula for the SUMPRODUCT function for weighted average on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-weighted-average.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see, ChatGPT can provide you with the prompts and code examples you need to use Excel more effectively. Just ask ChatGPT in plain English, and it will respond with the necessary information.
 
@@ -153,17 +129,21 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-proven-ways-to-archive-roblox-games-on-apple-devices/"><u>[Updated] 2024 Approved Proven Ways to Archive Roblox Games on Apple Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unlocking-success-in-live-streaming-of-cricket-matches-for-2024/"><u>[Updated] Unlocking Success in Live Streaming of Cricket Matches for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-rivalry-unveiled-comparing-forefront-ai-and-the-chatgpt-model/"><u>AI Rivalry Unveiled: Comparing Forefront AI and the ChatGPT Model</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-your-ai-conversationist-from-gpt-to-chatgpt/"><u>Crafting Your AI Conversationist: From GPT to ChatGPT</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-freefire-gameplay-on-youtube-channels/"><u>In 2024, Elevate Your FreeFire Gameplay on YouTube Channels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligence-in-machines-the-extremes/"><u>Intelligence in Machines: The Extremes</u></a></li>
-<li><a href="https://facebook.techidaily.com/market-dynamics-300-dollar-headsets-as-cybersecurity-measures/"><u>Market Dynamics: 300-Dollar Headsets as Cybersecurity Measures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-chatgpt-management-with-folders/"><u>Mastering the Art of ChatGPT Management with Folders</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-mac-video-editing-software-comparison-for/"><u>New 2024 Approved The Ultimate Mac Video Editing Software Comparison For</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prime-digital-marketplaces-for-ai-creativity/"><u>Prime Digital Marketplaces for AI Creativity</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-oppo-find-x6-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo Find X6 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-techniques-for-streamlining-your-twitter-content-calendar/"><u>Top Techniques for Streamlining Your Twitter Content Calendar</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-analysis-of-powerdirector-2024-full-review-and-tutorial/"><u>[New] Expert Analysis of PowerDirector 2024 - Full Review & Tutorial</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-breaking-the-barrier-uploading-and-live-broadcasting-vids-to-fb/"><u>[New] In 2024, Breaking the Barrier Uploading and Live Broadcasting Vids to FB</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-image-conversion-wizardry-turning-jpgpng-into-pdf/"><u>2024 Approved IPhone Image Conversion Wizardry Turning JPG/PNG Into PDF</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-technique-programming-a-time-counter-in-obs/"><u>2024 Approved Ultimate Technique Programming a Time Counter in OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipating-apple-vision-pros-arrival-in-feb-how-it-reimagines-shopping-with-unprecedented-sophistication-zdnet-exclusive/"><u>Anticipating Apple Vision Pro's Arrival in Feb: How It Reimagines Shopping with Unprecedented Sophistication | ZDNet Exclusive</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-in-frame-creation-improve-performance-and-ensure-fluid-animation/"><u>Artificial Intelligence in Frame Creation: Improve Performance and Ensure Fluid Animation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/essential-skills-in-developing-podcast-xml-feeds-for-2024/"><u>Essential Skills in Developing Podcast XML Feeds for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-inner-workings-of-apples-vision-pro-discover-my-key-observations-in-teardown-analysis-crafted-for-zdnet-readers/"><u>Exploring the Inner Workings of Apple's Vision Pro: Discover My Key Observations in Teardown Analysis | Crafted for ZDNet Readers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/frustrated-with-your-apple-vision-pro-virtual-keyboard-experience-master-using-an-actual-keyboard-as-a-superior-alternative/"><u>Frustrated with Your Apple Vision Pro Virtual Keyboard Experience? Master Using an Actual Keyboard as a Superior Alternative</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-15-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-restore-the-meta-branding-in-your-favorite-gaming-headsets-a-guide-around-their-recent-update/"><u>How to Restore the Meta Branding in Your Favorite Gaming Headsets: A Guide Around Their Recent Update</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/incorporate-soundtrack-elements-into-premiere-pro/"><u>Incorporate Soundtrack Elements Into Premiere Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-best-zero-cost-video-editors-for-cutting-and-merging-videos/"><u>New The Best Zero-Cost Video Editors for Cutting and Merging Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-hurdles-in-implementing-digital-twins-a-guide-to-tackling-the-top-7-industry-obstacles-insights-for-modern-enterprises-zdnet/"><u>Overcoming Hurdles in Implementing Digital Twins: A Guide to Tackling the Top 7 Industry Obstacles | Insights for Modern Enterprises | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stanfords-revolutionary-ai-technology-redefines-virtual-reality-bypassing-outdated-headsets-zdnet/"><u>Stanford's Revolutionary AI Technology Redefines Virtual Reality, Bypassing Outdated Headsets | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprising-black-friday-sale-how-vr-headsets-beat-apples-airpods-in-sales-zdnet/"><u>Surprising Black Friday Sale: How VR Headsets Beat Apple's AirPods in Sales | ZDNet</u></a></li>
 </ul></div>
 

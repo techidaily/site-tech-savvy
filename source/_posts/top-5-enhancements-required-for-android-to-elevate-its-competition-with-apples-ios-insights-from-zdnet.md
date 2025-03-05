@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Enhancements Required for Android to Elevate Its Competition with Apple's iOS: Insights From ZDNet"
-date: 2025-02-15T01:07:18.732Z
-updated: 2025-02-15T22:06:14.271Z
+date: 2025-03-01T23:58:52.556Z
+updated: 2025-03-05T02:26:23.367Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -53,10 +49,6 @@ Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI
 If Apple can give Siri generative AI, iPhone users could ask the voice assistant for more than "Open this app" or "Search Google for this." Generative AI would let users ask Siri to draft messages and emails, explain a concept, and give personalized reminders tailored to their calendars, notes, or contacts. 
 
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
 
@@ -68,10 +60,6 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Personalized text generation
 
 ChatGPT became popular for its ability to generate text and have conversations that feel natural. Integrating text generation into the iPhone would make it easier for users to draft emails, generate stories, or edit resumes in Apple's native apps, like Notes and Messages. 
@@ -79,10 +67,6 @@ ChatGPT became popular for its ability to generate text and have conversations t
 **Also: [5 rumored iOS 18 features I'm most excited about - and AI is just the start](https://www.zdnet.com/article/5-rumored-ios-18-features-im-most-excited-about-and-ai-is-just-the-start/)**
 
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
 
@@ -126,20 +110,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-add-motion-blur-effect-to-photos-in-photoshop-for-2024/"><u>[New] Add Motion Blur Effect to Photos in Photoshop for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-techniques-to-weave-narrative-into-visual-content/"><u>[Updated] 2024 Approved Techniques to Weave Narrative Into Visual Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-for-unresponsive-laptop-trackballs-under-windows/"><u>Comprehensive Solutions for Unresponsive Laptop Trackballs Under Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-artifice-in-ai-text-generation/"><u>Decoding the Artifice in AI Text Generation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/geminis-1m-milestone-a-new-era-for-tokens-and-market/"><u>Gemini’s $1M Milestone - A New Era for Tokens and Market</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-printerscanner-drivers-on-windows-the-issue-has-been-resolved/"><u>How to Install Printer/Scanner Drivers on Windows The Issue Has Been Resolved</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-xiaomi-13-ultra-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Xiaomi 13 Ultra ?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/igniting-gpts-potential-a-pc-owners-blueprint/"><u>Igniting GPT's Potential: A PC Owner's Blueprint</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/love-engineered-ais-role-in-dating-frauds/"><u>Love Engineered: AI's Role in Dating Frauds</u></a></li>
-<li><a href="https://discover-able.techidaily.com/movavi-htkh-mtsvvt-lrkht-vydy-hrmh-lkhvh-m-yth-fvl/"><u>Movavi - חטאָך מצובת לערכת וידבֿי: הרשׁמה לכוח עם שיטה פועל</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-11-proplus-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme 11 Pro+ Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionized-search-microsoft-enhances-bing-with-ai/"><u>Revolutionized Search: Microsoft Enhances Bing with AI</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-strategies-for-gratis-transformation-from-vob-to-flv-videos/"><u>Step-by-Step Strategies for Gratis Transformation From VOB to FLV Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tactics-for-using-gpt-3-in-openai-sandbox/"><u>Tactics for Using GPT-3 in OpenAI Sandbox</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-10-best-alternatives-to-chatgpt/"><u>The 10 Best Alternatives to ChatGPT</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-charting-2023s-social-trend-peaks-in-graphs-for-2024/"><u>[New] Charting 2023'S Social Trend Peaks in Graphs for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-framemaster-hd-recording-suite-for-2024/"><u>[New] FrameMaster HD Recording Suite for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bisphosphonates-are-used-for-both-osteolytic-and-osteoblastic-lesions-due-to-their-ability-to-control-abnormal-bone-turnover/"><u>Bisphosphonates Are Used for Both Osteolytic and Osteoblastic Lesions Due to Their Ability to Control Abnormal Bone Turnover.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-guide-to-a-calmer-mind/"><u>ChatGPT’s Guide to a Calmer Mind</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-token-ceiling-reaching-beyond-limits/"><u>ChatGPT’s Token Ceiling: Reaching Beyond Limits?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/command-response-symbiosis-the-ai-dialogue-evolution/"><u>Command-Response Symbiosis: The AI Dialogue Evolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converse-with-confidence-talk-to-chatgpt/"><u>Converse with Confidence – Talk to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-top-tier-chatbots-gpt-plus-vs-perplexity/"><u>Exploring Top-Tier Chatbots: GPT Plus Vs. Perplexity</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011099994-fixing-apex-legends-loading-issues-in-seconds-simple-solutions-inside/"><u>Fixing Apex Legends Loading Issues in Seconds - Simple Solutions Inside!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-enablingdisabling-picture-in-picture-a-step-by-step-guide-for-iphones/"><u>In 2024, Enabling/Disabling Picture-in-Picture A Step-by-Step Guide for iPhones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-exploring-hexacopter-wonders-10-list/"><u>In 2024, Exploring Hexacopter Wonders - #10 List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-output-using-onlyoffice-docspace-and-the-power-of-chatgpt-integration/"><u>Maximize Output Using ONLYOFFICE DocSpace and the Power of ChatGPT Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-uses-top-6-ways-to-empower-your-tech-with-code-conductor/"><u>Revolutionary Uses - Top 6 Ways to Empower Your Tech with Code Conductor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mystique-of-codegpt-writing-software-as-an-ai/"><u>The Mystique of CodeGPT: Writing Software as an AI?</u></a></li>
+<li><a href="https://win11.techidaily.com/the-power-and-essence-of-wintoys-an-uncomplicated-yet-comprehensive-explanation/"><u>The Power & Essence of 'WinToys': An Uncomplicated, Yet Comprehensive Explanation</u></a></li>
 </ul></div>
 

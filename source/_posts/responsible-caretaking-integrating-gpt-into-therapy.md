@@ -1,7 +1,7 @@
 ---
 title: "Responsible Caretaking: Integrating GPT Into Therapy"
-date: 2025-02-10T23:34:32.798Z
-updated: 2025-02-15T19:18:59.022Z
+date: 2025-02-25T16:26:13.526Z
+updated: 2025-03-04T22:05:52.379Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
  No, it doesn't have a framed degree hanging on its wall or years of expensive training from an Ivy League university. However, it can mimic therapeutic techniques based on your prompts. And even though it's not a real person, [ChatGPT can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), if you know how to use it correctly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The Art of Prompting for Mental Health Information
 
  Prompts are the questions or statements you feed to ChatGPT to guide its responses. They're like the steering wheel of your conversation—the more precise your directions, the more accurate your destination.
@@ -47,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  Or if you prefer a Buddhist lens, you could try "How would a Buddhist advise me to handle burnout?" For a more modern psychology approach, you could use a prompt like, "Give me cognitive behavioral strategies for managing anxiety."
 
 ![Screenshot of ChatGPT giving advice for managing stress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-08-12-am.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Alternatively, to mimic a trauma-informed counseling session, you might describe your situation followed by a question such as, "How can I approach managing stress with a trauma-informed perspective?"
 
@@ -66,19 +58,11 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 ![Screenshot of ChatGPT giving Stoic advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-06-50-am.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  By providing this additional context, you're helping ChatGPT generate more specific, tailored advice. Or, let's say you're struggling with a personal relationship. You could ask, "I had an argument with my friend because of a misunderstanding, and it's causing me a lot of distress. What would a therapist suggest I do to resolve this situation?"
 
  By layering your prompts in this way, you're training ChatGPT to provide more specific, relevant advice. You can also supercharge your prompt by adding something like, "Ask any follow-up questions to understand the situation better before providing a response". This will result in a response that more closely approximates a conversation with a mental health coach.
 
 ![Stoic advice provided by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-04-47-am.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Setting Healthy Boundaries With Your AI
 
@@ -91,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  Next, avoid sharing overly sensitive personal information. Remember, while ChatGPT doesn't store personal data, it's good practice to keep highly personal or sensitive topics offline. You never know where your words will end up.
 
  Also, make sure to balance your use of AI with friends and family and if necessary, other mental health resources. ChatGPT is a supplement, not a substitute. Keep up with your real-world people and never replace them with a chatbot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Know When to Seek Human Help
 
@@ -131,21 +111,17 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unleash-your-pcs-hidden-treasures-with-new-windows-10-games/"><u>[New] Unleash Your PC’s Hidden Treasures with New Windows 10 Games</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-clearer-iphone-hd-images-post-production-with-4-key-premiere-pro-fixes/"><u>[Updated] 2024 Approved Clearer iPhone HD Images Post-Production with 4 Key Premiere Pro Fixes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-up-to-date-strategies-for-youtube-earnings/"><u>2024 Approved Up-to-Date Strategies for YouTube Earnings</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210549589-9781913618278-ancient-egypt/"><u>Ancient Egypt | Free Book</u></a></li>
-<li><a href="https://facebook.techidaily.com/badminton-teams-disconnect-from-screens/"><u>Badminton Teams Disconnect From Screens</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogue-titles-pitting-googles-translation-against-ai/"><u>Dialogue Titles: Pitting Google's Translation Against AI</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/elite-selection-6-unmatched-tools-for-pristine-signature-edits-for-2024/"><u>Elite Selection - 6 Unmatched Tools for Pristine Signature Edits for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-continuous-crashing-issues-with-call-of-duty-warzone-20/"><u>How to Resolve Continuous Crashing Issues with Call of Duty Warzone 2.0</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introduction-to-administering-windows-component-tool/"><u>Introduction to Administering Windows' Component Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-enhanced-player-experiences-in-games/"><u>Leveraging AI for Enhanced Player Experiences in Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/non-disclosive-keeping-ai-dialogues-undetectable/"><u>Non-Disclosive Keeping: AI Dialogues Undetectable</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pre-interview-edge-utilizing-chatgpts-artificial-intelligence/"><u>Pre-Interview Edge: Utilizing ChatGPT's Artificial Intelligence</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplify-usb-drive-management-with-instant-adb-installation/"><u>Simplify USB Drive Management with Instant ADB Installation!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-dialogues-against-gpt-retention/"><u>Strategies for Securing Dialogues Against GPT' Retention</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-ai-how-vector-databases-contribute-to-progress/"><u>Transforming AI: How Vector Databases Contribute to Progress</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ai-its-role-rewards-and-risks-unveiled/"><u>Understanding AI: Its Role, Rewards & Risks Unveiled</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-audio-first-video-second-comparing-podcast-vs-youtube/"><u>[New] 2024 Approved Audio First, Video Second? Comparing Podcast vs YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-social-media-summit-twitters-top-10-tweets-for-2024/"><u>[New] Social Media Summit Twitter’s Top 10 Tweets for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cinema-craftsmanship-unleashed-youtube-green-screens-101-for-2024/"><u>[Updated] Cinema Craftsmanship Unleashed Youtube Green Screens 101 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-workplace-ethics-10-scenarios-involving-chatgpt-usage/"><u>Analyzing Workplace Ethics: 10 Scenarios Involving ChatGPT Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-crafting-protective-custom-exercise-regimens/"><u>ChatGPT: Crafting Protective, Custom Exercise Regimens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-knowledge-on-shared-link-mechanisms-in-ai/"><u>Essential Knowledge on Shared Link Mechanisms in AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-clashes-with-huggingchat-the-outcome/"><u>GPT Clashes with HuggingChat: The Outcome</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-auto-personalization-mastery/"><u>Harnessing ChatGPT for Auto Personalization Mastery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mental-gymnastics-at-the-best-puzzle-halls/"><u>Mental Gymnastics at the Best Puzzle Halls</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-pop-8-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Pop 8 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-instructions-setting-up-handbrake-and-libdvdcss-on-macwindows-11-for-dvd-ripping/"><u>Step-by-Step Instructions: Setting Up HandBrake and Libdvdcss on Mac/Windows 11 for DVD Ripping</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/worlds-beyond-borders-best-10-mmo-adventures-for-free-for-2024/"><u>Worlds Beyond Borders Best 10 MMO Adventures for Free for 2024</u></a></li>
 </ul></div>
 

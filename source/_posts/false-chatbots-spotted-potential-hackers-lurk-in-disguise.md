@@ -1,7 +1,7 @@
 ---
 title: "False ChatBots Spotted: Potential Hackers Lurk in Disguise"
-date: 2024-08-21T15:37:12.819Z
-updated: 2024-08-22T15:37:12.819Z
+date: 2025-03-03T19:23:19.641Z
+updated: 2025-03-04T22:16:51.926Z
 tags:
   - chatgpt
   - open-ai
@@ -43,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
@@ -67,21 +61,12 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Trojan-PSW.Win64.Fobo
 
  Kaspersky researchers discovered that cybercriminals were using a fake ChatGPT desktop client for Windows to distribute a stealer Trojan. The Trojan, dubbed Trojan-PSW.Win64.Fobo, if installed on the user’s computer, can steal account details stored in various browsers, including Chrome, Edge, Firefox, and Brave.
@@ -92,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
  Malicious actors are using ChatGPT-themed mobile apps and desktop clients to spread malware on computing devices. These apps often pose as free versions of premium ChatGPT and are commonly promoted through social media and email campaigns.
@@ -107,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +102,24 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-top-net-finds-high-quality-alarm-tones-for-2024/"><u>[New] Top Net Finds High-Quality Alarm Tones for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlocking-instagrams-video-upload-feature/"><u>[Updated] 2024 Approved Unlocking Instagram's Video Upload Feature</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-future-of-video-recording-best-camcorders-for-2024/"><u>[Updated] Future of Video Recording - Best Camcorders for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-tod-movavi/"><u>「無料で使えるOnline TODファイルを簡単に変換: MOVAVIのコツ」</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/3gppwmvmovavi/"><u>在線無限制地自由轉換: 3GPP至WMV，利用Movavi支援工具</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-samsung-smart-tv-qn55q60rafxza-high-end-4k-hd-hdr10plus-experience/"><u>Comprehensive Analysis of the Samsung Smart TV QN55Q60RAFXZA - High-End 4K HD, HDR10+ Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversao-de-audio-digital-download-e-gravacao-aberta-do-formato-m4a-pelo-site-da-movavi/"><u>Conversão De Áudio Digital: Download E Gravação Aberta Do Formato M4A Pelo Site Da Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/getting-it-right-an-expert-written-on-english-grammar-conjunctions-and-contractions/"><u>Getting It Right: An Expert' Written on English Grammar Conjunctions & Contractions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-dng-in-jpeg-online-vervangen-professioneel-gerechtificeren-met-movavi/"><u>Gratis DNG-In JPEG Online Vervangen - Professioneel Gerechtificeren Met Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/het-geheim-om-je-keel-ruim-te-knippen-vertellen-over-schijfopruiming-en-interieur-vrijmaking/"><u>Het Geheim Om Je Keel Ruim Te Knippen: Vertellen Over Schijfopruiming en Interieur Vrijmaking</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-film-making-mastery-guidebook/"><u>In 2024, Film Making Mastery Guidebook</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-rca-video-doorbell-exceptional-capabilities-and-features-explored/"><u>Reviewing the RCA Video Doorbell - Exceptional Capabilities and Features Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-video-player-apps-per-guardare-e-masterizzare-file-vob-su-windows-and-mac-il-guida-completa/"><u>Top Video Player Apps per Guardare E Masterizzare File VOB Su Windows & Mac: Il Guida Completa</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-file-nef-in-immagini-bmp-via-web-gratis-con-leditore-di-fotografie-facile-movavi/"><u>Trasforma I File NEF in Immagini BMP via Web Gratis Con L'Editore Di Fotografie Facile: Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-your-rights-and-obligations-with-movavis-end-user-license-contract/"><u>Understanding Your Rights and Obligations with Movavi's End-User License Contract</u></a></li>
+</ul></div>
 

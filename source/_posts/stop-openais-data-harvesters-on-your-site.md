@@ -1,7 +1,7 @@
 ---
 title: Stop OpenAI's Data Harvesters on Your Site
-date: 2024-08-21T15:36:49.028Z
-updated: 2024-08-22T15:36:49.028Z
+date: 2025-02-27T18:57:12.189Z
+updated: 2025-03-05T01:26:38.559Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
  Here's how to control what GPTBot can do on your website:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Completely Block GPTBot From Accessing Your Website
 
 1. [Set up the robot.txt file](https://www.makeuseof.com/tag/how-to-correctly-set-up-robots-txt/), and then edit it with any text editing tool.
@@ -55,9 +51,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 `User-agent: GPTBot  
 Disallow: /`
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Block Only Certain Pages From Being Accessed by GPTBot
 
 1. Set up the **robot.txt** file, and then edit it with your preferred text editing tool.
@@ -69,9 +62,6 @@ Disallow: /directory-2/`
 
  However, keep in mind that changing the **robot.txt** file is not a retroactive solution, and any information that GPTBot may have already gathered from your website will not be recoverable.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## OpenAI Allows Website Owners to Opt-Out From Crawling
 
  Ever since crawlers have been used to train AI models, website owners have been looking for ways to keep their data private.
@@ -84,14 +74,11 @@ Disallow: /directory-2/`
 
  OpenAI's ChatGPT uses crawlers to scrape websites, but if you're a website owner, and you don't want OpenAI's crawler to access your website, here are a few things that you can do to prevent it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +87,19 @@ Disallow: /directory-2/`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-find-your-next-favorite-free-video-player-in-our-top-12-picks-pcmobile/"><u>[New] 2024 Approved Find Your Next Favorite Free Video Player in Our Top 12 Picks (PC/Mobile)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029697316-fm/"><u>簡単なステップでFM特番をレコーディングする方法：忙しい人向け</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-no-cost-photo-enhancement-tools-on-windows-platforms/"><u>Best No-Cost Photo Enhancement Tools on Windows Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-nef-a-linea-sin-coste-metodo-eficiente-con-movavi/"><u>Conversión NEF a Línea Sin Coste: Método Eficiente Con Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-at-toms-computer-gear-hub/"><u>Expert Analysis at Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/geavanceerd-online-konverteren-van-rw2-fiches-gratis-met-movavi-opgeluchterde-instructies/"><u>Geavanceerd Online Konverteren Van RW2 Fiches Gratis Met Movavi - Opgeluchterde Instructies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-a1x-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo A1x 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-google-photos-full-potential/"><u>In 2024, Leveraging Google Photos' Full Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-suite-logicielle-transformez-votre-multimedia-en-moins-dheures/"><u>Movavi Suite Logicielle : Transformez Votre Multimédia en Moins D'Heures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-for-the-best-affordable-power-banks-overcoming-challenges-with-20-anker-charger/"><u>Top Picks for the Best Affordable Power Banks - Overcoming Challenges with $20 Anker Charger</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-gif-accelerators-online-and-mobile-solutions/"><u>Updated 2024 Approved Top GIF Accelerators Online and Mobile Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223425079-jpeggifmovavi/"><u>オンラインフリー変換: JPEGおよびGIFをMovaviでシームレスに変換する方法</u></a></li>
+</ul></div>
 

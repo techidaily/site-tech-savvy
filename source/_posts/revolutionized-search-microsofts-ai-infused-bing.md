@@ -1,7 +1,7 @@
 ---
 title: "Revolutionized Search: Microsoft's AI-Infused Bing"
-date: 2025-02-08T22:48:26.227Z
-updated: 2025-02-15T22:22:29.806Z
+date: 2025-02-27T17:44:51.973Z
+updated: 2025-03-05T01:14:05.412Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Microsoft Prometheus Model?
 
  Microsoft has branded Bing and the Edge browser as your AI copilot for the web. Undoubtedly, the new [AI-powered Bing packs some huge upgrades](http://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , but it’s essential to understand how they’re made possible.
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
  The Prometheus model powers the new Bing to deliver summarized search results that are more relevant and can even answer composite search queries.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A New Generation of AI for Web Searching
 
  As a result of Bing’s AI transition, web searching will fundamentally change. In the near future, we won’t have to explore a list of potentially relevant results aimlessly. Instead, AI chatbots will give us the precise information we need to be styled in a format of your choosing.
@@ -53,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
  For instance, if you had to do homework for Science class, you’d typically end up querying Google for information related to your topic. The search engine would then return you a list of sites it thinks are relevant to your specific search query, and finally, you’d explore some of the top-ranked sites to get accurate and relevant information.
 
 ![Google app on the home screen of a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-google-fi-phones.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the AI-powered Bing, you can specifically query it to give you a list of important points related to your Science class, and Bing will provide you with precisely that. You won’t have to explore multiple retrieved search results. Instead, you can rest assured that Bing has all the correct answers you need, thanks to its AI-powered search algorithm.
 
@@ -68,17 +56,9 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
 ![Icons of multiple web browsers on a wooden board background](https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While we’re certainly still a long way from seeing web browsers go obsolete, but we can expect functional upgrades that make it easy to access AI-powered web searching and content generation. Perhaps other browsers, such as Chrome and Opera, will adopt something similar to Edge’s new AI sidebar.
 
 [Google is expected to release its Bard competitor](https://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) to Microsoft’s AI-powered Bing very soon. Once it’s launched and possibly integrated with Google Chrome, we’ll have a better idea of how web browsers will evolve in the coming future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bing Redefines Searching Using AI
 
@@ -99,16 +79,20 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-add-instagram-filter-to-existing-photos-and-videos/"><u>[New] 2024 Approved How to Add Instagram Filter to Existing Photos and Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nveiling-the-art-of-youtube-split-screens-for-2024/"><u>[New] Unveiling the Art of YouTube Split-Screens for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-dual-lens-approach-gaining-audience-insight-with-3-pov-strategies-for-youtube-reactions/"><u>[Updated] In 2024, The Dual Lens Approach Gaining Audience Insight with 3 POV Strategies for YouTube Reactions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/acces-exclusif-aux-films-en-haute-definition-4k-et-maitrise-des-classiques-cinematographiques/"><u>Accès Exclusif Aux Films en Haute Définition 4K Et Maîtrise Des Classiques Cinématographiques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/going-beyond-chatgpt-what-does-the-future-hold-for-generative-ai-and-chatbots/"><u>Going Beyond ChatGPT: What Does the Future Hold for Generative AI and Chatbots?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/i-migliori-programmi-di-compressione-video-per-minimizzare-le-dimensioni-dei-file-una-guida-completa/"><u>I Migliori Programmi Di Compressione Video per Minimizzare Le Dimensioni Dei File: Una Guida Completa</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-maximizing-mobile-video-quality-your-phone-as-a-webcam/"><u>In 2024, Maximizing Mobile Video Quality Your Phone as a Webcam</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-storytelling-6-gpt-powered-strategies/"><u>Mastering Storytelling: 6 GPT-Powered Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-job-functions-with-the-help-of-advanced-gpt-technology/"><u>Optimize Your Job Functions with the Help of Advanced GPT Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-your-conversation-superpowers-overlooked-gpt-features/"><u>Unlock Your Conversation Superpowers: Overlooked GPT Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/vrchat-stability-guide-eight-key-solutions-to-prevent-your-game-from-crashing-on-windows/"><u>VRChat Stability Guide: Eight Key Solutions to Prevent Your Game From Crashing on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-efficient-use-of-obs-with-zoom-video-platform/"><u>[New] 2024 Approved Efficient Use of OBS with Zoom Video Platform</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-discovering-the-stars-that-sparkle-in-your-domains-social-space-for-2024/"><u>[New] Discovering the Stars that Sparkle in Your Domain's Social Space for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-cross-platform-communication-twitch-and-whatsapp-synergy-for-2024/"><u>[Updated] Mastering Cross-Platform Communication Twitch & WhatsApp Synergy for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-expert-tips-opening-and-playing-srt-on-pcmac/"><u>2024 Approved Expert Tips Opening and Playing SRT on PC/Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210193888-9780578830605-christ-renewed-everything-about-me/"><u>CHRIST RENEWED EVERYTHING ABOUT ME | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unleashing-voice-commands-with-top-mac-translation-programs/"><u>In 2024, Unleashing Voice Commands with Top Mac Translation Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-repairing-system-call-failed-on-windows/"><u>Master the Art of Repairing System Call Failed on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-pet-accessories-you-must-have-this-year-recommended-by-zdnet/"><u>Smart Pet Accessories You Must Have This Year - Recommended by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-the-best-inflatable-pools-a-comprehensive-review-for-quick-setup-zdnet/"><u>The Ultimate List of the Best Inflatable Pools : A Comprehensive Review for Quick Setup | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-must-have-tools-for-diy-projects-the-perfect-fathers-day-present-guide-curated-by-zdnet/"><u>Top 10 Must-Have Tools for DIY Projects: The Perfect Father's Day Present Guide, Curated by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-compact-tire-compressors-the-ultimate-guide-zdnet/"><u>Top 5 Compact Tire Compressors : The Ultimate Guide - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-premium-action-cams-expert-reviews-and-comparisons-techradar/"><u>Top 5 Premium Action Cams : Expert Reviews and Comparisons | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-spine-chilling-animatronic-creations-for-the-spookiest-holiday-2022-edition/"><u>Top 5 Spine-Chilling Animatronic Creations for the Spookiest Holiday - 2022 Edition!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-ultimate-inflatable-kayak-picks-according-to-zdnet/"><u>Top 5 Ultimate Inflatable Kayak Picks , According to ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/zoomview-partition-inspection-for-2024/"><u>ZoomView Partition Inspection for 2024</u></a></li>
 </ul></div>
 

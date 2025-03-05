@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Camera Duel: Pixel 9XL Against iPhone 15 Pro - Stunning Results & a Shocking Twist!"
-date: 2025-02-10T20:16:28.431Z
-updated: 2025-02-15T20:29:02.843Z
+date: 2025-02-26T21:18:05.392Z
+updated: 2025-03-05T02:26:53.585Z
 tags:
   - apple
 categories:
@@ -31,10 +31,6 @@ The Google Pixel 9 Pro and 9 Pro XL come equipped with a 50MP primary camera, a 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pixel gets skin tones right
 
@@ -80,10 +76,6 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A clear winner in night time
 
 1x indoor with artificial lights
@@ -110,10 +102,6 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pixel 9 Pro XL gets good at selfies
 
 Zoomed out selfies
@@ -123,10 +111,6 @@ Prakhar Khanna/ZDNET
 I like the selfie shooter on the iPhone 15 Pro and have found it better than Android phones. But it tends to blow out highlights sometimes. I didn't find that to be an issue on the Pixel 9 Pro. The above two selfies were taken in zoomed-out mode to check for the edge distortion (none) and FoV. 
 
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
 
@@ -170,18 +154,24 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-guide-mastering-ez-grabber/"><u>[New] In 2024, Step-by-Step Guide Mastering EZ Grabber</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-enhance-your-ig-visuals-with-three-effective-video-descriptions/"><u>[Updated] Enhance Your IG Visuals with Three Effective Video Descriptions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-maximizing-your-youtube-income-understanding-adsense-payments-for-every-1k-watch/"><u>[Updated] In 2024, Maximizing Your Youtube Income Understanding AdSense Payments for Every 1K Watch</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-crypto-dialogues-gpts-top-8-integrative-tools-revealed/"><u>Augmenting Crypto Dialogues: GPT's Top 8 Integrative Tools Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-codegpt-the-future-of-programming-with-ai/"><u>Deciphering CodeGPT: The Future of Programming with AI?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-essentials-of-logging-live-performances-online/"><u>In 2024, The Essentials of Logging Live Performances Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-8-essential-methods/"><u>Mastering GPT: 8 Essential Methods</u></a></li>
-<li><a href="https://solve-info.techidaily.com/optimized-with-cookiebot-technology-for-smarter-online-engagement-tracking/"><u>Optimized with Cookiebot Technology for Smarter Online Engagement Tracking</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rise-of-virtual-therapy-top-5-bot-innovations/"><u>The Rise of Virtual Therapy: Top 5 Bot Innovations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/to-upgrade-or-not-to-upgrade-deciding-on-ios-17-for-your-device/"><u>To Upgrade or Not to Upgrade: Deciding on iOS 17 for Your Device</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/understanding-cropping-settings-in-digital-editors-for-2024/"><u>Understanding Cropping Settings in Digital Editors for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vision-to-visuals-craft-your-story-with-youtube-editor/"><u>[New] In 2024, From Vision to Visuals Craft Your Story with YouTube Editor</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-revolutionary-additions-to-windows-11-for-2024/"><u>[New] Revolutionary Additions to Windows 11 for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-screensnapper-review-latest-tech/"><u>[Updated] 2024 Approved ScreenSnapper Review - Latest Tech</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-transform-personal-experiences-through-direct-webcam-capture-using-vlc/"><u>[Updated] In 2024, Transform Personal Experiences Through Direct Webcam Capture Using VLC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-top-rated-chrome-vpn-plugins-comprehensive-reviews-and-comparisons-experts-picks/"><u>1. Top-Rated Chrome VPN Plugins: Comprehensive Reviews & Comparisons - Experts' Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2-ultimate-tutorial-configuring-vpn-services-directly-through-your-wireless-gateway-networkworld/"><u>2. Ultimate Tutorial: Configuring VPN Services Directly Through Your Wireless Gateway | NetworkWorld</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-keyword-compendium-for-gamers-youtube-vids/"><u>2024 Approved The Ultimate Keyword Compendium for Gamers' YouTube Vids</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-narzo-60x-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme Narzo 60x 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-vpn-providers-to-secure-your-online-learning-experience-2023s-top-picks-from-zdnet/"><u>Best VPN Providers to Secure Your Online Learning Experience: 2023'S Top Picks From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-offer-5-year-long-vpn-service-for-less-than-40-today-find-your-privacy-on-zdnet/"><u>Exclusive Offer: 5-Year Long VPN Service for Less than $40 Today | Find Your Privacy on ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meet-claude-anthropics-breakthrough-technology-to-revolutionize-amazon-alexa-zdnet-exclusive-coverage/"><u>Meet 'Claude': Anthropic's Breakthrough Technology to Revolutionize Amazon Alexa | ZDNET Exclusive Coverage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outperforms-in-functionality-and-design-compared-to-its-rivals/"><u>Outperforms in Functionality and Design Compared to Its Rivals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/refine-your-ai-talks-innovative-prompts-for-better-outputs/"><u>Refine Your AI Talks: Innovative Prompts for Better Outputs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-free-ios-vpn-services-you-can-trust-a-comprehensive-review-apple-devices-guide/"><u>Top 4 Free iOS VPN Services You Can Trust: A Comprehensive Review - Apple Devices Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-notch-audio-experience-discover-the-ultimate-non-sony-non-bose-soundbar-reviewed-on-zdnet/"><u>Top-Notch Audio Experience: Discover the Ultimate Non-Sony, Non-Bose Soundbar Reviewed on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-smart-home-innovations-in-2-cuisineyear-comprehensive-testing-by-tech-gurus-zdnet/"><u>Top-Rated Smart Home Innovations in 2 Cuisine_year - Comprehensive Testing by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://driver-error.techidaily.com/what-to-do-when-dolby-digital-sound-isnt-playing-on-windows-answer-found/"><u>What to Do When Dolby Digital® Sound Isn’t Playing on Windows – Answer Found!🔧</u></a></li>
 </ul></div>
 

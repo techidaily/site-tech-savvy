@@ -1,7 +1,7 @@
 ---
 title: Navigating Pitfalls in Text Generation with ChatGPT
-date: 2025-02-12T19:19:14.607Z
-updated: 2025-02-16T02:20:41.924Z
+date: 2025-02-28T20:30:39.557Z
+updated: 2025-03-04T21:22:17.331Z
 tags:
   - chatgpt
   - open-ai
@@ -42,19 +42,11 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
 ![ChatGPT reminds user to double check information it provides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-50.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  OpenAI CEO Sam Altman also mentions in an [ABC News video interview](http://www.youtube.com/watch?v=540vzMlf-54) that users should be more cautious about ChatGPT's "hallucinations problem." It can confidently state made-up ideas as if they were facts. A single incident like CNET's can damage your credibility as an authoritative source.
 
  It's easy to blindly accept ChatGPT's output when you don't have enough knowledge to evaluate the results. Moreover, you might not bother to check a different point of view when ChatGPT's answers align with your beliefs. To avoid these embarrassing situations, fact-check, seek multiple perspectives, and get expert advice.
 
  If you're learning to use ChatGPT for content creation, include [what AI hallucination is and how you can spot it](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) in your list of topics to master. More importantly, don't disregard human judgment and creativity. Remember, AI should augment your thinking and not replace it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Don't Ask ChatGPT for Research Links
 
@@ -88,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 * If you need sources for academic research, check [Google Scholar](https://scholar.google.com/) or [Elicit](http://elicit.org/), an AI research assistant.
 * Remember to critically assess the results and exercise judgment when selecting which ones to cite.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Don't Replace Workplace Connections With ChatGPT
 
  Some [things that you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) might tempt you to anthropomorphize it or give it human attributes. For instance, you can ask ChatGPT for advice and chat with it if you need someone to talk to.
@@ -116,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
 ![ChatGPT giving a wrong answer to a prompt asking for a summary of Eric Allen's article on Hackernoon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-44.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To help ChatGPT, we copy-pasted the article in parts and asked for a summary after each upload. This time, ChatGPT was able to accomplish the task accurately. At one point, it gave us a comment instead of a summary, but we redirected it using another prompt.
 
 ![Conversation with ChatGPT asking to summarize a blog on Hackernoon by Eric Allen, which was uploaded in parts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-43.jpg)
@@ -127,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
  This example was a learn-by-doing experiment on how to use ChatGPT to summarize long and technical articles effectively. However, you can now access many internet resources and [learn prompting techniques to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
 
  Using recommended prompts is not a fail-safe method against hallucinations, but it can help you deliver accurate results. You can also review the [best ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) for more information on prompting techniques.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Maximize ChatGPT Capabilities, but Be Mindful of Its Limits
 
@@ -157,17 +137,22 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-capture-and-save-fb-videos-on-windows-mac/"><u>[New] In 2024, Capture and Save FB Videos on Windows, Mac</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-virtual-horizons-redefining-the-movie-experience-for-2024/"><u>[New] Virtual Horizons Redefining the Movie Experience for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-green-screen-recording-tools/"><u>[Updated] 2024 Approved Best Green Screen Recording Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-storytelling-engaging-text-based-rpg-with-chatgpt/"><u>Digital Storytelling: Engaging Text-Based RPG with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-artificial-companions-in-psychological-care/"><u>Evaluating Artificial Companions in Psychological Care</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fifa-19s-triumph-a-deep-dive-into-its-status-as-the-ultimate-soccer-simulation-game/"><u>FIFA 19'S Triumph: A Deep Dive Into Its Status as the Ultimate Soccer Simulation Game</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-potential-in-revolutionizing-medical-services/"><u>GPT's Potential in Revolutionizing Medical Services</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-os-18-update-find-out-which-devices-work-and-dont-with-the-latest-apple-software/"><u>IPhone OS 18 Update: Find Out Which Devices Work & Don't with the Latest Apple Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shielding-sensitive-information-from-customized-ai/"><u>Shielding Sensitive Information From Customized AI</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/snapping-success-the-best-4-methods-for-chrome-os-screenshots/"><u>Snapping Success The Best 4 Methods for Chrome OS Screenshots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/subscriptionshutdowns-seeking-new-access-era/"><u>SubscriptionShutdowns: Seeking New Access Era</u></a></li>
-<li><a href="https://win-blog.techidaily.com/understanding-and-fixing-persistent-blender-program-shutdowns-in-windows-environments/"><u>Understanding and Fixing Persistent Blender Program Shutdowns in Windows Environments</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-accelerate-your-contents-view-count-1kplus-in-time/"><u>[New] In 2024, Accelerate Your Content's View Count 1K+ in Time</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/capturar-la-pantalla-con-excelencia-en-windows-top-5-herramientas-para-grabar-cualquier-parte-del-escritorio/"><u>Capturar La Pantalla Con Excelencia en Windows: Top 5 Herramientas Para Grabar Cualquier Parte Del Escritorio</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-turn-off-and-on-hibernate-feature-in-windows-10/"><u>How to Turn Off and On Hibernate Feature in Windows 10</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-apex-artists-among-online-video-titans/"><u>In 2024, Apex Artists Among Online Video Titans</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ize-youtube-video-the-ultimate-guide-to-ad-revenue/"><u>Monetize YouTube Video | The Ultimate Guide to Ad Revenue</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cutter-studio-for-2024/"><u>PixelCutter Studio for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-a-vpn-connection-on-windows-11-tips-and-tricks/"><u>Step-by-Step Guide: Setting Up a VPN Connection on Windows 11 – Tips and Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-instructions-activating-vpn-features-in-home-routers-insights-by-zdnet/"><u>Step-by-Step Instructions: Activating VPN Features in Home Routers - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-five-critical-considerations-for-acquiring-used-and-revamped-laptops/"><u>The Five Critical Considerations for Acquiring Used and Revamped Laptops</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-powershot-sx530-review-where-novices-meet-cameras/"><u>The PowerShot SX530 Review: Where Novices Meet Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-ideal-school-friendly-vpn-services-of-2023-a-comprehensive-guide-by-zdnet/"><u>Top 5 Ideal School-Friendly VPN Services of 2023 - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-current-vpn-promotions-exclusive-offers-on-zdnet/"><u>Top Current VPN Promotions: Exclusive Offers on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-2024-travelers-vpn-selection-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking 2024 Traveler's VPN Selection: Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-android-vpns-comprehensive-experts-analysis-and-ratings-techradar/"><u>Top-Ranking Android VPNs : Comprehensive Experts' Analysis & Ratings | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-android-vpns-comprehensive-reviews-by-tech-gurus-find-the-optimal-choice-now/"><u>Top-Ranking Android VPNs : Comprehensive Reviews by Tech Gurus - Find the Optimal Choice Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mobile-vpn-services-in-depth-analysis-and-reviews-techradar/"><u>Top-Ranking Mobile VPN Services : In-Depth Analysis & Reviews - TechRadar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-error-0xc0000185-definition-causes-and-solutions/"><u>Understanding Error 0xC0000185: Definition, Causes & Solutions</u></a></li>
 </ul></div>
 

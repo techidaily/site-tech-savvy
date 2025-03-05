@@ -1,7 +1,7 @@
 ---
 title: Seamless Integration of Microsoft Copilot Into Your Mac
-date: 2025-02-15T00:21:16.763Z
-updated: 2025-02-15T16:17:22.834Z
+date: 2025-03-01T18:30:21.371Z
+updated: 2025-03-04T20:30:34.404Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 
 ![Microsoft Copilot on the App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-on-the-app-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have an Apple silicon Mac, you're in luck because you can install and run the iPad version of Microsoft Copilot on your computer. Here's how:
 
 1. Launch the **App Store** app on your Mac from the Dock, Launchpad, or [the Applications folder in Finder](https://www.makeuseof.com/applications-folder-mac/).
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 ![Dragging Copilot app from Launchpad to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/dragging-copilot-app-from-launchpad-to-the-dock.jpg)
 
  Double-click its icon to start using Copilot right away. Jump to the **Getting Started** section below to get acquainted with the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Launch Copilot on Mac With a Keyboard Shortcut
 
@@ -78,17 +70,9 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other [useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/). Then, hit the **Return** key.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Install Microsoft Copilot as a Web App on Your Mac
 
@@ -115,17 +99,9 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 ![Changing tone in the Copilot app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/changing-tone-in-the-copilot-app.jpg)
 4. Additionally, you can click **Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At this point, you're all set to use Copilot on your Mac at its full potential. If you want to make further tweaks, click the **three-line** icon in the top-left corner to access the app's settings menu. Here, you can change the theme, region and language, permissions, and privacy settings for Copilot.
 
  You can clear your Copilot search history by heading to the app's privacy settings menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Benefits of Using Copilot Over ChatGPT
 
@@ -152,20 +128,24 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-locate-hidden-watch-video-preview/"><u>[New] Locate Hidden Watch Video Preview</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-modern-techniques-for-gesture-interpretation/"><u>[Updated] 2024 Approved Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-photo-zoom-pro-7-the-image-resizer/"><u>[Updated] In 2024, Photo Zoom Pro 7- the Image Resizer</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlock-social-media-secrets-with-instagram-insights/"><u>[Updated] In 2024, Unlock Social Media Secrets with Instagram Insights</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-seamless-integration-getting-snapchat-on-macos/"><u>[Updated] Seamless Integration Getting Snapchat on macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-enabled-prompt-engineering-understanding-its-professional-landscape/"><u>AI-Enabled Prompt Engineering: Understanding Its Professional Landscape</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-chatbot-security-in-digital-age/"><u>Assessing Chatbot Security in Digital Age</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chuckling-ai-pc-history-and-enhanced-web-safety-chronicles/"><u>Chuckling AI: PC History & Enhanced Web Safety Chronicles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-out-securing-your-online-privacy/"><u>GPT Out: Securing Your Online Privacy</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-year-in-the-market-top-15-finance-videos/"><u>In 2024, A Year in the Market Top 15 Finance Videos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-fujitsu-scansnap-ix1600-revolutionizing-desktop-document-scanning-experience/"><u>In-Depth Look at the Fujitsu ScanSnap iX1600 - Revolutionizing Desktop Document Scanning Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-dall-e-3-for-rapid-webp-to-standard-image-changes/"><u>Leveraging DALL-E 3 for Rapid WebP to Standard Image Changes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-diplomatic-corporate-e-mail-writing-with-gpt/"><u>Mastering the Art of Diplomatic Corporate E-Mail Writing with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-dialogue-potential-the-threefold-use-of-chatgpt-wolfram-plugin/"><u>Unraveling Dialogue Potential: The Threefold Use of ChatGPT-Wolfram Plugin</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-secure-and-sync-your-cinematic-recordings-across-platforms/"><u>[New] In 2024, Secure and Sync Your Cinematic Recordings Across Platforms</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-understanding-your-needs-for-a-precise-vimeo-subscription-level/"><u>[New] In 2024, Understanding Your Needs for a Precise Vimeo Subscription Level</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-moviemakermag-extreme-review-complete-take-on-androvid-editor/"><u>[New] MovieMakerMag Extreme Review – Complete Take on AndroVid Editor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-odins-children-ragnaroks-reign/"><u>[New] Odin’s Children Ragnarok’s Reign</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>2024 Approved Streamline Your Slide Show Enable Voice Input with PowerPoint</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-fake-identifying-valid-chatgpt-software/"><u>Avoid Fake: Identifying Valid ChatGPT Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-gpt-experience-steer-clear-of-mistakes/"><u>Enhancing Your GPT Experience: Steer Clear of Mistakes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-gptplus-subscription-merits/"><u>Exploring GPT+ Subscription Merits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/futuristic-computing-unveiling-this-seasons-quintessential-ai-innovations/"><u>Futuristic Computing: Unveiling This Season's Quintessential AI Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-application-safe-or-unsafe-in-cybersecurity/"><u>GPT's Application: Safe or Unsafe? In Cybersecurity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-professional-resume-success/"><u>Harnessing ChatGPT for Professional Résumé Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-8-tips-on-how-to-vlog-confidently-like-popular-youtubers/"><u>In 2024, 8 Tips on How to Vlog Confidently Like Popular YouTubers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 12 mini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-conversations-merging-siri-and-chatgpt-on-iphone/"><u>Innovative Conversations: Merging Siri & ChatGPT on iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/offizielle-technische-details-und-funktionen-von-winxvideos-ki-programm-eine-umfassende-ubersicht/"><u>Offizielle Technische Details Und Funktionen Von winXvideo's KI-Programm: Eine Umfassende Übersicht</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-live-feed-rates-on-task-monitor-win-11/"><u>Optimize Live Feed Rates on Task Monitor Win 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-ftdibus-malfunctions-how-incompatible-drivers-impact-memory-safety/"><u>Understanding Ftdibus Malfunctions: How Incompatible Drivers Impact Memory Safety</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-googles-ai-gemini-vision-workings-and-development/"><u>Understanding Google's AI Gemini: Vision, Workings & Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionaries-unite-global-insights-on-ai-advancements/"><u>Visionaries Unite: Global Insights on AI Advancements</u></a></li>
 </ul></div>
 

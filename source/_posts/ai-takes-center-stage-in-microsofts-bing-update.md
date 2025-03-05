@@ -1,7 +1,7 @@
 ---
 title: AI Takes Center Stage in Microsoft's Bing Update
-date: 2025-02-14T22:00:35.203Z
-updated: 2025-02-15T22:26:33.918Z
+date: 2025-02-26T16:50:36.083Z
+updated: 2025-03-04T21:30:12.039Z
 tags:
   - chatgpt
   - open-ai
@@ -28,27 +28,15 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
 
  OpenAI is the company responsible for [ChatGPT–the AI-powered chatbot](http://www.makeuseof.com/how-to-use-chatgpt-by-openai/) that can generate content, answer questions, create marketing strategies, fix code bugs, and more. The AI research lab also launched DALL-E 2 late last year, capable of [generating images based on textual prompts](https://www.makeuseof.com/how-to-use-dall-e-2/) .
 
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
 
  According to [Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's New in Bing?
 
@@ -64,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
@@ -75,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
  Once you’ve configured the Microsoft Edge on your device, you can directly engage with its AI capabilities, including two core features,**Chat** and**Compose** , that will be integrated into a new version of the Edge sidebar.
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
@@ -105,17 +85,20 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-artistic-edge-premium-text-tools-for-adobe-after-effects/"><u>[New] 2024 Approved The Artistic Edge Premium Text Tools for Adobe After Effects</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-10-tips-recording-your-youtube-livestreams/"><u>[New] In 2024, Top 10 Tips Recording Your Youtube Livestreams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assisted-zen-overcoming-stress/"><u>AI-Assisted Zen: Overcoming Stress</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/calling-out-chatgpt-fakes-through-intentional-mentions/"><u>Calling Out ChatGPT Fakes Through Intentional Mentions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-open-mov-files-on-u23-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on U23 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-the-user-profile-service-failure-when-logging-into-windows-11/"><u>Effective Solutions for the 'User Profile Service Failure' When Logging Into Windows 11</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/efficient-video-trimming-methods-in-windows-11/"><u>Efficient Video Trimming Methods in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embrace-ai-wellness-top-9-ways-with-chatgpt/"><u>Embrace AI Wellness: Top 9 Ways with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-decide-what-to-watch-next/"><u>How to Use ChatGPT to Decide What to Watch Next</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-v30-lite-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo V30 Lite 5G online without jailbreak</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-ai-dialogues-5-best-online-classes/"><u>Innovating AI Dialogues: 5 Best Online Classes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-windows-10-dvd-player-showdown-top-10-free-options/"><u>New 2024 Approved Windows 10 DVD Player Showdown Top 10 Free Options</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-enhanced-b2c-strategies-via-brands-and-youtube-collaboration-for-2024/"><u>[New] Enhanced B2C Strategies via Brands & YouTube Collaboration for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-mastering-the-art-of-creating-an-original-tiktok-hashtag-for-2024/"><u>[New] Mastering the Art of Creating an Original TikTok Hashtag for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastery-guide-to-youtube-seo-title-tagging-and-description-tactics/"><u>[Updated] Mastery Guide to YouTube SEO Title, Tagging & Description Tactics</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-harnessing-the-power-camera-techniques-in-ios-11/"><u>2024 Approved Harnessing the Power Camera Techniques in iOS 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-cutting-edge-ai-no-monetary-exchange-required/"><u>Accessing Cutting-Edge AI: No Monetary Exchange Required</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auditory-orchestration-for-powerful-gpt-interactions/"><u>Auditory Orchestration for Powerful GPT Interactions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-cant-start-maplestory-essential-solutions-to-get-your-favorite-game-running-smoothly-again/"><u>Beat 'Can't Start Maplestory': Essential Solutions to Get Your Favorite Game Running Smoothly Again</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-fees-with-gpt-4-access-top-4-methods/"><u>Bypassing Fees with GPT-4 Access: Top 4 Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgptplus-the-future-of-personalized-language-education/"><u>ChatGPT+: The Future of Personalized Language Education</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/configuring-codegpt-for-vs-code-enhancement/"><u>Configuring CodeGPT for VS Code Enhancement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-the-latest-in-smartwatches-preorder-an-apple-watch-series-10-for-just-99-at-best-buy-the-ultimate-guide/"><u>Experience the Latest in Smartwatches: Preorder an Apple Watch Series 10 for Just $99 at Best Buy - The Ultimate Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/protecting-your-bitcoin-assets-comprehensive-guide-to-secure-crypto-storage-by-yl-software-solutions/"><u>Protecting Your Bitcoin Assets: Comprehensive Guide to Secure Crypto Storage by YL Software Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/say-no-to-disguised-dangers-with-googles-bard-download/"><u>Say No to Disguised Dangers with Google’s Bard Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergy-in-ai-triple-combination-of-chatgpt-and-wolframalpha/"><u>Synergy in AI: Triple Combination of ChatGPT & WolframAlpha</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-issues-when-avatar-frontiers-of-pandora-fails-to-start/"><u>Troubleshooting Steps: Resolving Issues When 'Avatar: Frontiers of Pandora' Fails to Start</u></a></li>
 </ul></div>
 

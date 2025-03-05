@@ -1,7 +1,7 @@
 ---
 title: Top 6 Unhelpful GPT-3 Extensions Reconsidered
-date: 2025-02-08T17:54:24.565Z
-updated: 2025-02-16T01:05:10.677Z
+date: 2025-02-26T21:59:06.000Z
+updated: 2025-03-04T19:46:39.551Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
 
  To trigger the plugin, you're supposed to activate it, and then include the text "I am rich" in your prompt. What happens when you do this? Well, ChatGPT is supposed to load an image of a crystal with a glow around it. What purpose does the image serve? Unless you value it as "artwork," there's really nothing else it does.
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
  Years ago, there was an app on the Apple Store that cost around $999.99 which did the same thing. Once you installed the app, the only thing it did was show you the image. The only value it offered was showing people that you were rich enough to afford it.
 
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Aaron Web Browser
 
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
  The link leads to the AppyPie website, but there's actually no app waiting to be customized. You'll end up being prompted to register and subscribe to its no-code app-building platform. It's an annoying attempt at advertisement.
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI Agents
 
@@ -100,17 +88,9 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -139,17 +119,22 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-seamless-image-transformations-with-our-6-best-erasers-online-for-2024/"><u>[New] Seamless Image Transformations with Our 6 Best Erasers Online for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-setting-up-matrix-compatible-sinister-chain-addons-in-kodi/"><u>Easy Guide: Setting Up Matrix-Compatible Sinister Chain Addons in Kodi</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-audience-insights-with-cookiebot-technology/"><u>Enhanced Audience Insights with Cookiebot Technology</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-14-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 14 Pro</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/is-it-worth-the-cost-an-in-depth-look-at-the-swift-and-sophisticated-swagboard-t1-from-swagtron/"><u>Is It Worth the Cost? An In-Depth Look at the Swift and Sophisticated Swagboard T1 From Swagtron</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/llama-2-revolutionizing-workflows-and-task-management/"><u>Llama 2: Revolutionizing Workflows and Task Management</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/movavi-interactive-learning-portal-enhance-education-with-innovative-digital-tools/"><u>Movavi Interactive Learning Portal: Enhance Education with Innovative Digital Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/real-life-tests-of-chatgpts-potential/"><u>Real-Life Tests of ChatGPT's Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-communication-via-chatgpts-api/"><u>Seamless Communication via ChatGPT's API</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210694084-9781493076642-spooky-campfire-tales/"><u>Spooky Campfire Tales | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swiftly-dismantle-your-chatgpt-account/"><u>Swiftly Dismantle Your ChatGPT Account</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-accessible-ai-frontier-gpt-4-for-everyone/"><u>The Accessible AI Frontier: GPT-4 for Everyone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nified-streaming-techniques-for-youtube-and-top-networks-for-2024/"><u>[New] Unified Streaming Techniques for YouTube & Top Networks for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-watch-live-streaming-football-for-free-on-pc-or-mobile/"><u>[Updated] In 2024, How to Watch Live Streaming Football for Free on PC or Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-surprising-upgrade-how-the-ipad-airs-impressive-features-challenge-my-loyalty-to-the-ipad-pro-zdnet/"><u>A Surprising Upgrade: How the IPad Air's Impressive Features Challenge My Loyalty to the iPad Pro | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-giants-like-sony-and-jbl-find-out-which-speaker-delivers-unparalleled-immersion/"><u>Beyond Giants Like Sony and JBL, Find Out Which Speaker Delivers Unparalleled Immersion!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-perfect-apple-smart-speaker-a-detailed-comparison-between-homepod-and-homepod-mini/"><u>Choosing the Perfect Apple Smart Speaker: A Detailed Comparison Between HomePod and HomePod Mini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-wireless-sound-for-less-than-a-hundred-dollars-recommended-speakers-list-from-zdnet/"><u>Discover the Ultimate Wireless Sound for Less than a Hundred Dollars - Recommended Speakers List From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95948899-9781785355981-divining-with-animal-guides/"><u>Divining with Animal Guides | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experts-choice-a-ranking-of-top-smart-home-innovations-for-2n24-detailed-testing-and-analysis-zdnet/"><u>Experts' Choice: A Ranking of Top Smart Home Innovations for 2N24 - Detailed Testing & Analysis | ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-xiaomi-redmi-a2plus-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Xiaomi Redmi A2+ Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-12-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 12 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harness-the-sun-and-bulbs-for-stellar-iphone-photos/"><u>In 2024, Harness the Sun and Bulbs for Stellar Iphone Photos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-mastering-facebook-hashtags-for-strategic-marketing/"><u>In 2024, Mastering Facebook Hashtags for Strategic Marketing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-c55-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme C55 FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-living-space-on-a-budget-with-the-30-echo-dot-offer-smart-home-upgrade-tips-by-zdnet/"><u>Revolutionize Your Living Space on a Budget with the $30 Echo Dot Offer – Smart Home Upgrade Tips by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-kiddo-audio-gear-curated-by-experts/"><u>Ultimate Guide to the Finest Kiddo Audio Gear , Curated by Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-expert-picks-leading-wi-fi-audio-devices-reviewed-for-home-and-office-use/"><u>ZDNet's Expert Picks: Leading Wi-Fi Audio Devices Reviewed for Home and Office Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-selection-leading-audio-enhancers-for-2aster-years/"><u>ZDNet's Ultimate Selection: Leading Audio Enhancers for 2Aster Years</u></a></li>
 </ul></div>
 

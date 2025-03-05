@@ -1,7 +1,7 @@
 ---
 title: Is OpenAI's Dominance Over GPT Fading?
-date: 2025-02-15T00:46:05.774Z
-updated: 2025-02-15T18:13:36.779Z
+date: 2025-03-01T22:03:10.530Z
+updated: 2025-03-04T20:32:04.874Z
 tags:
   - chatgpt
   - open-ai
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
 ![How to cheat in an exams by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-cheat-in-an-exams.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
 
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
@@ -71,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
 ![hide a dead body by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-a-dead-body-by-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
@@ -88,27 +80,15 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Does the Future Hold for ChatGPT?
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent [ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
 
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can OpenAI Put ChatGPT Under Control?
 
@@ -131,24 +111,20 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-dissecting-the-livestream-battlefield-twitch-vs-youtube/"><u>[New] 2024 Approved Dissecting the Livestream Battlefield Twitch vs YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-navigating-free-art-online-a-guide-and-top-sites/"><u>[New] Navigating Free Art Online A Guide & Top Sites</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-phased-opening-visuals-for-2024/"><u>[New] Phased Opening Visuals for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-in-depth-review-the-complete-guide-to-streamlabs-obs/"><u>[Updated] 2024 Approved In-Depth Review The Complete Guide to Streamlabs OBS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-music-arrangement-tips/"><u>[Updated] 2024 Approved YouTube Music Arrangement Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-leading-chrome-voice-modifiers-select-top-5-extensions/"><u>[Updated] Leading Chrome Voice Modifiers Select Top 5 Extensions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-odins-fury-new-wrath-unleashed-for-2024/"><u>[Updated] Odin's Fury New Wrath Unleashed for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-mastery-a-critical-look-at-magix/"><u>2024 Approved Photographic Mastery A Critical Look at MAGIX</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artistic-defense-the-collective-suit-against-meta-and-openais-ai/"><u>Artistic Defense: The Collective Suit Against Meta & OpenAI's AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/car-enhancement-strategies-with-chatbot-expertise/"><u>Car Enhancement Strategies with Chatbot Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/co-pilot-and-you-enhancing-your-experience-with-chatgpts-new-features/"><u>Co-Pilot & You: Enhancing Your Experience with ChatGPT’s New Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-character-depth-essential-chatgpt-prompts-for-writers/"><u>Dive Into Character Depth: Essential ChatGPT Prompts for Writers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-meets-gearshifts-mercedes-voice-in-cars-revolution/"><u>GPT Meets Gearshifts: Mercedes' VOICE in Cars Revolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/handling-scams-at-phony-chatgpt-platforms/"><u>Handling Scams at Phony ChatGPT Platforms</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insight-into-ais-impact-on-prompt-design-and-employment-sustainability/"><u>Insight Into AI's Impact on Prompt Design & Employment Sustainability</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-the-world-of-books-with-these-5-artificous-intelligence-tools/"><u>Navigate the World of Books with These 5 Artificous Intelligence Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/screencast-strategies-unleashed-powerful-ideas-inside/"><u>Screencast Strategies Unleashed Powerful Ideas Inside</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-workings-of-predictive-ai-technologies/"><u>Unraveling the Workings of Predictive AI Technologies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-light-and-color-interplay-for-images-for-2024/"><u>[New] Light & Color Interplay for Images for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-discovering-8-cost-effective-video-meeting-software-options/"><u>[Updated] Discovering 8 Cost-Effective Video Meeting Software Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-mastering-the-art-of-dating/"><u>ChatGPT's Role in Mastering the Art of Dating</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquering-chatgpt-api-utilization-techniques/"><u>Conquering ChatGPT: API Utilization Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-out-what-version-you-have-a-guide-to-finding-your-macbooks-model-code/"><u>Find Out What Version You Have: A Guide to Finding Your MacBook's Model Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forge-bonds-faster-with-ai-love-assistant/"><u>Forge Bonds Faster with AI Love Assistant</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-an-informed-ai-selection-comparing-bing-chat-to-chatgpt/"><u>Making an Informed AI Selection: Comparing Bing Chat to ChatGPT</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-video-editing-face-off-final-cut-pro-vs-lumafusion-which-one-wins/"><u>New Video Editing Face-Off Final Cut Pro vs LumaFusion - Which One Wins?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-level-graphic-cards-for-4k-titles/"><u>Next-Level Graphic Cards for 4K Titles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/security-concerns-how-safe-is-chatgpt/"><u>Security Concerns: How Safe Is ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-chatgptplus-experience-transforming-how-we-learn-languages/"><u>The ChatGPT+ Experience: Transforming How We Learn Languages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/token-renaissance-with-gemini-15s-million-dollar-shift/"><u>Token Renaissance with Gemini 1.5'S Million-Dollar Shift</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unbeatable-tech-offers-find-them-this-amazon-prime-day/"><u>Unbeatable Tech Offers: Find Them This Amazon Prime Day</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-create-talking-cartoon-images-using-top-tools/"><u>Updated In 2024, Create Talking Cartoon Images Using Top Tools</u></a></li>
 </ul></div>
 

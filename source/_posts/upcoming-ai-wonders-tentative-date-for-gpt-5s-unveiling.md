@@ -1,7 +1,7 @@
 ---
 title: "Upcoming AI Wonders: Tentative Date for GPT-5's Unveiling?"
-date: 2025-02-12T19:57:49.711Z
-updated: 2025-02-15T16:13:58.736Z
+date: 2025-03-03T22:45:19.663Z
+updated: 2025-03-04T22:16:17.747Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will There Be a GPT-5?
 
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
@@ -46,17 +42,9 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  Here's a video of Altman's discussion below:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -72,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
@@ -85,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
  Also, there's been underground talk about GPT models being able to process videos, much like GPT-4 models can take images as inputs. So, we could possibly have a model that can process text, images, sound, and videos.
 
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
 
@@ -115,21 +95,24 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-essential-tags-to-amplify-your-youtube-gaming-channel/"><u>[New] In 2024, Essential Tags to Amplify Your YouTube Gaming Channel</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-a-day-in-the-life-on-facebook-enhancing-participation/"><u>[Updated] 2024 Approved A Day in the Life on Facebook Enhancing Participation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertly-selected-6-premier-tools-to-refine-your-images-online/"><u>2024 Approved Expertly Selected 6 Premier Tools to Refine Your Images Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-your-photos-utilizing-psxs-erase-feature/"><u>2024 Approved Perfecting Your Photos Utilizing PSX's Erase Feature</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-alternatives-to-kickasstorrents-top-5-sites-for-legal-movie-and-game-downloads/"><u>Best Alternatives To KickassTorrents: Top 5 Sites For Legal Movie & Game Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chat-ai-seen-the-issues-now-heres-why/"><u>Chat AI: Seen the Issues, Now? Here's Why</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-visionary-exploring-top-visual-computation-techniques/"><u>ChatGPT Visionary: Exploring Top Visual Computation Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/choosing-the-best-tv-show-streamers-your-definitive-guide/"><u>Choosing the Best TV Show Streamers - Your Definitive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fix-faults-in-your-computer-using-chatgpt-assistance/"><u>Fix Faults in Your Computer Using ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-novice-to-maestro-leverage-7-chatgpt-tools-for-cooking/"><u>From Novice to Maestro: Leverage 7 ChatGPT Tools for Cooking</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-tecno-camon-20-premier-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Tecno Camon 20 Premier 5G FRP Bypass</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/masterclasses-on-obtaining-visual-elements-for-2024/"><u>Masterclasses on Obtaining Visual Elements for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-repairing-a-500-internal-server-mishap/"><u>Solving the Mystery: A Step-by-Step Guide to Repairing a 500 Internal Server Mishap</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swiftly-improve-directions-with-the-help-of-7-online-applications/"><u>Swiftly Improve Directions with the Help of 7 Online Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergy-of-tech-and-comfort-mercedes-ai-voice-update/"><u>Synergy of Tech & Comfort: Mercedes' AI Voice Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-counseling-chatgpts-role-in-cbt/"><u>Transforming Counseling: ChatGPT's Role in CBT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieve-high-quality-streams-the-top-4k-youtube-tools/"><u>[Updated] Achieve High-Quality Streams The Top 4K YouTube Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/11-insider-tips-for-outstanding-hue-alignment/"><u>11 Insider Tips for Outstanding Hue Alignment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-delays-launch-of-anticipated-vision-pro-headset-sources-confirm-to-zdnet/"><u>Apple Delays Launch of Anticipated Vision Pro Headset, Sources Confirm to ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-pce-ac56-wifi-card-drivers-updated-for-seamless-windows-1087-integration/"><u>ASUS PCE-AC56 WiFi Card Drivers Updated for Seamless Windows 10/8/7 Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-benefits-of-vision-pros-latest-travel-functionality-insider-preview-and-tips-zdnet/"><u>Discover the Benefits of Vision Pro's Latest Travel Functionality – Insider Preview & Tips | ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-werfaultexe-application-error/"><u>Easy to Fix WerFault.exe Application Error</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-steps-installing-your-wacom-pen-displays-latest-drivers/"><u>Effortless Steps: Installing Your Wacom Pen Display's Latest Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-distance-collaboration-for-tech-experts-using-vr-and-digital-twins-a-zdnet-exploration/"><u>Enhancing Distance Collaboration for Tech Experts Using VR and Digital Twins – A ZDNet Exploration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-samsungs-new-vr-frontier-the-much-anticipated-xr-headset-teased-at-july-2024-unpacked-zdnet-insights/"><u>Exploring Samsung's New VR Frontier: The Much-Anticipated XR Headset Teased at July 2024 Unpacked | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-lenovo-thinkreality-a3-for-top-notch-mr-fun-findings-by-zdnet/"><u>Exploring the Lenovo ThinkReality A3 for Top-Notch MR Fun: Findings by ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-7-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 7? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-stream-apples-immersive-3d-experiences-on-your-oculus-quest-a-step-by-step-guide/"><u>How to Stream Apple's Immersive 3D Experiences on Your Oculus Quest: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-ce-3-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord CE 3 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-efficiency-using-multi-screen-virtual-reality-on-deal-alert-get-20-off-exclusive-xr-headsets-for-amazon-prime-members/"><u>Maximize Efficiency Using Multi-Screen Virtual Reality on Deal Alert! Get 20% Off Exclusive XR Headsets for Amazon Prime Members</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-shakes-up-tech-world-with-user-friendly-repairable-laptops-outshines-competitors-apple-on-notice/"><u>Microsoft Shakes Up Tech World with User-Friendly Repairable Laptops - Outshines Competitors; Apple on Notice!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-obstacles-in-implementing-digital-twins-a-guide-for-enterprises-techwise/"><u>Overcoming Obstacles in Implementing Digital Twins: A Guide for Enterprises | TechWise</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-optimal-sites-for-pixel-sounds-for-2024/"><u>Unveiling Optimal Sites for Pixel Sounds for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vr-headset-revolution-samsungs-new-strategy-with-vision-pro-led-lights-for-a-q4-2024-launch-zdnet-report/"><u>VR Headset Revolution: Samsung's New Strategy With Vision Pro LED Lights for a Q4 2024 Launch | ZDNET Report</u></a></li>
 </ul></div>
 

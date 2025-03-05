@@ -1,7 +1,7 @@
 ---
 title: "Maximize AI Potential: The Free Sidekick in Copilot & Turbo"
-date: 2025-02-11T22:49:12.911Z
-updated: 2025-02-15T23:49:09.883Z
+date: 2025-02-26T20:34:42.084Z
+updated: 2025-03-05T01:58:42.480Z
 tags:
   - chatgpt
   - open-ai
@@ -26,17 +26,9 @@ thumbnail: https://thmb.techidaily.com/396dd6f1f5f85b43c32a2f0c48b141d6c784c244e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
 
@@ -46,17 +38,9 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
@@ -77,10 +61,6 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
 
@@ -107,19 +87,17 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-delving-into-the-science-behind-vr-headsets-for-2024/"><u>[Updated] Delving Into the Science Behind VR Headsets for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-integrating-video-conferencing-mastering-skypes-screen-sharing-functionality/"><u>[Updated] Integrating Video Conferencing Mastering Skype's Screen Sharing Functionality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-products-best-free-and-paid-macpc-video-decoders/"><u>2024 Approved Prime Products Best Free & Paid Mac/PC Video Decoders</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration-for-2024/"><u>A Comprehensive Walkthrough for iMovie and YouTube Collaboration for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/c-partition-auf-ssd-transferieren-wie-sie-ihre-festplatte-wechseln-konnen-ohne-windows-neu-installieren-zu-mussen/"><u>C-Partition Auf SSD Transferieren - Wie Sie Ihre Festplatte Wechseln Können, Ohne Windows Neu Installieren Zu Müssen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-career-growth-exploring-6-approaches/"><u>ChatGPT and Career Growth: Exploring 6 Approaches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-cgps-credibility-for-medical-insights/"><u>Evaluating CGP's Credibility for Medical Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-grok-ai-its-role-relevance-and-pricing-as-explained-by-elon-musk/"><u>Exploring Grok AI: Its Role, Relevance & Pricing as Explained by Elon Musk</u></a></li>
-<li><a href="https://techtrends.techidaily.com/flac-vs-mp3-debate-settled-discover-high-quality-sound-solutions-with-movavis-expertise/"><u>FLAC vs MP3 Debate Settled: Discover High-Quality Sound Solutions with Movavi's Expertise</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-magic5-ultimate-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor Magic5 Ultimate Phones? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-video-content-defeating-10-vlogging-hurdles/"><u>In 2024, Mastering Video Content Defeating 10 Vlogging Hurdles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/increase-conversational-quality-key-techniques-for-chatgpt-improvement/"><u>Increase Conversational Quality: Key Techniques for ChatGPT Improvement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpts-latest-browsing-plugins-guide/"><u>Integrating ChatGPT's Latest Browsing Plugins Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essential-chatgpt-handbook/"><u>The Essential ChatGPT Handbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-portrait-of-creativity-discover-the-bestiary-of-8-inspiring-ios-drawing-apps/"><u>[New] Portrait of Creativity Discover the Bestiary of 8 Inspiring iOS Drawing Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-real-deal-behind-asmr-videos/"><u>[New] The Real Deal Behind ASMR Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-instantly-spice-up-videos-on-facebook-with-music-steps/"><u>[Updated] 2024 Approved Instantly Spice Up Videos on Facebook With Music Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-shorts-display-enhanced-update-complete/"><u>[Updated] Shorts Display Enhanced – Update Complete</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/capture-and-convert-fb-videos-immediitsly-to-mp3-for-2024/"><u>Capture and Convert FB Videos Immediitsly to MP3 for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-issues-preventing-iphone-from-icloud-backups-discover-9-fixes/"><u>Diagnosing and Repairing Issues Preventing iPhone From iCloud Backups: Discover 9 Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-casting-screen-from-macbook-to-hdtv-with-airplay-technology/"><u>Expert Advice on Casting Screen From MacBook to HDTV with AirPlay Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-comprehensive-hardware-reviews-and-guides/"><u>Tom's Tech Hub: Comprehensive Hardware Reviews & Guides</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-outdoor-projection-systems-comprehensive-expert-reviews-and-comparisons-zdnet/"><u>Top Rated Outdoor Projection Systems - Comprehensive Expert Reviews & Comparisons | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-led-flashlight-reviews-insights-from-industry-experts-techradar/"><u>Top-Rated LED Flashlight Reviews - Insights From Industry Experts | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-outdoor-projection-screens-comprehensive-reviews-and-buyers-guide-insights-from-tech-experts/"><u>Top-Rated Outdoor Projection Screens: Comprehensive Reviews & Buyer's Guide - Insights From Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-projector-picks-expert-reviews-and-comparisons/"><u>Top-Rated Portable Projector Picks - Expert Reviews & Comparisons</u></a></li>
 </ul></div>
 

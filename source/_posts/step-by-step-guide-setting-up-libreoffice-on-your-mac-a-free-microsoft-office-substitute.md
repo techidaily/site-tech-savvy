@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting up LibreOffice on Your Mac - A FREE Microsoft Office Substitute!"
-date: 2025-02-09T01:12:16.034Z
-updated: 2025-02-15T22:53:28.016Z
+date: 2025-02-28T22:32:14.421Z
+updated: 2025-03-05T00:22:33.227Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [How to customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-customize-your-iphones-new-control-center-with-ios-18/)
@@ -38,10 +34,6 @@ Even thinking about iTunes gives me a creepy-crawly feeling at the back of my ne
 But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Apple actually [released a security update](https://support.apple.com/en-us/HT213259) (12.12.4) just this past May for iTunes for Windows. iTunes is no longer shipped with MacOS, but Apple still technically supports it. According to [Apple's iTunes page](https://www.apple.com/itunes/), you can still run iTunes on any Mac that has an Intel processor. 
 
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
 
@@ -58,10 +50,6 @@ Scroll down to Subscriptions and click Manage. Mine says "Subscribe" because I a
 David Gewirtz/Screenshot
 
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
 
@@ -121,19 +109,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-undertaking-decoding-digital-picture-resolutions/"><u>[New] Ultimate Undertaking Decoding Digital Picture Resolutions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[Updated] How to Sculpt the Perfect YouTube Moniker Tips & Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cracking-linguistic-codes-comparing-gpt-with-bert-models/"><u>Cracking Linguistic Codes: Comparing GPT with BERT Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craftsmanship-and-ai-intersection-redefined-by-gpt-4/"><u>Craftsmanship and AI Intersection Redefined by GPT-4</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-chats-adding-tunes-via-whatsapp-status/"><u>Enhancing Chats Adding Tunes via WhatsApp Status</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-compress-to-caption-zip-to-srt-for-video-editors/"><u>In 2024, Compress to Caption ZIP-to-SRT for Video Editors</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-magic5-ultimate-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor Magic5 Ultimate Phone Now with These Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-driving-mercedes-fuses-chatgpt-and-voice-technology/"><u>Intelligent Driving: Mercedes Fuses ChatGPT & Voice Technology</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-sound-purification-techniques-how-to-combat-persistent-echoes-and-hiss/"><u>New 2024 Approved Sound Purification Techniques How to Combat Persistent Echoes and Hiss</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-is-here-key-gpt-3-innovations-you-cant-miss/"><u>The Future Is Here: Key GPT-3 Innovations You Can't Miss</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/todays-essential-disneyplus-movie-lineup-for-a-magical-viewing-experience/"><u>Today’s Essential Disney+ Movie Lineup for a Magical Viewing Experience</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-free-video-branding-software-for-watermarks-and-more-for-2024/"><u>Top Free Video Branding Software for Watermarks and More for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-language-diversity-using-chatgpt-as-a-translation-workhorse/"><u>Unlock Language Diversity: Using ChatGPT as a Translation Workhorse</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-exploring-shared-videos-and-images-via-messenger/"><u>[New] In 2024, Exploring Shared Videos & Images via Messenger</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transform-videos-into-stories-discover-the-top-10-reactions/"><u>[Updated] Transform Videos Into Stories Discover the Top 10 Reactions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-luts-as-the-key-to-vivid-film-colors/"><u>2024 Approved Luts as the Key to Vivid Film Colors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/crafting-compelling-content-strategies-for-snapbiz-for-2024/"><u>Crafting Compelling Content Strategies for SnapBiz for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-programming-bootcamp-providers-for-2e22-a-comprehensive-guide-by-zdnet/"><u>Discover the Leading Programming Bootcamp Providers for 2E22: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-remove-pending-videos-from-your-youtube-history/"><u>How to Remove Pending Videos From Your YouTube History</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-enhancing-engagement-on-facebook-a-beginners-roadmap/"><u>In 2024, Enhancing Engagement on Facebook A Beginner’s Roadmap</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-salary-talks-with-the-5w-strategy-insights-from-zdnet/"><u>Mastering Salary Talks with the 5W Strategy: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-transition-securing-a-spot-in-technology-with-your-mba-insights-from-zdnet/"><u>Mastering the Transition: Securing a Spot in Technology with Your MBA - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-hazy-results-of-modern-ai-systems-insights-from-zdnet/"><u>Navigating the Hazy Results of Modern AI Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stealth-job-search-strategies-landing-a-new-role-without-blowing-your-current-cover/"><u>Stealth Job Search Strategies: Landing a New Role Without Blowing Your Current Cover</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-free-artificial-intelligence-course-options-is-investing-in-an-ai-certificate-beneficial/"><u>Top-Ranking Free Artificial Intelligence Course Options: Is Investing in an AI Certificate Beneficial?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Artificial Creativity: Unintended Consequences?"
-date: 2024-08-21T15:34:41.130Z
-updated: 2024-08-22T15:34:41.130Z
+date: 2025-02-28T21:25:01.359Z
+updated: 2025-03-04T20:59:04.675Z
 tags:
   - chatgpt
   - open-ai
@@ -41,9 +41,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example, [ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/). But it can also generate social media posts or news articles that may deceive people.
@@ -54,14 +51,8 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -73,9 +64,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -84,9 +72,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  It's crucial, then, to be able to [identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is [the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/).
@@ -106,10 +91,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
@@ -118,14 +99,11 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +112,24 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-10-best-meme-templates/"><u>[Updated] In 2024, Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-the-course-gpt-in-revolutionizing-medical-care/"><u>Charting the Course: GPT in Revolutionizing Medical Care</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-ai-responses-to-peak-performance-with-these-5-proven-techniques/"><u>Elevate AI Responses to Peak Performance with These 5 Proven Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-msi-katana-gaming-laptop-just-1199-a-156-inch-machine-with-ultra-fast-rtx4070-graphics/"><u>Get the MSI Katana Gaming Laptop: Just $1,199 - A 15.6 Inch Machine with Ultra-Fast RTX^4070 Graphics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-io-2023-unveiling-bards-latest-groundbreaking-ai-traits/"><u>Google I/O 2023: Unveiling Bard's Latest, Groundbreaking AI Traits</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-12plus-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme 12+ 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-top-5-lightweight-video-capturers-guide/"><u>In 2024, Foremost Top 5 Lightweight Video Capturers Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-gpt4alls-algorithmic-maze/"><u>Inside GPT4All's Algorithmic Maze</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/justifying-auto-gpts-role-without-gpt-4/"><u>Justifying Auto-GPT's Role Without GPT-4</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138603383-9781788172295-mediumship-made-easy/"><u>Mediumship Made Easy | Free Book</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/overcome-software-install-errors-with-proven-fixes-by-yl-tech-experts/"><u>Overcome Software Install Errors with Proven Fixes by YL Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reconsider-downloading-a-mobile-gpt-app/"><u>Reconsider Downloading a Mobile GPT App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/self-help-gone-wrong-the-hidden-dangers-in-artificial-therapy/"><u>Self-Help Gone Wrong: The Hidden Dangers in Artificial Therapy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartphone-at-50-unveiling-ransomware-solutions/"><u>Smartphone at $50: Unveiling Ransomware Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamlining-quality-youtubes-best-video-improvement-strategies-for-2024/"><u>Streamlining Quality YouTube's Best Video Improvement Strategies for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-a34-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy A34 5G FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-zte-axon-40-lite-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from ZTE Axon 40 Lite to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+</ul></div>
 

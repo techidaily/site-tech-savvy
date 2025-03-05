@@ -1,7 +1,7 @@
 ---
 title: "The Chronicle of Chaos: Tracing Back to the Origins of CrowdStrike-Induced Windows Meltdown Crisis , as Revealed"
-date: 2025-02-10T02:56:34.174Z
-updated: 2025-02-15T23:29:12.761Z
+date: 2025-03-02T19:16:09.883Z
+updated: 2025-03-04T16:25:00.123Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -53,10 +49,6 @@ Three additional instances of the IPC Template Type were deployed between April 
 Repairing the damage from a flaw like this is a painfully tedious process that requires manually rebooting every affected PC into the Windows Recovery Environment and then deleting the defective file from the PC using the old-school command line interface. If the PC in question has its system drive protected by Microsoft's BitLocker encryption software, as virtually all business PCs do, the fix requires one extra step: entering a unique 48-character BitLocker recovery key to gain access to the drive and allow the removal of the faulty CrowdStrike driver.
 
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## We've seen this movie before
 
@@ -94,10 +86,6 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## CrowdStrike's QA failed
 
 Surprisingly, this isn't CrowdStrike's first faulty Falcon sensor update this year.
@@ -123,10 +111,6 @@ Given recent events, some of those customers might be wondering whether that "br
 As part of its initial response, CrowdStrike says it plans to take additional measures to improve "software resiliency and testing." More importantly, it plans to implement a "staggered deployment strategy ... in which updates are gradually deployed to larger portions of the sensor base, starting with a canary deployment." The company also committed to provide customers with "greater control over the delivery of Rapid Response Content updates by allowing granular selection of when and where these updates are deployed."
 
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
 
@@ -176,17 +160,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-insiders-look-at-capturing-roblox-games-for-macos-users/"><u>[New] In 2024, The Insider's Look at Capturing Roblox Games for macOS Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-outstanding-graphic-revisions/"><u>[Updated] In 2024, Outstanding Graphic Revisions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-superior-streaming-services-for-musicians/"><u>[Updated] Superior Streaming Services for Musicians</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-facebook-ads-game-no-price-tag-for-video-kit/"><u>2024 Approved Elevate Your Facebook Ads Game - No Price Tag for Video Kit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-copilot-full-turbo-revolutionize-ai-interaction/"><u>Free Copilot, Full Turbo: Revolutionize AI Interaction</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-gigabytes-aorus-49-oled-gaming-screen-now-at-an-all-time-low-only-969/"><u>Huge Savings Alert: Gigabyte's Aorus 49 OLED Gaming Screen Now at an All-Time Low - Only $969</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-engagement-gpts-role-in-reducing-loneliness/"><u>Interactive Engagement: GPT's Role in Reducing Loneliness</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-prompt-engineering-in-ai-learning/"><u>Navigating Prompt Engineering in AI Learning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-flaw-of-ai-chatbots-in-crafting-persuasive-texts/"><u>The Flaw of AI Chatbots in Crafting Persuasive Texts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-gpt-decoded-essential-knowledge-for-families/"><u>The GPT Decoded: Essential Knowledge for Families</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/turn-any-video-into-psp-playback-quality-with-these-simple-conversion-tips/"><u>Turn Any Video Into PSP Playback Quality with These Simple Conversion Tips!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-budget-game-capture-options-ranked-no-1-10/"><u>[New] In 2024, Best Budget Game Capture Options Ranked No. 1-10</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1728472792846-404/"><u>404エラーでページを探す方法 - 効果的な解決策</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-qualcomms-hidden-venture-collaborating-with-samsung-and-google-on-mixed-reality-smart-glasses-a-tech-enthusiasts-delight-zdnet/"><u>Inside Qualcomm's Hidden Venture: Collaborating with Samsung & Google on Mixed Reality Smart Glasses - A Tech Enthusiast's Delight | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-home-cleaning-with-dysons-new-ar-vacuuming-assistance-zdnet-insight/"><u>Master Your Home Cleaning with Dyson's New AR Vacuuming Assistance | ZDNET Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-media-experience-discover-the-power-of-400-xr-glasses-for-immersive-gaming-and-movie-viewing-with-a-200-inch-display-zdnet/"><u>Maximize Your Media Experience: Discover the Power of $400 XR Glasses for Immersive Gaming & Movie Viewing with a 200-Inch Display | ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-through-the-ultimate-guide-to-top-9-free-logos/"><u>Navigating Through The Ultimate Guide to Top 9 Free Logos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/optimizing-profile-visibility-in-snapchats-focus-for-2024/"><u>Optimizing Profile Visibility in Snapchat's Focus for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-telecommuting-the-role-of-virtual-reality-and-digital-twin-technology-in-enhancing-remote-tech-jobs-zdnet/"><u>Revolutionizing Telecommuting: The Role of Virtual Reality & Digital Twin Technology in Enhancing Remote Tech Jobs | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-virtual-reality-stanfords-innovative-tech-abolishes-bulky-vr-gear-with-cutting-edge-ai-zdnet/"><u>Revolutionizing Virtual Reality: Stanford's Innovative Tech Abolishes Bulky VR Gear with Cutting-Edge AI | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-common-missteps-in-using-the-apple-vision-pro-and-how-to-prevent-them-for-optimal-experience/"><u>Top 3 Common Missteps in Using the Apple Vision Pro and How to Prevent Them for Optimal Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-potential-in-windows-via-alomware-features/"><u>Unlock Potential in Windows via AlomWare Features</u></a></li>
 </ul></div>
 

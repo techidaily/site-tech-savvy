@@ -1,7 +1,7 @@
 ---
 title: "Tech Titans Tussle: AI Mastery in the Making of Words"
-date: 2025-02-10T19:33:18.311Z
-updated: 2025-02-15T23:51:16.057Z
+date: 2025-02-26T23:53:15.990Z
+updated: 2025-03-04T21:09:30.214Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT vs. Google Bard: Comparing the Underlying Technology
 
@@ -77,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
 ![Screenshot of Google Bard answering world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-answering-world-cup-attendance-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT was unable to provide up-to-date information.
 
 ![Screenshot of ChatGPT responding to world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-responding-to-world-cup-attendance-question.jpg)
@@ -90,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
  Google Bard first; it answered with some comprehensive details.
 
 ![Screenshot of Google Bard answering how long to drive to the sun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-answering-how-long-to-drive-to-the-sun.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We were quite disappointed with the ChatGPT response. This should have been recognized as a hypothetical question, with the result only requiring some basic arithmetic.
 
@@ -115,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
 ![Screenshot of Google Bard answering Twitter CEO question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-answering-twitter-ceo-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Despite apologizing for the lack of detail, the premium version of ChatGPT was equally impressive. However, it is worth reiterating that if you are using the free version of ChatGPT, this question would be met with a blank stare!
 
 ![Screenshot of GPT-4 answering Twitter question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-gpt-4-answering-twitter-question.jpg)
@@ -139,27 +123,15 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
 ![Screenshot of ChatGPT Poetry answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-poetry-answer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Although this is not an extensive test, this example shows what we found to be the case overall—ChatGPT is better at creative tasks than Google Bard.
 
  At least, this is the case for the early version of Bard, which was what we used for the original test. The new Google Bard is trained on a larger text dataset, which Google says will give it more creativity. To put this to the test, we asked it to create the same poem:
 
 ![Screenshot of latest Google Bard poetry attempt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-latest-google-bard-poetry-attempt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As previously noted, measuring creativity is a judgment call, but for us, the new poem still comes up short compared to the ChatGPT effort. ChatGPT still appears to have the edge in the creativity stakes. But what about ChatGPT-4? Let's give it a bash at the same poem and see how the premium version compares.
 
 ![Screenshot of GPT-4 composing poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-gpt-4-composing-poetry.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once again,
 
@@ -217,20 +189,17 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-cutting-the-excess-a-guide-to-shortening-youtube-videos-for-2024/"><u>[New] Cutting the Excess A Guide to Shortening YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-bring-a-smile-simple-meme-creation-with-kapwing/"><u>[Updated] Bring a Smile Simple Meme Creation With Kapwing</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-achieving-harmony-selecting-ideal-aspect-ratios/"><u>[Updated] In 2024, Achieving Harmony Selecting Ideal Aspect Ratios</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-steps-to-perfect-your-cover-letter-using-ai-assisted-techniques-like-chatgpt/"><u>5 Steps to Perfect Your Cover Letter Using AI-Assisted Techniques Like ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-characters-and-settings-through-gpts-insights/"><u>Crafting Characters & Settings Through GPT's Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delete-your-active-chatgpt-account/"><u>Delete Your Active ChatGPT Account</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/five-artificial-steps-ai-accelerating-cybercrime/"><u>Five Artificial Steps: AI Accelerating Cybercrime</u></a></li>
-<li><a href="https://win-premium.techidaily.com/guide-dassistance-comment-resoudre-les-erreurs-de-recuperation-de-fichiers-sous-windows/"><u>Guide D'Assistance: Comment Résoudre Les Erreurs De Récupération De Fichiers Sous Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-90-gt-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor 90 GT Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 14 Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-subscriptions-for-gpt-4-however-select-plus-membership-retains-its-unique-6-features/"><u>No Subscriptions for GPT-4: However, Select Plus Membership Retains Its Unique 6 Features.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prose-perfection-leveraging-chatgpt-for-literary-excellence/"><u>Prose Perfection: Leveraging ChatGPT for Literary Excellence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-ai-to-yourselves-a-how-to-for-unique-prose/"><u>Tailoring AI to Yourselves: A How-To for Unique Prose</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-phenomenon-of-ai-powered-dialogue-systems/"><u>The Phenomenon of AI-Powered Dialogue Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-innovative-methods-building-time-lapses-on-galaxy-devices/"><u>[New] 2024 Approved Innovative Methods Building Time-Lapses on Galaxy Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-generating-income-with-every-swipe-up/"><u>[New] Generating Income with Every Swipe Up</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-nimbusaieditor-soaring-edits-to-new-heights/"><u>[New] In 2024, NimbusAiEditor Soaring Edits to New Heights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-leading-edge-vr-developers/"><u>[Updated] Unveiling Leading-Edge VR Developers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-2022s-top-figure-skating-performances/"><u>2024 Approved 2022'S Top Figure Skating Performances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-alternative-to-apples-optometry-woes-how-xr-glasses-solved-my-visual-needs-with-zero-regrets/"><u>Affordable Alternative to Apple's Optometry Woes: How XR Glasses Solved My Visual Needs with Zero Regrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-innovative-vision-pro-labs-spark-enthusiastic-reactions-among-tech-developers-confirms-company-zdnet/"><u>Apple’s Innovative Vision Pro Labs Spark Enthusiastic Reactions Among Tech Developers, Confirms Company | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-nuances-of-remote-interactions-in-virtual-spaces-a-deep-dive-into-unexpected-vr-jumps-and-online-handshakes-zdnet/"><u>Discovering the Nuances of Remote Interactions in Virtual Spaces: A Deep Dive Into Unexpected VR Jumps and Online Handshakes | ZDnet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/simplifying-the-complexity-how-microsofts-flawed-ai-was-cracked-with-minimal-skill-discovered-by-zdnet/"><u>Simplifying the Complexity: How Microsoft’s Flawed AI Was Cracked with Minimal Skill | Discovered by ZDNET</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620260208-solving-sd-card-read-errors-discover-these-12-effective-fixes/"><u>Solving SD Card Read Errors: Discover These 12 Effective Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-of-gaming-disney-unveils-a-shared-vr-walking-treadmill-learn-how-it-transforms-your-interactive-playtime-zdnet/"><u>Step Into the Future of Gaming: Disney Unveils a Shared VR Walking Treadmill - Learn How It Transforms Your Interactive Playtime | ZDNET</u></a></li>
 </ul></div>
 

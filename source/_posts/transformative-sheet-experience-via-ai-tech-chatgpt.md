@@ -1,7 +1,7 @@
 ---
 title: Transformative Sheet Experience via AI Tech (ChatGPT)
-date: 2025-02-13T23:02:44.541Z
-updated: 2025-02-15T19:43:23.365Z
+date: 2025-02-27T17:40:57.648Z
+updated: 2025-03-05T01:15:16.993Z
 tags:
   - chatgpt
   - open-ai
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use the GPT for Sheets and Docs Extension
 
  Although OpenAI does not have a ChatGPT extension for spreadsheet apps, you can still enjoy GPT technology within Google Sheets using third-party applications that interface with OpenAI's GPT API. One such third-party application is the "GPT for Sheets and Docs" extension. It is not a standalone app but a Google Sheets extension that makes it possible to use [ChatGPT-like prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) wrapped in functions within your spreadsheets.
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 
 ![Google Workspace Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/google-workspace-marketplace.jpg)
 4. Click on the first extension, as seen in the screenshot above. On the next page, click on **Install** and then **Continue.**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Installing GPT for Sheets and Docs on Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-gpt-for-sheets-and-docs-on-google-sheets.jpg)
 5. Select the Google account associated with your Google Sheets account and then tap **Allow** on the permission prompt to grant the extension access it needs to modify your spreadsheets.
@@ -113,10 +105,6 @@ Screenshot was taken by the author, Maxwell Timothy
 
 ![translating with GPT on Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/translating-with-gpt-on-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Summarize Text
 
  To summarize text, you can either wrap a summarization prompt with the base =GPT function or use the **\=GPT\_SUMMARIZE** function. For instance, **\=GPT\_SUMMARIZE(C44)** will summarize the content of cell C44 into the active cell.
@@ -129,10 +117,6 @@ Screenshot was taken by the author, Maxwell Timothy
 
 ![GPT_CLASSIFY in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_classify-in-gpt-for-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Generate Data Tables
 
  Spreadsheets and tables go together like peas and carrots. The **\=GPT\_TABLE** function makes it incredibly easy to create tables in Google Sheets. Think of any data table you need, and just ask the function to create it--that's it. So, say, you need a table of some of the best Korean TV shows, their theme, and IMDB rating. This is a dataset that would be time-consuming to put together.
@@ -141,31 +125,15 @@ Screenshot was taken by the author, Maxwell Timothy
 
 ![GPT_TABLE function in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_table-function-in-gpt-for-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Copy Text Formatting
 
  When working on a spreadsheet, some formatting is a bit too loosely defined or arbitrary for Google Sheets to replicate. For cases like this, the **\=GPT\_FILL** can be a lifesaver. To use the function, demonstrate a few examples of what you need to be done and invoke the **\=GPT\_FILL** to copy the formatting. Below is a video that demonstrates how to use the function.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Extract Data
 
  If you are working with a lot of mixed-up data or text, you can extract certain data types into assigned cells using the **\=GPT\_EXTRACT** function. For instance, you could paste a CSV file in cell B23 and use **\=GPT\_EXTRACT(B48, C48)** to extract email addresses from the CSV text to the current cell. In the function, the C48 references a cell that contains the data type to extract, in this case, email addresses.
 
 ![Data Extraction using GPT functions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/data-extraction-using-gpt-functions.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Boost Your Productivity With ChatGPT Prompts in Google Sheets
 
@@ -194,22 +162,20 @@ Screenshot was taken by the author, Maxwell Timothy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-rgb-basics-and-their-evolution-into-srgb-format/"><u>[New] In 2024, Rgb Basics and Their Evolution Into Srgb Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adapting-technology-governments-quadripartite-framework-on-ai/"><u>Adapting Technology: Government's Quadripartite Framework on AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/braving-new-waters-with-bard-google-aims-at-gpt-supremacy/"><u>Braving New Waters with 'Bard', Google Aims at GPT Supremacy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-and-coins-elevating-your-crypto-game-with-gpt/"><u>Chatbots and Coins: Elevating Your Crypto Game with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/corporate-cautionary-stories-top-5-tales-of-gpt-reluctance/"><u>Corporate Cautionary Stories: Top 5 Tales of GPT Reluctance</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/discover-the-superiority-of-hdr-over-traditional-sdr-for-2024/"><u>Discover the Superiority of HDR Over Traditional SDR for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-and-deploy-llama-2-your-instructional-guide/"><u>Download & Deploy Llama 2: Your Instructional Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/fighting-fake-news-keeping-users-informed-amidst-outbreak/"><u>Fighting Fake News: Keeping Users Informed Amidst Outbreak</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-closed-to-open-mastering-srt-files-in-macos/"><u>From Closed to Open Mastering SRT Files in macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/genuine-vs-faux-chatbots-detect-and-protect-your-data/"><u>Genuine Vs. Faux ChatBots: Detect and Protect Your Data!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-spark-20-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Spark 20 Safely | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-10-emulator-selections-for-mobile-gba-players/"><u>In 2024, Top 10 Emulator Selections for Mobile GBA Players</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17efrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17eFRP Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/relying-on-ai-discover-8-content-creators-worries/"><u>Relying on AI? Discover 8 Content Creator's Worries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-market-dynamics-with-geminis-1m-context/"><u>Revolutionizing Market Dynamics with Gemini's $1M Context</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transforming-comfort-and-efficiency-the-impact-of-a-split-ergo-keyboard-on-my-daily-workflow/"><u>Transforming Comfort and Efficiency: The Impact of a Split Ergo Keyboard on My Daily Workflow</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-basics-of-visual-storytelling/"><u>[New] Basics of Visual Storytelling</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-top-rated-complimentary-premiere-pro-blueprints-for-2024/"><u>[New] Top-Rated, Complimentary Premiere Pro Blueprints for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-upgrade-your-content-navigating-the-world-of-fb-video-full-scale/"><u>[Updated] Upgrade Your Content Navigating the World of FB Video Full Scale</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/9-prime-live-streaming-venues-for-gamers/"><u>9 Prime Live Streaming Venues for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-pathway-to-a-relaxed-existence/"><u>ChatGPT’s Pathway to a Relaxed Existence</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/come-risolvere-il-problema-dellerrore-di-sistema-303-sul-tuo-disco-rigido-in-modalita-avanzata/"><u>Come Risolvere Il Problema Dell'Errore Di Sistema 303 Sul Tuo Disco Rigido in Modalità Avanzata</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-ai-opportunities-and-security-concerns/"><u>Decoding AI: Opportunities & Security Concerns</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-tips-for-repairing-non-functional-stereo-mix-settings/"><u>Essential Tips for Repairing Non-Functional Stereo Mix Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-power-the-new-era-of-business-with-gpt-and-whisper/"><u>Harnessing Power: The New Era of Business with GPT and Whisper</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-intelligent-communication-5-best-ways-for-tailored-chatgpt-interactions/"><u>Pioneering Intelligent Communication: 5 Best Ways for Tailored ChatGPT Interactions</u></a></li>
+<li><a href="https://discover-help.techidaily.com/strategie-di-distribuzione-delle-immagini-su-piu-dispositivi-di-archiviazione/"><u>Strategie Di Distribuzione Delle Immagini Su Più Dispositivi Di Archiviazione</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-full-potential-of-your-chatbot-mastering-effective-prompt-crafting/"><u>Unleash the Full Potential of Your ChatBot: Mastering Effective Prompt Crafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-impact-does-chatgpt-revolutionize-creative-writing/"><u>Unveiling the Impact: Does ChatGPT Revolutionize Creative Writing?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-personal-gastronomic-companion-7-chatgpt-strategies/"><u>Your Personal Gastronomic Companion: 7 ChatGPT Strategies</u></a></li>
 </ul></div>
 

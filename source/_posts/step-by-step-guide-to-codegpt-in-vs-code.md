@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to CodeGPT in VS Code
-date: 2025-02-11T17:05:18.211Z
-updated: 2025-02-16T02:32:22.109Z
+date: 2025-02-25T20:07:38.235Z
+updated: 2025-03-05T02:08:35.106Z
 tags:
   - chatgpt
   - open-ai
@@ -48,19 +48,11 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-generation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is the API key that you will use to connect the OpenAI [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) to CodeGPT. Copy it to your clipboard.
 
  Proceed to VS Code and navigate to **Settings > Extensions > CodeGPT**​​​​​​.
 
 ![CodeGPT configuration page in VSCode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-configuration.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  From this page, you can configure how CodeGPT interacts with the large language model. You can choose your **AI Provider**, **Max Tokens** for each request, and the **Model** to use. Also, when you scroll further down you can also set the **Temperature** value.
 
@@ -69,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
  To enter your API Key, press **Cmd + Shift + P** on Mac or **Ctrl + Shift + P** on Windows to open the command palette. Then search for CodeGPT and select **CodeGPT: Set API KEY**.
 
 ![CodeGPT API command on VSCode command palette](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-command-pallete.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
 
@@ -84,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 ![CodeGPT generating code from a comment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-comment-code-generation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can then copy and paste the code into your script. This method is not tidy as the response has text on it.
 
  To generate code by chatting with CodeGPT, click on the CodeGPT chat icon on the left sidebar. This will open a chat window.
@@ -97,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
 
 ![CodeGPT code generation in the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-code-generation-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click on the "insert code" arrow to automatically paste the code into your script. As you can see, this method is more tidy. The generated code is as shown below:
 
@@ -177,10 +157,6 @@ def divide(x, y):
 
  These are clear and correct inline comments.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Understanding How Generative AI Works
 
  CodeGPT utilizes the power of generative AI for all its features. It may not always provide the correct information. Hence, you need to counter-check whether its results are correct. Understanding how generative AI works will help you become familiar with its strengths and weaknesses.
@@ -204,20 +180,22 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/"><u>[New] 2024 Approved Leveraging Social Media Power Optimal Use of Hash Tags on FB</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-engagement-with-these-essential-freegame-hashtags-for-youtube-for-2024/"><u>[New] Enhance Engagement with These Essential FreeGame Hashtags for YouTube for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-elevate-your-videos-youtube-trailers-through-filmora/"><u>[Updated] Elevate Your Videos YouTube Trailers Through Filmora</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726225303550-movavi/"><u>移動且靜止的指南，螢幕錄影與線上課程同時記錄：Movavi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/active-living-companion-a-comprehensive-review-of-the-stylish-and-smart-garmin-vivomove-hr-watch/"><u>Active Living Companion - A Comprehensive Review of the Stylish and Smart Garmin Vivomove HR Watch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artistry-vs-algorithm-the-openai-and-meta-lawsuit-led-by-silverman/"><u>Artistry Vs. Algorithm: The OpenAI & Meta Lawsuit Led by Silverman</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/authenticity-enforcer-openais-gpt-defender-tool/"><u>Authenticity Enforcer: OpenAI's GPT Defender Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-boundaries-chatgpts-groundbreaking-features-revealed/"><u>Beyond Boundaries: ChatGPT’s Groundbreaking Features Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/calling-out-chatgpt-shambots-with-ai-attention-indicators/"><u>Calling Out ChatGPT Shambots with AI Attention Indicators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-leader-to-novice-ais-consequences-for-gpt/"><u>From Leader to Novice: AI's Consequences for GPT</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-video-editing-with-apples-latest-m1-macbook-air/"><u>In 2024, Navigating Video Editing with Apple’s Latest M1 MacBook Air</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-a59-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo A59 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-minds-and-their-stance-on-ai-evolution/"><u>Leading Minds and Their Stance on AI Evolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-overpowering-ai-text-generators/"><u>The Ultimate Guide to Overpowering AI Text Generators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-5-premium-ai-prompt-inventors-that-work-seamlessly-across-diverse-artificial-intelligence-platforms/"><u>Unveiling 5 Premium AI Prompt Inventors That Work Seamlessly Across Diverse Artificial Intelligence Platforms</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-a-compre-written-in-sounds-youtube-playlists-decoded/"><u>[New] A Compre Written in Sounds YouTube Playlists Decoded</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-discover-the-perfect-moment-timing-your-insta-posts/"><u>[Updated] Discover the Perfect Moment Timing Your Insta Posts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elevating-package-revelation-innovative-ways-for-first-encounters-for-2024/"><u>[Updated] Elevating Package Revelation Innovative Ways for First Encounters for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-google-pixel-fold-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/black-friday-shockwave-how-virtual-reality-headsets-beat-apples-airpods-in-sales/"><u>Black Friday Shockwave: How Virtual Reality Headsets Beat Apple's AirPods in Sales!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-tech-the-enhanced-more-affordable-ar-laptop-without-a-display-latest-updates-from-zdnet/"><u>Evolving Tech: The Enhanced, More Affordable AR Laptop Without a Display - Latest Updates From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-top-xbox-games-on-meta-quest-platform-without-needing-a-console-microsoft-enables-ported-classics/"><u>Experience Top Xbox Games on Meta Quest Platform without Needing a Console, Microsoft Enables Ported Classics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-pixar-and-nvidias-unprecedented-partnership-will-transform-3d-video-creation-into-a-monumental-venture-zdnet-insights/"><u>How Apple, Pixar, and Nvidia's Unprecedented Partnership Will Transform 3D Video Creation Into a Monumental Venture | ZDNet Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speed-up-sound-on-smartphones-with-these/"><u>In 2024, Speed Up Sound on Smartphones with These</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/in-depth-analysis-unveiling-the-strengths-and-weaknesses-of-screencast-crafting-tool/"><u>In-Depth Analysis: Unveiling the Strengths & Weaknesses of Screencast-Crafting Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-apple-vision-pro-experience-with-these-must-have-add-ons-recommended-by-zdnet/"><u>Maximize Your Apple Vision Pro Experience with These Must-Have Add-Ons Recommended by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/polishing-old-videos-windows-madvr-techniques-unveiled/"><u>Polishing Old Videos: Windows MadVR Techniques Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sunday-success-unlocked-chick-fil-as-innovative-strategy-revealed/"><u>Sunday Success Unlocked: Chick-Fil-A's Innovative Strategy Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-essentials-of-hosting-a-zoom-event-via-android-for-2024/"><u>The Essentials of Hosting a Zoom Event via Android for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unitys-beta-launch-opens-doors-for-apple-vision-pro-start-creating-augmented-reality-and-virtual-reality-gaming-experiences-now/"><u>Unity's Beta Launch Opens Doors for Apple Vision Pro - Start Creating Augmented Reality & Virtual Reality Gaming Experiences Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-apple-virtual-realityaugmented-reality-glasses-the-latest-insights-and-details-unveiled/"><u>Upcoming Apple Virtual Reality/Augmented Reality Glasses: The Latest Insights and Details Unveiled</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 </ul></div>
 

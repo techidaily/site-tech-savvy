@@ -1,7 +1,7 @@
 ---
 title: Innovative GPT Techniques for Android & iOS Enthusiasts
-date: 2025-02-12T17:14:52.161Z
-updated: 2025-02-16T01:48:43.088Z
+date: 2025-03-03T18:01:28.934Z
+updated: 2025-03-04T16:14:10.608Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Using OpenAI's Official ChatGPT App
 
  ChatGPT is available for iOS and Android. Here's how you can use it:
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ChatGPT demo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-demo.jpg)
 
@@ -69,19 +61,11 @@ Close
 
 ![ChatGPT final disclaimer screen iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-final-disclaimer-screen-ios.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT conversation screen iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-conversation-screen-iphone.jpg)
 
 Close
 
  Like the desktop version, you can access previous conversations, [upgrade to ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), or even enable dark mode. You can access these settings by tapping the **menu icon** in the top-left corner of your screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Using ChatGPT Through Siri Shortcuts
 
@@ -103,19 +87,11 @@ Close
 
 ![SiriGPT insert API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-insert-api-key.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![SiriGPT prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-prompt-screen.jpg)
 
 Close
 
  That's certainly a lot of work, and whether it's worth it depends on how much you use the shortcut. At its worst, it's a neat party trick, but at its best, you have the power of GPT in your hands, now with the voice of Siri powering it. Again, this is not the most convenient way of accessing ChatGPT, but it's surprising how well it works when it does.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Third-Party ChatGPT Apps for Android and iOS
 
@@ -125,17 +101,9 @@ Close
 
 ![Perplexity AI app sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-sources.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Perplexity AI app thread](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-thread-1.jpg)
 
 ![perlexity-ai-invitation-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perlexity-ai-invitation-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -182,16 +150,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-wealthy-web-showrunners/"><u>[Updated] Wealthy Web Showrunners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-excel-transforming-data-workflows-and-analysis/"><u>ChatGPT in Excel: Transforming Data Workflows and Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-revamped-widget-picker-in-win11/"><u>Configuring Revamped Widget Picker in Win11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ddpai-mini3-review/"><u>DDpai Mini3 Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-worth-of-elite-ai-assistance-costs/"><u>Decoding the Worth of Elite AI Assistance Costs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/downloading-and-updating-drivers-for-your-epson-wf-3720-enhance-performance-with-the-latest-version/"><u>Downloading & Updating Drivers for Your Epson WF-3720: Enhance Performance with the Latest Version!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enabling-autodoc-chatgpts-role-in-office-productivity/"><u>Enabling AutoDoc: ChatGPT's Role in Office Productivity</u></a></li>
-<li><a href="https://facebook.techidaily.com/instagram-introduces-novel-monetizing-opportunities-for-creators/"><u>Instagram Introduces Novel Monetizing Opportunities for Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maintain-silence-on-secrets-not-with-gpt-assistance/"><u>Maintain Silence on Secrets, Not with GPT Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-plain-truth-about-virtual-conversations-dispelling-ai-bot-fables/"><u>The Plain Truth About Virtual Conversations - Dispelling AI Bot Fables</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-long-lasting-power-on-android-a-strategic-guide-with-10-key-adjustments-for-enhanced-battery-performance-featured-by-zdnet/"><u>Unlocking Long-Lasting Power on Android: A Strategic Guide with 10 Key Adjustments for Enhanced Battery Performance, Featured by ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-alternative-to-cyberlink-a-comparative-study-of-recording-software-for-2024/"><u>[New] Alternative to Cyberlink A Comparative Study of Recording Software for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-top-10-undiscovered-memelists-on-facebook/"><u>[New] Top 10 Undiscovered Memelists on Facebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlimited-potential-with-best-in-class-pp-templates/"><u>[New] Unlimited Potential with Best-in-Class PP Templates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-maximizing-gaming-experience-record-games-on-win10/"><u>[Updated] In 2024, Maximizing Gaming Experience Record Games on Win10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-perfecting-close-angles-in-movie-filming-for-2024/"><u>[Updated] Perfecting Close Angles in Movie Filming for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pro-gopro-filming-techniques-unveiled-for-2024/"><u>[Updated] Pro-Gopro Filming Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-voice-clarity-overcoming-skype-noise-issues/"><u>[Updated] Voice Clarity Overcoming Skype Noise Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/day-two-highlights-from-ces-2023-top-tech-innovations-unveiled-zdnets-exclusive-coverage/"><u>Day Two Highlights From CES 2023: Top Tech Innovations Unveiled - ZDNet's Exclusive Coverage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-top-contender-for-wyze-camera-lovers-how-the/"><u>Discovering the Top Contender for Wyze Camera Lovers: How The</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-labor-day-offer-secure-your-home-for-under-80-with-blinks-multi-cam-floodlight-setup/"><u>Exclusive Labor Day Offer! Secure Your Home for Under $80 with Blink's Multi-Cam Floodlight Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-review-the-ultimate-guide-to-the-jackery-explorer-1500-pro-a-top-tier-portable-charger/"><u>Expert Review: The Ultimate Guide to the Jackery Explorer 1500 Pro - A Top-Tier Portable Charger!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-extraordinary-heat-defying-abilities-of-a-sturdy-android-device-overshadowing-the-mundane-iphone/"><u>Explore the Extraordinary Heat-Defying Abilities of a Sturdy Android Device, Overshadowing the Mundane iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-more-bang-for-your-buck-how-the-ring-spotlight-cam-pro-outperforms-expectations-on-sale-this-labor-day-zdnet-insight/"><u>Get More BANG FOR YOUR BUCK: How the Ring Spotlight Cam Pro Outperforms Expectations on Sale This Labor Day | ZDNET Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-for-a-classic-bbq-and-sports-viewing-with-walmarts-discounted-outdoor-tv-sets-this-memorial-day-detailed-review-on-zdnet/"><u>Get Ready for a Classic BBQ & Sports Viewing with Walmart's Discounted Outdoor TV Sets This Memorial Day - Detailed Review on ZDNET!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unlock-viewer-interest-with-these-5-effective-tiktok-captions/"><u>Unlock Viewer Interest with These 5 Effective TikTok Captions</u></a></li>
 </ul></div>
 

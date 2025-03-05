@@ -1,7 +1,7 @@
 ---
 title: Best Practices for Effective ChatGPT Interactions From Github
-date: 2025-02-13T01:10:47.913Z
-updated: 2025-02-15T21:31:04.992Z
+date: 2025-03-02T21:56:23.896Z
+updated: 2025-03-04T21:33:59.487Z
 tags:
   - chatgpt
   - open-ai
@@ -44,25 +44,13 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Translating Tagalog Text to English](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-tagalog-to-english-translation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  OpenAI trained ChatGPT on datasets in different languages. It can translate thousands of foreign words into English and vice versa within seconds. You could even ask the platform to correct spelling errors.
 
  As for accuracy, [ChatGPT holds its own against Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). It pulls relevant information from its datasets to ensure the translated text doesn't lose meaning—literal translations are confusing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Seek Medical Information
 
 ![ChatGPT Pretending to be a Doctor and Giving Medical Advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-pretend-doctor-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT can write diagnoses and treatment options. It pulls general information, but providing context about yourself helps to generate precise answers.
 
@@ -106,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![The Last Part of an AI-Generated Contract](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-finishing-legal-contracts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Although ChatGPT can draw up entire contracts, you should still run them by legal professionals. Arrangements vary on a case-by-case basis. You'll likely jeopardize your party if you use AI-generated contracts as is.
 
 ## 8\. Portray Fictional Characters
@@ -130,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Answering as Tomie and Suggesting Harmful Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-tomie-suggesting-harmful-information.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Provide Emergency Response Assistance
 
 ![ChatGPT Providing Emergency Response Tips for Senior Having a Seizure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-providing-emergency-response-tips.jpg)
@@ -144,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
  Double-check the output later. Your top priority should be to ensure the safety and survival of everyone involved in the incident.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Refactor Code
 
 ![Requesting ChatGPT to Refractor Code Samples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-to-refractor-code.jpg)
@@ -157,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 ![ChatGPT Providing Clean and Refractored Sample Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-refractoring-dirty-sample-code.jpg)
 
  Just make sure you test the restructured codes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11\. Write Cover Letters
 
@@ -220,10 +192,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Continuing Literary Analysis of The Old Pond](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-literary-analysis-continuation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 16\. Friendly Emotional Support
 
  ChatGPT can help you cope with loneliness. For instance, this prompt instructs ChatGPT to talk like a human friend providing emotional support. It removes the typical disclaimers and explanations that AI chatbots say.
@@ -254,15 +222,7 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Making Pop Playlist Based on Dalla Dalla Itzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-making-playlist.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Free ChatGPT users can only reference songs released before the platform's knowledge cut-off date: September 2021\. For a more sophisticated playlist generator, consider [Spotify's AI DJ](https://www.makeuseof.com/how-to-access-spotifys-ai-dj/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 19\. Song Lyric Generator
 
@@ -307,19 +267,20 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-cutting-edge-ways-to-tailor-your-igtv-content-size-for-2024/"><u>[Updated] Cutting-Edge Ways to Tailor Your IGTV Content Size for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-enhancing-accessibility-with-vimeo-subtitles/"><u>2024 Approved Enhancing Accessibility with Vimeo Subtitles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-complexity-beyond-chatgpts-simplified-synopses/"><u>Deciphering Complexity Beyond ChatGPT's Simplified Synopses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-top-non-apple-non-tile-brands-in-wearable-tech-a-closer-look-at-exceptional-wallet-airtags/"><u>Exploring Top Non-Apple, Non-Tile Brands in Wearable Tech: A Closer Look at Exceptional Wallet AirTags</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-infinix-smart-7-screen-sharing-drfone-by-drfone-android/"><u>How To Do Infinix Smart 7 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnect-and-resume-a-step-by-step-guide-for-printers/"><u>Reconnect and Resume: A Step-by-Step Guide for Printers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trio-of-tech-titans-compared-gpt-microsofts-ai-googles-bard/"><u>Trio of Tech Titans Compared: GPT, Microsoft's AI, Google's Bard</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/ultimate-live-streaming-recorders-for-youtube-maestros-for-2024/"><u>Ultimate Live Streaming Recorders for YouTube Maestros for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unfreezing-photo-booth-recordings-a-guide-to-smoother-playback/"><u>Unfreezing Photo Booth Recordings A Guide to Smoother Playback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unrecognized-writing-flaws-by-ai/"><u>Unrecognized Writing Flaws by AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-claude-2-and-what-can-you-do-with-it/"><u>What Is Claude 2 and What Can You Do With It?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-on-device-ai-and-how-does-it-work/"><u>What Is On-Device AI and How Does It Work?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/workplace-implications-of-using-chatgpt-the-legal-landscape/"><u>Workplace Implications of Using ChatGPT: The Legal Landscape</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-eliminating-frame-discrepancies-in-obs-recordings-for-2024/"><u>[New] Eliminating Frame Discrepancies in OBS Recordings for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-experience-effortless-videodownloads-on-pinterest-with-5-best-tools/"><u>[Updated] In 2024, Experience Effortless Videodownloads on Pinterest with 5 Best Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterful-selection-8-top-free-3d-video-players-windows-and-mac/"><u>[Updated] Masterful Selection 8 Top Free 3D Video Players Windows & Mac</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unlocking-creativity-free-animation-techniques/"><u>[Updated] Unlocking Creativity Free Animation Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/access-chatgpt-effortlessly-a-guide-to-enjoying-its-features-account-free/"><u>Access ChatGPT Effortlessly: A Guide to Enjoying Its Features Account-Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automating-file-transformation-turning-your-google-drive-uploads-into-doc-format-with-ease/"><u>Automating File Transformation: Turning Your Google Drive Uploads Into DOC Format with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/big-names-in-tech-shaping-the-future-of-ai/"><u>Big Names in Tech: Shaping the Future of AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detailed-comparison-auto-gpt-vs-chatgpt-unveiling-technological-nuances/"><u>Detailed Comparison: Auto-GPT vs ChatGPT – Unveiling Technological Nuances</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-11-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme 11 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-6-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-bot-discussions-private-and-safe/"><u>Keep Bot Discussions Private & Safe</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-revolutionary-tool-explained/"><u>OpenAI's Revolutionary Tool Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-voice-for-chatgpt-responsive-to-every-prompt/"><u>Transformative Voice for ChatGPT: Responsive to Every Prompt</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-fake-tech-real-versus-sham-chatgpt-tools/"><u>Unraveling Fake Tech: Real Versus Sham ChatGPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gpts-shortcomings-8-key-problems/"><u>Unveiling GPT's Shortcomings: 8 Key Problems</u></a></li>
 </ul></div>
 

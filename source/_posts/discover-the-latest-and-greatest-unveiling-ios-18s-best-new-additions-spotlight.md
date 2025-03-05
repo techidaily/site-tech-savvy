@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest and Greatest: Unveiling iOS 18'S Best New Additions - Spotlight"
-date: 2025-02-14T19:45:00.163Z
-updated: 2025-02-16T00:56:05.165Z
+date: 2025-02-26T19:50:15.730Z
+updated: 2025-03-04T16:19:24.357Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -74,10 +70,6 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The role of TikTok?
 
 You may be wondering how this could have happened. Clearly, it was an attempt to do something different from the norm. There's also, however, the extremely strong likelihood that the creatives involved were invoking a TikTok trend that's all about crushing everyday objects.
@@ -93,10 +85,6 @@ Still, it would be quite odd if someone at Apple -- or, indeed, its ad agency --
 It's even odder that Apple would release an ad that makes the company come across as a technological Big Brother, crushing all before it. If there's one company that knows about [Big Brother in ads](https://www.youtube.com/watch?v=VtvjbmoDx-I), it's Apple.
 
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
 
@@ -146,24 +134,21 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-15-youtube-template-download-sites/"><u>[New] 2024 Approved Top 15 YouTube Template Download Sites</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-prime-hash-monitoring-apps-for-social-media-giants-fb-tweetinsta/"><u>[New] Prime Hash Monitoring Apps for Social Media Giants (FB, Tweet/Insta)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-discover-the-quintet-of-premium-4k-panels-for-colors-for-2024/"><u>[Updated] Discover the Quintet of Premium 4K Panels for Colors for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-becoming-a-greenscreen-specialist-in-kinemasters-vfx-realm/"><u>[Updated] In 2024, Becoming a Greenscreen Specialist in KineMaster's VFX Realm</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-8-best-vr-controllers-to-check-out/"><u>[Updated] In 2024, Top 8 Best VR Controllers to Check Out</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ace-your-connectivity-with-our-picks-for-best-signal-amplifiers-of-2amide-2024/"><u>Ace Your Connectivity with Our Picks for Best Signal Amplifiers of 2Amide 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-mastery-showdown-same-prompt-different-bots/"><u>AI's Mastery Showdown: Same Prompt, Different Bots</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazing-alexa-experience-in-a-small-package-exploring-the-echo-dot-3rd-gen-review/"><u>Amazing Alexa Experience in a Small Package: Exploring the Echo Dot (3Rd Gen) Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-generative-ais-functioning-and-corporate-implementations/"><u>Behind the Scenes: Generative AI's Functioning & Corporate Implementations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-constraints-the-impermissible-questions-list/"><u>ChatGPT's Constraints: The Impermissible Questions List</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-motorola-g54-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Motorola G54 5G Phone?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-the-filmmakers-guide-to-capturing-exceptional-vo-recordings/"><u>In 2024, The Filmmaker's Guide to Capturing Exceptional VO Recordings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-frame-tools-and-websites-image-editors-for-2024/"><u>Innovative Frame Tools and Websites Image Editors for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-language-learning-a-chatgpt-plus-approach/"><u>Interactive Language Learning: A ChatGPT Plus Approach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-scholarly-essays/"><u>Leveraging ChatGPT for Scholarly Essays</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-kitchen-tasks-with-chatgpt-7-essentials/"><u>Mastering Kitchen Tasks with ChatGPT - 7 Essentials</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nostalgia-in-your-palm-handhenas-and-hardware-hacks/"><u>Nostalgia in Your Palm: Handhenas and Hardware Hacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/probing-the-dependability-of-zerogpt-tools-including-others/"><u>Probing the Dependability of ZeroGPT Tools, Including Others</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/syntax-spectacle-chatgpt-versus-googles-game/"><u>Syntax Spectacle: ChatGPT Versus Google's Game</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-make-every-youtube-video-count-learn-how-to-free-transcribe-easily/"><u>[New] 2024 Approved Make Every YouTube Video Count Learn How to Free-Transcribe Easily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-direct-approach-converting-pinterest-videos-into-audible-format-for-2024/"><u>[New] Direct Approach Converting Pinterest Videos Into Audible Format for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-entering-the-fullscreen-realm-choosing-a-cms/"><u>[New] In 2024, Entering the Fullscreen Realm Choosing a CMS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-spice-up-your-feeds-text-based-meme-magic/"><u>[Updated] In 2024, Spice Up Your Feeds Text-Based Meme Magic</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>[Updated] Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-leading-edge-of-virtual-reality-technology-2023-edition/"><u>[Updated] The Leading Edge of Virtual Reality Technology - 2023 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-cgp-offer-dependable-medical-data-and-advice/"><u>Can CGP Offer Dependable Medical Data and Advice?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-power-of-ai-controlling-home-tech/"><u>Exploring the Power of AI: Controlling Home Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/false-hope-in-ai-moderation-issues-looming/"><u>False Hope in AI Moderation: Issues Looming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-gateway-to-gpt-4s-power-four-approaches-explained/"><u>Free Gateway to GPT-4's Power: Four Approaches Explained</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevating-your-watch-experience-youtube-list-shuffle/"><u>In 2024, Elevating Your Watch Experience YouTube List Shuffle</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-art-of-captivating-audiences-in-fb-posts/"><u>Mastering the Art of Captivating Audiences in FB Posts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-to-download-and-deploy-llama-2/"><u>Quick Guide to Download & Deploy Llama 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/text-warriors-gpt-3-vs-google-for-perfect-phrases/"><u>Text Warriors: GPT-3 Vs. Google for Perfect Phrases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-9-dangers-when-ai-takes-over-emotional-care/"><u>The 9 Dangers: When AI Takes Over Emotional Care</u></a></li>
 </ul></div>
 

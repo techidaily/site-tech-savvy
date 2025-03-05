@@ -1,7 +1,7 @@
 ---
 title: Bootstrap Bavarder Onto Your Linux OS
-date: 2025-02-15T00:33:53.964Z
-updated: 2025-02-15T22:07:34.507Z
+date: 2025-02-25T18:29:00.933Z
+updated: 2025-03-04T19:21:44.198Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is ChatGPT?
 
  Okay, let's back up. Maybe you aren't yet familiar with ChatGPT. It's a chatbot that you can communicate with by typing into a window in your web browser. You can raise questions or make requests, such as [ask ChatGPT what to watch next on Netflix](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) or [have the chatbot help you with your job search](https://www.makeuseof.com/practical-ways-to-use-chatgpt-job-search/).
@@ -40,17 +36,9 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
  ChatGPT's intelligence comes from the large language model that it learns from. ChatGPT was originally based on OpenAI's GPT 3.5 model, though this is no longer the newest version. GPT stands for "generative pre-trained transformer" and refers to this particular type of large language model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Bavarder?
 
 ![The Linux Bavarder chatbot desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/linux-bavarder-chatbot-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Bavarder is an app that enables you to "chit-chat" with artificial intelligence. Bavarder is built specifically for GNOME, [the most widely-used interface on Linux PCs](https://www.makeuseof.com/ways-gnome-is-best-linux-desktop/). But Bavarder works on other desktop environments as well.
 
@@ -59,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
  Bavarder doesn't actually utilize ChatGPT directly. Instead, Bavarder works with various language models that utilize the OpenAI API. Default providers include BAI Chat, CatGPT, OpenAI's own GPT 3.5 Turbo, and others.
 
  Some of the providers utilize the same learning models as ChatGPT, but that doesn't mean you can expect them to generate the same results as ChatGPT would. But to the average person, BAI Chat probably comes off as close enough to the same thing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Download Bavarder
 
@@ -83,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
  The app may seem to load for quite a while before providing a response. If you were to use BAI chat via [chatbot.theb.ai](http://chatbot.theb.ai/#/chat) in a browser, you would see your answer arrive a few words at a time as though the chatbot were typing.
 
  Bavarder only delivers the answer all at once, so you have to wait for the AI to finish "thinking" rather than watch it think in real time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should You Use Bavarder on Linux?
 
@@ -113,22 +93,17 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-an-exclusive-review-of-lgs-innovative-4k-screen-tech/"><u>[New] 2024 Approved An Exclusive Review of LG's Innovative 4K Screen Tech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-understanding-slug-lines-an-essential-guide/"><u>[New] Understanding Slug Lines An Essential Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unlocking-twitters-full-potential-the-ultimate-guide/"><u>[Updated] 2024 Approved Unlocking Twitter’s Full Potential The Ultimate Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-capturing-festive-moments-in-a-flash-on-iphone/"><u>[Updated] Capturing Festive Moments in a Flash on iPhone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-instant-darkness-pretty-simple/"><u>2024 Approved Instant Darkness, Pretty Simple</u></a></li>
-<li><a href="https://solve-news.techidaily.com/mkvmovmp4avi-movavi-avi/"><u>線上免費MKV、MOV、MP4等多種格式至AVI - 專業無損轉換器：利用 Movavi AVI转换器改編</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-review-of-current-smartar-eyewear-are-they-meeting-expectations/"><u>A Comprehensive Review of Current Smart/AR Eyewear: Are They Meeting Expectations?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-in-class-business-data-cradle-for-2024/"><u>Best in Class Business Data Cradle for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bringing-out-your-best-in-digital-discourse-top-5-tailored-gpt-instructions/"><u>Bringing Out Your Best in Digital Discourse: Top 5 Tailored GPT Instructions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-reality-through-artificial-dreams/"><u>Decoding Reality Through Artificial Dreams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-winchatgpt-app-claims-and-deceptions/"><u>Demystifying WinChatGPT App Claims and Deceptions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-redmi-13c-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi Redmi 13C to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-new-frontiers-in-art-with-microsofts-copilot-imagery-engine/"><u>Pioneering New Frontiers in Art with Microsoft's Copilot Imagery Engine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-guide-setting-up-chatgpt-on-android/"><u>Quick Guide: Setting Up ChatGPT on Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/services-techno-supports-online-pour-le-logiciel-winx-dvd-ripper-et-outils-de-transformation-video/"><u>Services Techno-Supports Online Pour Le Logiciel WinX DVD Ripper Et Outils De Transformation Vidéo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-path-to-a-perfect-life-integrating-chatgpt-techniques/"><u>The Path to a Perfect Life: Integrating ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-every-aspect-of-living-with-the-help-of-ai-insights/"><u>Upgrade Every Aspect of Living with the Help of AI Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-expands-educational-opportunities-with-new-ai-training-programs-for-thousands-of-learners-zdnet/"><u>Apple Expands Educational Opportunities with New AI Training Programs for Thousands of Learners | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/becoming-a-virtual-communicator-learn-the-eight-secrets-of-successful-zoom-presentations-from-industry-leaders/"><u>Becoming a Virtual Communicator: Learn the Eight Secrets of Successful Zoom Presentations From Industry Leaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-cv-innovative-approaches-to-hiring-by-tech-industry-leaders-zdnet/"><u>Beyond the CV: Innovative Approaches to Hiring by Tech Industry Leaders | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-the-ideal-speed-for-your-personal-computer-a-comprehensive-guide/"><u>Determining the Ideal Speed for Your Personal Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-13-mini-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 13 mini to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-exploring-the-authenticity-of-visual-identity-sharing-on-instagram/"><u>In 2024, Exploring the Authenticity of Visual Identity Sharing on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrating-images-into-your-insta-world/"><u>In 2024, Integrating Images Into Your Insta World</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-no-access-error-securing-file-viewer-rights/"><u>Overcoming Windows' No Access Error: Securing File Viewer Rights</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-instructions-retrieving-and-saving-media-files-from-icloud-photo-library-via-ios-device/"><u>Step-by-Step Instructions: Retrieving and Saving Media Files From iCloud Photo Library via iOS Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-inner-workings-of-apple-hiring-process-insider-tips-revealed/"><u>Unlocking the Inner Workings of Apple Hiring Process - Insider Tips Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-inspired-strategies-for-developing-your-programming-portfolio/"><u>ZDNet-Inspired Strategies for Developing Your Programming Portfolio</u></a></li>
 </ul></div>
 

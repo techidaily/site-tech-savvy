@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Guide: Setting up Auto-GPT Automation"
-date: 2025-02-08T23:24:52.009Z
-updated: 2025-02-16T03:21:05.897Z
+date: 2025-02-27T16:31:32.485Z
+updated: 2025-03-04T19:35:55.854Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prerequisites to Install Auto-GPT
 
@@ -111,10 +107,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
 
 ## How to Use Auto-GPT on Ubuntu
@@ -139,10 +131,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Input-Commands for Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can approve the AI's next action by typing "**y**" for yes. If you don't want the AI to continue with its plans, you can type "**n**" for no and exit.
 
  If you trust your AI assistant and don't want to continue monitoring all of its thoughts and actions, you can type "**y -(number)**". For example, if you want Auto-GPT to execute its next five actions, you can type "**y -5**". Furthermore, if you want to provide feedback to your AI assistant, you can also type your prompt as input.
@@ -151,17 +139,9 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Providing human feedback to Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
 
@@ -198,15 +178,14 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-stand-out-in-a-crowd-the-best-20-snapchat-filter-ideas-for-2024/"><u>[New] Stand Out in a Crowd The Best 20 Snapchat Filter Ideas for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-saving-mov-videos-on-windows-11-a-guide-with-six-steps/"><u>[Updated] In 2024, Saving .MOV Videos on Windows 11 - A Guide with Six Steps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comparative-analysis-64-vs-128gb-video-holding-power/"><u>2024 Approved Comparative Analysis 64 vs 128GB Video Holding Power</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advance-your-wellness-journey-with-leading-8-plugins/"><u>Advance Your Wellness Journey with Leading 8 Plugins</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/aiming-high-selecting-the-best-webcams-for-live-gameplay-streams-for-2024/"><u>Aiming High Selecting the Best Webcams for Live Gameplay Streams for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/end-your-subscription-journey-on-steam/"><u>End Your Subscription Journey on Steam</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-ai-dialogues-crafting-bespoke-chatgpt/"><u>Innovate AI Dialogues: Crafting Bespoke ChatGPT</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6s-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/real-gpt-tips-to-dodge-scammers/"><u>Real GPT Tips to Dodge Scammers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/which-ai-tool-leads-for-coding-github-copilot-or-gpt-3-examined/"><u>Which AI Tool Leads for Coding? GitHub Copilot or GPT-3 Examined</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-fixing-feed-frustration-reclaim-missing-video-suggestions/"><u>[New] In 2024, Fixing Feed Frustration Reclaim Missing Video Suggestions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-potential-creating-compelling-content-on-your-phone/"><u>[Updated] 2024 Approved Unlocking Potential Creating Compelling Content on Your Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-comprehensive-tech-reviews-and-gadget-tips/"><u>Exploring Tom's Comprehensive Tech Reviews & Gadget Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-12-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 12?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-retain-and-protect-your-chatgpt-dialogues/"><u>How to Retain and Protect Your ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-chatgpt-experience-try-these-top-1-9-upgrades/"><u>Master Your ChatGPT Experience – Try These Top #1-#9 Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protect-data-prevent-scraper-hacking/"><u>Protect Data, Prevent Scraper Hacking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-share-youtube-clips-on-instagram-for-2024/"><u>Step-by-Step Share YouTube Clips on Instagram for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/weighing-the-financial-outcomes-for-premium-ai-inputs/"><u>Weighing the Financial Outcomes for Premium AI Inputs</u></a></li>
 </ul></div>
 

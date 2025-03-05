@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 Advancement: The 5 Pivotal Shifts From GPT-3.5"
-date: 2025-02-09T20:37:27.703Z
-updated: 2025-02-15T19:04:29.117Z
+date: 2025-03-02T19:32:17.669Z
+updated: 2025-03-05T01:15:05.807Z
 tags:
   - chatgpt
   - open-ai
@@ -28,17 +28,9 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
 
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One of the most pronounced advantages of the GPT-4 model over GPT-3.5 is its ability to provide more creative replies to prompts. Don't get me wrong; GPT-3.5 is very creative. There's a long list of [creative things you can do with ChatGPT that uses the model](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/). However, it already outperforms many large language models in terms of creativity.
 
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
 ![Image of Shield Representing Cybersecurity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
@@ -72,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
  ​​​​​​
@@ -85,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
@@ -121,22 +101,24 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-bypass-latency-with-av1-in-youtube-settings/"><u>[New] Bypass Latency with AV1 in YouTube Settings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-guard-your-video-calls-the-ultimate-list-of-free-security-enhanced-applications/"><u>[New] Guard Your Video Calls The Ultimate List of Free Security-Enhanced Applications</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/egal-landscapes-understanding-youtube-and-cc-divergences-for-2024/"><u>[New] Legal Landscapes Understanding YouTube & CC Divergences for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-your-step-by-step-guide-to-successful-lol-streaming/"><u>[Updated] In 2024, Your Step-by-Step Guide to Successful LOL Streaming</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-a1-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A1 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-conversational-ai-drive-health-transformation/"><u>Can Conversational AI Drive Health Transformation?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evolving-digital-safety-navigating-through-7-trends/"><u>Evolving Digital Safety: Navigating Through 7 Trends</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-chatgpts-custom-gpts-could-expose-your-data-and-how-to-keep-it-safe/"><u>How ChatGPT's Custom GPTs Could Expose Your Data and How to Keep It Safe</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-is-device-based-artificinas-engineered-and-used/"><u>How Is Device-Based Artificinas Engineered and Used?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-rectifying-6-common-gpt-errors/"><u>Mastering the Art of Rectifying 6 Common GPT Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/minds-eye-marvels-da-vinci-3s-top-30-ai-image-ideas/"><u>Mind’s Eye Marvels: Da Vinci 3'S Top 30 AI Image Ideas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/skepticism-in-automated-text-summaries-why-trust-bots-less/"><u>Skepticism in Automated Text Summaries: Why Trust Bots Less?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/undetected-retention-concealing-your-ai-discourse-trail/"><u>Undetected Retention: Concealing Your AI Discourse Trail</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-cut-edit-share-the-top-android-video-editing-apps-free-and-paid/"><u>Updated Cut, Edit, Share The Top Android Video Editing Apps (Free and Paid)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/web-based-free-aiff-wma/"><u>Web-Based Free AIFF WMA 변환 - 모바이팁: 쉽고 효율적인 오디오 파일 교체를 위해</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-upgrade-playstation-10-best-hard-drive-mods/"><u>[New] In 2024, Upgrade PlayStation #10 Best Hard Drive Mods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-chat-kings-clash-pinpointing-optimal-generative-bot/"><u>AI Chat Kings Clash - Pinpointing Optimal Generative Bot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolution-is-gemini-taking-the-lead-over-chatgpt/"><u>AI Revolution: Is Gemini Taking the Lead Over ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-the-implications-of-free-access-to-information-in-modern-digital-libraries-the-case-of-the-internet/"><u>Analyzing the Implications of Free Access to Information in Modern Digital Libraries: The Case of the Internet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-guide-retrieving-accidentally-erased-iphone-notebooks/"><u>Complete Guide: Retrieving Accidentally Erased iPhone Notebooks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-gold-how-to-supercharge-chatgpts-interaction/"><u>Conversational Gold: How to Supercharge ChatGPT's Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-capabilities-of-claude-2/"><u>Decoding the Capabilities of Claude 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-onlyoffice-with-chatgpt-for-seamless-collaboration/"><u>Enhancing ONLYOFFICE with ChatGPT for Seamless Collaboration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-steps-for-viewing-favorited-and-liked-youtube-interactions/"><u>Essential Steps for Viewing Favorited and Liked YouTube Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-disruption-to-dominance-6-strategies-for-ai-ready-professionals/"><u>From Disruption to Dominance: 6 Strategies for AI-Ready Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-talk-building-your-own-data-driven-gpt/"><u>From Text to Talk: Building Your Own Data-Driven GPT</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-k11x-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo K11x Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-role-in-todays-dynamic-educational-landscape/"><u>In 2024, YouTube's Role in Today's Dynamic Educational Landscape</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/jovial-jingles-a-compilation-of-easy-download-links/"><u>Jovial Jingles A Compilation of Easy Download Links</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-nightshade-method-for-artwork-defense-against-ai/"><u>Navigating the Nightshade Method for Artwork Defense Against AI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11s-audio-glitches-expert-tips-for-fixing-broken-volume-control/"><u>Overcoming Windows 11'S Audio Glitches: Expert Tips for Fixing Broken Volume Control</u></a></li>
 </ul></div>
 
